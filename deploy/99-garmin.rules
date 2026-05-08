@@ -1,0 +1,11 @@
+# Garmin USB auto-import.
+#
+# The Garmin Instinct E (091e:51e8) uses a proprietary USB protocol that
+# Linux cannot mount (not USB mass storage, not MTP, not legacy Garmin GPS).
+# USB auto-import is not currently possible with this device.
+#
+# Data is synced via the Garmin Connect API instead (daily auto-sync).
+#
+# If Garmin adds standard USB support in a firmware update, uncomment below:
+# ACTION=="add", SUBSYSTEM=="block", ENV{ID_VENDOR_ID}=="091e", ENV{ID_FS_TYPE}=="vfat", RUN+="/bin/sh /home/setepenre/work/website/deploy/garmin_import.sh /dev/%k"
+# ACTION=="remove", SUBSYSTEM=="block", ENV{ID_VENDOR_ID}=="091e", RUN+="/bin/umount -l /mnt/garmin"

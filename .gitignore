@@ -8,7 +8,8 @@ projects/
 ./recipes/
 
 
-uploads/data/_config/_gcalendar_key.json
-uploads/data/_config/_gcalendar.json
-
 *_secret.json
+
+uploads/data/private/
+private/
+*.bak

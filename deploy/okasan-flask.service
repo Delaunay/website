@@ -6,7 +6,7 @@ After=network.target
 Type=simple
 User=setepenre
 WorkingDirectory=/home/setepenre/work/website
-Environment=FDC_API_KEY=tXSwKmAk5Y3nWz8ZavdAnWRLempYL8zFhOc9qzxa
+Environment=FDC_API_KEY=6afYc231usVV95L56wUibO8XmEixQmHiNzuQOueG
 Environment=FLASK_STATIC=/home/setepenre/work/website
 Environment=PYTHONUNBUFFERED=1
 ExecStart=/home/setepenre/work/website/.venv/bin/uvicorn okaasan.server.run:entry --host 0.0.0.0 --port 5001 --reload
