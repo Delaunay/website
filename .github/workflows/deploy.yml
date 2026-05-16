@@ -42,11 +42,11 @@ jobs:
         node-version: 'lts/*'
 
     - name: Install Okaasan (PyPI)
-      if: ${{ github.event.inputs.install_source != 'git' }}
+      if: ${{ github.event.inputs.install_source == 'pypi' }}
       run: pip install okaasan
 
     - name: Install Okaasan (git source)
-      if: ${{ github.event.inputs.install_source == 'git' }}
+      if: ${{ github.event.inputs.install_source != 'pypi' }}
       run: |
         git clone https://github.com/Delaunay/okaasan /tmp/okaasan-src
         pip install -e /tmp/okaasan-src

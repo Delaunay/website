@@ -1,0 +1,14 @@
+---
+description: Website architecture — static vs dynamic modes (read cursor.md)
+alwaysApply: true
+---
+
+Before changing this repo, read **`cursor.md`** at the repository root.
+
+It documents:
+
+- **Dev (dynamic):** Vite on :3000 + FastAPI on :5001, `/api` proxy, `FLASK_STATIC` / `OKAASAN_DATA` → repo root
+- **Production (dynamic):** uvicorn serves bundled UI + live API; `/api` prefix stripped in middleware
+- **GitHub Pages (static):** `okaasan static` → `static_build/api/*.json`, `VITE_USE_STATIC_MODE=true`, read-only GETs
+
+Do not treat the legacy `static/` folder as the Pages deploy artifact; use `static_build/` from `okaasan static`.
