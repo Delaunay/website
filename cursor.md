@@ -202,6 +202,15 @@ Use `cache_folder()` from `recipes/okaasan/server/paths.py` for the storage path
 
 ---
 
+## Python virtual environment
+
+The project venv lives at `.venv/` in the repo root. Always use it for running Python:
+
+```
+.venv/bin/python       # interpreter
+.venv/bin/pip          # package manager
+```
+
 ## Quick commands (from repo root)
 
 ```bash
@@ -214,5 +223,13 @@ make front-dev        # UI :3000
 OKAASAN_DATA=$(pwd) okaasan static --output ./static_build --base_path /website/ --api_url /website/api
 
 # DB migrations
-make update-db
+make make-migration   # autogenerate alembic revision
+make update-db        # apply pending migrations
 ```
+
+## Alembic autogenerate
+
+`recipes/okaasan/alembic/alembic/env.py` must import **every** model module
+so that `Base.metadata` contains all tables. If a model file is not imported
+there, `make make-migration` will generate `DROP TABLE` statements for those
+tables. Always check the generated migration before applying it.
