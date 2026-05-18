@@ -1,0 +1,134 @@
+{
+  "created": "2026-05-18T08:06:35.908Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f82c73da-027e-421f-973c-448037902314",
+      "score": 100,
+      "artist-credit-id": "40086df9-ae3b-3fc6-803b-dbdc2929d43e",
+      "title": "What A Feeling",
+      "length": 310000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Annette Brissett",
+          "artist": {
+            "id": "6eaf7a21-232e-48d7-817d-b039b0c6b5d6",
+            "name": "Annette Brissett",
+            "sort-name": "Brissett, Annette"
+          }
+        }
+      ],
+      "first-release-date": "1983",
+      "releases": [
+        {
+          "id": "e540cac8-9a18-4724-85c4-5f11bc599cf0",
+          "count": 1,
+          "title": "Love Power",
+          "release-group": {
+            "id": "c2f67283-4066-40ba-be87-86f4cb89d91c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Power",
+            "primary-type": "Album"
+          },
+          "date": "1983",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1983",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "c72feedb-eca4-326a-9417-784caa356c30",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ab824096-c1c4-4760-ab07-56dc8741a86b",
+                  "number": "4",
+                  "title": "What A Feeling",
+                  "length": 310000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38554446-86db-4e50-be09-9de5b1e3c358",
+      "score": 95,
+      "artist-credit-id": "40086df9-ae3b-3fc6-803b-dbdc2929d43e",
+      "title": "What A Feeling Dub",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Annette Brissett",
+          "artist": {
+            "id": "6eaf7a21-232e-48d7-817d-b039b0c6b5d6",
+            "name": "Annette Brissett",
+            "sort-name": "Brissett, Annette"
+          }
+        }
+      ],
+      "first-release-date": "2018",
+      "releases": [
+        {
+          "id": "5db025d9-598a-4eed-bf15-1b873d3b9339",
+          "count": 1,
+          "title": "Betrayed / What A Feeling Dub",
+          "release-group": {
+            "id": "b838b71a-ef11-4aab-a241-c45b6b0f1c01",
+            "title": "Betrayed / What A Feeling Dub"
+          },
+          "date": "2018",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2018",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "83be23a2-86e6-3e1d-8af1-89be7a9075e7",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "bf015aea-853c-4416-943b-7b2dd3de875c",
+                  "number": "B1",
+                  "title": "What A Feeling Dub"
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

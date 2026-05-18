@@ -1,0 +1,801 @@
+{
+  "disambiguation": "",
+  "id": "4ca783b7-5bf7-4348-b494-46680660050f",
+  "gender-id": null,
+  "sort-name": "Stone Sour",
+  "genres": [
+    {
+      "count": 6,
+      "id": "7983ff25-ddf9-411e-a7f9-6cca238bff79",
+      "disambiguation": "",
+      "name": "alternative metal"
+    },
+    {
+      "count": 3,
+      "id": "ceeaa283-5d7b-4202-8d1d-e25d116b2a18",
+      "disambiguation": "",
+      "name": "alternative rock"
+    },
+    {
+      "disambiguation": "",
+      "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+      "count": 5,
+      "name": "hard rock"
+    },
+    {
+      "count": 3,
+      "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+      "disambiguation": "",
+      "name": "heavy metal"
+    },
+    {
+      "name": "nu metal",
+      "id": "bbad9cda-bde2-448e-821c-7ebf85a54020",
+      "disambiguation": "",
+      "count": 2
+    },
+    {
+      "name": "post-grunge",
+      "count": 5,
+      "id": "bbb1310c-24cb-4fc9-97c4-f93e4549f1e2",
+      "disambiguation": ""
+    }
+  ],
+  "name": "Stone Sour",
+  "area": {
+    "sort-name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "disambiguation": "",
+    "type": null,
+    "name": "United States",
+    "type-id": null
+  },
+  "end-area": {
+    "type-id": null,
+    "name": "Des Moines",
+    "type": null,
+    "sort-name": "Des Moines",
+    "disambiguation": "",
+    "id": "2bda1647-f64b-4277-acce-e9c1296d065e"
+  },
+  "life-span": {
+    "begin": "1992",
+    "end": "2020",
+    "ended": true
+  },
+  "type": "Group",
+  "gender": null,
+  "isnis": [
+    "0000000115271100"
+  ],
+  "country": "US",
+  "relations": [
+    {
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Christopher, Jason",
+        "disambiguation": "",
+        "id": "ba072c59-c1ad-4e76-bce4-f8fb4b2e4b6e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jason Christopher"
+      },
+      "end": "2011",
+      "begin": "2011",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician"
+    },
+    {
+      "end": "2011",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Portnoy",
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Portnoy, Mike",
+        "id": "b5f0d80b-d773-44dc-b136-36163e526589",
+        "disambiguation": ""
+      },
+      "begin": "2011",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Nimoy, Jonah Perry",
+        "disambiguation": "",
+        "id": "9a684d45-1461-4eb0-90f3-f9fe78978012",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jonah Perry Nimoy"
+      },
+      "end": "2018",
+      "begin": "2018",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "end": "2018",
+      "artist": {
+        "name": "R.J. Ronquillo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "725e7e72-a5b4-495e-9ffe-fde933526137",
+        "sort-name": "Ronquillo, R.J.",
+        "country": null,
+        "type": "Person"
+      },
+      "begin": "2018",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": ""
+    },
+    {
+      "begin": "1992",
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "disambiguation": "early Stone Sour Guitarist",
+        "id": "c1623ea0-c4da-45b0-96eb-5478e93ce703",
+        "sort-name": "Harvey, Denny",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Denny Harvey"
+      },
+      "end": "1993",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "disambiguation": "guitarist",
+        "id": "28890cf2-87b1-48c3-9955-d3d281c9255d",
+        "sort-name": "Smith, Marty",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Marty Smith"
+      },
+      "end": "1993",
+      "begin": "1992",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1992",
+      "end": "1993",
+      "artist": {
+        "country": null,
+        "type": null,
+        "id": "51185b74-73f2-4877-b1d5-6ef1da12d94d",
+        "disambiguation": "early Stone Sour bassist",
+        "sort-name": "Tony S.",
+        "type-id": null,
+        "name": "Tony S."
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Ekman, Joel",
+        "disambiguation": "",
+        "id": "f094bba9-1de5-470e-b0f1-13e0c7ef25cd",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Joel Ekman"
+      },
+      "end": "2006-03-25",
+      "begin": "1992"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "begin": "1992",
+      "end": "2020",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Corey Taylor",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "15e02679-7a5f-4dd2-850c-5aa6e49d0878",
+        "sort-name": "Taylor, Corey"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original",
+        "piano"
+      ],
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "name": "Shawn Economaki",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Economaki, Shawn",
+        "disambiguation": "",
+        "id": "ea602892-c0d2-451b-afef-ce29032ec6f3",
+        "type": "Person",
+        "country": null
+      },
+      "end": "1993",
+      "begin": "1993",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "end": "1993",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Todd Smith",
+        "type": "Person",
+        "country": null,
+        "sort-name": "Smith, Todd",
+        "id": "433bd171-051b-4123-840b-4ce6fe992862",
+        "disambiguation": "early Stone Sour bassist"
+      },
+      "begin": "1993",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1994",
+      "artist": {
+        "sort-name": "B.J. Harrison",
+        "disambiguation": "early Stone Sour guitarist",
+        "id": "c5e6a4e6-8fa8-4fe7-8c18-4d56b8c7ea23",
+        "type": "Person",
+        "country": null,
+        "name": "B.J. Harrison",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": "1994",
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "end": "1995",
+      "artist": {
+        "name": "Josh Ryling",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ryling, Josh",
+        "id": "91218127-5e5a-4251-88f1-a66fe1077a9e",
+        "disambiguation": "early Stone Sour guitarist",
+        "type": "Person",
+        "country": null
+      },
+      "begin": "1994",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "begin": "1994",
+      "artist": {
+        "name": "Shawn Economaki",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ea602892-c0d2-451b-afef-ce29032ec6f3",
+        "disambiguation": "",
+        "sort-name": "Economaki, Shawn",
+        "country": null,
+        "type": "Person"
+      },
+      "end": "2012",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "guitar family"
+      ],
+      "attribute-ids": {
+        "guitar family": "f68936f2-194c-4bcd-94a9-81e1dd947b8d",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1996",
+      "end": "2014-05-17",
+      "artist": {
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "fe1f7d08-abbd-4fe2-91fe-fe3a803b3ac7",
+        "sort-name": "Root, Jim",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jim Root"
+      },
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Swink, Bruce",
+        "id": "707b90a2-fb35-45ec-be25-9b152254492b",
+        "disambiguation": "early Stone Sour guitarist",
+        "type": "Person",
+        "country": null,
+        "name": "Bruce Swink",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1997",
+      "begin": "1997",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Rand, Josh",
+        "id": "01609d5a-f40a-4c3d-8c6f-a6d503d7b8cb",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Josh Rand"
+      },
+      "end": "2001",
+      "begin": "2000"
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "begin": "2000",
+      "end": "2020",
+      "artist": {
+        "name": "Josh Rand",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "01609d5a-f40a-4c3d-8c6f-a6d503d7b8cb",
+        "sort-name": "Rand, Josh",
+        "country": null,
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Roy Mayorga",
+        "country": "US",
+        "type": "Person",
+        "id": "848174ee-2f5a-452d-9ce2-1feb062bf790",
+        "disambiguation": "",
+        "sort-name": "Mayorga, Roy"
+      },
+      "end": "2020",
+      "begin": "2006-05-10",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Chow, Johny",
+        "id": "9f825410-ace9-4aed-9f84-1f62845a5079",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "name": "Johny Chow",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2020",
+      "begin": "2012",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "2012",
+      "end": "2020",
+      "artist": {
+        "name": "Johny Chow",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Chow, Johny",
+        "disambiguation": "",
+        "id": "9f825410-ace9-4aed-9f84-1f62845a5079",
+        "type": "Person",
+        "country": "US"
+      },
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "begin": "2014",
+      "end": "2020",
+      "artist": {
+        "disambiguation": "",
+        "id": "bbbf5c74-d45b-48ec-8c12-861f37aca65e",
+        "sort-name": "Martucci, Christian",
+        "country": null,
+        "type": "Person",
+        "name": "Christian Martucci",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "begin": "2014",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Christian Martucci",
+        "country": null,
+        "type": "Person",
+        "id": "bbbf5c74-d45b-48ec-8c12-861f37aca65e",
+        "disambiguation": "",
+        "sort-name": "Martucci, Christian"
+      },
+      "end": "2020",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "target-credit": "",
+      "ended": true,
+      "begin": "2011",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jason Christopher",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "",
+        "id": "ba072c59-c1ad-4e76-bce4-f8fb4b2e4b6e",
+        "sort-name": "Christopher, Jason"
+      },
+      "end": "2011",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "vocal supporting musician",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "tags": [
+    {
+      "name": "alternative metal",
+      "count": 6
+    },
+    {
+      "count": 3,
+      "name": "alternative rock"
+    },
+    {
+      "count": 5,
+      "name": "hard rock"
+    },
+    {
+      "name": "heavy metal",
+      "count": 3
+    },
+    {
+      "count": 2,
+      "name": "nu metal"
+    },
+    {
+      "name": "post-grunge",
+      "count": 5
+    }
+  ],
+  "begin-area": {
+    "name": "Des Moines",
+    "type-id": null,
+    "sort-name": "Des Moines",
+    "id": "2bda1647-f64b-4277-acce-e9c1296d065e",
+    "disambiguation": "",
+    "type": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:39:52.285Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "65f0b912-9c26-4506-b9fe-7aa0df7dedb1",
+      "score": 100,
+      "artist-credit-id": "2369fa68-5ddb-4ded-98e2-22643028d4ca",
+      "title": "Dein Ruin",
+      "length": 205723,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kratzen",
+          "artist": {
+            "id": "9058feca-948d-4edd-85f7-2bdafe181efa",
+            "name": "Kratzen",
+            "sort-name": "Kratzen"
+          }
+        }
+      ],
+      "first-release-date": "2023-04-28",
+      "releases": [
+        {
+          "id": "aaacb2d2-a765-4408-80b0-5d239e0bd69a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "KRATZEN - Reissue",
+          "status": "Official",
+          "release-group": {
+            "id": "0306d576-67d9-40d9-a096-497f6fd36a92",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "KRATZEN - Reissue",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023-04-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "6a287eef-00d5-3ebb-bf85-dc876c461cc1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b72c8061-9a37-40d2-8a9b-6fad69740b92",
+                  "number": "2",
+                  "title": "Dein Ruin",
+                  "length": 205723
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

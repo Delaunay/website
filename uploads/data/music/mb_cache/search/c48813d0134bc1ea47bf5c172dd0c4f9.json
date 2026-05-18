@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T05:51:04.697Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "94e48187-6026-476b-a5d0-bcc9b5425edd",
+      "score": 100,
+      "artist-credit-id": "0413ac52-9d7d-3477-a9d7-fc0022b3e258",
+      "title": "Away",
+      "length": 194000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Low Dose",
+          "artist": {
+            "id": "a3137555-1770-4091-ba68-94c391851508",
+            "name": "Low Dose",
+            "sort-name": "Low Dose",
+            "disambiguation": "Philadelphia punk quartet"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "d8a177f0-8c7c-4cf9-bb5d-ca48a9cce7d1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Low Dose",
+          "status": "Official",
+          "release-group": {
+            "id": "e9e02c42-489c-467a-b656-5b666f11110b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Low Dose",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "299e8d01-65b1-33cb-ab35-030bd8562429",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c7902806-ec5f-4cd9-b688-f9087b2a78ca",
+                  "number": "5",
+                  "title": "Away",
+                  "length": 194000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

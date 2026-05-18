@@ -1,0 +1,747 @@
+{
+  "created": "2026-05-18T07:38:34.530Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "b4b0e630-c8cc-4aec-bfd1-81f73553e05a",
+      "score": 100,
+      "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+      "title": "Not Dead Yet",
+      "length": 201000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bullet for My Valentine",
+          "artist": {
+            "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+            "name": "Bullet for My Valentine",
+            "sort-name": "Bullet for My Valentine",
+            "aliases": [
+              {
+                "sort-name": "Bullet For My Valintine",
+                "name": "Bullet For My Valintine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bullet for My Vallentine",
+                "name": "Bullet for My Vallentine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "BfMV",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "BfMV",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-06-29",
+      "releases": [
+        {
+          "id": "cf95ae8a-2b6d-497c-8922-763dd3243d7c",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7635eb38-16c4-404c-97b7-18b3fcdf7741",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "84d6df0c-fa15-4c21-9d0c-0a91d8524d1a",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "89323e9d-4764-4e6b-aad7-f992f9135edf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "12ffad48-901d-3c31-b607-1e58ae0e55e1",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "92e02b90-8b63-4256-9d06-6f7384a8b293",
+                  "number": "A4",
+                  "title": "Not Dead Yet",
+                  "length": 201000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "b60faa8e-9604-4e26-aae4-5b13a3b82de5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "digital deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "72396262-a65f-3c4f-abcf-cc3cf85bd9b2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8b27a1d8-4291-4188-9ecc-5be20b1d18f1",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "79d8eb77-4bfd-4ac5-bedb-6144410f1d5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4b1c3096-432f-39dd-bc6d-89dde2b098f1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0377220d-1b0e-400e-98ac-6fe9b706876e",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201866
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "4fecb866-9b21-40ae-8ed2-2a8ccf8d8c93",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "bb98c93f-bc36-3043-beb9-0dd69de20086",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0014303a-8b43-400c-b43a-31540aaeeb84",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201866
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "0676a0b4-4cfc-4d52-98bd-2f965c8d0c8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "f4ab5f2d-224a-3ec6-bdee-bf5ba5eb1fe1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "401ac924-ead7-4f92-b79f-82834586d612",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "b52eb365-b28f-468f-ab50-7cb199791fe4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "Target Exclusive",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "90886d0f-ce30-31f9-a4b5-b6f17c3fc6a7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "88737962-09fd-4a85-b293-a345efcb7c32",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 202000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "3e53883d-7243-4c74-a88e-bea83f0d2a84",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2018",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "078383bd-de41-3d4a-8747-020e3b53684f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "13f2a049-c137-4449-8274-0ef057d65eee",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201866
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "8a6362f7-36a8-4b08-895d-4bef2b0c8753",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "Mastered for iTunes",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8a3197ce-061f-339b-8b5e-fb87f794d3b4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "54b1b8b8-1ec7-4f3e-9ab1-50d401421445",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201862
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "383ffac6-88fd-41d7-89d2-79e9ec846ea5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "2b0c2089-7d0e-394d-9ae1-8d38eecaefae",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "04c6a8ca-aaf2-44a7-bda0-849185e28a35",
+                  "number": "4",
+                  "title": "Not Dead Yet",
+                  "length": 201000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71800994"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "metalcore"
+        }
+      ]
+    },
+    {
+      "id": "a95d982a-7907-4ba9-8066-aa60184a3397",
+      "score": 100,
+      "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+      "title": "Not Dead Yet",
+      "length": 202000,
+      "disambiguation": "live, 2018-08-??: Summer Sonic 2018, Japan",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bullet for My Valentine",
+          "artist": {
+            "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+            "name": "Bullet for My Valentine",
+            "sort-name": "Bullet for My Valentine",
+            "aliases": [
+              {
+                "sort-name": "Bullet For My Valintine",
+                "name": "Bullet For My Valintine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bullet for My Vallentine",
+                "name": "Bullet for My Vallentine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "BfMV",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "BfMV",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-05",
+      "releases": [
+        {
+          "id": "88cecd8b-22ec-44e8-81c4-467212ca2d8d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 2,
+          "title": "Bullet for My Valentine",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "aad96520-2ffa-44b5-b311-24e61f55c794",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet for My Valentine",
+            "primary-type": "Album"
+          },
+          "date": "2021-11-05",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2021-11-05",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "32463375-fff1-3269-a80c-40a1130cbd4f",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0ee889d2-ccf9-41e1-b633-071f75bca74a",
+                  "number": "4",
+                  "title": "Not Dead Yet (live from Summer Sonic 2018)",
+                  "length": 202000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71901160"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:23:42.085Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "124b0c07-303b-4afa-9f18-ad6cd2789f52",
+      "score": 100,
+      "artist-credit-id": "dc40d0ad-6f25-4760-bab9-3832bc106ca4",
+      "title": "Speedway",
+      "length": 385897,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cosmique",
+          "artist": {
+            "id": "33056901-5710-4f1c-9e73-b936d514db58",
+            "name": "Cosmique",
+            "sort-name": "Cosmique"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "d86e827c-3492-476a-946b-3be4e3ed2c58",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Medusa's Gaze",
+          "status": "Official",
+          "release-group": {
+            "id": "3bbb0640-fe62-4f56-a164-e4b8dc400172",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Medusa's Gaze",
+            "primary-type": "EP"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "b05fd7c0-dc4c-36eb-9379-25a751f43e2a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b280a150-a17b-4bef-9ba4-207c7d2f5448",
+                  "number": "4",
+                  "title": "Speedway",
+                  "length": 385897
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

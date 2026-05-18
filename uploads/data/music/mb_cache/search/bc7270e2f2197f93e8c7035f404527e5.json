@@ -1,0 +1,1340 @@
+{
+  "created": "2026-05-18T06:35:14.870Z",
+  "count": 111,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "2da56b9b-b9a5-453d-8e9d-56dcb868a660",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 557440,
+      "disambiguation": "live, 1993-06-20: St. Jakob Football Stadium, Basel, Switzerland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "7d5cc396-a4ea-494d-82fa-27e74c5a6cf6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "1993-06-20: Destroyer: St. Jakob Football Stadium, Basel, Switzerland",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9c1a8144-791e-349e-badf-0ce80be91b3a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Destroyer",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 26,
+          "media": [
+            {
+              "id": "3fad03f6-f4bb-3d92-ae00-0d530a84d092",
+              "position": 1,
+              "track": [
+                {
+                  "id": "5a4b6bbc-6e76-35ad-9f01-341ba5b79884",
+                  "number": "9",
+                  "title": "Disposable Heroes",
+                  "length": 557440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "2538becb-dd7f-467d-b2e8-2b8de9b7d4ec",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "1993-06-20: National Bowl: St. Jakob Football Stadium, Basel, Switzerland",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c26cd0d-b1da-3d25-9e80-f6e85d514075",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1993-06-20: National Bowl: St. Jakob Football Stadium, Basel, Switzerland",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 24,
+          "media": [
+            {
+              "id": "868ca103-0c9a-33e1-ada1-3eb054dd35d9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "69eb1035-068d-321e-88fa-25d4c54224fc",
+                  "number": "9",
+                  "title": "Disposable Heroes",
+                  "length": 559000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46dea62a-257b-469b-a513-b5df39054e2c",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 638214,
+      "disambiguation": "live, 1994-08-21: Candy for the Kids: Miami, FL, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "da70268f-cb33-4d71-86f7-15625916641c",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Candy for the Kids",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8583591c-c601-3f22-b898-7ce4edb6277c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1994-08-21: Candy for the Kids: Miami, FL, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1994",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "741a5123-ae4b-3bb9-b25c-9d488b30b60a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bf0567b3-88d9-3b24-9fec-e2d35db652b0",
+                  "number": "10",
+                  "title": "Disposable Heroes",
+                  "length": 638214
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "baf88c4c-3d65-49ac-86db-3af7d0210c32",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "1994-08-21: Bicentennial Park, Miami, FL, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8583591c-c601-3f22-b898-7ce4edb6277c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1994-08-21: Candy for the Kids: Miami, FL, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "999d85f8-0025-36f5-84ed-4ddf67c78d11",
+              "position": 1,
+              "track": [
+                {
+                  "id": "61740c69-b9ee-333f-bd87-9ce057f0c0b2",
+                  "number": "10",
+                  "title": "Disposable Heroes",
+                  "length": 640000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6814950d-b7df-4adb-a9aa-0e5ed3e69703",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 505797,
+      "disambiguation": "live, 2013-07-06: Rosklide Festival, Roskilde, Denmark",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-07-06",
+      "releases": [
+        {
+          "id": "a13cdb3f-6271-4a5a-9475-d3f381213955",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2013-07-06: Rosklide Festival, Roskilde, Denmark",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10979b91-0f14-412d-a0cc-f876bb6c8749",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2013-07-06: Rosklide Festival, Roskilde, Denmark",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-07-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-07-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "b0e690b1-7a46-39fa-ad3c-da92855d718d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "69202ee6-9179-4443-b463-5230b898ed78",
+                  "number": "3",
+                  "title": "Disposable Heroes",
+                  "length": 505797
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fafd92ed-717c-4355-88ef-b08b9750b7e2",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 542202,
+      "disambiguation": "live, 1994-07-22: Shoreline Amphitheatre, Mountain View, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "48c61410-4cc3-49fb-aa9b-3cc0eee35cb9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Shoreline Amphitheater, Mountain View, CA Jul 22, 1994",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a46c5769-ade8-4196-b84a-ef78bd50401c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Shoreline Amphitheater, Mountain View, CA Jul 22, 1994",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "5c718d8e-e585-3846-843e-95a4cbeac8de",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "802fd10f-305b-4304-a5e4-07509fe4cdfb",
+                  "number": "10",
+                  "title": "Disposable Heroes",
+                  "length": 542202
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27cef818-2c1e-4de0-a5f9-9de1d04e9bad",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 366000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1998",
+      "releases": [
+        {
+          "id": "dfeca7ca-e8a1-474a-8366-f6991fa14f94",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "The Apocalypse",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f55c52ee-47b1-3dc3-ab41-0dbcaaa047ec",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Apocalypse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1998",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1998",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 44,
+          "media": [
+            {
+              "id": "ff02d330-4c1b-3f62-9323-0366caa826ce",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f9adc4ec-2867-355b-97a4-05544f7074ac",
+                  "number": "6",
+                  "title": "Disposable Heroes",
+                  "length": 366000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e596e3c9-478c-4ae6-b824-ea030e2ad31f",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 552000,
+      "disambiguation": "live, 2004-10-06: Toronto, ON, Canada",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-10",
+      "releases": [
+        {
+          "id": "34d58c50-d3e1-47d1-9516-4808a9d0a737",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "2004-10-06: Toronto, ON, Canada",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "eaadcab8-7f53-3881-8918-2e09a853cace",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-10-06: Toronto, ON, Canada",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2004-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "453eb859-aace-3567-ac71-3fa68fc657c7",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "cfe0bda3-7a52-306c-9917-2ceab1c601e2",
+                  "number": "9",
+                  "title": "Disposable Heroes",
+                  "length": 552000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9911a881-b50e-4fa6-a543-29bf361259ab",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 520000,
+      "disambiguation": "live, 2009-06: Foro Sol, Mexico City, Mexico",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-11-30",
+      "releases": [
+        {
+          "id": "ffae95d9-28f1-4f57-8291-a33970ae0ada",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Orgullo, pasi\u00f3n, y gloria: Tres noches en La Ciudad de M\u00e9xico",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "605b771b-c2b8-46f1-a4f1-832e9e573ad2",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orgullo, pasi\u00f3n, y gloria: Tres noches en La Ciudad de M\u00e9xico",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-30",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "2009-11-30",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 65,
+          "media": [
+            {
+              "id": "0eb87c43-3c55-31c0-aaef-d76ce65b469b",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "7d1008c2-b353-473a-8765-e91d7609ef8d",
+                  "number": "6",
+                  "title": "Disposable Heroes",
+                  "length": 520000
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8146cf0f-e63f-4b68-96a0-2a49f6ec6fb1",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 491000,
+      "disambiguation": "live, 2004-10-15: Pepsi Colisee, Quebec City, QC, Canada",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-10",
+      "releases": [
+        {
+          "id": "79f81274-f528-4b5f-849c-91d8dcf4c487",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "2004-10-15: Pepsi Colisee, Quebec City, QC, Canada",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d259d433-bd16-3c20-a412-dddd0bd5f622",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-10-15: Pepsi Colisee, Quebec City, QC, Canada",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2004-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "3fa862c1-9e9b-37d9-8d5e-0fe4754c8ffc",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "622877d1-be29-34c0-a335-009ffb60f1a2",
+                  "number": "2",
+                  "title": "Disposable Heroes",
+                  "length": 491000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2152aee9-5962-49f5-b7c1-71ccb6fa054f",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 482856,
+      "disambiguation": "live, 2015-05-29: Rock im Revier: Veltins Arena, Gelsenkirchen, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015-05-29",
+      "releases": [
+        {
+          "id": "ebaf3899-c8d2-4308-96ee-7b28e0def554",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2015-05-29: Rock im Revier: Veltins Arena, Gelsenkirchen, Germany",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f986d5ee-ef36-4fd9-ac8a-8f816c6861a7",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2015-05-29: Rock im Revier: Veltins Arena, Gelsenkirchen, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-05-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-05-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "064ac55a-b2e1-3e22-a8bb-12da986e62ee",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8599fe6e-4abb-41ef-8469-79c9a63050cf",
+                  "number": "5",
+                  "title": "Disposable Heroes",
+                  "length": 482856
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f8b024e-70b4-4452-a2fc-9dcf451d7d59",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Disposable Heroes",
+      "length": 538000,
+      "disambiguation": "live, 1993-05-22: Maimarktgel\u00e4nde, Mannheim, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1993-05-22",
+      "releases": [
+        {
+          "id": "7ada798e-6d5c-4392-b349-3088a602574b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Live at Maimarktgel\u00e4nde, Mannheim, Germany, 05/22/93",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a920d048-eb0f-45dc-83de-fbcb67c76706",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Maimarktgel\u00e4nde, Mannheim, Germany, 05/22/93",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1993-05-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1993-05-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "947e3ec2-aa40-3cdb-ae02-d6201af9ed06",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "99fb1305-6086-432c-b451-b98cd9eacf7c",
+                  "number": "9",
+                  "title": "Disposable Heroes",
+                  "length": 538000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

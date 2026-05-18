@@ -1,0 +1,1438 @@
+{
+  "created": "2026-05-18T05:43:43.501Z",
+  "count": 19,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "46e79d14-053c-4373-b1c1-84f51dfb67c6",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 208040,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-23",
+      "releases": [
+        {
+          "id": "b7807119-9f04-43d1-a27c-c63fb84116b2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "666 Live",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "ae64728b-d144-3219-b097-5abc37b554a1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c6998ee0-dd7b-46ba-adb5-4d0f9f63efa2",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 208040
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "b7a564ce-dfc3-4bad-95fa-1533ac5949e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 3,
+          "title": "Billy Talent 666 Live Deluxe Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2007",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "3d01c311-5e50-39d6-a45f-fe7f400b9e9c",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "22ac6715-e1af-4870-a31a-3ec4109e189d",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 208040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "480c0d3f-5cd7-403e-9e23-090283fce918",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "f9916847-4213-32db-be27-db1d081b8ac5",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a1a9c366-1bd1-376e-ad00-9042c41248df",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 208040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "c49d3013-b3e8-4240-8f40-5fe548e5f2bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "5f1e494c-72a2-3cd4-8b1e-babddcc2435e",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "67141edf-719e-3d20-8688-25d8776a81fb",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 208040
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "405de8e2-a55c-414e-a18b-56d8a0b999b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "65967f3b-28f5-3476-848d-edcd6713ddab",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9f4e5f3f-a8a0-4b8b-9b5a-eea387178bed",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 208040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "CAW110702957"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "emo"
+        }
+      ]
+    },
+    {
+      "id": "730fc506-d836-4b40-baad-3095b7fc2b6a",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 225000,
+      "disambiguation": "live, 2006-09-16: Manchester Academy, Manchester, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-09-16",
+      "releases": [
+        {
+          "id": "3f7cb725-72e3-499c-ae4f-a55b06326d6f",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "Live From The UK Sept./2006 - 16:09:06 Manchester Academy",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "271b9398-5f37-4dad-97aa-8ee46af5727e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006-09-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-09-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "53ce06e5-4624-3638-ad5e-7c8e82968e22",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "31541530-5205-438e-b57c-0be756d788be",
+                  "number": "5",
+                  "title": "Fallen Leaves",
+                  "length": 225000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "270ee019-614a-4d41-af03-2f1da67cb62c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "271b9398-5f37-4dad-97aa-8ee46af5727e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006-09-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-09-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "75bd3525-e121-3a3f-bf65-732161fd720f",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "30c5471c-cb0b-3cee-9872-6a4062d319e1",
+                  "number": "5",
+                  "title": "Fallen Leaves"
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    },
+    {
+      "id": "b8f5a886-e1bb-45ee-93a7-b3a9c001de0a",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 200000,
+      "disambiguation": "Music video",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "33d388c9-cca8-41d4-957a-f0dcbd9c6d96",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 248000,
+      "disambiguation": "live, 2006-09-08: Hammersmith Palais, London, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-09-08",
+      "releases": [
+        {
+          "id": "734849a5-5cee-4d60-92d4-e38011d8eb7d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "Live From the UK Sept./2006: 08:09:06: London, Hammersmith Palais",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5663d59b-4927-3f81-a8c8-3e5bd08613bb",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006-09-08: Hammersmith Palais, London, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006-09-08",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-09-08",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "69d0f7e4-786e-3379-8ed1-02fcfc6fdc8b",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "4ab20224-f9da-3bc9-b8db-dbd8d597754e",
+                  "number": "5",
+                  "title": "Fallen Leaves",
+                  "length": 248000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    },
+    {
+      "id": "c0086c69-68b2-4119-945a-93d7945ef4c5",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 194000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "98082c53-6b38-40a4-89ae-33af5dcf1b20",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "Intimate & Interactive With Billy Talent",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "19ab1efe-c2c2-4be2-8de2-0e32d749c46f",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Intimate & Interactive With Billy Talent",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "6c242661-804d-3779-9c74-b836f67e1030",
+              "position": 1,
+              "track": [
+                {
+                  "id": "6568fda0-ae84-37e3-8427-c12942793504",
+                  "number": "11",
+                  "title": "Fallen Leaves",
+                  "length": 194000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6342c65-fa5c-4525-9d5b-386a4d09861b",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-23",
+      "releases": [
+        {
+          "id": "b7a564ce-dfc3-4bad-95fa-1533ac5949e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 3,
+          "title": "Billy Talent 666 Live Deluxe Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2007",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "a6dc33b5-68ec-3235-bd3e-1a881c225637",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "b98bfae7-04cc-419d-84e5-ee4de2f0e87d",
+                  "number": "10",
+                  "title": "Fallen Leaves"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69f86f4a-c7a6-46d4-9482-27a48b3461d0",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-27",
+      "releases": [
+        {
+          "id": "405de8e2-a55c-414e-a18b-56d8a0b999b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "42245b09-e363-3ae8-9856-0372f0dd6073",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "26f65bb4-d992-4f59-bf27-592e693dfb08",
+                  "number": "17",
+                  "title": "Fallen Leaves"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "c49d3013-b3e8-4240-8f40-5fe548e5f2bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "ee9f367b-3d11-35dd-8c86-eba5c928ceda",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "d6540137-179b-431a-a89c-4f511da144e3",
+                  "number": "17",
+                  "title": "Fallen Leaves"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adc5ef81-20db-4bbb-87f8-2dcab40f4528",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 199105,
+      "disambiguation": "live, 2018-06-22: Hurricane Festival, Eichenring, Schee\u00dfel, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "8f5cfa79-916a-44aa-a8b1-ae2ee6e73856",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "2018-06-22: Hurricane Festival, Eichenring, Schee\u00dfel, Germany",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bbcb75a6-7d6f-487c-96d4-e350e42ff56e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2018-06-22: Hurricane Festival, Eichenring, Schee\u00dfel, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "d5364c6a-f1e4-3b5c-9dea-984de4a25f83",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b5289614-ef8a-4034-b836-1b791d353eb2",
+                  "number": "12",
+                  "title": "Fallen Leaves",
+                  "length": 199105
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0c94de14-cc6f-42cc-a54f-3092503ec82d",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 221000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "9fac5169-7352-4a64-be1b-1732c5903d5a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "2007-01-25: Rexall Place, Edmonton, AB, Canada",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d800bf83-be16-45fc-8f21-9976f53c0b76",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2007-01-25: Rexall Place, Edmonton, AB, Canada",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "5782d21c-d2d7-32b4-b9df-86063c0dcbf8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f4f62e7-200f-34a1-ae65-0b53025c147a",
+                  "number": "10",
+                  "title": "Fallen Leaves",
+                  "length": 221000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ac7be2a-2deb-4d5c-8531-2c754a5aa681",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "Fallen Leaves",
+      "length": 223000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "89a01f63-1ac5-48e5-93ea-cb202daf41da",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "2006-07-29: Warped Tour: Comerica Park, Detroit, MI, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ff8e27e6-2555-4f2d-a43a-341422f3bc02",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006-07-29: Warped Tour: Comerica Park, Detroit, MI, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "b4be7790-d2fc-3811-9635-5fca9110a25a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f89b2827-bfba-369b-a084-a37ec68dd043",
+                  "number": "5",
+                  "title": "Fallen Leaves",
+                  "length": 223000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

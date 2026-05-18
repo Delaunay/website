@@ -1,0 +1,1309 @@
+{
+  "created": "2026-05-18T05:46:12.842Z",
+  "count": 300,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e4261f9a-c7ae-49b6-ad19-a5543ab782c6",
+      "score": 100,
+      "artist-credit-id": "635d5fda-9487-3a1d-84b7-26c0c5dc81ce",
+      "title": "Under My Thumb",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011",
+      "releases": [
+        {
+          "id": "5eb65d6e-03c2-47de-a9ab-2295cfb13c3b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "635d5fda-9487-3a1d-84b7-26c0c5dc81ce",
+          "count": 1,
+          "title": "L.A. 69",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b13a3189-f8e7-4b72-ab44-e926e6607176",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L.A. 69",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "14625ba9-25b5-4ab9-a8a0-1290f9cc9507",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a973c4ac-6d83-407e-adad-b50f9303722a",
+                  "number": "10",
+                  "title": "Under My Thumb"
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "076af98c-db3d-4f4c-9d34-2c41d14ca724",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 146000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "61e341eb-f5b5-44c6-aff1-57e77f3c85fd",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 1,
+          "title": "The Rolling Stones",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "90e8d450-f6dc-3ecb-9d51-57cdcfe8a843",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Rolling Stones",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 25,
+          "media": [
+            {
+              "id": "42d6d834-255a-31e3-b748-b4e1e69a3cdf",
+              "position": 1,
+              "track": [
+                {
+                  "id": "4591e7fa-ca6d-3473-b03c-5ce88d1aaad9",
+                  "number": "22",
+                  "title": "Under My Thumb",
+                  "length": 146000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 21
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "914bbb35-524c-4f2d-a423-08f1b71b0b0e",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 292000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "12f11454-dec3-424b-9af8-f0af2d8de613",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 1,
+          "title": "1981-11-12: Madison Square Garden, New York, NY, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cfba3122-b966-3c95-9227-09330919027c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1981-11-12: Madison Square Garden, New York, NY, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 25,
+          "media": [
+            {
+              "id": "caa6592a-ed98-3377-84d3-c9b7bbfaeff9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "c486f597-512a-37ed-88a6-6151bf3d72ab",
+                  "number": "1",
+                  "title": "Under My Thumb",
+                  "length": 292000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e5e4518-a933-4c22-9a13-8699a195d839",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 210000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1983",
+      "releases": [
+        {
+          "id": "704f5ed2-aeb2-4414-80ad-a3d840710a8a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 1,
+          "title": "Under My Thumb",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "568f3731-35da-48c6-8b98-bbd4e38b1edf",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Under My Thumb",
+            "primary-type": "Single"
+          },
+          "date": "1983",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1983",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "9f299847-f585-305f-9502-8626a037e3ee",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "d9eeef90-b4d1-4e95-9bb5-c16a179ad157",
+                  "number": "B",
+                  "title": "Under My Thumb",
+                  "length": 210000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "720d0634-b36f-4c6c-a529-5ff474da8e8b",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 223000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1974",
+      "releases": [
+        {
+          "id": "ba9ec9c5-3e8a-485d-a252-f7fbbd1c3eb7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 2,
+          "title": "Gem",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6635253c-cede-45b8-a895-4d784e0beaff",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gem",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1974",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "35e39d84-004b-3d9c-b1e5-77a7d9d1e14f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "136563ab-1a25-4ef5-a5ba-9ec719a9371c",
+                  "number": "A4",
+                  "title": "Under My Thumb",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4308443b-c044-4c6c-a109-a27d4732a1de",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 222000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1974",
+      "releases": [
+        {
+          "id": "6a4d3c88-8649-4512-8af5-e5037d342d3d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bff139c8-0b51-33a7-9b60-7416cc3b3d48",
+          "count": 1,
+          "title": "LE TOP- THE ROLLING STONES",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "THE ROLLING STONES",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ae21ccc5-b4d3-4984-aa65-efba91337b16",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "LE TOP- THE ROLLING STONES",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2023",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "aa05142a-8b48-33a3-8e64-3f96b14e1ffd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "581ef6b0-2960-49a7-a1b5-6ee7656b7540",
+                  "number": "12",
+                  "title": "Under My Thumb",
+                  "length": 222000
+                }
+              ],
+              "track-count": 100,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "328f55b7-6bd6-409f-b2fd-3140b1065585",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 2,
+          "title": "Big Stones",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1d07a0ae-8c1f-49eb-b0c6-1cae52479dab",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Big Stones",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1974",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "cb0a8b23-498d-381a-8943-1b26c288f6fb",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "2cec4c79-0036-4aa7-a999-66190955aee5",
+                  "number": "A7",
+                  "title": "Under My Thumb",
+                  "length": 222000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7d7fc9b1-1ef0-40f6-b4c1-c18cc74276fc",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 218000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1998",
+      "releases": [
+        {
+          "id": "f47112b6-b1d5-4f6b-a177-b681a071dfdb",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 2,
+          "title": "Golden Rock Classics",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "491be72a-21e8-49a5-af52-a06a5deb4916",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Golden Rock Classics",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1998",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "1998",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "9937d8b9-30fc-3876-af0a-6e1834d6a50f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "483b42fb-4734-460d-a2d2-90b2b06ff152",
+                  "number": "11",
+                  "title": "Under My Thumb",
+                  "length": 218000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "074dca03-c035-4835-b8dc-d3d5130ee03d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 2,
+          "title": "Golden Rock Classics",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "491be72a-21e8-49a5-af52-a06a5deb4916",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Golden Rock Classics",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "fd623f4b-d049-3bf1-8413-6735cc7bd123",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "892788f6-fc9a-478f-be72-c44b79d1bb73",
+                  "number": "10",
+                  "title": "Under My Thumb"
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c988be32-f175-4b91-aa57-6e6eb056a064",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "020c6a4a-4208-410a-9409-da8a3f70da2f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 4,
+          "title": "The Biggest Bang",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a02d965-f765-4f39-999c-cbeae57284fe",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Biggest Bang",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 86,
+          "media": [
+            {
+              "id": "d9dbad67-2e28-3567-afef-d519e8bc3383",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "d6a6580a-2ddb-4a6e-82e6-e86b25a733ce",
+                  "number": "13",
+                  "title": "Under My Thumb"
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "840acefd-4970-420a-aaf6-aa51a50d6d5c",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "length": 343773,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-11-17",
+      "releases": [
+        {
+          "id": "76dcc3c5-129b-4e15-91b7-8e9d23e6d81e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 2,
+          "title": "She Was Hot, Hot, Hot! In Atlantic City",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5532398b-90dc-485c-8139-a6cdfabe4b15",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "She Was Hot, Hot, Hot! In Atlantic City",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "93ec1eec-76ee-3d10-9ccc-0f130fd85cc4",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9ec8af35-38e6-497c-91bf-4a81e883d45f",
+                  "number": "1",
+                  "title": "Under My Thumb",
+                  "length": 343773
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d462f48-7115-45fc-9e3d-d604d70503d3",
+      "score": 93,
+      "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+      "title": "Under My Thumb",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Rolling Stones",
+          "artist": {
+            "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+            "name": "The Rolling Stones",
+            "sort-name": "Rolling Stones, The",
+            "aliases": [
+              {
+                "sort-name": "Stones",
+                "name": "Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stones, The",
+                "name": "The Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ed\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30c8\u30fc\u30f3\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rolling Stones",
+                "name": "Rolling Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1981",
+      "releases": [
+        {
+          "id": "3e127beb-452c-4965-8abc-795ed5383c35",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "df296871-15ee-38e4-a1da-421cc5801c7e",
+          "count": 6,
+          "title": "The Rolling Stones Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Rolling Stones",
+              "artist": {
+                "id": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+                "name": "The Rolling Stones",
+                "sort-name": "Rolling Stones, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "20e2fda0-1580-41a6-b9f4-77b77963c305",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Rolling Stones Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1981",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "1981",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 69,
+          "media": [
+            {
+              "id": "220e39e3-7dfa-3314-a432-df449095432b",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "725989ba-dbd1-4dd4-8386-989836ec1ec6",
+                  "number": "E4",
+                  "title": "Under My Thumb"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

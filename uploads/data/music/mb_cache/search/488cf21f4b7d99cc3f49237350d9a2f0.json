@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T06:45:22.403Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7e76d8c0-8fe3-4184-9b63-0f479ebb362b",
+      "score": 100,
+      "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+      "title": "Cadere o volare",
+      "length": 305733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Banco del Mutuo Soccorso",
+          "artist": {
+            "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+            "name": "Banco del Mutuo Soccorso",
+            "sort-name": "Banco del Mutuo Soccorso",
+            "aliases": [
+              {
+                "sort-name": "Banco",
+                "name": "Banco",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "b5030350-5015-4616-b543-fe154292197f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+          "count": 1,
+          "title": "Orlando: Le forme dell\u2019amore",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Banco del Mutuo Soccorso",
+              "artist": {
+                "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+                "name": "Banco del Mutuo Soccorso",
+                "sort-name": "Banco del Mutuo Soccorso"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d543535-14ae-45c6-8cd8-3d612232d9a1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orlando: Le forme dell\u2019amore",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "aad4dc83-0f0c-35a6-b9f3-cedd127e1f09",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fd76a060-f415-49a2-84d8-55486d5582f2",
+                  "number": "9",
+                  "title": "Cadere o volare",
+                  "length": 305733
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "09932033-d1ce-4cfb-9b18-23f983784d07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+          "count": 1,
+          "title": "Orlando: Le forme dell\u2019amore",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Banco del Mutuo Soccorso",
+              "artist": {
+                "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+                "name": "Banco del Mutuo Soccorso",
+                "sort-name": "Banco del Mutuo Soccorso"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d543535-14ae-45c6-8cd8-3d612232d9a1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orlando: Le forme dell\u2019amore",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "6bf5e1d0-3696-30a9-810e-28ca532f99a0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "49354eb6-cd4c-46f5-a667-4aebe728633b",
+                  "number": "9",
+                  "title": "Cadere o volare",
+                  "length": 305733
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

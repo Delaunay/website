@@ -1,0 +1,94 @@
+{
+  "created": "2026-05-18T07:48:21.917Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "149fc65c-1f19-442b-a38a-5ace4294adff",
+      "score": 100,
+      "artist-credit-id": "6d7650d8-1547-302a-965b-b759da78fd71",
+      "title": "Lifeblood",
+      "length": 191943,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Darko",
+          "artist": {
+            "id": "e07c6ae3-4722-4be3-b036-49dd1a0c6bf5",
+            "name": "Darko",
+            "sort-name": "Darko",
+            "disambiguation": "UK fast melodic hardcore"
+          }
+        }
+      ],
+      "first-release-date": "2019-06-14",
+      "releases": [
+        {
+          "id": "fe5a53ca-0807-4b6a-a73e-03c0092f72cb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Colin's Punk Rock World 5th Birthday Comp",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "97607c37-3b12-4a9f-be5b-75f96e783db6",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Colin's Punk Rock World 5th Birthday Comp",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-06-14",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-06-14",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 125,
+          "media": [
+            {
+              "id": "5984bf70-f798-39e4-be03-0f27470c0af0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9d5f2b08-3792-40dc-a199-65d68f8a61bc",
+                  "number": "51",
+                  "title": "Lifeblood",
+                  "length": 191943
+                }
+              ],
+              "track-count": 125,
+              "track-offset": 50
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

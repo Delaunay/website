@@ -1,0 +1,168 @@
+{
+  "created": "2026-05-18T07:10:13.597Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1f0c4300-872d-4560-8cda-7e42f49435b2",
+      "score": 100,
+      "artist-credit-id": "842d1e4f-dd4f-33c0-858c-ae89f73fd053",
+      "title": "Alles OK",
+      "length": 152000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Von Wegen Lisbeth",
+          "artist": {
+            "id": "ff0fd469-60c7-4bef-acd0-8f5858cc6d19",
+            "name": "Von Wegen Lisbeth",
+            "sort-name": "Von Wegen Lisbeth",
+            "disambiguation": "German indie pop band"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-22",
+      "releases": [
+        {
+          "id": "bd1642e7-63c6-4558-9daa-84f55fcd891d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "EZ Aquarii",
+          "status": "Official",
+          "release-group": {
+            "id": "e942a5a4-2d67-4472-80b8-754d96b9256d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "EZ Aquarii",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-22",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "13405cd6-80e1-38b2-9345-460f271cffd4",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "30f514d3-4feb-4d69-8e6e-9840283e593d",
+                  "number": "A2",
+                  "title": "Alles OK"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "3392dba6-7d26-40eb-ae84-c587826fbebc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "EZ Aquarii",
+          "status": "Official",
+          "release-group": {
+            "id": "e942a5a4-2d67-4472-80b8-754d96b9256d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "EZ Aquarii",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-22",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "d2d30e28-e2a0-3762-abe0-486311240d56",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "efb69917-bdfc-4a37-ad58-6726220cc3ed",
+                  "number": "2",
+                  "title": "Alles OK"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b1935d76-a55f-4b06-8ecc-5d72be2dbc86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "EZ Aquarii",
+          "status": "Official",
+          "release-group": {
+            "id": "e942a5a4-2d67-4472-80b8-754d96b9256d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "EZ Aquarii",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "6cfbff60-6fe0-303c-88da-3616ca334c87",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8089c371-cfc4-41e3-a33d-c63ec7a9d08d",
+                  "number": "2",
+                  "title": "Alles OK",
+                  "length": 152000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1567 @@
+{
+  "created": "2026-05-18T07:17:42.098Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7e9e1f14-cd1d-4e89-9485-d4a8239ce4e6",
+      "score": 100,
+      "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+      "title": "Shadows",
+      "length": 223000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lindsey Stirling",
+          "artist": {
+            "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+            "name": "Lindsey Stirling",
+            "sort-name": "Stirling, Lindsey",
+            "aliases": [
+              {
+                "sort-name": "Lindsey Sterling",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Lindsey Sterling",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u7279\u8389 \u7433\u897f",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u7433\u897f\u00b7\u7279\u8389",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uc2a4\ud138\ub9c1, \ub9b0\uc9c0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ub9b0\uc9c0 \uc2a4\ud138\ub9c1",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u054d\u0569\u056b\u057c\u056c\u056b\u0576\u0563, \u053c\u056b\u0576\u0564\u057d\u056b",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u053c\u056b\u0576\u0564\u057d\u056b \u054d\u0569\u056b\u057c\u056c\u056b\u0576\u0563",
+                "locale": "hy",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30b9\u30bf\u30fc\u30ea\u30f3\u30b0 \u30ea\u30f3\u30b8\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ea\u30f3\u30b8\u30fc\u30fb\u30b9\u30bf\u30fc\u30ea\u30f3\u30b0",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433, \u041b\u0438\u043d\u0434\u0437\u0438",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0438\u043d\u0434\u0437\u0438 \u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433",
+                "locale": "mk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0435\u0440\u043b\u0456\u043d\u0433, \u041b\u0456\u043d\u0434\u0441\u0456",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0456\u043d\u0434\u0441\u0456 \u0421\u0442\u0435\u0440\u043b\u0456\u043d\u0433",
+                "locale": "uk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stirlingov\u00e1, Lindsey",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lindsey Stirlingov\u00e1",
+                "locale": "sk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433, \u041b\u0438\u043d\u0434\u0441\u0438",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0438\u043d\u0434\u0441\u0438 \u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u05dc\u05d9\u05e0\u05d3\u05d6\u05d9 \u05e1\u05d8\u05d9\u05e8\u05dc\u05d9\u05e0\u05d2",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u05dc\u05d9\u05e0\u05d3\u05d6\u05d9 \u05e1\u05d8\u05d9\u05e8\u05dc\u05d9\u05e0\u05d2",
+                "locale": "he",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0627\u0633\u062a\u0631\u0644\u06cc\u0646\u06af",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0627\u0633\u062a\u0631\u0644\u06cc\u0646\u06af",
+                "locale": "fa",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0633\u062a\u06ce\u0631\u06b5\u06cc\u0646\u06af",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0633\u062a\u06ce\u0631\u06b5\u06cc\u0646\u06af",
+                "locale": "ckb",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stirlinq, Lindsi",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lindsi Stirlinq",
+                "locale": "az",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u064a\u0646\u062f\u0633\u064a \u0633\u062a\u064a\u0631\u0644\u064a\u0646\u063a",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u064a\u0646\u062f\u0633\u064a \u0633\u062a\u064a\u0631\u0644\u064a\u0646\u063a",
+                "locale": "ar",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-11-03",
+      "releases": [
+        {
+          "id": "79b845a9-37d8-45f3-b4a9-eb6e1625358e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-09-27",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-09-27",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "60c04b64-8e78-3445-a293-a1f1b11231d7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "37240dd8-8565-47fd-985e-587e670630b3",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 224000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "64f13a02-1364-4321-ba77-1202771811e8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "Barnes & Noble exclusive",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2016-01-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-01-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "531e54d6-a9d3-38c0-b955-849eb762fcfe",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "d03f78e1-7a89-4432-8235-602fee0926cf",
+                  "number": "B3",
+                  "title": "Shadows",
+                  "length": 224000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "7c97853b-722b-4057-81be-7d277ac26538",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "amazon exclusive green",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2016-01-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-01-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "7a7ebdb5-a372-3a35-8227-593f8bc50907",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "006d31d6-b168-4327-8fd8-353349b54c8e",
+                  "number": "B3",
+                  "title": "Shadows",
+                  "length": 224000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "4c9dcbd3-a658-4407-b5a0-6598e3940897",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "limited edition buttercream",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2016-01-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-01-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "dbfeaaa4-86a6-391b-a50c-84f49bc788d4",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "1c206db0-1540-43ca-a6e9-e075e1443c0c",
+                  "number": "B3",
+                  "title": "Shadows",
+                  "length": 224000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "986e9205-0747-47c8-98f2-4d6508a474dc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-09-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1933424d-3eb8-3264-b69b-316d4b9a04e3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1ef44512-0a63-41b8-96d7-9f4522e3b092",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223453
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "1ed6d8d7-c1bc-4f4f-88e7-bc6b9d1e548a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-11-08",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2013-11-08",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            },
+            {
+              "date": "2013-11-08",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2013-11-08",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            },
+            {
+              "date": "2013-11-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "ca35d7c4-06da-39b2-ad9e-60fc539a0387",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6968eac0-b34c-4902-b20b-e9f92ac29dde",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "86800550-5b14-4ae2-b8c3-470f4d5f0333",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-06-03",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-06-03",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "bb193602-5696-3c82-94a0-ee3e90480bd5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4124c0f6-e8e8-4904-b7a2-541dab217eeb",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223453
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "dcdf6f2e-1632-418b-93e0-28bb887d3d52",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "deluxe",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-11-08",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2013-11-08",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "bb863513-9790-3e11-863a-c023b421f80e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dfb28e1f-7aee-4ff7-8c16-dc87e18add91",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223452
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "e2b3e64d-2029-481b-8b22-cf54a957dc6d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "deluxe",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-10-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-10-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "44a7fb57-2274-3acf-8aa1-e7bce0151010",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4c35c16a-2a32-401f-b001-570ce1daa90c",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223452
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "7748d328-edb4-474e-8c60-6b4c2e4f0e06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "re-issue",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2014-02-24",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2014-02-24",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "b722e8ac-b905-3765-8d09-c0f2328f6aad",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d79ff804-c3dd-4d4f-9c5e-2c02a36aaff8",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "d5479948-75d1-417c-a054-ed17a21fda34",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-02-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "4b13cbf0-471b-3dcc-806a-820b1a8d936a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "217c4970-00c0-4568-8bcf-e1e92f8c55eb",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "232d424a-24ff-47c9-8750-699dd1b4f099",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "re-release",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-10-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-10-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "88cc590f-f116-34fe-b4d1-1c5445ed521e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "23170bfb-cbee-4fab-a547-ab40463bce9d",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "bc51ba52-59a7-49a3-8d55-92540d64d8d4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "disambiguation": "Target exclusive",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-10-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-10-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "b2ccd72e-9149-307c-b3dd-d88ad9c4db53",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7dc17c85-65a4-4c6b-8be6-8edfef2c1ca3",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "3cba35ca-6199-4853-8163-77af27c9c29c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-05-27",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-05-27",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "f98f8ecc-29dc-3b24-aa0e-4008a285498b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "928aa34d-66c2-435e-9a9f-0c81f7eba607",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "799c1412-5979-4ada-9827-067ae59ede4f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-05-24",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2013-05-24",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2013-06-04",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5679da76-e4f1-396f-a699-fb3a05a50aa0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c1300486-69bf-4fbd-af72-56174750afd1",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "fd615916-7a07-419a-9f66-8e4ef5f88c29",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-08",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2013-02-08",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-08",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-08",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "0bbffda9-8107-33b5-94b6-80b541af03e0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c357d9ee-5ad7-30d7-83d0-ce97151e4110",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "f989056f-e849-485b-9b86-50fe449912c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Lindsey Stirling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f4032f2-5e55-4f57-824e-a11bee19d19e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lindsey Stirling",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-09-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "61c48269-4ecc-3f6f-8870-1911fd973f94",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "14416b05-2a83-3dfa-9acb-640f6ce0594d",
+                  "number": "9",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "bec23a9c-16ca-4e89-a9cb-6b9206eb7fe5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+          "count": 1,
+          "title": "Shadows",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lindsey Stirling",
+              "artist": {
+                "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+                "name": "Lindsey Stirling",
+                "sort-name": "Stirling, Lindsey"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5315e6c8-6e38-41c8-977e-0a4dcbf78040",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Shadows",
+            "primary-type": "Single"
+          },
+          "date": "2011-11-03",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-11-03",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "a7a934ed-f4e2-3535-a64d-071533a8c8f8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fe4e76be-62ee-4b6b-a58d-e21a7675571b",
+                  "number": "1",
+                  "title": "Shadows",
+                  "length": 226000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a94fe85f-feaf-4843-a4f8-772ed2dcf451",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Schattenreich, Volume 6",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e4c2257f-6936-42e0-92ba-5150aede3c3d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Schattenreich, Volume 6",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-06-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2014-06-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "808a24d7-b064-3bf3-a3ed-9afc00041ddb",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "49bdacac-89de-4980-9602-6e58ba405ae0",
+                  "number": "8",
+                  "title": "Shadows",
+                  "length": 223000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USTEY0900056"
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "dubstep"
+        },
+        {
+          "count": 2,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "violin"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 2,
+          "name": "elektro"
+        }
+      ]
+    },
+    {
+      "id": "de755cd1-9215-4829-b368-bd263271e68e",
+      "score": 100,
+      "artist-credit-id": "c77bcbdd-c227-3110-98ca-eb3babb38b57",
+      "title": "Shadows",
+      "length": 234000,
+      "disambiguation": "official music video, includes outro",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Lindsey Stirling",
+          "artist": {
+            "id": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+            "name": "Lindsey Stirling",
+            "sort-name": "Stirling, Lindsey",
+            "aliases": [
+              {
+                "sort-name": "Lindsey Sterling",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Lindsey Sterling",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u7279\u8389 \u7433\u897f",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u7433\u897f\u00b7\u7279\u8389",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uc2a4\ud138\ub9c1, \ub9b0\uc9c0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ub9b0\uc9c0 \uc2a4\ud138\ub9c1",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u054d\u0569\u056b\u057c\u056c\u056b\u0576\u0563, \u053c\u056b\u0576\u0564\u057d\u056b",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u053c\u056b\u0576\u0564\u057d\u056b \u054d\u0569\u056b\u057c\u056c\u056b\u0576\u0563",
+                "locale": "hy",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30b9\u30bf\u30fc\u30ea\u30f3\u30b0 \u30ea\u30f3\u30b8\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ea\u30f3\u30b8\u30fc\u30fb\u30b9\u30bf\u30fc\u30ea\u30f3\u30b0",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433, \u041b\u0438\u043d\u0434\u0437\u0438",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0438\u043d\u0434\u0437\u0438 \u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433",
+                "locale": "mk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0435\u0440\u043b\u0456\u043d\u0433, \u041b\u0456\u043d\u0434\u0441\u0456",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0456\u043d\u0434\u0441\u0456 \u0421\u0442\u0435\u0440\u043b\u0456\u043d\u0433",
+                "locale": "uk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stirlingov\u00e1, Lindsey",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lindsey Stirlingov\u00e1",
+                "locale": "sk",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433, \u041b\u0438\u043d\u0434\u0441\u0438",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u041b\u0438\u043d\u0434\u0441\u0438 \u0421\u0442\u0438\u0440\u043b\u0438\u043d\u0433",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u05dc\u05d9\u05e0\u05d3\u05d6\u05d9 \u05e1\u05d8\u05d9\u05e8\u05dc\u05d9\u05e0\u05d2",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u05dc\u05d9\u05e0\u05d3\u05d6\u05d9 \u05e1\u05d8\u05d9\u05e8\u05dc\u05d9\u05e0\u05d2",
+                "locale": "he",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0627\u0633\u062a\u0631\u0644\u06cc\u0646\u06af",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0627\u0633\u062a\u0631\u0644\u06cc\u0646\u06af",
+                "locale": "fa",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0633\u062a\u06ce\u0631\u06b5\u06cc\u0646\u06af",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u06cc\u0646\u062f\u0632\u06cc \u0633\u062a\u06ce\u0631\u06b5\u06cc\u0646\u06af",
+                "locale": "ckb",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stirlinq, Lindsi",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lindsi Stirlinq",
+                "locale": "az",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0644\u064a\u0646\u062f\u0633\u064a \u0633\u062a\u064a\u0631\u0644\u064a\u0646\u063a",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0644\u064a\u0646\u062f\u0633\u064a \u0633\u062a\u064a\u0631\u0644\u064a\u0646\u063a",
+                "locale": "ar",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

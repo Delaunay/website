@@ -1,0 +1,74 @@
+{
+  "created": "2026-05-18T06:23:26.078Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3e24d318-52b6-445e-9c4e-829991c6ee06",
+      "score": 100,
+      "artist-credit-id": "3b459d4c-9f6a-34e9-9c0c-e802c377cc70",
+      "title": "Invercargirl (DJ Boring Emotional mix)",
+      "length": 305000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Eden Burns",
+          "artist": {
+            "id": "311dde39-8613-4425-baa8-7b8cbabc255f",
+            "name": "Eden Burns",
+            "sort-name": "Eden Burns",
+            "disambiguation": "New Zealand electronic"
+          }
+        }
+      ],
+      "first-release-date": "2022-11-18",
+      "releases": [
+        {
+          "id": "83328853-c8e5-4d74-995e-1de1b222bc3e",
+          "count": 1,
+          "title": "Big Beat Manifesto Remixed",
+          "release-group": {
+            "id": "67e1e3a3-117a-432f-bbcd-475c8a8e31ac",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Big Beat Manifesto Remixed",
+            "primary-type": "EP"
+          },
+          "date": "2022-11-18",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-11-18",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "6a7375b9-4357-3785-a165-11738ff2b256",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f2f9a5ae-f035-4987-addd-16d608363313",
+                  "number": "1",
+                  "title": "Invercargirl (DJ Boring Emotional mix)",
+                  "length": 305000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

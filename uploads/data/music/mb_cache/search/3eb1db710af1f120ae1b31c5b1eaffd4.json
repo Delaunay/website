@@ -1,0 +1,824 @@
+{
+  "created": "2026-05-18T06:18:39.798Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9ae5c5e0-edee-45ed-a9c7-561ccc3fb843",
+      "score": 100,
+      "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+      "title": "Des mots invincibles",
+      "length": 177520,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Leslie",
+          "artist": {
+            "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+            "name": "Leslie",
+            "sort-name": "Leslie",
+            "disambiguation": "French female singer Leslie Bourgouin",
+            "aliases": [
+              {
+                "sort-name": "Bourgouin, Leslie",
+                "name": "Leslie Bourgouin",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-06-04",
+      "releases": [
+        {
+          "id": "887b58f2-f187-4de7-9889-02256ec11f17",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Les Enfants de l\u2019orage",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c46b42d-3592-4544-8503-2a52f5e1d15d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Enfants de l\u2019orage",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e90c6dfb-0ba7-354c-8920-17e00f235295",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0977bdfc-156f-4323-87d5-1f0aedd2a385",
+                  "number": "1",
+                  "title": "Des mots invincibles",
+                  "length": 180467
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "997b9ce3-3903-4e1e-9af6-b75838c64cbe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NRJ Summer Hits Only 2012",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2807806f-8f01-45c6-a14f-33314dc6cf93",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Summer Hits Only 2012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-06-06",
+          "country": "CH",
+          "release-events": [
+            {
+              "date": "2012-06-06",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            }
+          ],
+          "track-count": 43,
+          "media": [
+            {
+              "id": "f131349e-fabe-3e37-a30b-d5206545885e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "059a3b80-ecdd-44d2-81d0-8e17368d80a1",
+                  "number": "12",
+                  "title": "Des mots invincibles",
+                  "length": 177000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "c9462cbd-fb9b-4ec9-a8f1-3ee3bb8970df",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Les Enfants de l\u2019orage",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c46b42d-3592-4544-8503-2a52f5e1d15d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Enfants de l\u2019orage",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-04",
+          "country": "AD",
+          "release-events": [
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "e01da61e-99a8-3c76-a27d-774c3f4982f0",
+                "name": "Andorra",
+                "sort-name": "Andorra",
+                "iso-3166-1-codes": [
+                  "AD"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+                "name": "Morocco",
+                "sort-name": "Morocco",
+                "iso-3166-1-codes": [
+                  "MA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "fd781fa3-944a-3d19-9809-2cf4c2d50eda",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ad9b58e0-dc09-3559-849b-7751b982b978",
+                  "number": "1",
+                  "title": "Des mots invincibles",
+                  "length": 180467
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "de1bb80d-6753-48d9-be76-6fabe249691e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Hits 2012, Volume 3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d2371281-1a78-4859-8b37-79b7e3de1f2c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hits 2012, Volume 3",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "9ef4e463-068f-3bb7-ba11-29ff68ce661c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1e03b850-6215-49ae-ad77-72a598738ac4",
+                  "number": "14",
+                  "title": "Des mots invincibles",
+                  "length": 178000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "74c69b27-b4fa-4a22-90d7-f017ab6dfb4d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NRJ Hits 2012, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "47cd8ec5-5147-478e-9c7d-cefd7c0a2b8a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Hits 2012, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-27",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-08-27",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 44,
+          "media": [
+            {
+              "id": "68b726fb-9262-3a41-bc8c-a7554119d0f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dea0066d-b33f-3e78-baa5-b099aa7c7833",
+                  "number": "14",
+                  "title": "Des mots invincibles",
+                  "length": 177520
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "b1c81f81-4618-4ba3-97bf-a8b374e6358f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Les Enfants de l'orage",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c46b42d-3592-4544-8503-2a52f5e1d15d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Enfants de l\u2019orage",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-04",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "28965b99-a600-3b53-9e77-f588dc336365",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "36283ee5-201f-48a5-b5e2-dc9fb2c99257",
+                  "number": "1",
+                  "title": "Des mots invincibles",
+                  "length": 180467
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "39282a8f-18e0-4250-8f10-b6bc2475ad23",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Des mots invincibles",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e7218806-730b-4a26-86ba-4ff57b08387d",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Des mots invincibles",
+            "primary-type": "Single"
+          },
+          "date": "2012-06-04",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-06-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "91cc5220-50a4-3849-80c8-18246297b11b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3de818d8-281d-3b99-a3a1-64def5f0c899",
+                  "number": "1",
+                  "title": "Des mots invincibles",
+                  "length": 177013
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0e2505b8-2b1f-40bd-900f-36d5ba22b86b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Best of Pop 2012",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5a3675d5-bbf7-43f4-b03e-743e7d92982e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Pop 2012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-08-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "1bd05706-379c-3699-a74e-6613b1047e30",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "61a1b267-3391-4639-967c-7530e35e5e04",
+                  "number": "18",
+                  "title": "Des mots invincibles",
+                  "length": 177000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR2PY1200600"
+      ]
+    },
+    {
+      "id": "7e6980de-9349-4340-a0cb-98d2c1a34ea5",
+      "score": 84,
+      "artist-credit-id": "fc298efe-3655-34cd-9a61-a93de63f2c39",
+      "title": "Des mots invincibles (remix)",
+      "length": 178880,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Leslie",
+          "artist": {
+            "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+            "name": "Leslie",
+            "sort-name": "Leslie",
+            "disambiguation": "French female singer Leslie Bourgouin",
+            "aliases": [
+              {
+                "sort-name": "Bourgouin, Leslie",
+                "name": "Leslie Bourgouin",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Youssoupha",
+          "artist": {
+            "id": "6fabf3aa-1822-49f2-b6c7-57560464696f",
+            "name": "Youssoupha",
+            "sort-name": "Youssoupha",
+            "disambiguation": "French-Congolese rapper",
+            "aliases": [
+              {
+                "sort-name": "Mabiki, Youssoupha",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Youssoupha Mabiki",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1979-08-20",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-09-17",
+      "releases": [
+        {
+          "id": "c9462cbd-fb9b-4ec9-a8f1-3ee3bb8970df",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Les Enfants de l\u2019orage",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c46b42d-3592-4544-8503-2a52f5e1d15d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Enfants de l\u2019orage",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-04",
+          "country": "AD",
+          "release-events": [
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "e01da61e-99a8-3c76-a27d-774c3f4982f0",
+                "name": "Andorra",
+                "sort-name": "Andorra",
+                "iso-3166-1-codes": [
+                  "AD"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+                "name": "Morocco",
+                "sort-name": "Morocco",
+                "iso-3166-1-codes": [
+                  "MA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "fd781fa3-944a-3d19-9809-2cf4c2d50eda",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2918d474-60c0-38d7-b6fa-76eda1a79bc0",
+                  "number": "13",
+                  "title": "Des mots invincibles (remix)",
+                  "length": 178880
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "403268f3-b3c5-4809-a050-0ff5133d714b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NRJ 200% Hits 2012, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "64cbf4a4-7ee7-4b50-affc-f27263b5af6c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ 200% Hits 2012, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-09-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-09-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "d4f88b71-1ac0-3b1a-825e-b0c45c397fc6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64ecc961-61b2-32d1-abf4-ec7f603cfc95",
+                  "number": "17",
+                  "title": "Des mots invincibles",
+                  "length": 177813
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "b1c81f81-4618-4ba3-97bf-a8b374e6358f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "cdd4bb31-d5c2-3ea0-8e79-d6ca2390727f",
+          "count": 1,
+          "title": "Les Enfants de l'orage",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Leslie",
+              "artist": {
+                "id": "d8b5e5ff-3bbc-4a1b-a52c-bf6af0c6a7da",
+                "name": "Leslie",
+                "sort-name": "Leslie",
+                "disambiguation": "French female singer Leslie Bourgouin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c46b42d-3592-4544-8503-2a52f5e1d15d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Enfants de l\u2019orage",
+            "primary-type": "Album"
+          },
+          "date": "2013-02-04",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013-02-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "28965b99-a600-3b53-9e77-f588dc336365",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e19450f-8b20-4eef-8e52-3f71fd625f43",
+                  "number": "13",
+                  "title": "Des mots invincibles (remix)",
+                  "length": 178880
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR2PY1200720"
+      ]
+    }
+  ]
+}

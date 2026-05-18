@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T07:07:21.562Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9394bba5-a56e-4f12-ae41-aa77d4dde0ba",
+      "score": 100,
+      "artist-credit-id": "c30cd0fb-ce6d-4251-9ca2-ab587371b12a",
+      "title": "Kein F\u00fcr Immer",
+      "length": 232000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "AYMZ",
+          "artist": {
+            "id": "b7cbcc85-53f8-41bb-8d24-87b0f10fa696",
+            "name": "AYMZ",
+            "sort-name": "AYMZ",
+            "disambiguation": "New music project of Amy Wald"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "edaf364f-033f-457c-8423-2292e2113437",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "PYROLYSE",
+          "status": "Official",
+          "release-group": {
+            "id": "a91ab6f3-c630-42db-92bf-67149e377bc1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "PYROLYSE",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "50fde4ab-6cb6-4ad0-b2fb-d9b40a3f5426",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4491368c-e3c2-4e3e-b2b4-0e7a08091f81",
+                  "number": "8",
+                  "title": "Kein F\u00fcr Immer",
+                  "length": 232000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

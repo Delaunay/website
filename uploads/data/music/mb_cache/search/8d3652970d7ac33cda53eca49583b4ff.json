@@ -1,0 +1,1032 @@
+{
+  "created": "2026-05-18T06:33:06.364Z",
+  "count": 19,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "929a9f72-808e-41f6-b0da-d08f1b5db632",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 230066,
+      "disambiguation": "live: SBN",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-05-24",
+      "releases": [
+        {
+          "id": "ce04b25d-566b-4a3f-89c1-6b453179fa62",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Mr Brightside",
+          "status": "Official",
+          "disambiguation": "CD2 - E Release",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5d59bcbf-94cc-3bd6-a65d-89200d55ba07",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Mr. Brightside",
+            "primary-type": "Single"
+          },
+          "date": "2006-01-16",
+          "country": "IE",
+          "release-events": [
+            {
+              "date": "2006-01-16",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2006-01-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "cee51310-4ae1-31a8-ad40-a9f4299ed035",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5c54702f-30b2-448b-92f1-b95b1ca972da",
+                  "number": "3",
+                  "title": "Midnight Show (SBN live session)",
+                  "length": 230066
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "82685e7d-41d5-4a6d-933c-31a789dc9106",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Mr Brightside",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5d59bcbf-94cc-3bd6-a65d-89200d55ba07",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Mr. Brightside",
+            "primary-type": "Single"
+          },
+          "date": "2004-05-24",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2004-05-24",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "5eb5a0ae-7053-334e-9a15-750713501d88",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f561c12-2d2c-3c3a-8b3f-51b7f0a135e1",
+                  "number": "3",
+                  "title": "Midnight Show (SBN live session)",
+                  "length": 380373
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBFFP0300066"
+      ]
+    },
+    {
+      "id": "ff50caf2-a688-4773-8efc-93de1111b4cf",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 242658,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "3b532209-1ca8-45a2-9d04-49520da43c50",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Hot Fuss (Demo)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "344efff9-a593-46a8-877e-7f16d005e162",
+            "title": "Hot Fuss (Demo)",
+            "secondary-types": [
+              "Demo"
+            ],
+            "secondary-type-ids": [
+              "81598169-0d6c-3bce-b4be-866fa658eda3"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "e2dc757a-b9b2-3b1d-8138-7b27f78fc2fe",
+              "position": 1,
+              "track": [
+                {
+                  "id": "44f9a36d-9505-40d4-86ef-ea7afcb601ad",
+                  "number": "11",
+                  "title": "Midnight Show",
+                  "length": 242658
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70e3a1bd-7e61-421b-b664-395c8d6ce6eb",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "disambiguation": "live, 2006-09-14: Yard Club, Cologne, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "cd2d558a-a358-409d-a673-3fe2ecb2afff",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2006-09-14: Yard Club, Cologne, Germany",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "779bf0b9-a75b-46bc-8816-64cad72acaeb",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006-09-14: Yard Club, Cologne, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "e6e1368b-fea5-3e6e-8669-e6994380aa7a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9a1c82cb-2a51-471c-8c05-5b1c12c9437b",
+                  "number": "10",
+                  "title": "Midnight Show"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a02320d-b6a1-4c08-9911-43ca9ff0405d",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 323000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "4b3f6c85-94cc-4487-9691-b56849b5dda0",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Sawdust",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "69d02e5c-215e-3ddb-ab24-d85a52085fbb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sawdust",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "CN",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+                "name": "China",
+                "sort-name": "China",
+                "iso-3166-1-codes": [
+                  "CN"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "34870485-e58f-3621-ac44-d1ab1fb4b8b0",
+              "position": 2,
+              "format": "SACD",
+              "track": [
+                {
+                  "id": "73ed689a-ac56-4b32-8671-60c4c55bb1ae",
+                  "number": "10",
+                  "title": "Midnight Show",
+                  "length": 323000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9d65eb6-e430-4bc9-81dc-16065e339f2c",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 239026,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "0dc076e9-2e52-46b3-8496-b24a34e702db",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2003-11-22: Live at The Welsh Club, Cardiff, Wales",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8828339e-49b0-4cfb-96e9-7d0490622c9a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2003-11-22: Live at The Welsh Club, Cardiff, Wales",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 7,
+          "media": [
+            {
+              "id": "f008cfaf-33fe-3dec-b5a7-a5db71ceeabf",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "da56fae3-5cd3-41b5-8297-f97cc2787dcb",
+                  "number": "7",
+                  "title": "Midnight Show",
+                  "length": 239026
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c19977fd-4c3a-481e-b1d7-0493a63b20ab",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 301000,
+      "disambiguation": "live, 2006-08-08: Live at Empress Ballroom, Blackpool, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "552e84dc-3e3e-4533-ada6-cfe7b7f23dcc",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2006-08-08: Live at Empress Ballroom, Blackpool, UK",
+          "status": "Bootleg",
+          "disambiguation": "Broadcast Only Version (Missing 2 Songs From Complete Setlist)",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f79f73a3-71cf-4e9e-9e1d-5e78757521fc",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006-08-08: Live at Empress Ballroom, Blackpool, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "47cf2ab4-0919-30d2-80c0-1f576219a628",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1272155b-c6a0-48cd-9ef2-a3fad2afcc46",
+                  "number": "10",
+                  "title": "Midnight Show",
+                  "length": 301000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3a3283e0-ce1f-4913-924d-63c2f66eabd0",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 300878,
+      "disambiguation": "live, 2005-07-10: Live at Oxegen Festival, Ireland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "07ba3954-e4f3-4719-bf9f-61726d4b3a53",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2005-07-10: Live at Oxegen Festival, Ireland",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c3bfb099-696e-434f-b2b9-5d463111d14b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2005-07-10: Live at Oxegen Festival, Ireland",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "21afa19f-734d-31f5-b102-872e0ffab327",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b19c8a47-1d2b-4644-852c-ef49df386cca",
+                  "number": "6",
+                  "title": "Midnight Show",
+                  "length": 300878
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9798a3ed-e9c3-47de-9903-f624f9188fda",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 243000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "01c5cc41-6b67-4978-9d6c-e77b59173bc4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Hot Fuss",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8c09b4e-33ae-368b-8f70-24b4e14fb9ad",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hot Fuss",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "bd7e2b47-8b9d-30d9-a871-b1430977a6f6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4d099664-6015-4bb8-a74e-df5b4dbdb6f6",
+                  "number": "10",
+                  "title": "Midnight Show",
+                  "length": 243000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96f3785b-7c85-49ff-aafc-9e44bff7685a",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "disambiguation": "live, 2004-11-06: Columbia Club, Berlin, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "1af5cdb3-46a2-4b23-98fe-110b3acafe54",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2004-11-06: Columbia Club, Berlin, Germany",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "90f11b69-37ca-317a-9e86-7e8b9ebaa969",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-11-06: Columbia Club, Berlin, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "10211bfa-5f12-3f7b-87f7-c61eac0cd09a",
+              "position": 1,
+              "track": [
+                {
+                  "id": "4c1f3048-d1d3-3e29-acc7-c34ce9a50e4a",
+                  "number": "9",
+                  "title": "Midnight Show"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cb2ee48-ffec-4001-8943-379b0118f55b",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Midnight Show",
+      "length": 260986,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-01-31",
+      "releases": [
+        {
+          "id": "e529d391-0f34-4209-b1e4-40e68602277a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2004-12-18: Triple J: Live at the Wireless: Enmore Theatre, Sydney, Australia",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2e7d394c-b072-49a6-8285-f695072b0675",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-12-18: Live at Enmore Theatre, Sydney, Australia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-01-31",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2005-01-31",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a893b164-6514-35b7-8da2-418d192ad8ab",
+              "position": 1,
+              "track": [
+                {
+                  "id": "94673071-5721-345c-931e-1bccd9f6b3a2",
+                  "number": "6",
+                  "title": "Midnight Show",
+                  "length": 260986
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

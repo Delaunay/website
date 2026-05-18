@@ -1,0 +1,162 @@
+{
+  "created": "2026-05-18T08:13:07.430Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5d50048c-fd5a-4d57-9e02-e2faa16c01e0",
+      "score": 100,
+      "artist-credit-id": "f05f5502-cc09-3599-a23e-08c9116f5f0e",
+      "title": "I Feel So Alive (Club mix)",
+      "length": 219600,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Iguana",
+          "artist": {
+            "id": "8b1c001e-3fd8-46d7-a6c5-0cced56b606f",
+            "name": "Iguana",
+            "sort-name": "Iguana",
+            "disambiguation": "Italian Disco"
+          }
+        }
+      ],
+      "first-release-date": "2010-03-01",
+      "releases": [
+        {
+          "id": "1df4a035-2591-44c1-a03f-8a7bca38e244",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 10,
+          "title": "L\u2019integrale dance: annees 90",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6fb413a7-bb19-487a-830e-14854cbbccf3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019integrale dance: annees 90",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-03-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2010-03-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 190,
+          "media": [
+            {
+              "id": "39bd8f46-c7aa-3279-a4f5-63c0128fd357",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2a58aea9-6cf5-47ee-b314-6e215269bac8",
+                  "number": "15",
+                  "title": "I Feel So Alive",
+                  "length": 219600
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 14
+            }
+          ]
+        },
+        {
+          "id": "b75d5b15-eefd-4bb0-aa55-74fde294b990",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "We Love Italian Dance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "50f999a5-bded-4c15-86f5-18fc5d0d3a4c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "We Love Italian Dance",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "1049a3f9-7b51-354d-87eb-851f8296bbab",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5c8b1a6d-b2bc-46ec-87b8-307b91ebc1ad",
+                  "number": "6",
+                  "title": "I Feel So Alive (Club mix)",
+                  "length": 263000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IT00G9713081"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "fixme"
+        }
+      ]
+    }
+  ]
+}

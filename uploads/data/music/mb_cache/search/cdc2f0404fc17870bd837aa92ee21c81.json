@@ -1,0 +1,123 @@
+{
+  "created": "2026-05-18T05:39:07.494Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "56017a25-4308-4e7b-875d-f40543be1c71",
+      "score": 100,
+      "artist-credit-id": "e8428733-abf6-3529-9849-fe081b944ca2",
+      "title": "Rivers Flows in You",
+      "length": 114550,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yiruma",
+          "artist": {
+            "id": "841db5c8-7072-4b89-9bdb-0a0bd0e9d357",
+            "name": "Yiruma",
+            "sort-name": "Yiruma",
+            "aliases": [
+              {
+                "sort-name": "Yiruma",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Yiruma",
+                "locale": "de",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uc774\ub8e8\ub9c8",
+                "name": "\uc774\ub8e8\ub9c8",
+                "locale": "ko",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ru-ma, Lee",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lee Ru-ma",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009",
+      "releases": [
+        {
+          "id": "8e2887c6-cb0e-4577-baf9-f96f53ac2270",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e8428733-abf6-3529-9849-fe081b944ca2",
+          "count": 1,
+          "title": "Missing You",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yiruma",
+              "artist": {
+                "id": "841db5c8-7072-4b89-9bdb-0a0bd0e9d357",
+                "name": "Yiruma",
+                "sort-name": "Yiruma"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bc15ba1-b897-4566-9ee5-f0f6fc588b51",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Missing You",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "e10f994a-22ed-3456-ab92-a44895ec431a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "04ac7b81-2780-4e00-a7a1-b49291bb5632",
+                  "number": "12",
+                  "title": "Rivers Flows in You",
+                  "length": 114550
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

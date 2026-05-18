@@ -1,0 +1,1414 @@
+{
+  "created": "2026-05-18T06:34:09.413Z",
+  "count": 104,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "736d335d-17ff-409b-9272-dde9e391d55c",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 255000,
+      "disambiguation": "live, 2009-07: Royal Albert Hall, London, UK",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-11-06",
+      "releases": [
+        {
+          "id": "e5787ce5-cf23-4b02-8bc7-468e95c8a27b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "7f8b2a1e-bb1e-34a9-a4d7-485f3e33f555",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "1bb46bf7-c8dd-47a3-9eca-fdc77c582d43",
+                  "number": "3",
+                  "title": "Human",
+                  "length": 255000
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "b695a7d1-e42f-43c8-b486-e9e1fdc13f48",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "6c4bffb3-d320-3694-849f-479329ff3188",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "e2540fd0-c147-4bb5-bb9a-cbb372ac26ab",
+                  "number": "3",
+                  "title": "Human",
+                  "length": 255000
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f1613cd8-8d2c-3889-b2be-2df24f6c3075",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2009-11-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 46,
+          "media": [
+            {
+              "id": "49f6b43e-583a-33a1-844f-c93dc66d607d",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "68e0ccb8-6b11-3143-9aef-3b17e177d7e4",
+                  "number": "2",
+                  "title": "Human"
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "04c792a7-4c72-40ce-bb9b-8dd16c924c0c",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 242000,
+      "disambiguation": "live, 2009-06-26: Hyde Park, London, UK",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-11-06",
+      "releases": [
+        {
+          "id": "e5787ce5-cf23-4b02-8bc7-468e95c8a27b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "7f8b2a1e-bb1e-34a9-a4d7-485f3e33f555",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "a8c322d4-5ee9-44bb-ba4c-d478582e919f",
+                  "number": "30",
+                  "title": "Human (Hyde Park)",
+                  "length": 242000
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 29
+            }
+          ]
+        },
+        {
+          "id": "b695a7d1-e42f-43c8-b486-e9e1fdc13f48",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "6c4bffb3-d320-3694-849f-479329ff3188",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "c8f4ef80-a911-4268-838d-da162c64f746",
+                  "number": "30",
+                  "title": "Human (Hyde Park)",
+                  "length": 242000
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 29
+            }
+          ]
+        },
+        {
+          "id": "f1613cd8-8d2c-3889-b2be-2df24f6c3075",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Live From the Royal Albert Hall",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f6f2403b-ce78-4333-b2b2-5c1e9863823c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the Royal Albert Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2009-11-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2009-11-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 46,
+          "media": [
+            {
+              "id": "49f6b43e-583a-33a1-844f-c93dc66d607d",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "9124c14d-e533-39c5-bfd2-9eece4121015",
+                  "number": "26",
+                  "title": "Human (live from Hyde Park, London)"
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54a09f9e-15d7-49cb-880c-977f6b6a26b6",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 243622,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-10",
+      "releases": [
+        {
+          "id": "e98d9a49-efc6-432d-b29b-189f3229ae4a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Indie/Rock Playlist: October 2008",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9c3a6d9d-0698-4740-99ba-2f24512d0b2d",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Indie/Rock Playlist: October 2008",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 120,
+          "media": [
+            {
+              "id": "53e00e9a-86a2-3bde-9fa2-9df914aed522",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e63d25f3-17fa-4895-9007-5e7cddd4ee49",
+                  "number": "40",
+                  "title": "Human",
+                  "length": 243622
+                }
+              ],
+              "track-count": 120,
+              "track-offset": 39
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0677867-756d-456d-bcdf-f2c7f0dff444",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011",
+      "releases": [
+        {
+          "id": "77ef4c2f-ee82-4bf5-8cc7-9f3fe1163bbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Fit: The Soundtrack to Your Fitness",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe32b023-7f1d-4f22-8a7d-ce0ea7cad4d1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Fit: The Soundtrack to Your Fitness",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 80,
+          "media": [
+            {
+              "id": "3bf9f40a-a490-3f65-8187-5e70a837164f",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "16f3e967-bf3e-4e1f-adbf-f7a4595ad1c8",
+                  "number": "15",
+                  "title": "Human"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "415761d6-43dd-4701-85b1-5c47616908cb",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 245000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-05-05",
+      "releases": [
+        {
+          "id": "869e5e89-1118-4dc1-89cd-0a4be913040b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Disco estrella, Vol. 12: Los aut\u00e9nticos \u00e9xitos del verano 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "724afe4f-ff16-427d-9fe5-19f0afdc7a73",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Disco estrella, Vol.12: Los aut\u00e9nticos \u00e9xitos del verano 2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-05-05",
+          "country": "ES",
+          "release-events": [
+            {
+              "date": "2009-05-05",
+              "area": {
+                "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+                "name": "Spain",
+                "sort-name": "Spain",
+                "iso-3166-1-codes": [
+                  "ES"
+                ]
+              }
+            }
+          ],
+          "track-count": 60,
+          "media": [
+            {
+              "id": "f2304597-1354-3c8d-9c08-831e5be364b6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9b398b81-398d-44f1-9e53-5a3e24e151d5",
+                  "number": "2",
+                  "title": "Human",
+                  "length": 245000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69bd0863-c3b4-4849-930f-b0c4997fb1ef",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 245493,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "42994126-a013-403d-951e-22609a132d7b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Triple J: Hottest 100 of 2008",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac2fa2a6-c4fe-41a2-b143-51ecd7e722b3",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Triple J: Hottest 100 of 2008",
+            "primary-type": "Broadcast"
+          },
+          "date": "2008",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "579785a7-275d-36c8-80f6-8eef7bf3d20e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "89284052-41b3-464b-90a8-e55c60008a1d",
+                  "number": "52",
+                  "title": "Human",
+                  "length": 245493
+                }
+              ],
+              "track-count": 100,
+              "track-offset": 51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "429ba32f-62c0-4095-910f-472ac17ac81f",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 246000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-01-01",
+      "releases": [
+        {
+          "id": "2f4b3200-c3aa-496a-b7d3-e865d936f65c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "F\u00e9rias",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "886faee1-d0cd-48b6-8183-68748b6f8aaf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "F\u00e9rias",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "5f33508c-b506-3069-8599-56ee10f36062",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e930fa24-e878-4ba3-bb1d-eafcd7dff0d4",
+                  "number": "21",
+                  "title": "Human",
+                  "length": 246000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 20
+            }
+          ]
+        },
+        {
+          "id": "0430638d-8612-4364-afa4-bb4161bb0dae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Human",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6430473-94c8-3fe8-b81c-baeb55945185",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Human",
+            "primary-type": "Single"
+          },
+          "date": "2008-01-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2008-01-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "82b9da7d-4ac6-3982-b525-66f81d19d8c9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d7d3a1f7-d915-453a-aec5-f43fa5952ae7",
+                  "number": "1",
+                  "title": "Human",
+                  "length": 246027
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USUM70837367"
+      ]
+    },
+    {
+      "id": "095496c3-a1b6-48d6-af5e-f9b325cfeb2a",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 245832,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "882286b0-43ac-4ed3-b045-18208cc1f863",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2021-03-31: Cisco Event, San Jose, CA, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c54cd0e4-3cf6-4357-b78e-730281dbf035",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2021-03-31: Cisco Event, San Jose, CA, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 6,
+          "media": [
+            {
+              "id": "29fb943f-246b-3848-913e-5ea232616f36",
+              "position": 1,
+              "track": [
+                {
+                  "id": "bedc16ac-246f-43ba-be9a-70ba4e492280",
+                  "number": "4",
+                  "title": "Human",
+                  "length": 245832
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f116c2ae-8c1e-4816-951c-1f7010bff304",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 248042,
+      "disambiguation": "live, 2019-11-21: The Orpheum, Tampa, FL",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "87fb5109-b1d7-4ebc-86d8-350b71077631",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2019-11-21: The Orpheum, Tampa, FL",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6c7c5ed3-ebf7-45ae-80d7-5e91d6a5941b",
+            "title": "2019-11-21: The Orpheum, Tampa, FL",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "97d6b403-c375-34e0-9352-8e1f98136de6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f2fdae57-9a8b-4e02-8d67-e9ffb295ba25",
+                  "number": "7",
+                  "title": "Human",
+                  "length": 248042
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "955595e1-3a13-48a7-9b2e-7b07036b9a30",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "Human",
+      "length": 243826,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021",
+      "releases": [
+        {
+          "id": "82b36e3c-06ef-411f-abde-ee7a314a0da5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Die Ultimative Chartshow - Silvesterparty-Hits",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7edff5da-61a1-4324-a5c1-2929f57f687a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Die Ultimative Chartshow - Silvesterparty-Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2021",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2021",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 63,
+          "media": [
+            {
+              "id": "2d9ccab4-7367-4308-8b78-d3b31d214eaf",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "47366fed-6ed5-4ec0-a64d-d2ff245722f6",
+                  "number": "15",
+                  "title": "Human",
+                  "length": 243826
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "created": "2026-05-18T06:15:26.000Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3e6c0ea2-bd42-4949-9a1f-8a7c98d9a29a",
+      "score": 100,
+      "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+      "title": "Love, You're a Whore",
+      "length": 204474,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Regina Spektor",
+          "artist": {
+            "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+            "name": "Regina Spektor",
+            "sort-name": "Spektor, Regina",
+            "aliases": [
+              {
+                "sort-name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Spektor, Regina Ilyinichna",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Regina Ilyinichna Spektor",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Regina Spector",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Regina Spector",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-06-13",
+      "releases": [
+        {
+          "id": "6943892b-6561-4664-9723-cbe040e3c344",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+          "count": 1,
+          "title": "Bonnaroo 2010: Regina Spektor In Concert",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Regina Spektor",
+              "artist": {
+                "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+                "name": "Regina Spektor",
+                "sort-name": "Spektor, Regina"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1306f206-3708-44f9-9105-a92e1dfb746a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bonnaroo 2010: Regina Spektor In Concert",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "555c8bb9-8c2d-3c19-bab4-6366c0fb8954",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "95c445ec-9c09-4042-ae70-ed922a81cef3",
+                  "number": "19",
+                  "title": "Love, You're a Whore",
+                  "length": 204474
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6c21f9a-1edd-402e-879f-b5316d953a00",
+      "score": 100,
+      "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+      "title": "Love, You\u2019re a Whore",
+      "length": 195960,
+      "disambiguation": "live, 2009-12-04: London, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Regina Spektor",
+          "artist": {
+            "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+            "name": "Regina Spektor",
+            "sort-name": "Spektor, Regina",
+            "aliases": [
+              {
+                "sort-name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Spektor, Regina Ilyinichna",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Regina Ilyinichna Spektor",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Regina Spector",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Regina Spector",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-11-19",
+      "releases": [
+        {
+          "id": "2ca7c4a7-31b7-43e2-8a97-aafd1b78d239",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+          "count": 1,
+          "title": "Live in London",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Regina Spektor",
+              "artist": {
+                "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+                "name": "Regina Spektor",
+                "sort-name": "Spektor, Regina"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce4d29aa-6347-402e-8cd0-81aa5909ba10",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "02d1c521-1aff-3757-bb3c-27773496c985",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d64c4cbb-0345-4c3e-82c1-8ea10a7583ba",
+                  "number": "23",
+                  "title": "Love, You\u2019re a Whore",
+                  "length": 195960
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 22
+            }
+          ]
+        },
+        {
+          "id": "43991899-c8fe-46a1-8f5f-001c17dec8c7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+          "count": 1,
+          "title": "Live in London",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Regina Spektor",
+              "artist": {
+                "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+                "name": "Regina Spektor",
+                "sort-name": "Spektor, Regina"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce4d29aa-6347-402e-8cd0-81aa5909ba10",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-11-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-11-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "87e0b326-e285-3936-ab84-4aaa87032a44",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cd4d6047-f6c4-480b-a614-cb8c2e70c870",
+                  "number": "22",
+                  "title": "Love, You\u2019re a Whore",
+                  "length": 195960
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 21
+            }
+          ]
+        },
+        {
+          "id": "80b7d5fa-cae2-453e-9080-89cbfb6bc448",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+          "count": 1,
+          "title": "Live in London",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Regina Spektor",
+              "artist": {
+                "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+                "name": "Regina Spektor",
+                "sort-name": "Spektor, Regina"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce4d29aa-6347-402e-8cd0-81aa5909ba10",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-11-22",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2010-11-22",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "3f092bdb-92c8-3e64-b815-6d70f83a8887",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e041eb51-a796-38c2-91cf-4175c575fbf0",
+                  "number": "22",
+                  "title": "Love, You\u2019re a Whore",
+                  "length": 195960
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 21
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USWB11002862"
+      ]
+    },
+    {
+      "id": "db17f8b7-8ca9-496c-be23-b79e82755621",
+      "score": 100,
+      "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+      "title": "Love, You're a Whore",
+      "length": 245000,
+      "disambiguation": "live, 2009-09-15: Michigan Theater, Ann Arbor, MI, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Regina Spektor",
+          "artist": {
+            "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+            "name": "Regina Spektor",
+            "sort-name": "Spektor, Regina",
+            "aliases": [
+              {
+                "sort-name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u857e\u5409\u5a1c\u00b7\u53f2\u6d3e\u514b\u7279",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30ec\u30b8\u30fc\u30ca\u30fb\u30b9\u30da\u30af\u30bf\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Spektor, Regina Ilyinichna",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Regina Ilyinichna Spektor",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Regina Spector",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Regina Spector",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u0420\u0435\u0433\u0438\u0301\u043d\u0430 \u0418\u043b\u044c\u0438\u0301\u043d\u0438\u0447\u043d\u0430 \u0421\u043f\u0435\u0301\u043a\u0442\u043e\u0440",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "e414ba3b-066e-4ded-8844-b6f86649046a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e71f8c23-d43a-36c6-9197-fd0aba043e6a",
+          "count": 1,
+          "title": "2009-09-15: Michigan Theater, Ann Arbor, MI, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Regina Spektor",
+              "artist": {
+                "id": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+                "name": "Regina Spektor",
+                "sort-name": "Spektor, Regina"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "65d95edb-e00c-4166-87cd-a71bd3d7faf7",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2009-09-15: Michigan Theater, Ann Arbor, MI, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 25,
+          "media": [
+            {
+              "id": "47937447-b814-3750-9bef-c75a5e008f6b",
+              "position": 1,
+              "track": [
+                {
+                  "id": "925cd6af-ae64-3b83-b49a-a9961edb3e94",
+                  "number": "25",
+                  "title": "Love, You're a Whore",
+                  "length": 245000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

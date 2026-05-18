@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T05:58:34.438Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1616eda7-1b26-468d-b8a2-ea8ed0910a54",
+      "score": 100,
+      "artist-credit-id": "7764a203-56b4-30a6-b4a0-d4c10f5e936e",
+      "title": "Ready to Call",
+      "length": 220000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Xcerts",
+          "artist": {
+            "id": "f0468734-9ae8-4701-bb18-42c4a162115a",
+            "name": "The Xcerts",
+            "sort-name": "Xcerts, The"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-22",
+      "releases": [
+        {
+          "id": "abefc1c4-f6c9-4622-85c5-f64a4e197ee4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Wildheart Dreaming",
+          "status": "Official",
+          "release-group": {
+            "id": "62dfd147-1f9f-4fd3-a470-77103bf97ac2",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Wildheart Dreaming",
+            "primary-type": "EP"
+          },
+          "date": "2019-03-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "d3ca52f6-27d4-3cba-9914-82771ef8b168",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "26429319-a214-4209-b826-2ee679340754",
+                  "number": "2",
+                  "title": "Ready to Call",
+                  "length": 220000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

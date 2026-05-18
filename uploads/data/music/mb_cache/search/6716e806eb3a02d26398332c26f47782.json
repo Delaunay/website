@@ -1,0 +1,5123 @@
+{
+  "created": "2026-05-18T06:35:26.515Z",
+  "count": 24,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d3883614-ca64-4674-aa13-39a36f449a66",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 240160,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "09ade288-bee7-45a5-b37c-837dfa52c115",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Greatest Hits Part I & Part II",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fa2f28ad-ae2e-440d-8555-9c581940078e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "b4bb31d0-6147-3999-86c2-934f179e44bc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b7be8da6-97f4-4ebd-ab33-3548e943d999",
+                  "number": "10",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "bcce51ff-7fae-4b4d-98f1-771f1c767f14",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Greatest Hits Part I",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fa2f28ad-ae2e-440d-8555-9c581940078e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "a5289b32-a0e4-3921-a510-62cedef2f635",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "002947b2-c6d4-491e-8009-48d1aa5ce301",
+                  "number": "10",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        }
+      ]
+    },
+    {
+      "id": "1cd47b7f-7de1-4acc-9694-8f6ca9e9a6e9",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 225000,
+      "disambiguation": "live, 2012-06-24: Orion Music + More 2012, Bader Field, Atlantic City, NJ, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-06-24",
+      "releases": [
+        {
+          "id": "d3cd1eeb-e03f-4ed7-81c3-f4dc7e37c3b5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "2012-06-24: Orion Music + More: Bader Field, Atlantic City, NJ, USA",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "73788cb9-2f9a-4ba1-b58b-6c801285bb7d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2012-06-24: Orion Music + More: Bader Field, Atlantic City, NJ, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2012-06-24",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-06-24",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "96a2a815-d7ae-3427-8e62-22fbd489bbd7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ab4e469a-13b2-4b17-a8a5-5caf92ebce3d",
+                  "number": "14",
+                  "title": "Don't Tread on Me",
+                  "length": 225000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05e58389-3132-47ea-b044-4a9212d92b4c",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 228786,
+      "disambiguation": "live, 2012-05-10: Sonisphere Poland 2012, Lotnisko Bemowo, Warsaw, Poland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "41acc73b-62e6-4d43-a474-5d2be524bfff",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2012-05-10: Sonisphere - Bemowo Airport, Warsaw",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8d1fd69c-9ea3-46c2-b75d-e0f0c0ed3291",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2012-05-10: Sonisphere - Bemowo Airport, Warsaw",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "9ff18fee-585e-34a0-85c0-68f70f2c2a0c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "207f9cd6-6437-4cfb-acf5-e44927f14b4a",
+                  "number": "14",
+                  "title": "Don't Tread on Me",
+                  "length": 228786
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2475b75b-3e00-4709-a32b-69761fa2cac2",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don\u2019t Tread on Me",
+      "length": 248836,
+      "disambiguation": "demo: 1990-07-12",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-09-10",
+      "releases": [
+        {
+          "id": "f9970d6f-5213-4497-ae68-e363fbfcba36",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 11,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 193,
+          "media": [
+            {
+              "id": "59495474-e871-3b6a-b04f-43625a7d931d",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6c264734-74d7-491f-a91f-36349c86d392",
+                  "number": "24",
+                  "title": "Don\u2019t Tread on Me (July 12th, 1990, demo)",
+                  "length": 249000
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 23
+            }
+          ]
+        },
+        {
+          "id": "ff884544-7a74-4050-90f6-43292a8b02e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 24,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 340,
+          "media": [
+            {
+              "id": "70ab3230-7871-3724-9af0-dde05235e987",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "721abefd-a1b6-416c-95e3-3b7837d398ec",
+                  "number": "24",
+                  "title": "Don\u2019t Tread on Me (July 12th, 1990 demo)",
+                  "length": 248826
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 23
+            }
+          ]
+        },
+        {
+          "id": "1f641922-f9a7-4a6b-8351-74c27812f94f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 11,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 193,
+          "media": [
+            {
+              "id": "49560570-1b48-3023-a475-ce08fea1315e",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4185f09a-a3b6-44d7-a930-521ec15e750e",
+                  "number": "24",
+                  "title": "Don\u2019t Tread on Me (July 12th, 1990 demo)",
+                  "length": 248836
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 23
+            }
+          ]
+        },
+        {
+          "id": "11c5d045-ef45-4aaa-ba38-e43fd82a6345",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 14,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe boxset",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 193,
+          "media": [
+            {
+              "id": "ec794837-12a6-3892-b1ca-fea3ccb5e011",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0ac97d52-22a5-4197-88cb-9a544b8ff4e6",
+                  "number": "24",
+                  "title": "Don\u2019t Tread on Me (July 12th, 1990 demo)",
+                  "length": 248837
+                }
+              ],
+              "track-count": 32,
+              "track-offset": 23
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM1900064"
+      ]
+    },
+    {
+      "id": "9dff5d74-a169-486a-ab55-ef225535177d",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 227000,
+      "disambiguation": "live, 2012-06-06: F\u00e6ngslet, Horsens, Denmark",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "86348cc2-d4d4-4b8a-8f80-3fcd97176ec5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2012-06-06: State Prison Open Air, Horsens, DNK",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b9906ee8-27c3-4283-8a0c-113b08235b23",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2012-06-06: State Prison Open Air, Horsens, DNK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "77515798-5a20-3ee7-a5ea-71e90090e7ac",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2241ff18-dfa6-4d8a-ab92-e1ee9e4d4b3f",
+                  "number": "13",
+                  "title": "Don't Tread on Me",
+                  "length": 227000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a130f313-bb4c-49dd-812e-976c88afa28c",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don\u2019t Tread on Me",
+      "length": 240293,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1990",
+      "releases": [
+        {
+          "id": "6f901c11-61d2-46d4-a8db-4240afdb70b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "BIEM/MCPS, made in France by PMDC",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6fcf3c88-e354-492b-926b-c355155e57c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "05d7dcf3-0a18-43de-86ec-9adcaae955d0",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ac94f3fc-6a51-4a4b-87b5-51e1538de6c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "repress - wea mfg. Olyphant",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e4818f77-a91e-40cc-8fde-fbce9112fdd6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ea666966-d366-4bfc-a5a4-e1aa4f605ab8",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ed6d1e90-79db-4ac6-a865-d409a3589140",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "8957a58a-3de8-316c-bf29-ca81249df708",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a5cd5877-9882-4f99-b10a-d846b7cc7614",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240280
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f3b74ccb-7a04-4900-997a-82640f8b9b81",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered 2021",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5a58f42a-eb31-4f69-9ace-45f29906963a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7de920e4-4a76-4f26-9deb-5098da42e8f1",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "dac6d29f-52e7-4ba3-b13d-0e18841ee2fd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "Made in Germany by EDC",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9694ba86-871c-41b7-aff6-672db71b2c3c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2f353018-c04c-46a9-9848-ea8a7fc5c34c",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "6fb7529f-6c88-436b-ba28-ea5af4315863",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "191a90a0-4a2d-4605-afa8-fade5d0e8144",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "e4393d59-3353-4301-a1b3-c7efd0c8058d",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 239000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "6d4cecbb-d460-48e5-b0dc-0d385486757f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "95420912-91b7-37ca-a679-4e274a889d2a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "72607b35-d581-4c6d-bfb8-20f68280c656",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bb0f7bfe-b3d5-4f38-bcf2-f36aa5846db1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered 2021",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "82223621-7634-3bde-9656-2cb9124c1357",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7efb0b00-fbb8-4249-bfb2-d365911aae15",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "50d7aeb0-02fa-4fd9-ae3f-2868d24b9e50",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2000",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2000",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2000",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "983ebae1-726d-47ca-a578-d5633343851b",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b78aa227-0fed-4fd6-a8cf-7c40e57e6f41",
+                  "number": "B3",
+                  "title": "Don't Tread on Me",
+                  "length": 239000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ff884544-7a74-4050-90f6-43292a8b02e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 24,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 340,
+          "media": [
+            {
+              "id": "796250a7-2ccb-3fb6-a1a0-8143310c9370",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1fab4c03-55bb-4ef8-8b4f-6ad2b214d9f0",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240280
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "509c9682-9d95-40b3-afd2-ad1f24335147",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "Sony DADC",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1da271e7-611d-300b-a3a0-2d9dbe23c02c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "99f9b296-823b-455a-8052-76e1ffb52109",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a8718c50-b489-43d3-ae2a-1af14ea51f47",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2020-04-03",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2020-04-03",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2020-04-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "82328aba-a8ac-3f05-8466-4eaffbe90c1f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "34dec5d5-c87a-4615-a489-478ab4aea41a",
+                  "number": "6",
+                  "title": "Don't Tread on Me",
+                  "length": 241000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3fa8057f-9637-49c4-9088-c8d4f6c2388c",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "bd071100-fd99-3d74-a555-c6281f4f939e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "52bf87e7-0877-4305-9916-289a1b74c0e6",
+                  "number": "6",
+                  "title": "Don't Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "d87a6b90-7a9e-4ca1-a170-194bf443e2e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08-12",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1991-08-12",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "bf1dcd3c-9231-3537-8617-d7564b63312c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "14691305-ce0b-40f4-b160-278d7e0acdf1",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "feed811b-3ef5-4a49-9341-2e5606c38c45",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5bb1a0f9-9aee-3079-b1f9-376ed0f322fa",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "0414c224-7e44-41db-a037-a6003d784b65",
+                  "number": "B3",
+                  "title": "Don't Tread on Me",
+                  "length": 239000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "8e32b21d-8312-4aa5-bb4a-fa99a4f47c02",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2ab81e2d-9338-3046-8d73-e5cb92462808",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "0186488f-2629-4357-af2f-2c2b8b353e45",
+                  "number": "B3",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 239000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ff884544-7a74-4050-90f6-43292a8b02e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 24,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 340,
+          "media": [
+            {
+              "id": "7a9d24e8-9ec0-3b1a-ab6d-5626df67bedd",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "e8561278-992a-41c5-862f-190b1ab7a7b1",
+                  "number": "B3",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "7e9e78e7-f585-3f03-8e2a-90a13d34eac0",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f3e29ef9-f4e1-482f-a0ee-06b6ae1b7029",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c451d47d-08c8-4aea-874c-513e55f8348b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1f46017d-c74a-37be-b1e5-b04e43774c27",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3be20298-6626-4e28-9a9d-cc26599f53c4",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "2114e243-5dd8-46a5-8695-e2178106dc24",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "1993 Australian tour gold signature edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1993",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1993",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "cd01264c-7cfe-3cbc-98f3-23cfdd332194",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6ad033a4-7155-4d08-8a79-90352c975960",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240200
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a5386326-dbf0-4010-93d7-7c6b11961023",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "made in UK",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1993",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1993",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "b2be1bd0-bfc3-3a29-b0c4-b3084d42baef",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d3ef5c70-7a8c-480b-aada-abe701539711",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240200
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "8762ff94-ef39-467f-bbd6-74a1686db4fd",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "disambiguation": "made in Brazil",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "cffd7f90-924b-3e31-b15d-8d41ff8df518",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9275d0f3-11a8-4829-9b04-aa810f023a8d",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240400
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4ffe8f1b-3fc4-4b6c-a750-00f1b50429e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "32ffdfd9-2d64-3e3b-8f5b-8acb018ae00f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2311d9cd-e1b8-4366-97c2-dfa3d1f19e2a",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "08c657b8-f5d0-4c9c-803d-9fe676dffcff",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "8a504c5b-6dee-32e4-938a-699d5db5fa13",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "e9ea0dbb-f209-419b-8725-bb6f39d157df",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "91537824-13ba-4d1f-95b7-7007f9c9d861",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008-06-05",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2008-06-05",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "4ce0764c-763e-33ec-a613-90eff82f2169",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "22ff7093-3723-45bb-ad08-c342af550d80",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f6d93f15-bec5-4c6f-acf1-3fbbb93dbb6a",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2010-06-22",
+          "country": "RO",
+          "release-events": [
+            {
+              "date": "2010-06-22",
+              "area": {
+                "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+                "name": "Romania",
+                "sort-name": "Romania",
+                "iso-3166-1-codes": [
+                  "RO"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "31e698d1-c334-3e1e-83d2-4e308d6e76ed",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f5b73451-86f5-4a1b-9c42-8ada7ec40194",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f9970d6f-5213-4497-ae68-e363fbfcba36",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 11,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 193,
+          "media": [
+            {
+              "id": "082e1448-0b13-3694-a759-e1da264780b5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f376030c-f2e1-48c2-a2ad-2df2235b5287",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "94077c2e-a5ca-437f-97ce-af21455fbeaa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "no printing circling on outside edge of medium rim",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08-12",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1991-08-12",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "faef9e2f-63bc-3b8d-9fdb-5f4d4ad125a3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1bdce067-b6d0-47a7-a05f-5683d49e94ae",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240293
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "67fc2b8e-9a31-3905-b424-45f97c7a795c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2009-02-16",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-02-16",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2009-02-20",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2008",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6e97bdcd-9294-3402-9b01-55cc3e1faa6d",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b3e93800-79c2-3913-8b85-cf6706c3dde5",
+                  "number": "E1",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e33609a4-fcda-4ebe-b845-b6503a6c0405",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1991-08",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c6abccf7-56fd-3e95-a8bc-592413f95b6d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "45f8af94-1a28-32d9-9d1a-74bd0183c1d6",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "15e19751-05cd-49c6-a27b-17f0747d35af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "404af2c0-2817-300a-8e5f-edf77d556d2c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ee37d777-af06-4c83-b8ea-ad5e751abec6",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240280
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ab554be9-18aa-416f-8e9c-fded080763ec",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "ef04fabd-a2d7-332a-85f1-4099777bca86",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "45f01ed5-9667-4144-aef0-854893cb1169",
+                  "number": "6",
+                  "title": "Don't Tread on Me",
+                  "length": 240280
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "1f641922-f9a7-4a6b-8351-74c27812f94f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 11,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 193,
+          "media": [
+            {
+              "id": "69c827da-c161-37ba-9148-7da2c02cd761",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e61b03c4-f55f-422a-a4a5-3eee9aadc317",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b9548f89-8fbf-4072-bb20-80a63a71550c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "575c57f1-3290-34ac-a3d1-7a115d60ceeb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "29e93ca7-4168-407f-a133-9e2df93adc8e",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240280
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3748b24d-aae7-4036-9767-53a436b9496e",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "disambiguation": "misprint on back cover",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6b275a94-9cc8-3dea-8a80-52ce1416010e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cd2a5b3f-9733-4b10-af9f-cddbc7f08fc7",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "0b5931cf-9157-4923-a216-7ee4497beb5c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "79ac3557-66f8-3bd0-a7df-192ea382269f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b4592b32-9fff-4179-a714-4ca8ec139c96",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "db448a83-cc4b-45c7-abdd-8524ed9969e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "3067b9d1-e752-3e5b-bc1c-ebf341d0e7c3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "73fc5321-285e-43fe-8db7-2437336ea280",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "11c5d045-ef45-4aaa-ba38-e43fd82a6345",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 14,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "remastered deluxe boxset",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2021-09-10",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2021-09-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 193,
+          "media": [
+            {
+              "id": "fab26353-1322-3ea6-92ea-b2c5ef431f31",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "933aad2e-5e38-4459-b0a3-e41e087ad972",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a1f19b41-d640-4771-bcfd-c7f803761351",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "eb720028-8533-346c-b38e-495541c9c1f9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fc20f0bc-6c85-4e50-a3d7-ea33d6739b94",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "2378c442-260e-4c03-ba0c-f75eb2fbc1a5",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "f6e53347-2482-3908-8550-7ac075d02eea",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "72a65103-161e-4c0e-82b9-de8c856c84bb",
+                  "number": "A6",
+                  "title": "Don't Tread on Me"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "debe967f-4f6b-427c-8efb-64d6804fb19b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "In Vertigo You Will Be",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a99d37ec-0ad0-42c7-8028-957a81c80736",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "In Vertigo You Will Be",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1990",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1990",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "aa068aa1-22c4-3774-930f-43fa28ab2f05",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b012efb2-c1ed-4e4f-bfd6-2a97d7b53fbd",
+                  "number": "6",
+                  "title": "Don't Tread On Me"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "d955052e-d370-434b-8d52-fc96f2c60541",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "56351d3f-b90d-3499-9780-c49efd86c82f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "a8ef1cb5-a121-43a5-b549-86a9c6b28c44",
+                  "number": "B3",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f241fc96-6f6c-44a8-bfb7-4b880f347470",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2012-12-03",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2012-12-03",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2012-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "7ef33912-b1f9-37dc-b2f1-8a406df354df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5a32b426-9e5e-4b43-a8bd-9fc21fd01b17",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240533
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "264b958d-e9fd-4cde-9759-e9d40df12a94",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "disambiguation": "Made in Germany",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2b18a377-daf2-3cf2-ac3d-816dd508dad6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "06144e25-e50c-4ade-946e-62d66f148f32",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "68d2419f-e55d-42ff-8a7a-a8ed079df0c9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2011-11-02",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2011-11-02",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "993ef75b-9e31-38f8-8722-5c94c27ff8f0",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "a0f5ba90-ba86-438e-a280-07be0832082a",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "56bb94dc-9e63-4e79-a41c-db0d40f12475",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5ca655f7-b2c0-303e-a756-1354dc40184e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7139429c-6263-4579-964c-bceaee42e46b",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ee1fdc9b-a3a2-4140-aa12-a07073f1621f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2013-09-24",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-09-24",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c0b64af7-debc-30ba-a67a-749ead8f31be",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6904dac1-b040-4e0c-b518-de8be1952aeb",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "af4f69e8-1643-3b5a-94ba-a0269f8e3c77",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2008-11-28",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-11-28",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "78db8da2-ad1e-3e11-87bf-20a38e2b223d",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "5d6c3aaf-0387-34da-96b8-0571f48e479a",
+                  "number": "E1",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6e729716-c0eb-3f50-a740-96ac173be50d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "d490a044-6bd5-3a78-a647-99ec46777815",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "5c4a12c1-85ac-3673-b5d9-8dc5c5642fca",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240666
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "64b1eb34-0981-49d8-93fd-f93a6c77ea29",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1106d6fd-d3f2-33c6-8194-8573f2f3f2a1",
+              "position": 1,
+              "format": "DVD-Audio",
+              "track": [
+                {
+                  "id": "619d5c36-488e-3da1-a903-087320f4dc77",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4bc28473-5211-387c-8898-74631bc9e040",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "a7e1535f-41f6-3808-aa85-062bc50f3243",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "654004de-5867-387d-800a-0758ee90fb73",
+                  "number": "A6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3750d9e2-59f5-471d-8916-463433069bd1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1991-08-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ac8fa9e2-4bde-3dcb-a04f-fa7517a095a7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "988ab936-1184-345c-bebe-82a6ea20f0fb",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "2529f558-970b-33d2-a42c-41ab15a970c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08-12",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1991-08-12",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "199080de-4dff-315d-8d7d-5647e43ec595",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8167cdc4-b6c5-330a-b3cc-3bc3195062cf",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "05678d96-23f6-4dae-b994-53c3ff4dede0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-09-02",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1991-09-02",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "d1fb248c-bd01-3a4b-bd44-03182fd9dae6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a59866d8-92e7-4cec-a409-b1dd307b48f7",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4c0d2e3a-0049-3d6a-ad84-db77165412db",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3354c824-b50e-33e2-b979-4d96a96e09c8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "184c6a63-9de6-35b6-bcc6-eebe5af99334",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240173
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "69a8ca83-a182-3375-a702-a30e216748c9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08-12",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1991-08-12",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "7c8ca99c-53e0-3f54-8f4f-f56844142cdd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a3499148-9ac4-31c9-9061-de264a1b98b6",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fd93fc3f-128c-40d6-979b-60bcca8db05c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1991-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "0e8a5593-e1ad-3cca-867f-92921c2005c2",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b6eede32-d5a8-4c08-ac99-11775f6f74db",
+                  "number": "B3",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 239000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "1398514b-dd55-30bf-817f-b637fc612350",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "27ee5870-9c76-36f6-ae94-83f617b4870b",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "eb241c32-04bd-3340-b26d-ff819636ef69",
+                  "number": "B3",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4005d28d-7c24-4eec-aa7f-695fef776262",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "date": "1991",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6f1fa5d9-ac16-3cb0-87b6-7d9ed1dd2c00",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "de761348-1764-4a25-bfc2-2823e7d1ea35",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "e1b9955c-2295-45ed-a7d0-ddbcea02e25b",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Metallica",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8f70201-8899-3f0c-9e07-5d6495bc8046",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Metallica",
+            "disambiguation": "\u201cThe Black Album\u201d",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2f0e7f85-013c-38ef-9a7f-a4d01bbbc922",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "71a406cb-65dc-4dc5-b447-94fc87c5c7e2",
+                  "number": "6",
+                  "title": "Don\u2019t Tread on Me",
+                  "length": 240333
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM1900223",
+        "QMKHM1900006",
+        "USEE10001997",
+        "GBF089190018"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "political"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 13,
+          "name": "heavy metal"
+        },
+        {
+          "count": 4,
+          "name": "thrash metal"
+        },
+        {
+          "count": 4,
+          "name": "metal"
+        },
+        {
+          "count": 0,
+          "name": "i own this"
+        },
+        {
+          "count": 1,
+          "name": "war"
+        },
+        {
+          "count": 6,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy"
+        },
+        {
+          "count": 0,
+          "name": "thrash"
+        },
+        {
+          "count": 2,
+          "name": "speed metal"
+        },
+        {
+          "count": 1,
+          "name": "groove metal"
+        },
+        {
+          "count": 1,
+          "name": "hardrock"
+        },
+        {
+          "count": 0,
+          "name": "rock pop"
+        },
+        {
+          "count": 0,
+          "name": "trash metal"
+        },
+        {
+          "count": 1,
+          "name": "aggressive"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "rhythmic"
+        },
+        {
+          "count": 1,
+          "name": "traditional heavy metal"
+        }
+      ]
+    },
+    {
+      "id": "876803f1-2a84-47a8-8f46-efa6c4510713",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 238489,
+      "disambiguation": "live, 2021-10-10: Aftershock 2021, Discovery Park, Sacramento, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-10-10",
+      "releases": [
+        {
+          "id": "2daf0899-eb90-404d-9bbd-e5176dd15626",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2021-10-10: Aftershock at Discovery Park, Sacramento, CA",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a0f61cab-0436-45fa-8a8b-ded74a529a76",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2021-10-10: Aftershock at Discovery Park, Sacramento, CA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2021-10-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-10-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "ea968050-c8ce-3d65-96c9-ca0c101a8935",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d7dab0cd-895f-49ef-8c87-887d7821d4f6",
+                  "number": "10",
+                  "title": "Don't Tread on Me",
+                  "length": 238489
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c8ed09f0-095a-445d-a82f-4292d1bf1dfd",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "disambiguation": "live, 2021-11-14: Welcome to Rockville 2021, Daytona International Speedway, Daytona Beach, FL, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-14",
+      "releases": [
+        {
+          "id": "9646c875-3b98-4f41-b4b5-ee63a6ab9e06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "2021/11/14 Daytona Beach, FL",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4479f6a3-76a6-4be3-984b-ecbe33f9965b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2021/11/14 Daytona Beach, FL",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2021-11-14",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2021-11-14",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "149ae057-823f-3899-b735-5fea1f254511",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a3253a77-f9fd-424f-a361-ba4b5829e38a",
+                  "number": "10",
+                  "title": "Don't Tread on Me"
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "339ef041-3c8b-41ca-94de-3719e51b409f",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "disambiguation": "live, 2012-05-13: Stadio Friuli, Udine, Italy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "12759027-3c07-4480-9219-ad24bc236e02",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Udine",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1da8f592-17c8-4419-a109-d1f8ab486d68",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Udine",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "c6b9a9d2-f555-3e7e-a67a-6e948f9d8a14",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "082ba10c-a498-4e8e-b967-04885a5e9cff",
+                  "number": "13",
+                  "title": "Don't Tread on Me"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3078e35b-9624-4c4c-bd99-b5ecbeb00531",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Don't Tread on Me",
+      "length": 222458,
+      "disambiguation": "live, 2012-06-04: Sonisphere: Kalasatama, Helsinki, Finland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-06-04",
+      "releases": [
+        {
+          "id": "8273a144-fa1d-40b4-a18a-9176a0e86c8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "2012-06-04: Sonisphere: Kalasatama, Helsinki, Finland",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c3330df2-8e48-4c6b-8f19-34e099d85710",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2012-06-04: Sonisphere: Kalasatama, Helsinki, Finland",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2012-06-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-06-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "9bcac035-3716-368e-a405-fe64e88e031b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "32b2da6e-1d7f-33ca-af5b-e088f2b35517",
+                  "number": "13",
+                  "title": "Don't Tread on Me",
+                  "length": 222458
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

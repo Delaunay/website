@@ -1,0 +1,436 @@
+{
+  "created": "2026-05-18T05:39:05.316Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7dbe6fa0-00f9-4bc9-910f-109a6e6ca1db",
+      "score": 100,
+      "artist-credit-id": "d4f3e064-5bae-37cc-8672-f9d89b69e7ad",
+      "title": "Blizzard",
+      "length": 388280,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fauve",
+          "artist": {
+            "id": "f9e318ec-3c3f-4f20-9b37-d7bab24224a4",
+            "name": "Fauve",
+            "sort-name": "Fauve",
+            "disambiguation": "\u2260, collective from Paris"
+          }
+        }
+      ],
+      "first-release-date": "2016-03-16",
+      "releases": [
+        {
+          "id": "3006c665-c2d3-4c66-be84-3e0116edb102",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Un printemps 2016",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "aff115fa-7601-4d6e-9c2f-4439745fb526",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Un printemps 2016",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-03-16",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2016-03-16",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7014aa80-32f5-3225-8594-5d447ac35ff8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fe0d24a6-34d9-4eaa-8e44-6d37e30c9202",
+                  "number": "12",
+                  "title": "Blizzard",
+                  "length": 388280
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fd990544-048d-4c78-ba56-9a3af5f41795",
+      "score": 100,
+      "artist-credit-id": "d4f3e064-5bae-37cc-8672-f9d89b69e7ad",
+      "title": "Blizzard",
+      "length": 386000,
+      "disambiguation": "live, 2015",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fauve",
+          "artist": {
+            "id": "f9e318ec-3c3f-4f20-9b37-d7bab24224a4",
+            "name": "Fauve",
+            "sort-name": "Fauve",
+            "disambiguation": "\u2260, collective from Paris"
+          }
+        }
+      ],
+      "first-release-date": "2016-03-31",
+      "releases": [
+        {
+          "id": "76ad9e8d-977d-45c4-9747-f6d28d7bb63c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "150.900",
+          "status": "Official",
+          "release-group": {
+            "id": "0d8e2e42-2f75-4b82-adfb-de2c3eefc616",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "150.900",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2016-03-31",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2016-03-31",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "8dc02a5e-e996-3494-8e15-e6db2092d50e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d0c42371-af0b-4158-955b-18095cc42c4a",
+                  "number": "28",
+                  "title": "Blizzard (live 2015)",
+                  "length": 386000
+                }
+              ],
+              "track-count": 37,
+              "track-offset": 27
+            }
+          ]
+        },
+        {
+          "id": "7e4173c0-6461-4c57-8aab-10a71aa9c6eb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "150.900",
+          "status": "Official",
+          "release-group": {
+            "id": "0d8e2e42-2f75-4b82-adfb-de2c3eefc616",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "150.900",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2016-04-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2016-04-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "29188c77-d569-34a6-9e0a-889b3a8ca3ac",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9fc7074e-a26e-4790-928c-60a5087c0e96",
+                  "number": "10",
+                  "title": "Blizzard (live 2015)",
+                  "length": 386000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46eff2d9-109a-403a-9105-56d6c35c64d4",
+      "score": 100,
+      "artist-credit-id": "d4f3e064-5bae-37cc-8672-f9d89b69e7ad",
+      "title": "Blizzard",
+      "length": 288000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fauve",
+          "artist": {
+            "id": "f9e318ec-3c3f-4f20-9b37-d7bab24224a4",
+            "name": "Fauve",
+            "sort-name": "Fauve",
+            "disambiguation": "\u2260, collective from Paris"
+          }
+        }
+      ],
+      "first-release-date": "2013-05-20",
+      "releases": [
+        {
+          "id": "68e79487-9982-4b3b-a866-3e3a1b8035d8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blizzard (Deezer session)",
+          "status": "Official",
+          "release-group": {
+            "id": "13641b21-04e0-4638-aa48-626328a684d0",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Blizzard",
+            "primary-type": "EP"
+          },
+          "date": "2013-05-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-05-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "4ce66768-1740-3e05-8b44-acd6fcaaaf89",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "405aff1a-d7a1-4907-80da-4886a212ffd9",
+                  "number": "1",
+                  "title": "Blizzard",
+                  "length": 292000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9c505dfe-279b-441b-84cd-83d83e12abca",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blizzard",
+          "status": "Official",
+          "release-group": {
+            "id": "13641b21-04e0-4638-aa48-626328a684d0",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Blizzard",
+            "primary-type": "EP"
+          },
+          "date": "2013-05-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013-05-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "e9875b1e-36dd-3d87-855e-e5779e4fa366",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "725d7849-39b1-4684-9981-f817a466ae19",
+                  "number": "1",
+                  "title": "Blizzard",
+                  "length": 288000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "931b7224-75ee-4867-806b-05e6b9d58cdc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blizzard",
+          "status": "Official",
+          "release-group": {
+            "id": "13641b21-04e0-4638-aa48-626328a684d0",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Blizzard",
+            "primary-type": "EP"
+          },
+          "date": "2013-05-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013-05-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "c5f83321-915c-300a-b9b7-972008ffa91a",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "fe229770-c98e-4fc7-a650-73573bf9c374",
+                  "number": "A1",
+                  "title": "Blizzard",
+                  "length": 288000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "2bb526f1-2389-465d-a615-38425cd07521",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blizzard",
+          "status": "Official",
+          "release-group": {
+            "id": "13641b21-04e0-4638-aa48-626328a684d0",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Blizzard",
+            "primary-type": "EP"
+          },
+          "date": "2013-05-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013-05-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "90a40a6e-2de6-3bf5-8c05-e9ecd9cd60bc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "52a2297e-8532-4ad7-9960-71a4b8c3a0de",
+                  "number": "1",
+                  "title": "Blizzard",
+                  "length": 288000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR9W11304074"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1552 @@
+{
+  "created": "2026-05-18T06:37:01.100Z",
+  "count": 30,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "316100cb-85d4-489a-a2b1-8fb6af0d5413",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 232000,
+      "disambiguation": "official music video",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-04-23",
+      "releases": [
+        {
+          "id": "d3b5af33-f8d4-374c-a23e-1b0f1886e541",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 2,
+          "title": "Toxicity (limited edition with bonus DVD)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f50fbcb4-bfcd-3784-b4c9-44f4793e66b2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Toxicity",
+            "primary-type": "Album"
+          },
+          "date": "2002-07-15",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002-07-15",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "b5b9dcc6-8b6a-39a2-aff3-77513c01aef5",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "91228b25-e5cd-437e-9463-857ccab71164",
+                  "number": "1",
+                  "title": "Toxicity (video)"
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9df1fac2-d1bc-3ba7-ade1-c155f7ef9dd9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 2,
+          "title": "Toxicity",
+          "status": "Official",
+          "disambiguation": "limited edition with bonus DVD",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f50fbcb4-bfcd-3784-b4c9-44f4793e66b2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Toxicity",
+            "primary-type": "Album"
+          },
+          "date": "2002-04-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-04-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "1f255d92-95e2-36f6-868b-570bb5c2aaf2",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "ed182980-cc60-44d3-872d-04ed318b4c48",
+                  "number": "1",
+                  "title": "Toxicity (video)",
+                  "length": 232000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "af3e2c22-862e-4248-8b28-fb3b3a44730b",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "disambiguation": "live, 2015-04-23: Hanrapetu\u2019tyan Hraparak, Yerevan, Armenia",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015",
+      "releases": [
+        {
+          "id": "e4002c37-4815-4530-a20b-635456d82635",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 2,
+          "title": "Live in Armenia",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "77e347bc-cdb8-44bb-b592-1bf5446f5420",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Armenia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 36,
+          "media": [
+            {
+              "id": "6020a47f-0fdd-3c90-96db-d39ceff2c40d",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6667894e-b413-4fa1-b817-d538db05c085",
+                  "number": "16",
+                  "title": "Toxicity"
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1244cd58-8e25-4364-b4d5-5cf10c80e8f4",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 205000,
+      "disambiguation": "live, 2005-06-12: Download Festival, Donington, England, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "dd9abec1-3c67-471d-ba6f-82c2dde044d0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "2005\u201006\u201012: Download Festival, Donington, England, UK",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "84cd3cae-5f53-330b-ac00-b18c33d83895",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2005\u201006\u201012: Download Festival, Donington, England, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "4a1629eb-0a71-30c1-811a-97d389aa2461",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a09504fc-7f2d-329d-909a-f385c9a26508",
+                  "number": "21",
+                  "title": "Toxicity",
+                  "length": 205000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b4c66cc1-de1f-4016-8085-cba57b20cc90",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 379160,
+      "disambiguation": "live, 2002-05-22: Z\u00e9nith Ar\u00e9na, Lille, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "6ea0c3f6-ea8e-4d81-a316-67ff45685360",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "One Night in France",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "68412e2b-57be-4c03-96d9-876dacd70ac2",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "One Night in France",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002",
+          "country": "AM",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "6474fa20-e0d6-3ef2-95ce-a6f73408cd5e",
+                "name": "Armenia",
+                "sort-name": "Armenia",
+                "iso-3166-1-codes": [
+                  "AM"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "184cc33b-7f27-378e-a1e6-b8d76c254ba6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "472de4ea-c77d-43aa-a109-77bdba8d0ede",
+                  "number": "14",
+                  "title": "Toxicity",
+                  "length": 379160
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24ea77ba-18ab-4ba9-acb6-bfa660373c2c",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 233000,
+      "disambiguation": "live, 2011-10-02: Rock in Rio, Cidade do Rock, Rio de Janeiro, Brazil",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-11-02",
+      "releases": [
+        {
+          "id": "d93700c9-ea1b-46d4-9952-39b06ba161a1",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "Rock in Rio 2011",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a961486d-829c-4165-9258-64474a787e99",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Rock in Rio 2011",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011-11-02",
+          "country": "BR",
+          "release-events": [
+            {
+              "date": "2011-11-02",
+              "area": {
+                "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+                "name": "Brazil",
+                "sort-name": "Brazil",
+                "iso-3166-1-codes": [
+                  "BR"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "31b90ab1-aeab-3160-80ba-f13b55ae85da",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "34bd6ed9-a227-47ef-bda0-082e213c5129",
+                  "number": "28",
+                  "title": "Toxicity (live at Rock in Rio 2011)",
+                  "length": 233000
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2ae60e03-177f-4d86-adea-5aaa3f28a16b",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "disambiguation": "live, 2005-07-01: Palais Omnisports de Paris-Bercy, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-06-01",
+      "releases": [
+        {
+          "id": "7a93247a-ef29-41f3-bb72-80ecf5dbb039",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "Live in Paris Bercy 2005",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "03160e76-931e-43a1-be53-63017077221c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Paris Bercy 2005",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-06-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-06-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "5763a8f7-c7d9-3dca-836e-915750c5ea3b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "937ca8d0-8bc5-4c60-a83e-39ad6deb6201",
+                  "number": "25",
+                  "title": "Toxicity"
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 24
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d22a8b9-e422-479f-919a-ef60b661b4e1",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 219000,
+      "disambiguation": "live, 2001-12-08: Universal Amphitheatre, Universal City, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-08-12",
+      "releases": [
+        {
+          "id": "935a0791-5b29-49b4-b881-339af59ac334",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "Toxic Avengers",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10f17cba-cd5a-4497-9c5a-501881ee40f1",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Toxic Avengers",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002-08-12",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-08-12",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "2f9dcb0e-6923-3c4b-be0a-7035755364ce",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b45d5cf2-4a3b-46be-a511-ebf36c7fe9b8",
+                  "number": "11",
+                  "title": "Toxicity",
+                  "length": 219000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "34b43b28-eda8-4235-adfd-1d1ae0d95eff",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "KROQ Almost Acoustic Christmas Concert",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b764aa9-b5de-3430-a5a5-4328a97680cd",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "KROQ Almost Acoustic Christmas Concert",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7b52dbf7-8c0c-3d34-9d03-e3917e18c523",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "c38596c0-facd-3586-b07e-ec00476b6d4f",
+                  "number": "10",
+                  "title": "Version 7.0"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive metal"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "cf2d9210-b359-46e3-82dd-c39b385480fb",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 219000,
+      "disambiguation": "live, 2011-10-02: Cidade do Rock, Rio de Janeiro, Brazil",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "05a76f0f-2295-4a0e-a97b-c9a6aaa2b66d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 1,
+          "title": "2011-10-02: Cidade do Rock, Rio de Janeiro, Brazil",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f27903de-0ed4-4cbf-8181-e487d23f4c6a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2011-10-02: Cidade do Rock, Rio de Janeiro, Brazil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 29,
+          "media": [
+            {
+              "id": "95f9c15c-6626-3b85-86ff-8ea01771c88d",
+              "position": 1,
+              "track": [
+                {
+                  "id": "966370b9-7cc3-4752-8b19-9726b011268f",
+                  "number": "28",
+                  "title": "Toxicity",
+                  "length": 219000
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2744ac6a-c4d2-40bb-a5a2-de1078a57cb0",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "14f701b4-39f3-4788-9de3-7598a93f689b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+          "count": 2,
+          "title": "Live at Souls Benefit 2004",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "System of a Down",
+              "artist": {
+                "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+                "name": "System of a Down",
+                "sort-name": "System of a Down"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a5c028bd-0486-44f2-b8a1-ce2c719c78eb",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Souls Benefit 2004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 26,
+          "media": [
+            {
+              "id": "c036835c-b804-3b63-8afb-bd9a7259a664",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c3f63c17-9a39-4fa5-80c4-3bc66cf9c58a",
+                  "number": "4",
+                  "title": "Toxicity"
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5f162eb6-5191-4ec6-8bfb-ef91f0afe010",
+      "score": 100,
+      "artist-credit-id": "9398fdf1-f23d-3c3d-aaa0-28f6faa8fcb8",
+      "title": "Toxicity",
+      "length": 220480,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "System of a Down",
+          "artist": {
+            "id": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+            "name": "System of a Down",
+            "sort-name": "System of a Down",
+            "aliases": [
+              {
+                "sort-name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b7\u30b9\u30c6\u30e0\u30fb\u30aa\u30d6\u30fb\u30a2\u30fb\u30c0\u30a6\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SOAD",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "SOAD",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Soil",
+                "name": "Soil",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "1992",
+                "end-date": "1994"
+              },
+              {
+                "sort-name": "System Of Down",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "System Of Down",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "S.O.A.D.",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "S.O.A.D.",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "SoaD",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "SoaD",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "ba03135f-c467-429b-9818-c7ab3eb89769",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Antyradio, Volume 3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c5aa8a63-df16-3a57-ba12-a1857e57b337",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Antyradio, Volume 3",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "fa0c5b9a-832f-3d3c-985d-699f687e343e",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0684f2fc-6e05-3fa7-a878-85d901c772c1",
+                  "number": "2",
+                  "title": "Toxicity",
+                  "length": 220480
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

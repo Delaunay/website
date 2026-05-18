@@ -1,0 +1,1492 @@
+{
+  "created": "2026-05-18T06:59:19.080Z",
+  "count": 69,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d3e62b8a-1e3a-4b0f-bb46-5c370c4fa801",
+      "score": 100,
+      "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+      "title": "Satisfy My Soul",
+      "length": 128000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+            "name": "Bob Marley",
+            "sort-name": "Marley, Bob",
+            "disambiguation": "Jamaican reggae artist",
+            "aliases": [
+              {
+                "sort-name": "Marley",
+                "name": "Marley",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Martell, Bobby",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bobby Martell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert N.",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert N. Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Bob",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert Nesta",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Nesta Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1999",
+      "releases": [
+        {
+          "id": "6261aa43-bf14-46d0-b07f-a7465ef453e1",
+          "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+          "count": 3,
+          "title": "3 CD Set",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+                "name": "Bob Marley",
+                "sort-name": "Marley, Bob",
+                "disambiguation": "Jamaican reggae artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "375e2c32-a181-43e1-9f3f-7a6b35ba7974",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "3 CD Set",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1999",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 48,
+          "media": [
+            {
+              "id": "ed4dfd89-61a8-492d-9799-243a7f0e14f9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a3061fa-98b4-47cf-baf2-c6bdac30378d",
+                  "number": "3",
+                  "title": "Satisfy My Soul",
+                  "length": 128000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e87da329-b016-45ed-8bfe-4b4f5822802a",
+      "score": 100,
+      "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+      "title": "Satisfy My Soul",
+      "length": 105546,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+            "name": "Bob Marley",
+            "sort-name": "Marley, Bob",
+            "disambiguation": "Jamaican reggae artist",
+            "aliases": [
+              {
+                "sort-name": "Marley",
+                "name": "Marley",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Martell, Bobby",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bobby Martell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert N.",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert N. Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Bob",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert Nesta",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Nesta Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-06-04",
+      "releases": [
+        {
+          "id": "4c1b19a3-a2a5-439e-8c48-9372ce32505b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 1,
+          "title": "One Love",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8a1eb85e-e0de-40f4-ab58-e9dfcc3d302c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "One Love",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-06-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2007-06-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "527f8b84-fff8-35d4-aa5a-624c4c715d69",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ddcdc436-aae1-40ff-af2d-869e9c7d7bb2",
+                  "number": "12",
+                  "title": "Satisfy My Soul",
+                  "length": 105546
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAWA0519819"
+      ]
+    },
+    {
+      "id": "66b8aeb5-33c3-45e2-9664-9f8c1bf138f4",
+      "score": 100,
+      "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+      "title": "Satisfy My Soul",
+      "length": 131000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "name": "Bob Marley & The Wailers",
+            "sort-name": "Marley, Bob & The Wailers",
+            "aliases": [
+              {
+                "sort-name": "Bob Marley and The Wailers",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley and The Wailers",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Harley and the Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Harley and the Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley; The Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley; The Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley & The Wailers & I Threes",
+                "name": "Bob Marley & The Wailers & I Threes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and the Whalers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and the Whalers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2000-08-29",
+      "releases": [
+        {
+          "id": "e05df2a9-2f2b-47e2-be8c-b9f0a7d53e51",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 2,
+          "title": "Soul Captive",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "40f17fea-e31e-480f-9ea7-a3fcc0a04b70",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Soul Captive",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000-08-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2000-08-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "1ab57864-8a29-348a-9028-ec5f37bb7f12",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5839f46b-c5f4-452d-a1d5-45376086109e",
+                  "number": "3",
+                  "title": "Satisfy My Soul",
+                  "length": 131000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f39b93d-6e03-4258-8e9f-2c18667277da",
+      "score": 100,
+      "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+      "title": "Satisfy My Soul",
+      "length": 105106,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "name": "Bob Marley & The Wailers",
+            "sort-name": "Marley, Bob & The Wailers",
+            "aliases": [
+              {
+                "sort-name": "Bob Marley and The Wailers",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley and The Wailers",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Harley and the Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Harley and the Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley; The Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley; The Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley & The Wailers & I Threes",
+                "name": "Bob Marley & The Wailers & I Threes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and the Whalers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and the Whalers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "5b2a9db1-d7d5-447c-833d-cabdc6744a81",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 2,
+          "title": "Natural Mystic",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c6a24210-16f2-4a88-92a8-fa740babb414",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Natural Mystic",
+            "disambiguation": "double-disc compilation on Pazzazz, 2004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "b2d82a17-2f13-336c-b295-a1d98fcc9fc8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1ed38002-5436-4dd5-96ac-2d039f13b85b",
+                  "number": "5",
+                  "title": "Satisfy My Soul",
+                  "length": 105106
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c7dadd4d-d762-4828-bd57-7631b644b53e",
+      "score": 100,
+      "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+      "title": "Satisfy My Soul",
+      "length": 120120,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+            "name": "Bob Marley",
+            "sort-name": "Marley, Bob",
+            "disambiguation": "Jamaican reggae artist",
+            "aliases": [
+              {
+                "sort-name": "Marley",
+                "name": "Marley",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Martell, Bobby",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bobby Martell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert N.",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert N. Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Bob",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert Nesta",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Nesta Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-11-26",
+      "releases": [
+        {
+          "id": "4749f7a2-70d9-49cb-aca6-b54be0e568e6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 6,
+          "title": "The Essential Box",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "51b0c1ba-81e0-4010-8e18-a0d1284239ee",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Essential Box",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 90,
+          "media": [
+            {
+              "id": "74ec5a34-0fd8-3a05-98aa-c1b60d657cd1",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9e4a5fe8-f28b-4f00-bd65-0a6d00960b33",
+                  "number": "15",
+                  "title": "Satisfy My Soul",
+                  "length": 120120
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74106879-19e9-4a34-a42b-b8e70795cc1c",
+      "score": 100,
+      "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+      "title": "Satisfy My Soul",
+      "length": 105000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "name": "Bob Marley & The Wailers",
+            "sort-name": "Marley, Bob & The Wailers",
+            "aliases": [
+              {
+                "sort-name": "Bob Marley and The Wailers",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley and The Wailers",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Harley and the Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Harley and the Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley; The Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley; The Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley & The Wailers & I Threes",
+                "name": "Bob Marley & The Wailers & I Threes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and the Whalers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and the Whalers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "6aaea745-76e1-4693-a9e7-a8b81da4c8d6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 1,
+          "title": "Mastercuts Gold: Best of Bob Marley",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "834cab51-d40e-42e4-bb98-77334983d24d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mastercuts Gold: Best of Bob Marley",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "76851a31-7fc7-38e6-96b2-ad99e5bca771",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a3d8c27e-c765-48de-8753-6f1387c0dd95",
+                  "number": "14",
+                  "title": "Satisfy My Soul",
+                  "length": 105000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90d27bf6-0bbe-46af-8db4-c5c71c07aa28",
+      "score": 100,
+      "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+      "title": "Satisfy My Soul",
+      "length": 105800,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+            "name": "Bob Marley",
+            "sort-name": "Marley, Bob",
+            "disambiguation": "Jamaican reggae artist",
+            "aliases": [
+              {
+                "sort-name": "Marley",
+                "name": "Marley",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Martell, Bobby",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bobby Martell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert N.",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert N. Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Bob",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert Nesta",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Nesta Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001",
+      "releases": [
+        {
+          "id": "21468b5a-48f5-47ef-a121-fd2abb387085",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+          "count": 4,
+          "title": "Trench Town Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+                "name": "Bob Marley",
+                "sort-name": "Marley, Bob",
+                "disambiguation": "Jamaican reggae artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dd88fda6-8519-458e-8963-79e4a3ff7c6f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Trench Town Box",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 80,
+          "media": [
+            {
+              "id": "97ca4f68-a7f6-45b6-8618-015e97716c1c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f3c2a616-f475-4e02-8866-d08a28289115",
+                  "number": "10",
+                  "title": "Satisfy My Soul",
+                  "length": 105800
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d530763-b28e-4534-aca2-fd644c09e747",
+      "score": 93,
+      "artist-credit-id": "81105adf-30e1-3889-a3cc-925e66b9436a",
+      "title": "Satisfy My Soul Jah",
+      "length": 149000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley",
+          "artist": {
+            "id": "ed2ac1e9-d51d-4eff-a2c2-85e81abd6360",
+            "name": "Bob Marley",
+            "sort-name": "Marley, Bob",
+            "disambiguation": "Jamaican reggae artist",
+            "aliases": [
+              {
+                "sort-name": "Marley",
+                "name": "Marley",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Martell, Bobby",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bobby Martell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert N.",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert N. Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Bob",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Marley, Robert Nesta",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Nesta Marley",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "002b81a8-733b-4964-88e3-5557bc936b0e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "00a206a9-be03-4dab-a053-d208ed5f54ba",
+          "count": 1,
+          "title": "Colour Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bob Marley",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b0fc220a-bdeb-4aee-8e78-350c1dbabd34",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Colour Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "ea63ecac-7750-34a5-87c1-a65d2ef84b4e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "44049189-03c4-4708-b1cf-3bf5fb97da0d",
+                  "number": "6",
+                  "title": "Satisfy My Soul Jah",
+                  "length": 149000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48dab212-dd05-42c9-b4a4-cca207c8b520",
+      "score": 85,
+      "artist-credit-id": "867ed28a-8932-3db1-9aa1-5861e6ba4103",
+      "title": "Satisfy My Soul",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "artist": {
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "name": "Bob Marley & The Wailers",
+            "sort-name": "Marley, Bob & The Wailers",
+            "aliases": [
+              {
+                "sort-name": "Bob Marley and The Wailers",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley and The Wailers",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Harley and the Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Harley and the Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley; The Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley; The Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley & The Wailers & I Threes",
+                "name": "Bob Marley & The Wailers & I Threes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and the Whalers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and the Whalers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003",
+      "releases": [
+        {
+          "id": "7dd80dbd-e5e1-476c-84a0-26157e4b8025",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "867ed28a-8932-3db1-9aa1-5861e6ba4103",
+          "count": 3,
+          "title": "Legend: The Best of Bob Marley and The Wailers",
+          "status": "Official",
+          "disambiguation": "deluxe, Sound & Vision, PAL version",
+          "artist-credit": [
+            {
+              "name": "Bob Marley & The Wailers",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1a4c52cd-483a-347c-93f9-4d512767c7ba",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Legend: The Best of Bob Marley and The Wailers",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 43,
+          "media": [
+            {
+              "id": "e9f3b4be-2b55-3af2-a79e-b906cda2d642",
+              "position": 3,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "acd635ca-c3b1-4c66-89a7-cf4440d596af",
+                  "number": "8",
+                  "title": "Satisfy My Soul"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2d4fabf-27a1-4313-ae33-e34d18d19737",
+      "score": 85,
+      "artist-credit-id": "867ed28a-8932-3db1-9aa1-5861e6ba4103",
+      "title": "Satisfy My Soul",
+      "length": 129493,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "artist": {
+            "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+            "name": "Bob Marley & The Wailers",
+            "sort-name": "Marley, Bob & The Wailers",
+            "aliases": [
+              {
+                "sort-name": "Bob Marley and The Wailers",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bob Marley and The Wailers",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc\uff06\u30b6\u30fb\u30a6\u30a7\u30a4\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Harley and the Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Harley and the Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley; The Wailers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley; The Wailers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley & The Wailers & I Threes",
+                "name": "Bob Marley & The Wailers & I Threes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bob Marley and the Whalers",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Bob Marley and the Whalers",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30dc\u30d6\u30fb\u30de\u30fc\u30ea\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "e6184ece-4388-4bfc-85fa-9ceb1f5ca9e0",
+          "artist-credit-id": "867ed28a-8932-3db1-9aa1-5861e6ba4103",
+          "count": 1,
+          "title": "Redder the red",
+          "artist-credit": [
+            {
+              "name": "Bob Marley & The Wailers",
+              "artist": {
+                "id": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+                "name": "Bob Marley & The Wailers",
+                "sort-name": "Marley, Bob & The Wailers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7a309a10-90c5-4688-bac3-6982d7b63d91",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Redder the red",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "8550bbb5-18d0-4efc-81d9-6c2efab2fc66",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "58eaf9ca-d8f5-4c0f-b108-a7cb95c98c6c",
+                  "number": "1",
+                  "title": "Satisfy My Soul",
+                  "length": 129493
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

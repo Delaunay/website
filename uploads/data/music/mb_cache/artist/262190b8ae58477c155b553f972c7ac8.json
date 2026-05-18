@@ -1,0 +1,90 @@
+{
+  "type": "Group",
+  "gender": null,
+  "relations": [
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Holst, Thomas",
+        "id": "15622e01-03b3-4ab2-ad3c-8d27a0d8c9c4",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "SE",
+        "name": "Thomas Holst",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": []
+    }
+  ],
+  "country": "SE",
+  "isnis": [],
+  "ipis": [],
+  "tags": [
+    {
+      "name": "country",
+      "count": 1
+    },
+    {
+      "name": "pop",
+      "count": 1
+    },
+    {
+      "name": "rock",
+      "count": 1
+    }
+  ],
+  "begin-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "id": "2643ede3-3520-4818-b63c-3dd73311c99d",
+  "gender-id": null,
+  "sort-name": "Torsson",
+  "area": {
+    "sort-name": "Sweden",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "disambiguation": "",
+    "type": null,
+    "name": "Sweden",
+    "type-id": null
+  },
+  "name": "Torsson",
+  "end-area": null,
+  "genres": [
+    {
+      "name": "country",
+      "disambiguation": "",
+      "id": "5f665615-7fb3-49d8-b541-62a7b239edbe",
+      "count": 1
+    },
+    {
+      "name": "pop",
+      "count": 1,
+      "disambiguation": "",
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791"
+    },
+    {
+      "name": "rock",
+      "disambiguation": "",
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798",
+      "count": 1
+    }
+  ],
+  "life-span": {
+    "ended": false,
+    "begin": "1976",
+    "end": null
+  }
+}

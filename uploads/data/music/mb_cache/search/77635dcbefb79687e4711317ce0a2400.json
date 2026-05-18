@@ -1,0 +1,4005 @@
+{
+  "created": "2026-05-18T06:10:41.630Z",
+  "count": 25,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "343e4395-c4c1-40cd-9007-293055446a84",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 207373,
+      "disambiguation": "live, 2001-09-02: Arena Parco Nord, Bologna, Italy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-11-19",
+      "releases": [
+        {
+          "id": "1fc5cead-f2ed-46a4-a03f-012fc693523b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "8e636ed7-6b88-3151-a473-846da32392c3",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "c4daa1fd-d05b-4977-b835-a27cdc9b34e5",
+                  "number": "2",
+                  "title": "Hyper Music (live)",
+                  "length": 207373
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4414423e-153b-449f-9901-b208d01eaf70",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 3,
+          "title": "Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cd970bfe-592f-3926-b2c3-09a927b7b422",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Hyper Music",
+            "disambiguation": "3\u2010in\u20101 set comprising singles \u201cHyper Music\u201d / \u201cBliss\u201d / \u201cNew Born\u201d",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-11-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-11-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "4557b9b1-d26d-3c23-b2a0-3fdfc1f2b317",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "3baf11d7-0258-3ae7-9634-08326cb9a3a1",
+                  "number": "1",
+                  "title": "Hyper Music (live)",
+                  "length": 207666
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f1ab48ff-615f-443c-a924-1735534d61a7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2002",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "880380e9-90ee-3b66-ac53-806a1b106cbf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c0cbf71a-b3c5-3733-b239-42bed370b7e8",
+                  "number": "4",
+                  "title": "Hyper Music (live)",
+                  "length": 207360
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "72c09b76-b134-4d15-a3ce-d35d8b0b2450",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2009-06-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-06-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "057d02b3-9e7d-3b49-822c-91d698893cf1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4da5017e-ad4c-32fe-8920-ebe46d6b8691",
+                  "number": "2",
+                  "title": "Hyper Music (live)",
+                  "length": 207000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "5f8c22d1-029b-4117-8ed6-85f5016eac87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Symmetry Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "39e4ec88-13e8-40b7-b574-f00a51660689",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Symmetry Box",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 28,
+          "media": [
+            {
+              "id": "46525aa6-cbb9-3b75-863e-fc9762946fcd",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7dcc1321-b9e4-4115-91d3-81e336665979",
+                  "number": "2",
+                  "title": "Hyper Music (live)"
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d1d2afc4-d53c-4b56-8678-90fafe4242b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2001-11-19",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-11-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "717fd92c-89bf-3225-86a8-db3cf8633880",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "bc0b75bb-1742-3bae-bf69-4380f73f48e1",
+                  "number": "2",
+                  "title": "Hyper Music (live)",
+                  "length": 207373
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT0900264"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "3c2bfc4a-459d-4418-a97a-f168c75681d7",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 206520,
+      "disambiguation": "2002-05-20: Pinkpop Festival, Landgraaf, The Netherlands",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "881cc69e-e71e-4664-b5ea-0f7ef6951e07",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Micro Cuts on Stage",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6d288f8a-7df2-3caf-973a-67262a989f02",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Micro Cuts on Stage",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "9d804e0c-c396-3b79-aceb-af2af3ca9fb1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "884d1ddf-1dc8-3613-af51-e5d3dab80234",
+                  "number": "16",
+                  "title": "Hyper Music",
+                  "length": 206520
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "db33c62a-ccbf-4099-b60a-6ec3ca2adb2a",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 300000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "8c2047e0-a20a-4c87-a506-3d434a489910",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Eurocks 2002",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2285cd30-fcf6-3b01-906c-9cdae493a41e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Eurocks 2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002",
+          "country": "NO",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "6743d351-6f37-3049-9724-5041161fff4d",
+                "name": "Norway",
+                "sort-name": "Norway",
+                "iso-3166-1-codes": [
+                  "NO"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "6b14ccc3-dc3d-306b-bca6-d67db7864ad4",
+              "position": 1,
+              "track": [
+                {
+                  "id": "eefb6edc-c56a-3bbd-badf-a48ff2c4d549",
+                  "number": "12",
+                  "title": "Hyper Music",
+                  "length": 300000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        }
+      ]
+    },
+    {
+      "id": "2772183c-6898-4e77-89d0-9991652030ac",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 201200,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-06-13",
+      "releases": [
+        {
+          "id": "58a07524-322a-4f38-b75e-b189c8063e22",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hyper Music / Feeling Good",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "dd2bce59-5f0d-3363-9a2a-2cf30722f2a5",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "060b67ba-7078-4097-abe8-f36de9fcfdcb",
+                  "number": "1",
+                  "title": "Hyper Music",
+                  "length": 205640
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "31dd2b2e-4053-4b32-b7e8-22836b916579",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "disambiguation": "digipak version",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-13",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-06-13",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "63f17184-3ab5-3835-8211-66c36864f5ae",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "b7442336-a35d-4a76-8cae-d566b657e44c",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200893
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "77b647cd-206f-4818-990e-063fd58e442d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "93596656-0406-31d3-ac87-a56fe47ca46b",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "24d1fb11-bc2d-438d-9e51-5152dc621728",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200773
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "1de64aa1-3a50-4998-ba9a-4751d4e118af",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fd731942-24e2-4f2f-84cb-b86f385ce6ad",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "7a6c073d-b3e2-349a-87cf-cdb6bbc719f0",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2ca01e73-44c4-4e31-b24f-c84920d4797b",
+                  "number": "3",
+                  "title": "Hyper Music"
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "3eb1c841-e01d-42a6-961a-66ced843335a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "95e9e2e8-7bf3-35bf-9106-180e37fb819f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6a4ae4e0-af5d-32e2-9d80-ab59fbf45860",
+                  "number": "15",
+                  "title": "Hyper Music",
+                  "length": 203000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 14
+            }
+          ]
+        },
+        {
+          "id": "94c1bb80-4631-4091-8253-f2d90a8aeb46",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "f26e2ae2-cc58-3fa7-b680-3ce11ced8fe3",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "57093d9c-3ecb-32cf-8610-42faccf45e11",
+                  "number": "5",
+                  "title": "Hyper Music",
+                  "length": 201373
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "0001e55a-ab05-4b53-88b8-b39d280226a4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "075f9aca-ea25-3c1b-901f-e3e398c246bd",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0ff9c4b9-e95b-4a5d-b780-fcbdb3401118",
+                  "number": "10",
+                  "title": "Hyper Music",
+                  "length": 202933
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "a19dccbd-d539-4617-98c9-47536e372389",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Kerrang! The Album, Volume 3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1ad1701d-ac01-31dc-91ae-23b59898592a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kerrang! The Album, Volume 3",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "0dd0c774-687e-349a-b42d-be84a34d3306",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "462dcc1d-70fe-31a3-96ca-01f36b78611d",
+                  "number": "15",
+                  "title": "Hyper Music",
+                  "length": 202840
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 14
+            }
+          ]
+        },
+        {
+          "id": "14643d61-bf6e-4ea3-9cdd-4d28b2c73860",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hyper Music / Feeling Good",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "980c885d-b6f3-373d-b497-435e6bf11c1d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "af7e933a-aff2-3833-b3e9-e6c9df9b6c29",
+                  "number": "1",
+                  "title": "Hyper Music",
+                  "length": 205760
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "37ffa3bf-0d60-40d3-a3e9-25206c19c7dd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hyper Music / Feeling Good",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2001-11-19",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-11-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "eaf9ef75-ce84-3df0-8b25-84313cfe2d9a",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "82ccf379-f24a-4658-92a5-73e1b5458054",
+                  "number": "1",
+                  "title": "Hyper Music",
+                  "length": 205640
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5f8c22d1-029b-4117-8ed6-85f5016eac87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Symmetry Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "39e4ec88-13e8-40b7-b574-f00a51660689",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Symmetry Box",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 28,
+          "media": [
+            {
+              "id": "742d3643-4c88-3c15-8457-c25856431788",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "527cf571-553f-488d-a9ab-8aa8fd18bbbb",
+                  "number": "1",
+                  "title": "Hyper Music"
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "587b9a24-77cc-41f3-b193-bb2afac69b11",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Inspirations, Part I",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f807239-4ee8-306c-bef1-78fa9b92f048",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspirations, Part I",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "324a3f16-adae-3544-9f18-5924b9bf7b23",
+              "position": 1,
+              "track": [
+                {
+                  "id": "284fd94f-572c-35d0-84f0-849ea25c89a4",
+                  "number": "12",
+                  "title": "Hyper Music",
+                  "length": 207000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "5d19a57a-c9bb-40f9-aabe-ba4243618a44",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Reloaded 4",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a931f42b-3115-3a11-b98d-1a0f185f6ad2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reloaded 4",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-01-21",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002-01-21",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "8ee5c5d5-e9f9-3153-bc37-bbc874301f34",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5e92e896-edb9-3aaf-a3d2-b8a48a67bd85",
+                  "number": "6",
+                  "title": "Hyper Music",
+                  "length": 202880
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "49582c2b-caa7-47b5-b8b3-260eb8266d6d",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Best of 2001",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "69d004f1-a05c-3f5d-9bb2-5e3d3b904866",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of 2001",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-12",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-12",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "dbbea12d-9e3b-3b17-a49e-766235a46747",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "888c6ff6-bc3c-39fb-8e2c-8dbceaa516cd",
+                  "number": "10",
+                  "title": "Hyper Music",
+                  "length": 202920
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "9ec3d34b-d90b-37e5-92a0-e82f5733cd67",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2009-08-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-08-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8e6f04da-d8ad-31f0-9769-58b9f2141073",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "6bb37d55-487f-3849-92af-6d8811369653",
+                  "number": "B2",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "2f9ab093-0c4a-4e3e-99ec-a24b39fefe8b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "be36ea04-cec4-3d5c-ae0b-b90a73ab1f38",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ddc0516b-1a8c-393b-add8-6a8c3b856676",
+                  "number": "B2",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "21b3626c-4f59-3afa-ae26-6c75d125e61d",
+              "position": 11,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ba8acc75-7785-424f-a94c-b03bb8954745",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201640
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "d2a1d6db-4e8e-36e5-9f69-628baf4ccbef",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ac5fe37e-8c52-4304-bf30-19f193168753",
+                  "number": "F1",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "893dd910-afc3-41d4-aed5-3f11d762c8c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "disambiguation": "24 bit/44.1kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2016-10-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016-10-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2b0aa8ad-7f88-35a8-b3f5-63b0a5ccc5b8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3cff4e73-26d5-4eb5-add9-61614b0f27e8",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201268
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "8412557d-186b-43bb-8c57-5414c695a0ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2015-07-10",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015-07-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d3b6b424-e0e1-3657-a32d-7b015e8ad313",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "6e161d84-89b8-4fc5-bab0-bf06983fd353",
+                  "number": "B2",
+                  "title": "Hyper Music"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "f850b354-4506-476d-93b7-dc6ab1bc0d37",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "3fb5d5cd-9e67-34b6-81e7-faaeaf3587b3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f2dce2e0-f316-4385-bffe-8a8bf4cbf2f1",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200773
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "ea15bb88-d8e5-4185-83db-4d3e86435e02",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "disambiguation": "24 bit/96 kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2015-09-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-09-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e56e5ef9-4124-3141-ba4d-0a8925911827",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "32e6b22f-fb66-4c72-a30f-31efea1cb6db",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 202986
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "eb9ddf7a-58ab-49f6-bc93-4758b01b107e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-06-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "607fdb7c-eeea-3620-b9c0-882b8fcf4ec1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7f367e2e-9828-3dbe-97ef-af0b51aad671",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "77d9e50e-3ccb-35e8-babd-887872f9e076",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-18",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-06-18",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "2fe51498-9ea1-344f-8e80-d244e73c92bf",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "3345d4d7-ff4b-3700-9473-f8a7faa25cc4",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200773
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "f375bea6-f5c5-4b05-b1c4-68d007c2a220",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            },
+            {
+              "date": "2001",
+              "area": {
+                "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+                "name": "Luxembourg",
+                "sort-name": "Luxembourg",
+                "iso-3166-1-codes": [
+                  "LU"
+                ]
+              }
+            },
+            {
+              "date": "2001",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "ebef2648-67ed-3529-917f-2c70b840bce7",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "fe56d398-e09f-409f-850b-eb20983cb40b",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200920
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "71b39e24-58bb-42e7-bb0a-447c51f6eefa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2005-09-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-09-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a4888eee-e4ec-3e3c-820b-5c099356bac3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab558807-ec24-30f4-89a0-742bf36b3124",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "b56f3ba4-77c8-36c4-95f6-4b7da3d21e9a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "IL",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+                "name": "Israel",
+                "sort-name": "Israel",
+                "iso-3166-1-codes": [
+                  "IL"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "7964d590-bacc-3538-abf1-dbf7a8cac47a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "74567c27-80e0-3bda-a908-00460fd26912",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "9d7b7154-2011-4953-b35a-efe368622be7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4db91a20-c257-3a52-b45c-d9daad17368c",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "09b20d69-f9dc-4939-880f-cc6f5f454ab5",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200773
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "4c3109d5-ed4c-43fd-9e7f-6c9c6d0c9f62",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "362c1e70-0499-3254-b949-12785bf2bb85",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "99bef799-6100-3af8-9a72-8a3cace343ad",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200829
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a6acd48a-d987-4430-b681-d9a85fa8b5df",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-18",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001-06-18",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "884a2047-8b3f-35f4-bdc9-d76ad3c7d873",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ae4c10d8-5d36-42b4-8bd9-06254a2feefd",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200829
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "1cc29145-b0e4-47bf-8bda-a1edef67dd1d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8c1fbbde-bbd6-3015-bc92-8b8524ed5985",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d4efbfdd-e64c-416a-83f4-af6409e24f72",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "b5a794c7-1a66-35a8-9c41-97db20db1f63",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2003-06-30",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-06-30",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "9d59c83b-5c50-3979-853d-a82b3f50471c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e579016-dc65-3a87-a87f-110ff89f16b5",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "8c5c4719-0f1b-4df9-b424-0259c0404647",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "98193586-e570-3ee2-b355-794c3846c770",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "50834c48-4860-3b4f-8ad1-56107b9df969",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "2a7a193e-c148-48fa-a39c-8d17e5cf3443",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "disambiguation": "jewel case",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-13",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-06-13",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "cc0ec9b1-e565-33fe-ada8-0ffdb258b596",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "d7c76cdb-1a80-384a-a0d2-68f0d7891819",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 200893
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "ce379f89-75c2-3d15-b96f-bf15a09eb6ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-06-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-06-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c2458e9d-b00d-3c4e-adfb-56434e569aa6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "29f80ffe-75c5-3914-b39b-626ef883f3bb",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "567c4dc4-6207-3211-8053-475111cd0d8c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "650c1f24-dbcc-3b9b-b578-0343069283c0",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "ce9a7597-7313-3037-b818-c3388cb8ad47",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "97d1b365-f93a-4be2-b9b0-c9cb1bae6fe3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2007-02-27",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-02-27",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "057f5797-f6a9-363e-b719-2adbc5c0057d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1e6d4afa-f166-4bca-8e6a-60348e749693",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "239286b4-8ac6-4952-b312-a9f4c286c000",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2020",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2020",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8bda9755-c928-3405-accd-da922855ff38",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ffa214dc-516f-4bf0-9753-f10d54ed9d29",
+                  "number": "B2",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "defc01ee-e073-4d77-b340-a42fe8e32624",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Origin of Muse",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 114,
+          "media": [
+            {
+              "id": "640d907c-9071-3e73-a5b5-78e4abbca58a",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a3dbc0a3-61cb-4223-8a67-4b4e7a5457b3",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201640
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "f1ab48ff-615f-443c-a924-1735534d61a7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2002",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "880380e9-90ee-3b66-ac53-806a1b106cbf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "85fdd180-dddf-31ea-ae1c-846f87b68221",
+                  "number": "2",
+                  "title": "Hyper Music",
+                  "length": 204813
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "72c09b76-b134-4d15-a3ce-d35d8b0b2450",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Feeling Good / Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccc79594-5b39-3514-af97-7c0a74516887",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Hyper Music / Feeling Good",
+            "primary-type": "Single"
+          },
+          "date": "2009-06-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-06-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "057d02b3-9e7d-3b49-822c-91d698893cf1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e98b81ec-4b0f-3de9-a923-81594147c26e",
+                  "number": "1",
+                  "title": "Hyper Music",
+                  "length": 201000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBCVT0100014"
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 8,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "punk"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 0,
+          "name": "space rock"
+        },
+        {
+          "count": 1,
+          "name": "funk metal"
+        }
+      ]
+    },
+    {
+      "id": "066d06e3-d444-4059-8c49-f4c442951bd4",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 201506,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-07-17",
+      "releases": [
+        {
+          "id": "10057fdf-9af3-4118-9c57-3eb2abb6d3b8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Origin of Symmetry",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ef03fe86-b54c-3667-8768-029833e7e1cd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Symmetry",
+            "primary-type": "Album"
+          },
+          "date": "2001-07-17",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2001-07-17",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "881cab50-1bcd-4605-877e-65218adb9433",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5f82baa3-41b7-4ec6-918d-8d86ed8fcd6a",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 201506
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b21b50ef-eb27-4261-acaf-8d2a359cc092",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 204573,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "84b5ede0-990c-4823-801f-0693efc14c8c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Viva Rock, Vol. 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1dd06128-4c42-41db-9bbd-9e3544ee48c8",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Viva Rock, Vol. 2",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "0352135f-2fa8-385f-8f0e-259ed6695bd8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "083d7c68-70ec-4fe2-a84f-2b0e9098bd0b",
+                  "number": "12",
+                  "title": "Hyper Music",
+                  "length": 204573
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49900f15-14fb-4f80-bcdc-37883d8ef20f",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 194000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "412cdf7b-cc8c-4a91-80fc-9115e7c7684d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live @ Lowlands (24.08.2001)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3f7018d1-8aa3-3ba6-9007-0edacf042da9",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live @ Lowlands (24.08.2001)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "10bb796f-a72f-3c70-b771-23f338032a0e",
+              "position": 1,
+              "track": [
+                {
+                  "id": "6951bbc2-a0a1-352d-8dc1-086f8033fdbf",
+                  "number": "8",
+                  "title": "Hyper Music",
+                  "length": 194000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80741cf3-af84-4f5d-8b68-c1d2af78a072",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 179653,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001",
+      "releases": [
+        {
+          "id": "a9863c65-f335-484e-8e00-735cb376bf85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hullabaloo: Live at Le Zenith, Paris",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "724f5e3d-59c2-4872-b469-0a17bff246c6",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo: Live at Le Zenith, Paris",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "9791c77d-adc6-3b24-97f4-7ae7d092d914",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "44520b8f-45d5-3d07-b7e0-848d77b30030",
+                  "number": "16",
+                  "title": "Hyper Music",
+                  "length": 179653
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "d416199a-5365-430f-9e8e-cf150fef6328",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "disambiguation": "live, 2001-10-28/29: Le Zenith, Paris, France",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-12-23",
+      "releases": [
+        {
+          "id": "09a6f20b-ec7e-4e25-9a18-8b3f47f72780",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hullabaloo: Live at Le Zenith, Paris",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "724f5e3d-59c2-4872-b469-0a17bff246c6",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo: Live at Le Zenith, Paris",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-12-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-12-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "66771a6f-842d-3e9a-bfa3-de762a09a2df",
+              "position": 1,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "b19ee626-7c5e-3e61-9abd-8598081824aa",
+                  "number": "17",
+                  "title": "Hyper Music"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caa170d4-1d83-48ca-8d0a-1a81f488f2d9",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Hyper Music",
+      "length": 217760,
+      "disambiguation": "live, 2011-08-28: Reading Festival, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-12-06",
+      "releases": [
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "479333b7-cd59-3d8d-a9e0-041418000878",
+              "position": 13,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "777bba54-1c75-4e89-b8c2-e07675dc6c3e",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 217760
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "defc01ee-e073-4d77-b340-a42fe8e32624",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Origin of Muse",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 114,
+          "media": [
+            {
+              "id": "8af8f68e-81ec-3e81-bd79-b11245e2e0ad",
+              "position": 9,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "83bf4121-835b-426c-8e97-dcb86a1e6040",
+                  "number": "4",
+                  "title": "Hyper Music",
+                  "length": 217760
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "created": "2026-05-18T06:48:04.264Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "77fe7c59-f786-426c-9d42-382aa955485a",
+      "score": 100,
+      "artist-credit-id": "50f5b398-85b2-30fd-a4d5-dd2d8ac7f2a1",
+      "title": "What Are You Looking For",
+      "length": 249000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sick Puppies",
+          "artist": {
+            "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+            "name": "Sick Puppies",
+            "sort-name": "Sick Puppies"
+          }
+        }
+      ],
+      "first-release-date": "2007-04-03",
+      "releases": [
+        {
+          "id": "bf4c0ccc-9f55-4eeb-9fda-ef33a426ea87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e038dae0-aaa4-4ebe-a927-99d481a7aa57",
+          "count": 1,
+          "title": "Dressed Up as Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "SICK PUPPIES",
+              "artist": {
+                "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+                "name": "Sick Puppies",
+                "sort-name": "Sick Puppies"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fa847b49-5139-39d7-938f-50f0964c4db5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dressed Up as Life",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "00c41c17-169e-3078-aea1-7eecaf299e48",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9e9c5285-5e56-4681-b2fa-88de155f9abe",
+                  "number": "4",
+                  "title": "What Are You Looking For",
+                  "length": 248880
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a5122c95-4d8b-4107-b2e1-2a10a1fc282d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Alternative Times, Volume 96",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "60c51c5d-536a-4666-bd98-cc576d5031c0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alternative Times, Volume 96",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-07-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2008-07-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "84eba3ee-e53f-3bf5-9ee7-c1f7e472262b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d9c4d97b-6c7e-312b-923d-bbdf7d3b3cba",
+                  "number": "12",
+                  "title": "What Are You Looking For",
+                  "length": 249000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "d4154364-8616-4603-b823-406e01443884",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Dressed Up as Life",
+          "status": "Official",
+          "release-group": {
+            "id": "fa847b49-5139-39d7-938f-50f0964c4db5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dressed Up as Life",
+            "primary-type": "Album"
+          },
+          "date": "2007-04-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-04-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5b71eb16-4c3f-36cf-a345-73cbc80e4dca",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "79886a72-6f47-32dd-9a22-6b9461da32b7",
+                  "number": "4",
+                  "title": "What Are You Looking For",
+                  "length": 249026
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USVI20700565"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "emo"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "878ac8d9-8715-431a-ad27-98ce7d630432",
+      "score": 100,
+      "artist-credit-id": "50f5b398-85b2-30fd-a4d5-dd2d8ac7f2a1",
+      "title": "What Are You Looking For",
+      "length": 241000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sick Puppies",
+          "artist": {
+            "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+            "name": "Sick Puppies",
+            "sort-name": "Sick Puppies"
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "fa9a26a6-0e65-4d5a-8e24-80f9c292fc5b",
+          "count": 1,
+          "title": "Sony Connect EP",
+          "release-group": {
+            "id": "16b95caf-f034-45cb-aaab-0f2c221f583d",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Sony Connect EP",
+            "primary-type": "EP"
+          },
+          "date": "2007",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "80b4ace6-52bb-3e51-abc0-68b59459167e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "91884110-50b7-4252-8acf-684dc5465489",
+                  "number": "2",
+                  "title": "What Are You Looking For",
+                  "length": 241000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "854ee063-231b-40b8-abbc-3deba3d58c4a",
+      "score": 91,
+      "artist-credit-id": "50f5b398-85b2-30fd-a4d5-dd2d8ac7f2a1",
+      "title": "What Are You Looking For (radio mix)",
+      "length": 252000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sick Puppies",
+          "artist": {
+            "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+            "name": "Sick Puppies",
+            "sort-name": "Sick Puppies"
+          }
+        }
+      ],
+      "first-release-date": "2008-07-01",
+      "releases": [
+        {
+          "id": "dd9853c2-29e6-492c-8a94-2fc6887313bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "What Are You Looking For (radio mix)",
+          "status": "Official",
+          "release-group": {
+            "id": "57500208-45f5-459e-ba01-10beccb11598",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "What Are You Looking For (radio mix)",
+            "primary-type": "Single"
+          },
+          "track-count": 1,
+          "media": [
+            {
+              "id": "249dd940-a1ee-3088-8ed2-7f94596fc59f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "76a2f1b9-66b1-3f97-ad6c-fdf941785cc9",
+                  "number": "1",
+                  "title": "What Are You Looking For (radio mix)",
+                  "length": 252000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

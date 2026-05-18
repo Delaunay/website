@@ -1,0 +1,150 @@
+{
+  "created": "2026-05-18T07:09:47.349Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7621e52b-1c36-4e97-bfb6-121d338e02ca",
+      "score": 100,
+      "artist-credit-id": "65e32bd8-52ec-3fa1-a328-cbd1d4ab580f",
+      "title": "Aloe Vera",
+      "length": 253000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Greyson Chance",
+          "artist": {
+            "id": "5dd013b1-31fb-4ef1-b0b5-e697b4b546ba",
+            "name": "Greyson Chance",
+            "sort-name": "Chance, Greyson"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-22",
+      "releases": [
+        {
+          "id": "706e7b38-a3b2-49fd-aa27-2031d919175f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Palladium",
+          "status": "Official",
+          "release-group": {
+            "id": "d39ccca9-e3ff-4c59-b255-0d5a180632e9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Palladium",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "54abac53-4641-3e90-b6c9-eb5263b387f5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "431463da-c350-4112-a5c9-7ff8aeaadd4f",
+                  "number": "2",
+                  "title": "Aloe Vera",
+                  "length": 253000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBKPL2209083"
+      ]
+    },
+    {
+      "id": "d3c1a479-e121-4569-857a-73fc3ffd535b",
+      "score": 100,
+      "artist-credit-id": "65e32bd8-52ec-3fa1-a328-cbd1d4ab580f",
+      "title": "Aloe Vera",
+      "length": 253143,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Greyson Chance",
+          "artist": {
+            "id": "5dd013b1-31fb-4ef1-b0b5-e697b4b546ba",
+            "name": "Greyson Chance",
+            "sort-name": "Chance, Greyson"
+          }
+        }
+      ],
+      "first-release-date": "2023-04-21",
+      "releases": [
+        {
+          "id": "51042197-17ca-48c8-9c12-177ff3cb5501",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Palladium",
+          "status": "Official",
+          "disambiguation": "Deluxe",
+          "release-group": {
+            "id": "d39ccca9-e3ff-4c59-b255-0d5a180632e9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Palladium",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-21",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2023-04-21",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "aebd5323-9034-3106-935e-806682b5357b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3152236a-74cc-4908-8fc0-bf9bb67a11d0",
+                  "number": "2",
+                  "title": "Aloe Vera",
+                  "length": 253143
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBKPL2209083"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "created": "2026-05-18T07:08:52.277Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "34094d9c-23c9-4aa1-9adf-bbd2935144fd",
+      "score": 100,
+      "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+      "title": "Eddie",
+      "length": 342000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "artist": {
+            "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+            "name": "Red Hot Chili Peppers",
+            "sort-name": "Red Hot Chili Peppers",
+            "aliases": [
+              {
+                "sort-name": "Red Hot Chilli Peppers",
+                "name": "Red Hot Chilli Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Red Hot Chili Peppers, The",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "The Red Hot Chili Peppers",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "RHCP",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "RHCP",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Red Hot Chilly Peppers",
+                "name": "Red Hot Chilly Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Red Hot Chilli Peppers",
+                "name": "The Red Hot Chilli Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "069f2ed9-8541-40e3-b679-e8a0632ed818",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "date": "2022-10-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-10-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "2a86d881-ff94-3ae3-a351-cfb0ad6742a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3d6c9b8c-0dd8-421f-9d59-b84b73cacad9",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 342000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "99d204ff-6d93-49ff-91da-00118c8bbe9c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "3aab78f4-58c9-32b0-b9cd-f9922d02f8bf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2cc3af67-14c3-49a0-8a62-b02abd6334bd",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 342000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "20f4fd35-f0b9-442c-8e44-2802f2e71b8d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "date": "2022-10-14",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-10-14",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "71061847-6523-356e-ad56-a9dae178b2e4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0c5a1d71-0bc3-4dc9-8909-ac70316807dc",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 342000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "6d0dd34c-5b28-4b63-b75b-e6b8ef3e0c50",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "date": "2022-10-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2022-10-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "4f16a9d3-d6a7-3f20-b5eb-b659ddfc0fd2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a93eba71-4871-40f0-bec4-b67bfd3cce28",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 342024
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "467c0bee-4f45-4635-a510-66768ec80214",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "date": "2022-10-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-10-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "a160fd48-3b0d-3a65-b58e-6ee8d3ccf3c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "447f7618-7dbe-4e33-aa47-5c059876ffae",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 342000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "b3b14efb-3d1a-4423-8f79-9d43b35e6d34",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Eddie",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c54e9dd7-6fdd-4cf1-a4b6-d3188df858c9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Eddie",
+            "primary-type": "Single"
+          },
+          "date": "2022-09-23",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "aa12f18a-c8dd-30bd-ad1d-432223685e1c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5a6a17b8-a797-4c74-829a-097c9ac121d1",
+                  "number": "1",
+                  "title": "Eddie",
+                  "length": 341986
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a2225115-891b-4f6b-a795-f2b7a68d0bcb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+          "count": 1,
+          "title": "Return of the Dream Canteen",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Red Hot Chili Peppers",
+              "artist": {
+                "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+                "name": "Red Hot Chili Peppers",
+                "sort-name": "Red Hot Chili Peppers"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8352fb0a-6150-42a2-94a8-8db876dffe76",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Return of the Dream Canteen",
+            "primary-type": "Album"
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "51edebd4-78eb-353c-9e73-01d8576317e6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5343a5e9-1c55-47b7-bbe0-eecf9a4fdb78",
+                  "number": "4",
+                  "title": "Eddie",
+                  "length": 341000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USWB12201931"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "melodic"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk revival"
+        }
+      ]
+    },
+    {
+      "id": "0ad4e450-847a-405a-8948-7fbf4dc49d83",
+      "score": 100,
+      "artist-credit-id": "91997d53-9c82-3585-ac23-ce763b49389f",
+      "title": "Eddie",
+      "length": 341986,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "artist": {
+            "id": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+            "name": "Red Hot Chili Peppers",
+            "sort-name": "Red Hot Chili Peppers",
+            "aliases": [
+              {
+                "sort-name": "Red Hot Chilli Peppers",
+                "name": "Red Hot Chilli Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Red Hot Chili Peppers, The",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "The Red Hot Chili Peppers",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "RHCP",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "RHCP",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Red Hot Chilly Peppers",
+                "name": "Red Hot Chilly Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Red Hot Chilli Peppers",
+                "name": "The Red Hot Chilli Peppers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-10-21",
+      "releases": [
+        {
+          "id": "3dd099a0-19b3-4f0a-b40b-de8747218b38",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "This Is Why \u2013 This Is Rock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b20b8a61-32e2-4027-8982-18b06558ed4e",
+            "title": "This Is Why \u2013 This Is Rock"
+          },
+          "track-count": 33,
+          "media": [
+            {
+              "id": "dceaa4d5-7aa2-44ca-bc3a-d4641f8844b0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "265ae906-53c0-430c-b59a-0568eff9de1d",
+                  "number": "25",
+                  "title": "Eddie",
+                  "length": 341986
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 24
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USWB12201931"
+      ]
+    }
+  ]
+}

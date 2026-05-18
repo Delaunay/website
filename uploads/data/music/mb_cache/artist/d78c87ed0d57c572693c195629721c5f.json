@@ -1,0 +1,188 @@
+{
+  "life-span": {
+    "begin": "1960-10-08",
+    "end": null,
+    "ended": false
+  },
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "tags": [
+    {
+      "name": "comedy",
+      "count": 2
+    }
+  ],
+  "sort-name": "P\u00e9russe, Fran\u00e7ois",
+  "ipis": [
+    "00212329408"
+  ],
+  "disambiguation": "",
+  "relations": [
+    {
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "type": "collaboration",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "target-type": "artist",
+      "ended": false,
+      "source-credit": "",
+      "attribute-ids": {},
+      "direction": "forward",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Bleu Poudre, Les",
+        "type": "Group",
+        "name": "Les Bleu Poudre",
+        "country": "CA",
+        "disambiguation": "",
+        "id": "73672491-2949-4a30-a98f-118be61d3fca"
+      },
+      "end": null,
+      "attributes": []
+    },
+    {
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1981",
+      "ended": true,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "direction": "forward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Potvin, Pierre",
+        "id": "6dc59d0f-b8b5-440d-9d4c-35f85c94007b",
+        "disambiguation": "Canadian musician",
+        "country": null,
+        "name": "Pierre Potvin",
+        "type": "Person"
+      },
+      "end": "1981",
+      "attribute-credits": {},
+      "attributes": [
+        "electric bass guitar"
+      ]
+    },
+    {
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1985",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "end": "1985",
+      "artist": {
+        "id": "6b4dfc7e-3057-423e-8a04-c69ecb2823af",
+        "name": "Jean Leloup",
+        "type": "Person",
+        "country": "CA",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leloup, Jean"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "ended": true,
+      "target-type": "artist",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      }
+    },
+    {
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "begin": "1986",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "direction": "forward",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-credits": {},
+      "end": "1990",
+      "artist": {
+        "sort-name": "Larochelli\u00e8re, Luc de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cd10afe6-913f-40fc-beee-53ec4777cbd8",
+        "name": "Luc de Larochelli\u00e8re",
+        "type": "Person",
+        "country": "CA",
+        "disambiguation": ""
+      }
+    },
+    {
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "sibling",
+      "direction": "backward",
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "P\u00e9russe, Marc",
+        "id": "ebec3784-5e54-423d-ae7b-7830dacc5a6f",
+        "disambiguation": "",
+        "country": "CA",
+        "name": "Marc P\u00e9russe",
+        "type": "Person"
+      }
+    }
+  ],
+  "isnis": [
+    "0000000132133826"
+  ],
+  "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+  "end-area": null,
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "area": {
+    "disambiguation": "",
+    "name": "Qu\u00e9bec",
+    "type": null,
+    "id": "a510b9b1-404d-4e23-8db8-0f6585909ed8",
+    "iso-3166-2-codes": [
+      "CA-QC"
+    ],
+    "type-id": null,
+    "sort-name": "Qu\u00e9bec"
+  },
+  "name": "Fran\u00e7ois P\u00e9russe",
+  "type": "Person",
+  "begin-area": {
+    "type-id": null,
+    "id": "e1804252-7413-4a4d-a34d-d21a8e8e752b",
+    "sort-name": "Qu\u00e9bec",
+    "disambiguation": "city",
+    "type": null,
+    "name": "Qu\u00e9bec"
+  },
+  "country": "CA",
+  "gender": "Male",
+  "genres": [
+    {
+      "name": "comedy",
+      "count": 2,
+      "disambiguation": "",
+      "id": "119ecf69-7d87-4f63-bc83-2959a0111a55"
+    }
+  ]
+}

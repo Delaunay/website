@@ -1,0 +1,1660 @@
+{
+  "created": "2026-05-18T06:36:36.388Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "814eb1ce-1f09-428e-ac9b-5b2b47af3b51",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Slither",
+      "length": 313173,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997-11-15",
+      "releases": [
+        {
+          "id": "f5e0f42d-872f-494c-aba5-59a052e543b8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2014-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7534b299-2faa-4da8-be76-24e5344fa1ae",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "443669a0-4b9d-4d69-8795-195d276f0842",
+                  "number": "B2",
+                  "title": "Slither"
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f3bb741a-b7e2-46dd-b9cc-b3289f9c49e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2015-07-24",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015-07-24",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "0556c02d-2c83-462f-9599-bb650fb28adf",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "467f753d-ed04-4fd8-ad77-24e2b45bf84f",
+                  "number": "B2",
+                  "title": "Slither"
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "607074e7-7ff6-496b-a088-69b372975108",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2020-03-27",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2020-03-27",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2020-03-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "8ef90b6d-948d-343b-aa12-b4ac140073cc",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a87c9006-ab3f-47a4-b405-f6ddfd8b71a9",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "e91dd40a-fa48-314a-b179-9ccbb09277e4",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8e85dd88-98b2-40d6-9216-c4215e571278",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "d701f448-5cba-4303-80c8-0bb63537fdb1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "2ef7c48f-c7cc-353b-8293-0f5c9be553b3",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "18b229f3-5bea-4593-8d1b-9ed710cd1a06",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a03b76c6-c2d5-4e8b-89a4-185fce6b321b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ee0d9b89-dab2-35f1-b8fd-54d996101456",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "53596202-27ec-42b1-b3ae-332a3cab47ef",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313013
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "e554e2a4-f5f7-4a55-9da5-7bf252319633",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5b39c2f5-330d-30f2-898e-052a7b2ee280",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f4ecf19f-95f1-474c-b028-5feb262b6d26",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ee9aafd9-2f73-4cf7-acf4-3523c5a61ca2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2005-10-01",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2005-10-01",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "07f3ba70-0aec-3168-a5ca-9ffcd17c34e4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "26973907-ee7c-4640-81ab-e59408a79dc1",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "64c581c6-7270-3f3a-8dd2-3fb14a41d679",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11-15",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1997-11-15",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "e3f44f50-7346-3186-84d3-b5c6955e380e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a6cb7361-2867-3cc9-8d24-3431bb15bc66",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313173
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "aef5108a-3dc0-3ba7-bfd7-dc95a3b186fe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "2a9e7b43-7add-3ad5-8e81-b98cb8a70f49",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d6c8899a-8768-3bc8-917e-d631e14f0962",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313173
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "7d5fe166-a163-4887-8a53-ab6faa3154ab",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "0b6ae57f-3f1f-39f5-9d8b-be75829bd526",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "9b9556f1-4cf2-4269-8be4-10df2618eb46",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "430cbc8b-ccb6-4679-a147-85b297d8afb4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "fc31634d-a105-326b-8a58-d08e4e555de2",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "6f00e106-82c3-3d74-b3c7-ce65095a218a",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "6294a007-9c2c-44cc-92bb-36dba3540b28",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "9de7ea93-dbed-399b-b1cc-37547c317fdc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "25c237db-96e9-4b85-ad5e-76ca47d41d6d",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "24a80f7b-5a67-4234-9760-e432768db279",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "87490f17-01ea-3c91-bf7b-20dbae202954",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bd0f2298-048b-45df-a3d4-a6020b0ee9bc",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ffb2e6a9-a32e-44ec-9e5f-67f5232d6fa5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2013-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "2a309509-8983-3a1d-92d8-094ace2ff438",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e296a5e8-fa83-42b9-a644-cb40627b0a5b",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c5efce77-b87d-4866-bbd5-c968f3c1e2fd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11-18",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1997-11-18",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "beb0ed62-8d3f-3df7-9fb8-a75f51d17b06",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4068134f-0ec1-431d-8b92-5aea6fb7035e",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313360
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bef2cf50-4797-4026-b543-6ab6187d1ce2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "07eba7ff-6670-3d2a-bbe5-be7c62463919",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "00e0bfa5-8c2d-4efb-8762-5993099ad54a",
+                  "number": "C2",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "8d6ec88c-570b-45c8-ae1b-9b3cdc0e5c0e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "55ba4b32-1eb5-38d1-b547-fb1fccf368c0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e0c383a-e27f-45fb-8f33-4ba8d6115da9",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b8073dfc-1b9c-4a63-adac-695210510fde",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "25e69b8e-e255-36d0-bae9-9ef1512831f7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e8c01123-3f46-49ae-adf7-c04e91e236c0",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "dd0d1969-8804-429b-aff9-9ee4cdc3e278",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "804f7025-9f76-34dd-b902-fa3548f415f9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3cce33dc-7cdd-47e8-9580-07b00fe79eb7",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4c77bcd6-0bb3-4366-815a-cb5ee574eef1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "bf7445b7-3575-3e55-99a8-d1c08ff27eca",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "accdbad5-b454-49c0-a5a4-564d39b0a663",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fdf8ce06-f9b7-47be-8657-615819533de1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "9cc92029-7f37-35d3-92ac-c9f2957cc514",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "636b7090-aeef-4012-9a7f-ed08ca8a2c0d",
+                  "number": "B2",
+                  "title": "Slither"
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b93dd30c-f94b-49c9-b3c1-69298cea52c2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "f1d71eb7-f257-3f93-b85a-7b074d994a5f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "951b079f-23fe-3ec3-902c-da3d93126ae8",
+                  "number": "B2",
+                  "title": "Slither",
+                  "length": 313000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "9e375d51-cc73-4164-964b-09c34172981a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1997-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "a39c5253-38d4-3fe1-96b4-538fe7aa344a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "72ac96ee-ed61-3e2d-8d96-f629e459e673",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "2705207c-2306-4825-a0a7-d933837930bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "fc9d7d2b-d26c-3c56-9753-5b8fc27a657f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "209d0d4b-562a-4b43-8595-a57e75b63336",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "1a5c2e08-0a96-36b5-ad96-0243aa716f8e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11-18",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1997-11-18",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "661e6952-71a1-38cd-853b-90b25e11fdce",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8163c18d-dbfa-31ab-b333-4b000e056f28",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bddf6165-f5c9-4b0e-9990-98a3f8dfd831",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Reload",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8fd32554-02a7-3788-a761-7012e0e75e55",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Reload",
+            "primary-type": "Album"
+          },
+          "date": "1997-11",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1997-11",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "33d14b99-a76a-3c10-882b-c3bb4f9599ce",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "450a96fd-387b-4cab-81fd-8a7097be409f",
+                  "number": "6",
+                  "title": "Slither",
+                  "length": 313200
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAMC9700006",
+        "USEV19719678"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 5,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "speed metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    }
+  ]
+}

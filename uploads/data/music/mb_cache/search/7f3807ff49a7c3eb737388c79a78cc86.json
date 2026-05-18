@@ -1,0 +1,4717 @@
+{
+  "created": "2026-05-18T06:11:02.062Z",
+  "count": 32,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "233479c8-b282-4653-a1ed-e7d35d2992f6",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 215813,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-11-23",
+      "releases": [
+        {
+          "id": "11edf197-f15c-49ec-9ead-127b5d9ba759",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Epic: The Bands. The Tracks. The Anthems",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e31bd37f-52bd-4b21-8e4b-26951d20c31c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Epic: The Bands. The Tracks. The Anthems",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 60,
+          "media": [
+            {
+              "id": "d7832fe1-38b0-31de-a3bf-a6fa431a23d3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9fe25318-3859-3378-b0ee-e415c1231add",
+                  "number": "2",
+                  "title": "Uprising",
+                  "length": 216973
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "65f272af-5cd7-4d83-9dae-af9a4b8e841a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Made in Britain",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b12b27a-2be0-4897-90ca-a12a293ed34f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Made in Britain",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-05-28",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-05-28",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 51,
+          "media": [
+            {
+              "id": "a28a22aa-99b9-3513-a93b-22c5e8ce255b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "446f877f-22be-3c93-84b5-5599d4de41e5",
+                  "number": "2",
+                  "title": "Uprising",
+                  "length": 215000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "5609b06b-e5b1-4804-bc2c-ac389e82567c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Now That\u2019s What I Call Music! 74",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d5d887f5-c36e-46d9-b1f6-b6e493727f58",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now That\u2019s What I Call Music! 74",
+            "disambiguation": "UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-11-23",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-11-23",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 45,
+          "media": [
+            {
+              "id": "207f6348-c1ad-3a0f-b323-851ebed3821d",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a2823f3a-82d1-3d0c-92f0-1ddf7b278792",
+                  "number": "13",
+                  "title": "Uprising",
+                  "length": 215813
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "39a10d35-44d2-33cd-941e-9f5164ae95e4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Now That\u2019s What I Call Music! 74",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d5d887f5-c36e-46d9-b1f6-b6e493727f58",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now That\u2019s What I Call Music! 74",
+            "disambiguation": "UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-11-23",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-11-23",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 45,
+          "media": [
+            {
+              "id": "ccfe306f-0184-3cc1-819f-c2aab90545f0",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f6e261b4-4843-3c51-ad23-b0eb5f54dc70",
+                  "number": "13",
+                  "title": "Uprising",
+                  "length": 216000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT0900354"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 4,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "3952ec91-7fc5-476b-a8a1-974ebe437190",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 278946,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009",
+      "releases": [
+        {
+          "id": "1494f710-6759-4cee-9e11-d97c44abcbe7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Later\u2026 Live With Jools Holland, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "528ae5c3-5a55-4478-b2b9-688563cbf76b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Later\u2026 Live With Jools Holland, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "1d18640f-45bf-3f94-941a-e33ea2fbe477",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f59f9cc1-29c8-3033-a6c8-0b34490f7d21",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 278946
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBCAD0902525"
+      ]
+    },
+    {
+      "id": "778902eb-4e51-4630-b488-ec6f80769014",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2020-12-11",
+      "releases": [
+        {
+          "id": "844ba8e3-d895-4606-a87e-146b67edf97e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 3,
+          "title": "Simulation Theory (Film deluxe edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "88c9fe3f-bfd8-467e-a45a-ae38ab109d42",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Simulation Theory (Film deluxe edition)",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2020-12-11",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2020-12-11",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "185c3aef-6936-3172-b444-7d939c107f55",
+              "position": 3,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "8af94f60-874b-444f-9d31-e533771152a9",
+                  "number": "11",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d534346c-9bd6-4d79-b5d6-3f841691c003",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-02-18",
+      "releases": [
+        {
+          "id": "2ea9fc7f-a58c-4b93-8452-8db9ef8aac25",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2013-02-18: Shepherds Bush Empire, London",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f0f57448-c925-454a-b4bc-d32565a9796d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2013-02-18: Shepherds Bush Empire, London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-02-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-02-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e8563512-f3e9-31e2-9ddf-20273c3b9694",
+              "position": 1,
+              "track": [
+                {
+                  "id": "c59e448a-fea8-4ec8-ac8a-6aab40ca9756",
+                  "number": "16",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "180fb4ff-b609-4c60-aac5-80f10cd60131",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 337000,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-06-11",
+      "releases": [
+        {
+          "id": "645a811d-b7ba-448a-aaa8-7e607c4e1591",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Tempelhof Sounds 2022",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ca03a19d-fbf2-4b7d-93f2-d47a1a4955cf",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Tempelhof Sounds 2022",
+            "primary-type": "Broadcast",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2022-06-11",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-06-11",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "808f9b31-d178-3626-bf19-ff458ffbfb7f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4c297294-3b57-4066-b1bf-98f873ed23e3",
+                  "number": "20",
+                  "title": "Uprising",
+                  "length": 337000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 19
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16c45f2c-ae98-4803-bb61-356920c12c6e",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "disambiguation": "instrumental",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009",
+      "releases": [
+        {
+          "id": "a0fffa22-2fb5-4512-b305-caa234bf5602",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance Instrumentals",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4cdc5ae8-46bd-49ed-8efe-d629ce80abf8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance Instrumentals",
+            "primary-type": "Album"
+          },
+          "date": "2009",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "bbbed774-d7a7-3a95-99a0-984c36e3e3be",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "4d3b0aef-76e5-40ce-b7bd-9960d30336f8",
+                  "number": "1",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b172ad5-6ae2-4699-86b7-a19f7501abb6",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 344000,
+      "disambiguation": "live, 2013-07-06: Stadio Olimpico, Rome, Italy",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-12-03",
+      "releases": [
+        {
+          "id": "b5cbf4fa-29ae-4b38-9e3d-bb31106950cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "4ae8bc1b-45ab-4837-829e-ae273b2f6983",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "995f4749-06a2-4534-89ea-fad9778af6b8",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 344000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "5778c193-1fda-4326-9fae-715ae8f85eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "e2ed95a8-f270-3b5b-abb4-0a1041da4a0f",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "71800457-2f8f-492f-9a7e-e98f807252d4",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 344000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "a4d53dd3-9fe1-4c5c-8207-e1390a9290a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "f95b49b3-79d4-37e7-9c88-402a7413a8c1",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "9de39f4f-9b1c-4d70-b62a-e7ca49a4179f",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 344000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "8149c715-cb08-42cb-872f-38e72a05518d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "4b6fbcce-1809-3104-b257-e966f71c1f3e",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "03b7fead-4ebe-474c-8b3f-beed05fbf9da",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 344000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "d08a6b17-53a2-4f16-b850-aca31a8e7bbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "60743925-19db-3b4d-94e6-8df8837c9efc",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "78e39a16-820b-4d71-a790-ad428ac98691",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 344000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4942e2d1-dffc-4efe-832d-3a7818e383f3",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 335000,
+      "disambiguation": "live, 2013-07-06: Stadio Olimpico, Rome, Italy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-11-25",
+      "releases": [
+        {
+          "id": "b5cbf4fa-29ae-4b38-9e3d-bb31106950cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "ef58a0da-93b4-4fd0-bc6a-7cc7821e254c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0e7f3c5e-ea4c-478f-a246-992caf21eed7",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "399ce06a-0815-4176-b9d6-3d43fc108a4d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-11-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-11-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ff7f7c05-915d-30b5-bb24-61f139bd725a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "62263bc8-540e-4247-b30e-f6302c0506bc",
+                  "number": "12",
+                  "title": "Uprising (live at Rome Olympic Stadium)",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "5778c193-1fda-4326-9fae-715ae8f85eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "205f660c-b8f9-355a-9df8-5479127767c1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4531b077-521e-4502-8a91-9fefe62ba615",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "d08a6b17-53a2-4f16-b850-aca31a8e7bbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "2a949750-41f7-38af-91bc-6e474da2caf5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3ba03529-5720-41a7-8cbc-fbbe50c62eaf",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "a4d53dd3-9fe1-4c5c-8207-e1390a9290a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "bfe22dbb-7408-3b61-93b4-77072fd0376d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8ee21645-4e3e-442f-a9a5-f0fa012254b3",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "8149c715-cb08-42cb-872f-38e72a05518d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "0d53b7df-e720-30ad-8de8-44e0c31eba92",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5cfb93be-266a-428a-b3b4-03b0195e195a",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "089ca863-f9e8-40bc-93e3-4d91e5054edb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "13672f2e-e319-32e4-88dd-f0f404773319",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d7423430-bedf-42d5-acc9-3566f1ba02f2",
+                  "number": "12",
+                  "title": "Uprising",
+                  "length": 335000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1326119"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "0ca789c6-3618-48f1-8ee0-977f70a621d6",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 302826,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-08-03",
+      "releases": [
+        {
+          "id": "860ac4fb-3ca2-40c8-a675-a742ade684f3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "Apple Digital Master",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-11",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-09-11",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "06f0922f-67ef-432e-a399-6f514cee3076",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3dec484e-7085-4ee6-a5e3-f83bd9742e41",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302827
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e86d7156-bef6-4ef2-a54f-dcc177b35a29",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-09-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "fcac6df5-9539-37e2-b3ea-37a97ae74205",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f9445084-371d-40f8-b872-4adf37e759cd",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "310d1fb7-3e10-4644-a76d-3a1b1fc4f2df",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "Pure FM: 10 Years",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e892e72e-37c5-4df8-af76-cef3dcce3206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pure FM: 10 Years",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-03-15",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2014-03-15",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "4dd9de76-df0d-3714-8379-305bc498943a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "df256159-ecfd-4f88-8a0f-6808c95f62f5",
+                  "number": "19",
+                  "title": "Uprising",
+                  "length": 302946
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "b7c6cf64-41ff-45e7-865c-51c53d3d9e56",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Triple J: Hottest 100, Volume 17",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "62469259-9dca-4544-a0f0-eef6dd229afe",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Triple J: Hottest 100, Volume 17",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-03-08",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2010-03-08",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "4faffac4-f775-314c-b773-fa2d51b7b389",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "69dd7549-dd39-3f19-b4cd-21e1a1ea5153",
+                  "number": "5",
+                  "title": "Uprising",
+                  "length": 302693
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "18d23b8b-009e-4a16-9a81-a8d8a48cb4e4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "gatefold",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-11",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-09-11",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "ead9b63e-6cf4-3d2d-b286-d72e37162795",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c80b4cc2-73ac-4d39-974c-a42ecb0ee399",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "24e10ca5-cec7-4fdb-9a84-85472243426f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Triple J: Hottest 100 of 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c40d814e-b6e8-44fc-b9da-c45aeaef0b32",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Triple J: Hottest 100 of 2009",
+            "primary-type": "Broadcast"
+          },
+          "track-count": 100,
+          "media": [
+            {
+              "id": "f67c43bb-0705-32a5-a646-f3a0ee4517bc",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "35aeeb32-23d6-48fe-9312-5c3a0f59211f",
+                  "number": "9",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 100,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "9434f864-8d35-476d-9820-c3041c45619b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "3ddef434-d6bf-30d0-8c54-0bef622efae4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2ee4c4fe-fbaf-4b2b-b852-ceeeaf4ac9a0",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9d9d6fac-d43f-4bfd-8085-4224fbc7098f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-09-07",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-07",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "9313bca3-9dc5-39dc-9040-bb19fee4827c",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "da1d6df3-0ea3-3eea-a22b-d6fed7370269",
+                  "number": "A",
+                  "title": "Uprising",
+                  "length": 302000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b328f278-3b24-47a1-8287-8abfe56cd12a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "a3da689f-39a8-33ab-a225-b245d3686ba3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e2c8b22b-fbfd-430f-a620-288e3d6d0da9",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "cb9f1f22-1bba-4432-aba2-cc2011f4ab59",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Greatest Songs",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "28c0209d-aa35-49fd-9f35-6ff1373ebc2e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Songs",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "c855e1ff-120e-3984-9df7-c2bc0b3465d2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e5d99d49-b26b-4b51-b28d-75ccb075b43f",
+                  "number": "10",
+                  "title": "Uprising",
+                  "length": 302863
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "04310035-1218-4a95-8c10-ac19b0002186",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Alternative Times, Volume 109",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8a444f66-2cd5-49ff-be91-c5016b9c2908",
+            "title": "Alternative Times, Volume 109",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-10-27",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-10-27",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "f4f102c0-8c72-3397-817d-37f6cf400fbb",
+              "position": 1,
+              "track": [
+                {
+                  "id": "e0b70d9f-23f9-3770-9fe3-c458b4046039",
+                  "number": "3",
+                  "title": "The Uprising",
+                  "length": 303910
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "94c1bb80-4631-4091-8253-f2d90a8aeb46",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "62434f2c-92fa-3d5a-b238-2e2e2bf97568",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0d77f291-b401-3386-9d02-2d3afca22db9",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0001e55a-ab05-4b53-88b8-b39d280226a4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "560e5473-0f5d-3e74-a284-afd628b6eddd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "770ce5ae-9fdd-432e-8639-fa3a4561420b",
+                  "number": "2",
+                  "title": "Uprising",
+                  "length": 303000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "96bd547a-ce28-4c02-8487-fd173202d5e4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NME: The Album 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f66da087-ca0c-494a-afad-ad15753bbc71",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NME: The Album 2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-11-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-11-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "a83e342e-b9fe-3dac-b74f-b63e721f7039",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "59ac2d3d-00e4-3e37-bf07-8604c577bee5",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 304000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "31f646e6-2758-4bfd-9cda-1ac53cdcdb89",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-11-16",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-11-16",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "e853d401-5212-398a-96e8-cfcb4101d5ea",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5f609d19-fa83-45a8-a15a-555ddec5a15c",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 304000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7248fa23-c371-4fab-82ba-159f3983f588",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Virgin Radio Les 10 Ans",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "379b65e0-6b1e-4466-bc86-c9af06f5a50f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Virgin Radio Les 10 Ans",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2018",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 74,
+          "media": [
+            {
+              "id": "82332a71-f6e7-309d-b81b-54bc9a3b6b40",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "41cb1b2b-4eca-413d-a66e-196138a3bff7",
+                  "number": "2",
+                  "title": "Uprising",
+                  "length": 304000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "768a5fd7-0695-43fd-b3f9-1d1cb2f26d96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "506d2233-cc5d-3e91-bacf-5a0a41312001",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "85b0f6be-c728-4226-be5d-559fb0deac40",
+                  "number": "A1",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a43d1eb6-73b0-4b7c-b060-f1dd2fed5393",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "660fcca3-ed57-366b-b70f-77cf1ac4b66d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3c05b5c8-664b-491c-8837-3210e6739acd",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "94a43f56-41dd-4524-8025-0d0f238d636d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-08-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-08-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "4c3d169e-2eef-3db9-bb13-bb79d2597ba2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a2d55ca0-30bc-3a42-8d01-fd72a2daf68b",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 305000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fd27c14b-05ce-3763-871e-4284eb1cb516",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-08-03",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2009-08-03",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "c0446e37-1625-387d-96aa-cf7b6946d91a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d81cc944-12c7-3c0a-8ffb-dda501fb9df6",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 305000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0158887f-68e0-3ef7-a582-0bb79d407818",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-08-10",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "2009-08-10",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "51b52c4f-855d-3124-9c90-d42442f03aa9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "537807d7-90b8-3670-a73e-b7e6810a765d",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 305000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fdd540b5-1949-3670-bf87-fb77eebee8e0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-08-03",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-08-03",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "b80ab7f0-8afb-38fc-9e0b-ad64211d78a5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "aae5c2f8-d23d-3bac-be16-65dc51882037",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 305000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a5885473-a9be-4a8c-bf63-0074d4a4338b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Uprising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ddbbd25-f00b-4c59-8345-44263286d1c0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Uprising",
+            "primary-type": "Single"
+          },
+          "date": "2009-09-07",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-07",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "f03b5469-1786-389a-bde2-6b27223f3981",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8ab92b69-f98c-32f5-b7dd-513309804c0c",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 305840
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "cda89598-594f-4e4b-8725-036dc99946a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NRJ Hits 2010",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "25bddc84-98ef-4dfa-856a-77b3f0501495",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Hits 2010",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-11-30",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-11-30",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "40dc95c8-08a2-3c96-9236-b21b9e41b882",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c93906d2-9cc2-38ea-a685-f76a60c13561",
+                  "number": "2",
+                  "title": "Uprising",
+                  "length": 303000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "811ffe5f-49d5-4bb6-a0f2-c23de286f70d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "633e248f-2af8-38f3-9785-dbe5214bdef2",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "3b62dc6b-4ee4-3bd8-8e16-f84b774f03f1",
+                  "number": "A1",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b652ff1d-e6cc-4d49-a62a-d83cbcdb9c5c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 5,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "4e7d6626-a2da-36a2-8e85-dc4a20ddecf0",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "23328e50-e1b8-35bf-9289-dbe9bc1d1bfe",
+                  "number": "A1",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "56a7a497-86a7-43c3-981a-7b5dbd2e8d53",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "includes bonus DVD",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-09-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "6424186d-a5c3-3618-aa42-c4eba29a7d86",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6e0c9884-a964-3a6b-9872-f6fc3e93443d",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "23eee3a2-f295-47a4-87b3-dc207fad383b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "24 bit/96 kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2015-10-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-10-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "aa418876-e702-3304-9aa4-8674cb9c7964",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3e378135-1136-49b7-8fbb-1dd876e8da34",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "856cdf3a-ca13-3499-b1ab-d4df78207947",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-11",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2009-09-11",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "013bb110-5890-3791-a88a-cf9d52edbbac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b3f9aaba-1b3a-45e5-a393-686b0258f290",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4f7d93bb-0541-364d-9ec3-b6dea9d6889d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "22591c50-8260-3a8c-9a06-666b395dc564",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "895bde0d-5b08-4ca4-bf1e-9d8a9cc8887e",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7778149b-ca4b-33b2-acf5-e053807a8222",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "NZ",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+                "name": "New Zealand",
+                "sort-name": "New Zealand",
+                "iso-3166-1-codes": [
+                  "NZ"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "705686ce-91cb-32ad-a7ea-bee38a5a841c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d99f674a-d9de-4bda-bf9f-a101d2ab81b3",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "590c5520-dca7-3b25-ae0d-e69f1c6acdae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "de2baeff-c77f-3708-9173-6991fa0f97fe",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "586daebc-0251-46f5-9307-f46c444ff3e8",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f7206a56-4e39-368f-a08f-9392b0f3306b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2009",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8de99f9d-d74a-3a05-9506-9da572b9c1e8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6f7a8e4f-05ed-4d37-93d9-857a76e1ef30",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "2e1a3f02-59cf-3076-a966-a3aa9545906b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-15",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2009-09-15",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "0692a32b-ff64-30d0-b039-1d881888b483",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d915b086-8272-477a-9444-df33067eece3",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "19f28379-d9ea-3d5b-a268-d9b542a6db0f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-16",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-09-16",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d3737d78-1d7a-36bb-9d1b-193593478b22",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b8abb46a-4a1c-4641-87e3-5371c095860d",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6a5d9eac-0fa6-3170-9cff-a1cb832fd8cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-10-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-10-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a0578c3c-7758-3bd8-be1d-a720ae46e0c8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2794d233-fc87-4d10-a9a7-6aeee3d37d09",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8b81525b-7fd8-4cd8-b9cf-c4eb0040804d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "89226346-7bbe-355f-ae09-e8f9d56ad66e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cfd98fd5-ad5c-488c-907f-eed6ac0e7902",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b652ff1d-e6cc-4d49-a62a-d83cbcdb9c5c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 5,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "c581c85d-e2db-3b21-a426-a33817dcd661",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "292d422d-b9b6-42eb-8ab4-2c1379a0e009",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b652ff1d-e6cc-4d49-a62a-d83cbcdb9c5c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 5,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "476aa300-e366-3790-961d-4a6f60f48887",
+              "position": 5,
+              "format": "USB Flash Drive",
+              "track": [
+                {
+                  "id": "9f7ab0c6-3c84-403a-bd16-57eb45e42483",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6e48d1d4-bdb2-4a42-9100-979e3090b65c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 6,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "track-count": 45,
+          "media": [
+            {
+              "id": "ec72c315-7fee-3298-8618-923ee50afd5d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "be2b7c6e-eed4-4ab9-ab6b-fd6446ab8537",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8d314e18-d34d-43bf-920b-493f737cd3ed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-09-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "da1e8e83-b592-3bb5-b81f-57cda10519d3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "03869c3c-d55c-4b8f-8ac1-84720e12ef7f",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6e48d1d4-bdb2-4a42-9100-979e3090b65c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 6,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "track-count": 45,
+          "media": [
+            {
+              "id": "dea15a9d-492c-31a7-9904-779fa166225b",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "141e4cd7-6cf8-4989-b63b-7e8116ff51c3",
+                  "number": "A1",
+                  "title": "Uprising"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6e48d1d4-bdb2-4a42-9100-979e3090b65c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 6,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "track-count": 45,
+          "media": [
+            {
+              "id": "d74bc708-b028-3568-a0c7-f09ddcfc4a3e",
+              "position": 5,
+              "format": "USB Flash Drive",
+              "track": [
+                {
+                  "id": "fc9c6d14-ea9d-4e1b-a2b9-226a845bee2b",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302826
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7d563178-5f55-4a84-93ec-5a17d5f2ba33",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The Resistance",
+          "status": "Official",
+          "disambiguation": "24bit/96kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8411a4db-e104-4e45-995f-24b2f1849437",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Resistance",
+            "primary-type": "Album"
+          },
+          "date": "2015-10-02",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015-10-02",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "77e40576-f56e-3282-a640-46bd7fd80e45",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e97a83e1-b578-4bb6-a8ed-15aacaa617d6",
+                  "number": "1",
+                  "title": "Uprising",
+                  "length": 302000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1500308",
+        "GBAYE1500864",
+        "GBAHT0900320"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "political"
+        },
+        {
+          "count": 4,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 11,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "protest"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "indie"
+        },
+        {
+          "count": 2,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "melodic"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 0,
+          "name": "sexy"
+        },
+        {
+          "count": 0,
+          "name": "britpop"
+        },
+        {
+          "count": 1,
+          "name": "glam rock"
+        },
+        {
+          "count": 0,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "live"
+        },
+        {
+          "count": 1,
+          "name": "epic"
+        },
+        {
+          "count": 0,
+          "name": "chill"
+        },
+        {
+          "count": 0,
+          "name": "cool"
+        },
+        {
+          "count": 0,
+          "name": "upbeat"
+        },
+        {
+          "count": 0,
+          "name": "happy"
+        },
+        {
+          "count": 0,
+          "name": "liste de courses jpn"
+        },
+        {
+          "count": 1,
+          "name": "angry"
+        },
+        {
+          "count": 2,
+          "name": "energetic"
+        },
+        {
+          "count": 0,
+          "name": "catchy"
+        },
+        {
+          "count": 1,
+          "name": "anthemic"
+        },
+        {
+          "count": 0,
+          "name": "liste de courses jpn (2)"
+        },
+        {
+          "count": 1,
+          "name": "anxious"
+        },
+        {
+          "count": 1,
+          "name": "rebellious"
+        },
+        {
+          "count": 1,
+          "name": "space rock revival"
+        }
+      ]
+    },
+    {
+      "id": "096f9ada-f446-484e-ac1d-382e1d92889b",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Uprising",
+      "length": 304880,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-09-23",
+      "releases": [
+        {
+          "id": "04bb723e-3e87-4664-9656-fd1b0d337f68",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "New World Disorder 10 Soundtrack",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "07a2cfbc-db12-4e7d-8206-ec3fd72eba90",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "New World Disorder 10 Soundtrack",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2009-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "0a666f0d-3cd5-37bb-a1bb-59bcd8423660",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "62147d99-3a7d-4be2-bc6e-7f5c8013f44e",
+                  "number": "4",
+                  "title": "Uprising",
+                  "length": 304880
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

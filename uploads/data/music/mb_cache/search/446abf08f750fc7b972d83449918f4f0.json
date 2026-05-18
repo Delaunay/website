@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T07:08:43.361Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f861dedb-4cd8-429f-b8b1-f0309ebdd160",
+      "score": 100,
+      "artist-credit-id": "2a6d30e1-ff5f-33ba-aa41-457cd58ce2e0",
+      "title": "Desert Song",
+      "length": 288720,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Freedom Hawk",
+          "artist": {
+            "id": "33e37f93-dad3-4142-bf16-7a6675b3ef1a",
+            "name": "Freedom Hawk",
+            "sort-name": "Freedom Hawk"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "cf93dcaf-3d78-4409-9ba8-dc1e81c9b23d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Take All You Can",
+          "status": "Official",
+          "release-group": {
+            "id": "dd57e5ad-ef0d-4c9a-b360-86d7b85e625b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Take All You Can",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "18c02c8d-ff5c-33bb-a179-01d3f1f00088",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ef9a6e55-6e90-409b-b809-c4e0db1b9f06",
+                  "number": "9",
+                  "title": "Desert Song",
+                  "length": 288720
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,599 @@
+{
+  "created": "2026-05-18T07:40:24.198Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "256628b7-111f-47f7-b218-72fc75b35770",
+      "score": 100,
+      "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+      "title": "Better Man",
+      "length": 196228,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Westlife",
+          "artist": {
+            "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+            "name": "Westlife",
+            "sort-name": "Westlife",
+            "aliases": [
+              {
+                "sort-name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Westside",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Westside",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1998",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "West Live",
+                "name": "West Live",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "8ff98ec0-dc8e-416b-a577-20fb0dd71776",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+          "count": 1,
+          "title": "Spectrum",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Westlife",
+              "artist": {
+                "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+                "name": "Westlife",
+                "sort-name": "Westlife"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1f3c5ba0-7993-4ea0-89d9-4ca0120ceaad",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spectrum",
+            "primary-type": "Album"
+          },
+          "date": "2019-11-15",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-11-15",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "e3d810ff-7d0a-3590-a131-f17b957f59d2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "685e8974-971d-49ef-a122-f5b078f0669b",
+                  "number": "2",
+                  "title": "Better Man",
+                  "length": 196000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b630e012-3883-4409-ab2a-28ec79402001",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Now That\u2019s What I Call Music! 103",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1574d43b-9505-41aa-b60d-eeafd8f269a3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now That\u2019s What I Call Music! 103",
+            "disambiguation": "UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-07-19",
+          "country": "IE",
+          "release-events": [
+            {
+              "date": "2019-07-19",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2019-07-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 48,
+          "media": [
+            {
+              "id": "404ae44e-5c01-3396-a477-b33f5220e4c6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b64e6f91-8cc1-44a7-a23b-4a84d1e5eeb9",
+                  "number": "42",
+                  "title": "Better Man",
+                  "length": 196228
+                }
+              ],
+              "track-count": 48,
+              "track-offset": 41
+            }
+          ]
+        },
+        {
+          "id": "561913a3-d30b-4b29-a2a6-06c4ba86b7a6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+          "count": 1,
+          "title": "Better Man",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Westlife",
+              "artist": {
+                "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+                "name": "Westlife",
+                "sort-name": "Westlife"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c982cf28-78d4-43a4-a554-48124e4aec5c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Better Man",
+            "primary-type": "Single"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "a7af4078-aa57-39f2-a206-f76711ba6f55",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fb002a4b-b843-4a57-882e-1f0a05bc06da",
+                  "number": "1",
+                  "title": "Better Man",
+                  "length": 197000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6962b29e-9d08-42fd-9c34-39a3e794e207",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Now That\u2019s What I Call Music! 103",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1574d43b-9505-41aa-b60d-eeafd8f269a3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now That\u2019s What I Call Music! 103",
+            "disambiguation": "UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-07-19",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019-07-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 48,
+          "media": [
+            {
+              "id": "2f6760df-a132-3235-9461-27a433475125",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "de534301-20c9-4b51-b6ac-2d3ac809d36d",
+                  "number": "17",
+                  "title": "Better Man",
+                  "length": 196226
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "35d5786f-66ae-4120-8c1b-1a8ce43c7d62",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+          "count": 1,
+          "title": "Spectrum",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Westlife",
+              "artist": {
+                "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+                "name": "Westlife",
+                "sort-name": "Westlife"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1f3c5ba0-7993-4ea0-89d9-4ca0120ceaad",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spectrum",
+            "primary-type": "Album"
+          },
+          "date": "2019-11-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-11-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "1dee667f-78d5-30ee-a5f9-fb701746f942",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3053d92b-5735-4c56-9354-aeeccbe5c2e9",
+                  "number": "2",
+                  "title": "Better Man",
+                  "length": 197013
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71900660"
+      ]
+    },
+    {
+      "id": "c7f74e69-b15e-4f26-a582-946a42d83b84",
+      "score": 93,
+      "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+      "title": "Better Man (orchestral)",
+      "length": 203000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Westlife",
+          "artist": {
+            "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+            "name": "Westlife",
+            "sort-name": "Westlife",
+            "aliases": [
+              {
+                "sort-name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Westside",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Westside",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1998",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "West Live",
+                "name": "West Live",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "561913a3-d30b-4b29-a2a6-06c4ba86b7a6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+          "count": 1,
+          "title": "Better Man",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Westlife",
+              "artist": {
+                "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+                "name": "Westlife",
+                "sort-name": "Westlife"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c982cf28-78d4-43a4-a554-48124e4aec5c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Better Man",
+            "primary-type": "Single"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "a7af4078-aa57-39f2-a206-f76711ba6f55",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "89fdec74-f819-4936-b12b-d3d75661294d",
+                  "number": "2",
+                  "title": "Better Man (orchestral)",
+                  "length": 203000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cfdce118-d5db-4a3d-97bb-a9b65449654e",
+      "score": 93,
+      "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+      "title": "Better Man (Acoustic)",
+      "length": 193000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Westlife",
+          "artist": {
+            "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+            "name": "Westlife",
+            "sort-name": "Westlife",
+            "aliases": [
+              {
+                "sort-name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a6\u30a8\u30b9\u30c8\u30e9\u30a4\u30d5",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Westside",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Westside",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1998",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "West Live",
+                "name": "West Live",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-04-26",
+      "releases": [
+        {
+          "id": "e9ebdc5c-6467-46cb-8e83-3dfcf347aacc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d2d14253-0169-398e-a4e5-5c8376e79538",
+          "count": 1,
+          "title": "Better Man (Acoustic)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Westlife",
+              "artist": {
+                "id": "5f000e69-3cfd-4871-8f1b-faa7f0d4bcbc",
+                "name": "Westlife",
+                "sort-name": "Westlife"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c982cf28-78d4-43a4-a554-48124e4aec5c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Better Man",
+            "primary-type": "Single"
+          },
+          "date": "2019-04-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-04-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "8ad06e9c-be52-31d7-8a94-bab03b4651fc",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1dcd0228-c252-49e9-b0fc-5b97a3078da7",
+                  "number": "1",
+                  "title": "Better Man (Acoustic)",
+                  "length": 193000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

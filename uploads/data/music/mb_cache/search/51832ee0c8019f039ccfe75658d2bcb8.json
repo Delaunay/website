@@ -1,0 +1,136 @@
+{
+  "created": "2026-05-18T05:39:38.188Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "10a35f5b-26e1-4a30-aa2e-68e1910c71c0",
+      "score": 100,
+      "artist-credit-id": "b7c9b413-a09a-349d-be65-0ef192fbe57d",
+      "title": "La Source",
+      "length": 317000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "1995",
+          "artist": {
+            "id": "38923a6b-1c6d-4e81-9a41-0323b6ce4339",
+            "name": "1995",
+            "sort-name": "1995",
+            "disambiguation": "French rap group"
+          }
+        }
+      ],
+      "first-release-date": "2011-06-27",
+      "releases": [
+        {
+          "id": "0c06d900-85e8-47fe-a02e-237e8a688d4e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "La Source",
+          "status": "Official",
+          "release-group": {
+            "id": "7b420b20-303e-497f-8f74-12264de627de",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "La Source",
+            "primary-type": "EP"
+          },
+          "date": "2011-07-25",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2011-07-25",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "cde44929-9209-3c76-a429-84a9610d83c1",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "62eb9c43-41a8-3faf-b765-fc3e48ff3825",
+                  "number": "1",
+                  "title": "La Source"
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "cae02853-efd3-447f-9c47-817c3825423c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "La Source",
+          "status": "Official",
+          "release-group": {
+            "id": "7b420b20-303e-497f-8f74-12264de627de",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "La Source",
+            "primary-type": "EP"
+          },
+          "date": "2011-06-27",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2011-06-27",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "c354fe02-cfd8-30be-9dba-5e9c7e79dd5a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fdde59f9-990c-3359-a1da-33e0dcd404ac",
+                  "number": "1",
+                  "title": "La Source",
+                  "length": 317000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        }
+      ]
+    }
+  ]
+}

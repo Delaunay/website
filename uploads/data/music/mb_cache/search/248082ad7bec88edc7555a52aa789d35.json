@@ -1,0 +1,470 @@
+{
+  "created": "2026-05-18T06:12:59.295Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "b9b7666c-cb86-4d3e-b1fd-05de6915d0d5",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Ce soir",
+      "length": 253160,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "509b25dd-6b8f-4b64-ab69-ad3288c80d60",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "300 l\u00e9sions",
+          "status": "Official",
+          "release-group": {
+            "id": "040ef976-f11c-3d88-9237-6bd88c3a6088",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "300 l\u00e9sions",
+            "primary-type": "Album"
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "f72c6e9c-d619-34fc-8ece-a7320e194eb6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d6668e53-5b42-4b9b-beac-023eb50fa568",
+                  "number": "8",
+                  "title": "Ce soir",
+                  "length": 253160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "732a706b-5ebd-443d-b8e4-d5221cd40b03",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Ce soir",
+      "length": 253160,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2004-12-28",
+      "releases": [
+        {
+          "id": "d06aff47-529a-4121-83a0-d2d59f99a00c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "300 l\u00e9sions - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "040ef976-f11c-3d88-9237-6bd88c3a6088",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "300 l\u00e9sions",
+            "primary-type": "Album"
+          },
+          "date": "2024",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "47c137da-e1a1-37b0-9edf-16e386a1dff6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "cee36f97-cd1b-43c3-b3db-1b04c4060500",
+                  "number": "8",
+                  "title": "Ce soir",
+                  "length": 251987
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "fa604795-1963-4fb3-abd8-efac085bf464",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "300 l\u00e9sions",
+          "status": "Official",
+          "release-group": {
+            "id": "040ef976-f11c-3d88-9237-6bd88c3a6088",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "300 l\u00e9sions",
+            "primary-type": "Album"
+          },
+          "date": "2004-12-28",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-12-28",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "b9c13d1a-2912-38ab-b163-2d1230a12f7b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70c2f950-00e8-30d7-900e-4c0b20ed9891",
+                  "number": "8",
+                  "title": "Ce soir",
+                  "length": 253160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "3f6d1ce0-880d-4fbe-878e-5d0c656337e4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "300 L\u00e9sions",
+          "status": "Official",
+          "release-group": {
+            "id": "040ef976-f11c-3d88-9237-6bd88c3a6088",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "300 l\u00e9sions",
+            "primary-type": "Album"
+          },
+          "date": "2004",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "05cc108a-9b39-3e9e-a20e-8cf124d27956",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c058d94b-3e71-42f7-a439-3bfb02dc6ce9",
+                  "number": "8",
+                  "title": "Ce soir",
+                  "length": 253160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f6f36ebe-0127-4d7a-81fd-ecf24630ac5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "983ad530-7972-337c-b300-d5de66dfd17d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a3f550eb-0443-47c6-beb2-2edf63888f54",
+                  "number": "6",
+                  "title": "Ce soir",
+                  "length": 254000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c06675b6-1a5c-453d-9329-feadb7773eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-01-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-01-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "fad9813e-f5bf-3b09-b435-ae30b2f48c9e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "68876724-c509-4695-98c2-60ef73bf21e8",
+                  "number": "6",
+                  "title": "Ce soir",
+                  "length": 254000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ050400314"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "7ae32723-ab02-4fed-b3d2-36dd65dfd421",
+      "score": 92,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Ce soir (live)",
+      "length": 257000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2005-01-19",
+      "releases": [
+        {
+          "id": "f6f36ebe-0127-4d7a-81fd-ecf24630ac5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "983ad530-7972-337c-b300-d5de66dfd17d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d24e1dc5-6ec7-4381-86ab-e2b73173b37c",
+                  "number": "18",
+                  "title": "Ce soir (live)",
+                  "length": 257000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "c06675b6-1a5c-453d-9329-feadb7773eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-01-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-01-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "fad9813e-f5bf-3b09-b435-ae30b2f48c9e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "d6c37ccc-0cea-4d99-85b1-73cd4b3b1372",
+                  "number": "18",
+                  "title": "Ce soir (live)",
+                  "length": 261000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 17
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ050701016"
+      ]
+    }
+  ]
+}

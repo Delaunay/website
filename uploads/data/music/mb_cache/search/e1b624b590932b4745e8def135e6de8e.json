@@ -1,0 +1,810 @@
+{
+  "created": "2026-05-18T05:57:47.318Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3d5cad4b-eef7-41f2-90b8-df3fe63ce278",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Eternal Warrior",
+      "length": 306000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-06-09",
+      "releases": [
+        {
+          "id": "8516d6dc-0a00-4ff4-90d5-41416e6abf63",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Onslaught",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "54f7f628-513d-3f81-8449-38adb132f009",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Onslaught",
+            "primary-type": "Single"
+          },
+          "date": "2004-06-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2004-06-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "5694005f-8ee9-3686-a15a-95c6024ebacc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "49b0d350-336d-3f68-aef4-b27580735754",
+                  "number": "2",
+                  "title": "Eternal Warrior",
+                  "length": 306040
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "e02fd8b1-ea2d-44bb-867d-f3bb1267c007",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "ETERNAL WARRIOR",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0029407-644c-3304-b56d-dac7af941c50",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ETERNAL WARRIOR",
+            "primary-type": "Album"
+          },
+          "date": "2004-07-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2004-07-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "1a1b9570-6b77-3bf1-8783-a7a51f77624f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "072eb58e-eb6f-311d-9084-ba8ea75fa60d",
+                  "number": "2",
+                  "title": "Eternal Warrior",
+                  "length": 305826
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "ff558726-9bb6-4261-9d7e-ed8cd9c2128f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Core: Best of Anthem 2000-2007",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bca51e6-a300-431d-93e8-af635feadc34",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Core: Best of Anthem 2000-2007",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-07-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-07-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "7e985f2c-22b0-3203-986e-ce922bbd7227",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6941599c-2551-3ad5-9491-5f8372b6aafb",
+                  "number": "10",
+                  "title": "Eternal Warrior",
+                  "length": 306000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "69795e0b-8415-457d-9a41-b29130a61f85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 3,
+          "title": "Anthems 2000-2011",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c60de4ce-37a4-4b50-9585-03bc837ce3b9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Anthems 2000-2011",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "0ab1fedf-2ce5-3968-b301-60817d7788b2",
+              "position": 1,
+              "format": "HQCD",
+              "track": [
+                {
+                  "id": "590ae937-1e07-44c2-9560-380012a399f4",
+                  "number": "13",
+                  "title": "ETERNAL WARRIOR",
+                  "length": 309000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPVI00420510"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        }
+      ]
+    },
+    {
+      "id": "132f0073-cb82-4991-9218-6995b56b8d6e",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Eternal Warrior",
+      "length": 305000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "b0646f2b-5032-4ff8-9b1b-4ef16c8bbab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3e257979-c51a-3747-91e9-0c44dd331531",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "82cecc85-997e-4801-b1e5-f035c75003b1",
+                  "number": "6",
+                  "title": "Eternal Warrior",
+                  "length": 305000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "42d561ee-1c2c-4287-8fb2-abdbe24e25af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "disambiguation": "\u521d\u56de\u9650\u5b9a\u76e4",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "532d956c-eb0d-3ca9-91e6-5209b801cf72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a9e9b4be-0432-4b1b-b93f-7715f8353e7c",
+                  "number": "6",
+                  "title": "Eternal Warrior",
+                  "length": 305000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "e1f68ede-eaea-4c50-a0f8-656c6a5a28fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "422ef718-011d-36fe-862f-b1ab3dee8244",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9bb04860-6ed4-4d84-bf3e-0d286cca78b2",
+                  "number": "6",
+                  "title": "Eternal Warrior",
+                  "length": 305000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a0b15c7f-dcc9-4da7-9a05-8d5933d5710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "NUCLEUS",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5c518ba8-1c1b-305f-bc32-90ee7618c07c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "87b838b1-e062-4d68-8e73-d70eef003096",
+                  "number": "6",
+                  "title": "Eternal Warrior",
+                  "length": 306000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPF970701733"
+      ]
+    },
+    {
+      "id": "564373bd-ab16-427a-b15f-3d312250ab18",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Eternal Warrior",
+      "disambiguation": "live, 2015-11-28: CLUB CITTA\u2019, Kawasaki, Kanagawa, Japan / 30th ANNIVERSARY TOUR 2015: TOUR FINAL",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-03-30",
+      "releases": [
+        {
+          "id": "a1d76a2f-68de-4820-a627-91c17de81ed6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "30+",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6f9c29bf-03b2-4a96-a8d1-81ded5eee247",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "30+",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2016-03-30",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016-03-30",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "5cc9bd10-bc54-3cc0-a6fe-7c12084107ce",
+              "position": 1,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "856ea49e-161b-43dd-916d-b81037359a5c",
+                  "number": "10",
+                  "title": "Eternal Warrior"
+                }
+              ],
+              "track-count": 31,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df690a1e-2948-4e55-847d-429a84c2c612",
+      "score": 78,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Eternal Warrior (From Live Circus 2016)",
+      "length": 328000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2017-05-31",
+      "releases": [
+        {
+          "id": "92ca8a2a-6b28-4bc5-b231-dc5156c1503f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "The Artery Song",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f25b50fa-5b01-459c-b1bf-07099d334dc7",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Artery Song",
+            "primary-type": "Single"
+          },
+          "date": "2017-05-31",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2017-05-31",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "99cd2060-f530-3b8d-8588-1fa309abec26",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5a574d5d-8090-4ea1-b3fd-4b719924987b",
+                  "number": "2",
+                  "title": "Eternal Warrior (From Live Circus 2016)",
+                  "length": 328000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPPO01702805"
+      ]
+    }
+  ]
+}

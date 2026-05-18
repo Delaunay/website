@@ -1,0 +1,174 @@
+{
+  "created": "2026-05-18T12:43:12.042Z",
+  "count": 114,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c2bbbf85-99c2-4c94-a552-a427b645dc48",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Darko",
+      "sort-name": "Darko",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "horrorcore",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "horrorcore"
+        }
+      ]
+    },
+    {
+      "id": "60091eff-cb84-4530-b9d9-b184aa5b4875",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Darko Rundek",
+      "sort-name": "Rundek, Darko",
+      "gender": "male",
+      "country": "HR",
+      "area": {
+        "id": "7d30afff-e425-356a-873e-17ae9745b31d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Croatia",
+        "sort-name": "Croatia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "55f3682e-ff80-4f11-9ec9-8923608a6ee1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zagreb",
+        "sort-name": "Zagreb",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1956-01-30",
+        "ended": null
+      }
+    },
+    {
+      "id": "0cb8b201-45ef-4d60-bbad-3e2571d19cab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dronny Darko",
+      "sort-name": "Darko, Dronny",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ky\u00efv",
+        "sort-name": "Ky\u00efv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Oleg Puzan",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 2,
+          "name": "dark ambient"
+        }
+      ]
+    },
+    {
+      "id": "9a97cfd8-8586-411a-a0ba-216f63ef48a1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Donnie Darko",
+      "sort-name": "Donnie Darko",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "horrorcore",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "horrorcore"
+        }
+      ]
+    },
+    {
+      "id": "e07c6ae3-4722-4be3-b036-49dd1a0c6bf5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 91,
+      "name": "Darko",
+      "sort-name": "Darko",
+      "area": {
+        "id": "f63466fa-e170-4262-840e-85eaab2d454f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guildford",
+        "sort-name": "Guildford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK fast melodic hardcore",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "technical melodic punk"
+        },
+        {
+          "count": 1,
+          "name": "melodic hardcore"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    }
+  ]
+}

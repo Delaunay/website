@@ -1,0 +1,4642 @@
+{
+  "created": "2026-05-18T06:36:08.352Z",
+  "count": 12,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5b154c76-99fa-4873-9ed8-2809a975e011",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Cure",
+      "length": 294200,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-05-04",
+      "releases": [
+        {
+          "id": "362d3e68-1850-449f-b4c1-982b0610a057",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a7dec3d6-cce9-4cfa-a7cb-9c23ca7534bc",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ee4fe1ce-47d7-4ef1-8a32-85abd2606010",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a97917b4-aadd-4d7a-8338-511fe3ea6a0c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4e45ba7-919c-4a2d-ad4d-e795b563381c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f5ca2254-59c3-42dc-9d8e-a6b8085333a8",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d3d7fc33-2557-32ec-abae-bf77ab8baa57",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "56600a00-59ec-44d5-b476-461ad37a8e3e",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "85dc38cb-e852-47f2-bbb3-f5ff4c56c78d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC Germany pressing",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "108bf970-d3e7-3e15-967e-5786f9ce4d97",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "107016bd-9370-4ab6-b01e-cc6936f07b2e",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "93c83186-bb6a-4b28-b84c-271cd96db16f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8c4adcef-6f5f-4be1-9dd1-48528a3044bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d4920875-748d-433d-bc82-013b3933098c",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "9b2b2a3b-9883-45ea-abfb-99438448cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "Remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "03f9e146-40ee-42db-aa28-12318bbc2633",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "74263442-18a2-47c3-b45d-bbd1f49e7945",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294307
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "71662684-f90e-4ea7-a572-724a7ec70400",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8f98bb4b-441b-49d6-9c2a-283e97db356d",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "65e09e55-c900-4b29-ad40-d999bed3424f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dbf4ba71-ed1e-481a-91e8-96420e6904cb",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "aec18986-822b-48c2-88f8-54ba00ff1d1d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b03f0ede-d1d9-45ab-8718-b94ad6bd5928",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "59522f2a-8a75-4382-965c-9426705fef7a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aef0a806-452b-458d-8f97-c718c53ceb2b",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "04b02d4c-c8a0-38f7-965c-e5725a8dbc8b",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "be750d83-cf94-4463-8a76-bf7b2305df9b",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "1b7fd7f7-4632-4d07-adf6-3140694364ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC UK pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fc621538-7c3d-38bc-8c23-54ea19626f35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c87e8be3-a76d-4566-aaf3-9f0df3d261a9",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "caf9aec5-d1e4-4d23-a6ff-5600a2a95c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "cd952b6d-7ca5-3416-825a-9700a1fbe930",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "869a06b8-0bcd-4def-baaa-90a15991da3b",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294307
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f2a03d39-d44b-4c21-b26c-b10a221a0e07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2014-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "2a02c1c9-cec9-3410-a1b6-162c1412d6ac",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "f7a76e0a-ffe0-43b9-8007-34d2fae2104a",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b962af25-6981-4f97-aa6f-eab25306addc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c0a8602f-42df-3678-bab3-22987067dd9e",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "bb4d74f9-ebaa-4701-a940-3f8a6516dcd8",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b3a25ab9-fc70-4e0c-b2fc-928c293631b0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "BG",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0bbe4d0c-6b35-38a3-b531-e652cf0b0457",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "df94a838-05aa-4f2b-b452-707304d610ec",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 295000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "1e3b03b3-4485-4d08-beb4-83ac73aee32c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition, reissue",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2023-04-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3c43f054-c8ec-3502-87ec-69c99a01a98c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c928fbcd-00cd-45e1-beca-2cee5e7ea2b0",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294306
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "f8614b9e-29a8-35c4-883c-2136ef80cb97",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b867ad2b-2147-40b3-8f78-3423c624deec",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "41fa7ef7-20f5-44cb-bcef-8dbb5cf957e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f2553e72-e734-3287-b791-680529269d62",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "44cb73e1-502c-42cd-91fe-27bbf8095f82",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "771eab04-c4c5-4a22-9b4d-4c11f1960938",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "051ad4bc-0a64-321a-8372-0dee8ead6d5f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "db365d69-bcad-44a1-a6a8-e79d6a03cdb8",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "36a26c7d-b372-4b26-aae8-8003b7e71502",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 33,
+          "media": [
+            {
+              "id": "258fb242-8c3e-3475-a642-8a01bbf854e1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6146af92-64d6-4448-84e1-3e61ad2107cb",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "e1cd6a26-0875-4352-8af0-196972716ac7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1a0f0152-a481-30ac-a37b-aeb276a243c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "28f31ee3-5198-348d-b4c0-2cb94db8b0d1",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "d08247fc-25b6-3570-a794-bed0735a8f86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3568b7be-6abc-3bd3-beae-fa10bd98f5f4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "49fd5348-3fce-3e6e-b042-ee9ed76d29fc",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "5c4d63a9-065f-4abf-a6d6-9d520985361e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1c50e305-0328-304b-901c-0f624932e05a",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "1118c585-a3e3-44e2-b06c-7487cf415c53",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "909a0c16-4f75-47c3-84b1-000869a3844a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "55a82266-9500-33b1-ba3e-7d2db5eae29c",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "aaf0afe3-fc81-3b20-bd73-218c86923e92",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294306
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "579d642d-6dbd-4e1f-8ee8-0b7497b48303",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-05-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-05-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "82751a48-d3df-3b3b-8d99-0911d817f2c5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "98993f69-0373-45f0-b505-5955509c8047",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "08b278ec-b23e-46d5-9d75-37992e841ef6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6e135eb7-1cf6-3467-ba06-3d95f74eb2f7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "190c9a9a-ec51-4ca5-a968-b3e2835103f4",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "de69cdb0-4127-4338-ad92-6fb94f852f7e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8d974fdf-cb9c-3853-9ba1-fb366fbd3a35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "567ab1d4-b706-4f7c-bf02-a5f88cd0dc76",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "14afa94a-13b2-4d45-a4c2-121394b680ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/MCPS on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "81b8eb20-b73b-3031-ac48-5998b94f7a72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4a9b2296-540f-47a5-b31f-51229ffccda8",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294226
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "2b6cf64a-403b-418f-9a17-70ad8ffac525",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "bcdcf60b-a7e9-348c-84f3-54e0605237ed",
+              "position": 3,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "631187d0-326f-48e2-a407-d23a7204bfa3",
+                  "number": "E1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ae9f2ce4-ee58-4a73-93d4-b8a424fa6610",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f3b10e22-f67b-35c0-b5a3-c6342cbf8d72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "23464dbf-d35f-4a79-a677-6787953fe8ff",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "56c8bbc8-a9fa-4fd7-ae1d-d3d1eac18c6b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4148366-0482-382b-96b2-f7d2ece0aac4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b9c17c82-28e5-4d3e-9d90-7df2a8532047",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294293
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "c488e108-c0cd-3117-af76-373a7c71b96c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c1667308-5e04-35ba-924b-361c9c69c4b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d2c373c5-3ca0-3d84-a624-e48d6c7a4cca",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 296093
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "aae56d3f-d7b4-4620-9c69-df6f9332801a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a19d6baf-3cc1-37b9-94fc-e8e3693bc9e4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4c735ab5-c4a4-4eb4-9fc8-9af418d3c82d",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294307
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "1333f3c2-3061-451b-8908-2e8ed0c18599",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "77034b56-5e8d-3d7e-9f83-a89945d70737",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "8722e00c-de33-4388-a85e-37a80b104f4d",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "6304ebcd-39c1-476f-bca4-6679bb0aa9d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "197e6f1d-e9d1-3619-b74a-c0f2d3f8e465",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "deb161e7-c48f-34a5-890a-71c83e30bf2d",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 295986
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "d0edc24b-f201-3076-b015-e54401239a8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-01",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1996-06-01",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "862cbaa4-2fa8-3de8-9840-3c4f346ed8b9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "81c09883-c1d1-30bb-b3bd-161831aa5ae4",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294093
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "e233c4ef-783f-3d1d-b024-dafd9076325b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "79d0282e-e2a0-3e44-9127-9cd63e8d8f7c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4718d8ad-ca28-3b0f-a798-24b878822df1",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294106
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "98f69ea0-66e0-4ab4-beea-dd90d1fdc5b7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "65c84608-d647-35f0-9963-4b29add17171",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "495667e2-a5df-3242-a38c-7e3469391fbe",
+                  "number": "C1",
+                  "title": "Cure",
+                  "length": 294000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0b277314-7ce2-3793-a1bc-a9d1be3ecc13",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "87767774-97be-39d0-ac20-495ce6538742",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "940c1c69-9c25-3d23-b32c-ec9658aa140c",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294106
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "6e077ca1-ed82-4499-81e3-0cc0c19e13d9",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7e96105b-50a1-377b-821a-4dbac6bb94df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "08f9cec5-6beb-40cf-bcd4-58bf5c89b1cc",
+                  "number": "8",
+                  "title": "Cure",
+                  "length": 294106
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400008",
+        "QMKHM1900282",
+        "USEV19692308",
+        "GBAMC9600014",
+        "USEVI9692308"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 7,
+          "name": "alternative rock"
+        },
+        {
+          "count": 7,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "thrash metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 4,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "speed metal"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "a28f4603-05c6-40dd-aa62-32bc01ecd731",
+      "score": 92,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Cure (jam)",
+      "length": 148000,
+      "disambiguation": "live, 1997-05: Fort Worth, TX, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "2b83f228-92e6-4397-b91c-1e426449c243",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "1997-05: Fort Worth, TX, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce74849c-7b44-324b-b222-b4056454c43a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1997-05: Fort Worth, TX, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "5f3e1603-15a4-349d-b11f-666d4cc70923",
+              "position": 1,
+              "track": [
+                {
+                  "id": "9f505ad0-90db-3c9b-8bc9-ac4d476e694c",
+                  "number": "21",
+                  "title": "Cure (jam)",
+                  "length": 148000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26b16c69-86d2-431b-af12-96dcf04abf6e",
+      "score": 86,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" demo)",
+      "length": 337997,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "25d75a20-e03a-437f-8250-c592e5bf0824",
+                  "number": "26",
+                  "title": "Believe (\"Cure\" demo)",
+                  "length": 337986
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 25
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8d9c8759-693f-4981-9798-838ff6e23185",
+                  "number": "26",
+                  "title": "Believe (\u201cCure\u201d demo)",
+                  "length": 337997
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 25
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3bdf03b8-9e10-4823-ba67-3bcc6811596a",
+                  "number": "26",
+                  "title": "Believe (\u201cCure\u201d demo)",
+                  "length": 337997
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 25
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400059"
+      ]
+    },
+    {
+      "id": "7f55af7a-3cd2-40fc-a4ad-b482c5da78ab",
+      "score": 86,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" riff)",
+      "length": 34751,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "72d80414-881b-4dd4-a6ff-89e44112c86e",
+                  "number": "11",
+                  "title": "Believe (\"Cure\" riff)",
+                  "length": 34760
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f6260e62-f3bd-4846-91a5-dde523c9681f",
+                  "number": "11",
+                  "title": "Believe - \u201cCure\u201d Riff",
+                  "length": 34751
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8f381553-3c08-4c04-aa50-61e1f0a26641",
+                  "number": "11",
+                  "title": "Believe - \u201cCure\u201d Riff",
+                  "length": 34751
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400044"
+      ]
+    },
+    {
+      "id": "a1ab0b9d-5d2f-48a6-83aa-2e98a49e5f9a",
+      "score": 81,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" take 14)",
+      "length": 347801,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "deec9c1a-c00c-3a2c-af3e-682be88fb2e1",
+              "position": 10,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "792da4a0-26b8-4759-b4a0-8c352a76c330",
+                  "number": "3",
+                  "title": "Believe (\"Cure\" take 14)",
+                  "length": 347800
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e51b58e5-4d2c-49ac-ab50-1cdcf9b31ee1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "69248b84-6489-4f57-8054-3d97d9facafd",
+                  "number": "3",
+                  "title": "Believe (\u201cCure\u201d take 14)",
+                  "length": 347801
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "ed486ab9-db3c-471e-8957-1c9d73bdf6c1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ff6a8358-1fd8-4323-ae0c-6029d384b474",
+                  "number": "3",
+                  "title": "Believe (\u201cCure\u201d take 14)",
+                  "length": 347801
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400077"
+      ]
+    },
+    {
+      "id": "aab722d7-04c5-483e-aa64-ca3d125ec5ec",
+      "score": 81,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" riff III)",
+      "length": 48710,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fd2e28bb-9e8e-4e1e-9dda-c416cd4c3a72",
+                  "number": "13",
+                  "title": "Believe (\"Cure\" riff III)",
+                  "length": 48706
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ef395c77-2dfc-44ab-927f-9a689310d78b",
+                  "number": "13",
+                  "title": "Believe - \u201cCure\u201d Riff III",
+                  "length": 48710
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "28936e47-66e5-4e21-aff5-ca45e87e534c",
+                  "number": "13",
+                  "title": "Believe - \u201cCure\u201d Riff III",
+                  "length": 48710
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400046"
+      ]
+    },
+    {
+      "id": "423778e7-e8d6-4fd4-8bdc-2385a9b34249",
+      "score": 81,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" riff II)",
+      "length": 32253,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3d50b5ae-c901-475c-a9dd-182c6d80a631",
+                  "number": "12",
+                  "title": "Believe (\"Cure\" riff II)",
+                  "length": 32253
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "c48f50f1-316d-4df0-bce7-cb798fa02290",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3067a55b-40b4-496e-91b5-e37d6d2337ad",
+                  "number": "8",
+                  "title": "Believe (\u201cCure\u201d riff II)",
+                  "length": 32253
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0ac7dd12-81b5-4ae5-a438-9be639678f58",
+                  "number": "12",
+                  "title": "Believe - \u201cCure\u201d Riff II",
+                  "length": 32250
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3b4d8d8c-5082-4f10-9544-7344b0dd4c1e",
+                  "number": "12",
+                  "title": "Believe - \u201cCure\u201d Riff II",
+                  "length": 32250
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "77364746-4bfb-434d-8a25-12d0166bb78c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b7ef8dfd-aa27-4f5f-aea4-89d2bae9f48d",
+                  "number": "8",
+                  "title": "Believe (\u201cCure\u201d riff II)",
+                  "length": 32253
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400045"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "e80d509d-9c52-43d1-97e4-b7bcdbb2c529",
+      "score": 77,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Enter Sandman / Cure (jam)",
+      "length": 532826,
+      "disambiguation": "live, 1996-11-21: Gothenburg, Sweden",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997",
+      "releases": [
+        {
+          "id": "f2fe1ded-2218-4258-96bc-6cbb12885154",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "1996-11-21: Scandinavium, Gothenburg, Sweden",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f3cc7143-e59e-3d27-9126-eb23e3a61e9b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1996-11-21: Scandinavium, Gothenburg, Sweden",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "af624f0e-2e83-376c-86ed-621c29b70cdd",
+              "position": 1,
+              "track": [
+                {
+                  "id": "e9a7e740-845e-3bc1-afe4-9249e7b86001",
+                  "number": "21",
+                  "title": "Enter Sandman",
+                  "length": 534000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 20
+            }
+          ]
+        },
+        {
+          "id": "c73e5afc-9413-42a4-a770-35d341e6ba12",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "1996-11-21: Live, Loud & Loaded: Gothenburg, Sweden",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "23c199de-23ec-372b-ad2d-15ca44b2e9b8",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1996-11-21: Live, Loud & Loaded: Gothenburg, Sweden",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1997",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 27,
+          "media": [
+            {
+              "id": "cedba310-4f1a-3c89-9c74-7f0089468d9e",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7326fd9c-205f-3d44-b825-78998cb43fb1",
+                  "number": "7",
+                  "title": "Enter Sandman / Cure (jam)",
+                  "length": 532826
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "658e7f8f-dea9-4a8f-b214-2d4cd6f67dc6",
+      "score": 74,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" original arrangement rough mix)",
+      "length": 349583,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "336bcd3d-38f3-3bff-8a46-45740878d536",
+              "position": 11,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "37fd48f8-5678-453e-8b57-fab32e147b99",
+                  "number": "6",
+                  "title": "Believe (\"Cure\" original arrangement rough mix)",
+                  "length": 349586
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "61d0a1e4-18ae-49d7-859e-2c06030ce473",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "72ff6c79-8e5f-4709-8e69-b70c12fafee7",
+                  "number": "6",
+                  "title": "Believe (\u201cCure\u201d original Arrangement rough mix)",
+                  "length": 349583
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "339e64b9-c5ad-47b9-b4ff-9dc1c19b34da",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2998cf5a-f594-4ad2-9c99-fd815b785abc",
+                  "number": "6",
+                  "title": "Believe (\u201cCure\u201d original Arrangement rough mix)",
+                  "length": 349583
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400093"
+      ]
+    },
+    {
+      "id": "fbec550a-4c00-4eb2-9c6c-e3ec78de06ff",
+      "score": 69,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Believe (\"Cure\" Kirk solo comp 1 rough mix)",
+      "length": 305356,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "336bcd3d-38f3-3bff-8a46-45740878d536",
+              "position": 11,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9215acf6-ba4e-4050-b375-6f57e849b6f5",
+                  "number": "14",
+                  "title": "Believe (\"Cure\" Kirk solo comp 1 rough mix)",
+                  "length": 305373
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "61d0a1e4-18ae-49d7-859e-2c06030ce473",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ec76fe39-98d3-4e6a-9ccf-da1fa5172a44",
+                  "number": "14",
+                  "title": "Believe (\u201cCure\u201d Kirk Solo Comp 1 rough mix)",
+                  "length": 305356
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "339e64b9-c5ad-47b9-b4ff-9dc1c19b34da",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "69b1ab14-c412-41c8-b1d6-0f6fbde9eb20",
+                  "number": "14",
+                  "title": "Believe (\u201cCure\u201d Kirk Solo Comp 1 rough mix)",
+                  "length": 305356
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400101"
+      ]
+    }
+  ]
+}

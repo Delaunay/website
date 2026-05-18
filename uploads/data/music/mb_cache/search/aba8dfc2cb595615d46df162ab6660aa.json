@@ -1,0 +1,104 @@
+{
+  "created": "2026-05-18T06:53:10.163Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "8e124c2b-c28b-442d-95c2-8f8785fd4f15",
+      "score": 100,
+      "artist-credit-id": "473cf95e-2713-38d2-b1f9-ae85ca056df5",
+      "title": "Une Lettre",
+      "length": 201000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "NEIKED",
+          "artist": {
+            "id": "45d2e2d4-a8eb-402b-9a49-2cc117232feb",
+            "name": "NEIKED",
+            "sort-name": "NEIKED"
+          }
+        },
+        {
+          "name": "Ellen Birath",
+          "artist": {
+            "id": "78561b0b-ce9e-4856-8070-cfe6013c813e",
+            "name": "Ellen Birath",
+            "sort-name": "Birath, Ellen"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "1713fa41-ea0a-4a93-9005-d69d0a474e42",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "6004a4d6-1dd2-3620-9c8e-d7fefb9b0e12",
+          "count": 1,
+          "title": "Best of Hard Drive",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "NEIKED",
+              "artist": {
+                "id": "45d2e2d4-a8eb-402b-9a49-2cc117232feb",
+                "name": "NEIKED",
+                "sort-name": "NEIKED"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "70a1a33f-a5bd-45a0-8f52-c82a561cb42c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Hard Drive",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "4280f6b0-2f14-3826-b5ae-5e44c8dcfcb6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "cb29548f-3966-41ae-8d58-da458e6894b1",
+                  "number": "5",
+                  "title": "Une Lettre",
+                  "length": 201000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMUY41900030"
+      ]
+    }
+  ]
+}

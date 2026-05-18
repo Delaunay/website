@@ -1,0 +1,127 @@
+{
+  "created": "2026-05-18T08:08:24.805Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "4daf1f33-863a-4b3d-90b6-fa39935a1c6f",
+      "score": 100,
+      "artist-credit-id": "9c3e5fca-0aa2-3726-9e5f-72d7d8d433c4",
+      "title": "Healing",
+      "length": 187501,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Tarrus Riley",
+          "artist": {
+            "id": "4e3bf1a8-33d7-4db3-82a1-dbd48eaec481",
+            "name": "Tarrus Riley",
+            "sort-name": "Riley, Tarrus",
+            "aliases": [
+              {
+                "sort-name": "Tarus Riley",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Tarus Riley",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Riley, Omar Ruben",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Omar Ruben Riley",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Taurus Riley",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Taurus Riley",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Riley, Omar",
+                "name": "Omar Riley",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2020-08-20",
+      "releases": [
+        {
+          "id": "ce896ae5-502e-4843-8fd1-b9f3845b9d96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "9c3e5fca-0aa2-3726-9e5f-72d7d8d433c4",
+          "count": 1,
+          "title": "Healing",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Tarrus Riley",
+              "artist": {
+                "id": "4e3bf1a8-33d7-4db3-82a1-dbd48eaec481",
+                "name": "Tarrus Riley",
+                "sort-name": "Riley, Tarrus"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "66de1a04-94b6-4b32-b42b-bb7b752be3fe",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Healing",
+            "primary-type": "Album"
+          },
+          "date": "2020-08-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2020-08-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "aea22ad8-519d-3265-a1e0-610f645dbe1b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "997d343d-ded5-4334-93e8-125f40fb7766",
+                  "number": "3",
+                  "title": "Healing",
+                  "length": 187501
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "created": "2026-05-18T07:05:26.948Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1e43cf5f-5d85-4a44-9ce4-08e0fd700fc9",
+      "score": 100,
+      "artist-credit-id": "9b24046c-1694-4bd1-a480-7b92b47e3a8a",
+      "title": "Let Me Dream",
+      "length": 237863,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kill Strings",
+          "artist": {
+            "id": "018d2348-a1b1-49d8-95ac-d2d2b65d2b5b",
+            "name": "Kill Strings",
+            "sort-name": "Kill Strings"
+          }
+        }
+      ],
+      "first-release-date": "2022-08-05",
+      "releases": [
+        {
+          "id": "77291001-ebac-4efd-b912-c52b8a12e4de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Black Gold",
+          "status": "Official",
+          "release-group": {
+            "id": "cb6aa239-eefa-451e-952a-34995ab3ce5f",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Black Gold",
+            "primary-type": "Single"
+          },
+          "date": "2022-08-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-08-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "a9f5fda0-86ea-3be2-a0b1-c77c9fa589a9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2001feab-6af3-46ff-a97b-22e186ed7d4f",
+                  "number": "3",
+                  "title": "Let Me Dream",
+                  "length": 237863
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "US5ED2201617"
+      ]
+    },
+    {
+      "id": "5681e322-458e-4a3c-98f2-76e1d95af516",
+      "score": 100,
+      "artist-credit-id": "9b24046c-1694-4bd1-a480-7b92b47e3a8a",
+      "title": "Let Me Dream",
+      "length": 237863,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kill Strings",
+          "artist": {
+            "id": "018d2348-a1b1-49d8-95ac-d2d2b65d2b5b",
+            "name": "Kill Strings",
+            "sort-name": "Kill Strings"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "76f480f2-43d9-4cdb-a48a-f01786849d64",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Limbo",
+          "status": "Official",
+          "release-group": {
+            "id": "bff32fdb-8aa5-427a-a6c9-cd23e245b27d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Limbo",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a40a3042-ef1e-32cc-a999-e7ec19cb7737",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ec45beab-6497-4b47-9605-4307204270e5",
+                  "number": "2",
+                  "title": "Let Me Dream",
+                  "length": 237863
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

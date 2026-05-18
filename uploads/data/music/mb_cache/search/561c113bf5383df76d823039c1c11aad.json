@@ -1,0 +1,942 @@
+{
+  "created": "2026-05-18T05:48:34.772Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "b5edbe07-7f6f-423c-9277-6a3a11f6896d",
+      "score": 100,
+      "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+      "title": "Demon\u2019s Eye",
+      "length": 226000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yngwie Malmsteen",
+          "artist": {
+            "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+            "name": "Yngwie Malmsteen",
+            "sort-name": "Malmsteen, Yngwie",
+            "aliases": [
+              {
+                "sort-name": "Lannerb\u00e4ck, Lars Johann Yngve",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lars Johann Yngve Lannerb\u00e4ck",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie J Malmsteen",
+                "name": "Yngwie J Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Malmsteen, Yngwie",
+                "name": "Malmsteen, Yngwie",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johann Malmsteen",
+                "name": "Yngwie Johann Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johan Malmsteen",
+                "name": "Yngwie Johan Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Malmsteen",
+                "name": "Yngwie Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "33eaecf3-608a-4e37-bc1c-d7d77ca53d86",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Today We Play\u2026Deep Purple",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7950751b-daf5-4721-91fd-dc20ba4ecab5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Today We Play\u2026Deep Purple",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "d933a859-7ab7-389e-acd8-a992ee563cf3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7f98d8bc-a928-45c8-a046-12c63c854428",
+                  "number": "12",
+                  "title": "Demon\u2019s Eye",
+                  "length": 226000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "0f0aa681-905b-4a77-9793-f0e975a9773b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Blue Lightning",
+          "status": "Official",
+          "disambiguation": "Deluxe Edition",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e2e04c12-be61-418b-93ab-b81ca24c7599",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blue Lightning",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "5806db16-39bd-3cba-b509-f277f6261292",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8f349cc4-bcfa-4a4c-b066-9e617131c7a8",
+                  "number": "3",
+                  "title": "Demon\u2019s Eye",
+                  "length": 226000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "778f6722-474a-4ea8-9dcc-2498f671cc72",
+      "score": 100,
+      "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+      "title": "Demon's Eye",
+      "length": 226000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yngwie Malmsteen",
+          "artist": {
+            "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+            "name": "Yngwie Malmsteen",
+            "sort-name": "Malmsteen, Yngwie",
+            "aliases": [
+              {
+                "sort-name": "Lannerb\u00e4ck, Lars Johann Yngve",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lars Johann Yngve Lannerb\u00e4ck",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie J Malmsteen",
+                "name": "Yngwie J Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Malmsteen, Yngwie",
+                "name": "Malmsteen, Yngwie",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johann Malmsteen",
+                "name": "Yngwie Johann Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johan Malmsteen",
+                "name": "Yngwie Johan Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Malmsteen",
+                "name": "Yngwie Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "d156b762-c749-492e-9fa6-86e962b5b5c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Blue Lightning",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e2e04c12-be61-418b-93ab-b81ca24c7599",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blue Lightning",
+            "primary-type": "Album"
+          },
+          "date": "2019",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1863321a-9acd-3dbf-95f5-2bbc9f1bc91d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2d3f480a-85a7-4984-9ac2-38e5eb64d4ef",
+                  "number": "3",
+                  "title": "Demon's Eye",
+                  "length": 226000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ddd5ee5a-c16b-43ad-8f22-59fa83845bb1",
+      "score": 100,
+      "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+      "title": "Demon\u2019s Eye",
+      "length": 293000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yngwie Malmsteen",
+          "artist": {
+            "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+            "name": "Yngwie Malmsteen",
+            "sort-name": "Malmsteen, Yngwie",
+            "aliases": [
+              {
+                "sort-name": "Lannerb\u00e4ck, Lars Johann Yngve",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lars Johann Yngve Lannerb\u00e4ck",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie J Malmsteen",
+                "name": "Yngwie J Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Malmsteen, Yngwie",
+                "name": "Malmsteen, Yngwie",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johann Malmsteen",
+                "name": "Yngwie Johann Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Johan Malmsteen",
+                "name": "Yngwie Johan Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Yngwie Malmsteen",
+                "name": "Yngwie Malmsteen",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-09-20",
+      "releases": [
+        {
+          "id": "1a027844-4a1f-4c61-a6d1-96b7a7afcd1e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7455df50-00b6-38b4-90a1-226f8882942e",
+          "count": 2,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie J. Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "b78c4b46-6916-3472-b65b-39d7b5deb8a7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "676c88ed-fbcb-4b55-ad93-e9fe6aeda6bc",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "2f504d71-bf44-4e6c-ac9a-0847b85aa53b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "2003",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b89505bd-d673-37ff-baa3-a1773e5b22c4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1b144675-4461-4f6d-97b1-60d7ae93d995",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "c16ae1b8-2761-4d6f-8720-3c1368518775",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "090f9a82-3e76-34a3-b173-44250e949cf8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8c800976-12bf-3fc9-bac9-71c705487fdd",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293093
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "8039a712-9fc4-3056-a540-2e0f7e2b9f03",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "d5b808bf-f8da-32cb-8e6c-d4cfde99ab6f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1f575399-ce80-35c6-b8e9-b774b0ee6104",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293093
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "8002eb0f-2aef-4288-aed3-3b54fffaf7dd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "c77fabf1-7e1c-3a7c-8fa7-bac603d85cac",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "721e700c-da3c-4151-9895-c5689df75eb2",
+                  "number": "B3",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293093
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "ec3397a0-ec8a-407c-bda1-5d289fd3b526",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 2,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "195a954e-8c6d-3ac2-b1c4-ac64dace93b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0d976410-10fd-41b9-8b0d-8b5010cbdb7d",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "6ac6fcb2-610f-478c-b9f9-2182b88b0b41",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 10,
+          "title": "Yngwie Malmsteen Archives",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d6d52074-1808-4281-8e65-610d045f7351",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Yngwie Malmsteen Archives",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 134,
+          "media": [
+            {
+              "id": "dd6b0e32-634d-3586-9bdd-938b98d80eb1",
+              "position": 4,
+              "format": "HDCD",
+              "track": [
+                {
+                  "id": "0276fe5a-d845-430b-9cc9-953f9fff65cd",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye"
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "115543a6-5227-44b2-8399-11a3cf9211e0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01c17039-d2ba-3019-9b1a-ba750769d660",
+          "count": 1,
+          "title": "Inspiration",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yngwie Malmsteen",
+              "artist": {
+                "id": "8fa5d80d-37e8-4133-9d5c-6bad446c63f0",
+                "name": "Yngwie Malmsteen",
+                "sort-name": "Malmsteen, Yngwie"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b1ec929-f1c1-3dae-85f6-3a7b57960171",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspiration",
+            "primary-type": "Album"
+          },
+          "date": "1996-09-20",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1996-09-20",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "e353b3e7-598b-34dc-b30c-4807194d5014",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4782857b-2848-385b-b9f8-f2b3b855c1c1",
+                  "number": "8",
+                  "title": "Demon\u2019s Eye",
+                  "length": 293026
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "aa358e78-b33c-4c35-8edc-f1f07615057d",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Autumn Sampler \u201996",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a23cf72-0b4e-4cab-a0ad-05822c17b492",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Autumn Sampler \u201996",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "5e110949-781f-3b8e-82d0-8e4aa00e6ed4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "83b70224-9b8b-47c2-abc5-394f8fedbf39",
+                  "number": "10",
+                  "title": "Demon's Eye",
+                  "length": 291866
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 4,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 3,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "neo-classical metal"
+        },
+        {
+          "count": 1,
+          "name": "guitar virtuoso"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    }
+  ]
+}

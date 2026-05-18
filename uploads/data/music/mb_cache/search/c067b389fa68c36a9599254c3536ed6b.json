@@ -1,0 +1,724 @@
+{
+  "created": "2026-05-18T05:57:55.601Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "89abeb6a-0258-4122-a479-04f929a9ae8d",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Echoes in the Dark",
+      "length": 309000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "b0646f2b-5032-4ff8-9b1b-4ef16c8bbab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3e257979-c51a-3747-91e9-0c44dd331531",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eed727d2-b74e-467b-a978-ecc183c1a38c",
+                  "number": "12",
+                  "title": "Echoes in the Dark",
+                  "length": 309000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "42d561ee-1c2c-4287-8fb2-abdbe24e25af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "disambiguation": "\u521d\u56de\u9650\u5b9a\u76e4",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "532d956c-eb0d-3ca9-91e6-5209b801cf72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4abd7d08-cbdb-4d18-a87a-ccbf0acea7a6",
+                  "number": "12",
+                  "title": "Echoes in the Dark",
+                  "length": 309000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e1f68ede-eaea-4c50-a0f8-656c6a5a28fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "422ef718-011d-36fe-862f-b1ab3dee8244",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4e7b4a2e-d01d-4a6f-b6f6-c5fb2e5a803a",
+                  "number": "12",
+                  "title": "Echoes in the Dark",
+                  "length": 309000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "a0b15c7f-dcc9-4da7-9a05-8d5933d5710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "NUCLEUS",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5c518ba8-1c1b-305f-bc32-90ee7618c07c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "640e435c-a6b9-4d18-8d86-56bcd8fb1a31",
+                  "number": "12",
+                  "title": "Echoes in the Dark",
+                  "length": 309000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPF970701734"
+      ]
+    },
+    {
+      "id": "75a9b097-7bb2-4b56-b096-2586988a4d66",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Echoes in the Dark",
+      "disambiguation": "live, 2015-11-28: CLUB CITTA\u2019, Kawasaki, Kanagawa, Japan / 30th ANNIVERSARY TOUR 2015: TOUR FINAL",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-03-30",
+      "releases": [
+        {
+          "id": "a1d76a2f-68de-4820-a627-91c17de81ed6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "30+",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6f9c29bf-03b2-4a96-a8d1-81ded5eee247",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "30+",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2016-03-30",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016-03-30",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "5cc9bd10-bc54-3cc0-a6fe-7c12084107ce",
+              "position": 1,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "b64e62ef-ad64-456e-a3bb-418f2b03d3db",
+                  "number": "9",
+                  "title": "Echoes in the Dark"
+                }
+              ],
+              "track-count": 31,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0cce214-7142-448b-aca6-b7bdd89eabfb",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Echoes in the Dark",
+      "disambiguation": "live, 2021-06-11: Club Citta\u2019, Kawasaki, Kanagawa, Japan",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-12-15",
+      "releases": [
+        {
+          "id": "9ea514b9-9cae-4c41-9131-6dc80312806f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "35+",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4f77c789-c1f8-4fda-8fcb-508572f9de2d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "35+",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 40,
+          "media": [
+            {
+              "id": "659ce279-7946-3851-b0f9-4bb8c9502e5f",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "1aa8524c-6a27-4b87-bc9e-11ab0c976ada",
+                  "number": "17",
+                  "title": "Echoes in the Dark"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29d4b792-6e0f-4cf0-8d6e-5fd29b9c4a68",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Echoes in the Dark",
+      "length": 317000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-08-30",
+      "releases": [
+        {
+          "id": "9dd3db72-2aa2-4a2a-9a9f-bbd36812aad6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "IMMORTAL",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "52797a46-c745-31ac-ad15-72c477e19bbf",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "IMMORTAL",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-30",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-30",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "7c05e7e9-609b-30eb-aac5-155a1af20abc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "41a91f40-57d9-3fe1-825e-43f418f12f08",
+                  "number": "10",
+                  "title": "Echoes in the Dark",
+                  "length": 315146
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "ff558726-9bb6-4261-9d7e-ed8cd9c2128f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Core: Best of Anthem 2000-2007",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bca51e6-a300-431d-93e8-af635feadc34",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Core: Best of Anthem 2000-2007",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-07-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-07-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "7e985f2c-22b0-3203-986e-ce922bbd7227",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f0dee0c-0c4b-375d-8aca-ec1f68273e72",
+                  "number": "16",
+                  "title": "Echoes in the Dark",
+                  "length": 317000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "69795e0b-8415-457d-9a41-b29130a61f85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 3,
+          "title": "Anthems 2000-2011",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c60de4ce-37a4-4b50-9585-03bc837ce3b9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Anthems 2000-2011",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "33c9c0e2-8956-3a9e-bff2-401afbe600f7",
+              "position": 2,
+              "format": "HQCD",
+              "track": [
+                {
+                  "id": "5987e55c-faba-4066-89f4-dc005773483b",
+                  "number": "4",
+                  "title": "ECHOES IN THE DARK",
+                  "length": 318000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPVI00631130"
+      ]
+    }
+  ]
+}

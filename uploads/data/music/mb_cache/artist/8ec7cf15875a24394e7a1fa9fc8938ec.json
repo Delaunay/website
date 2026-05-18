@@ -1,0 +1,132 @@
+{
+  "country": "ES",
+  "life-span": {
+    "begin": "1962",
+    "ended": false,
+    "end": null
+  },
+  "name": "Los del R\u00edo",
+  "relations": [
+    {
+      "direction": "backward",
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Monge, Antonio Romero",
+        "id": "7c209476-c22f-4fbe-824c-d13400ce9824",
+        "name": "Antonio Romero Monge",
+        "country": "ES"
+      },
+      "attributes": [],
+      "type": "member of band",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "2f80e737-8f6f-4ee7-b553-45d90e57810f",
+        "disambiguation": "",
+        "sort-name": "Ruiz, Rafael",
+        "country": "ES",
+        "name": "Rafael Ruiz"
+      },
+      "ended": false,
+      "direction": "backward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    }
+  ],
+  "end-area": null,
+  "area": {
+    "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+    "sort-name": "Spain",
+    "disambiguation": "",
+    "type-id": null,
+    "type": null,
+    "name": "Spain",
+    "iso-3166-1-codes": [
+      "ES"
+    ]
+  },
+  "id": "c152ed9f-7a4c-4006-af2d-ed8b7126b0a0",
+  "sort-name": "Los del R\u00edo",
+  "disambiguation": "",
+  "gender": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "isnis": [
+    "0000000121822546"
+  ],
+  "tags": [
+    {
+      "name": "flamenco pop",
+      "count": 2
+    },
+    {
+      "name": "latin",
+      "count": 2
+    },
+    {
+      "count": 2,
+      "name": "rumba flamenca"
+    },
+    {
+      "name": "sevillanas",
+      "count": 2
+    }
+  ],
+  "ipis": [],
+  "gender-id": null,
+  "begin-area": {
+    "type-id": null,
+    "type": null,
+    "id": "8b22fca8-64d8-49be-8db9-9a817a03a564",
+    "sort-name": "Dos Hermanas",
+    "disambiguation": "",
+    "name": "Dos Hermanas"
+  },
+  "genres": [
+    {
+      "count": 2,
+      "id": "c0fc336d-506d-443d-b335-32d81f416466",
+      "name": "flamenco pop",
+      "disambiguation": ""
+    },
+    {
+      "id": "7369bb8b-3399-4180-8cb2-4e37e0e7b0e7",
+      "name": "latin",
+      "disambiguation": "",
+      "count": 2
+    },
+    {
+      "count": 2,
+      "name": "rumba flamenca",
+      "disambiguation": "",
+      "id": "8d678143-64c5-4c4b-acbe-86810e5b1817"
+    },
+    {
+      "count": 2,
+      "id": "6c35a5cc-8d89-4ab3-9907-cea13960a847",
+      "disambiguation": "",
+      "name": "sevillanas"
+    }
+  ],
+  "type": "Group"
+}

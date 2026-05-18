@@ -1,0 +1,95 @@
+{
+  "created": "2026-05-18T12:33:29.224Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8eb4352b-2f3f-4c67-b0d4-98854b8e8157",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Farrell",
+      "sort-name": "Farrell, Frank",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK hard house/drum n bass producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fe3f1bac-e7dd-483b-8255-7ede18e66cfc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Farrell",
+      "sort-name": "Farrell, Frank",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Birmingham",
+        "sort-name": "Birmingham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK rock bassist, vocalist and songwriter",
+      "life-span": {
+        "begin": "1947-03-31",
+        "end": "1997-07-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Farrell, Francis Anthony",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Anthony Farrell",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "71e57790-277a-451e-9020-25b8b28ccac0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Farrell",
+      "sort-name": "Farrell, Frank",
+      "gender": "male",
+      "disambiguation": "engineer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

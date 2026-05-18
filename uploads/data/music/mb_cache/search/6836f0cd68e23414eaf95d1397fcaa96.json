@@ -1,0 +1,1155 @@
+{
+  "created": "2026-05-18T06:00:55.148Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5d886a46-0983-4e2c-aebe-54456a33e6cf",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Iron Head",
+      "length": 251200,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-11-13",
+      "releases": [
+        {
+          "id": "e62807d0-439e-460a-92a0-cd3e1e9a419c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "The Scorpion King: Music From and Inspired by the Motion Picture",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bd5ed82-f5f6-3443-acde-d2465dcd8aa2",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Scorpion King: Music From and Inspired by the Motion Picture",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "0a7cd8db-d109-4e72-889b-9e92e9072c7a",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "499be15f-c3b1-484e-b971-363b67e45126",
+                  "number": "9",
+                  "title": "Iron Head",
+                  "length": 250813
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "5ed3284d-4087-4d2b-8b3d-614bd34c1afb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Halloween Horrors",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1ade8047-80c9-4d2f-b176-16cf9a2a74a0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Halloween Horrors",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 30,
+          "media": [
+            {
+              "id": "ef7f097f-e4e8-3f07-b1b4-bee4d02c7e1b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f55cd78-beb8-4f4d-9763-54cc7247e2e2",
+                  "number": "30",
+                  "title": "Iron Head",
+                  "length": 250813
+                }
+              ],
+              "track-count": 30,
+              "track-offset": 29
+            }
+          ]
+        },
+        {
+          "id": "1a82dd45-c007-46c7-ad24-5b93085f844d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d4004cfd-185f-3731-9c35-8380942fe8a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2c4aa041-07b2-3cd5-9a12-5b37d17b5114",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "4186005e-7089-4102-9a2d-567efb7a6025",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "47d0f254-b6c0-3be2-b1fa-c60ca83a87af",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "35a2b487-2292-4c0d-a837-88f43e7499ba",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "ae572d36-8fad-4570-94a2-57555a99bcf1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "167cc32e-9acb-3e43-86f9-b4c4404104b6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d6623359-cccf-47fe-9fcc-cc514290af66",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "c4dae2eb-2265-4184-b6c5-a69b6eed422b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "3dd90d43-e0a4-3b09-a5af-577a92823bd4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3112099c-71a8-4600-94ed-e2f34a3a2481",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "34ee95cb-1d2a-32c8-b719-3567a6b82a80",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "The Scorpion King: Music From and Inspired by the Motion Picture",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bd5ed82-f5f6-3443-acde-d2465dcd8aa2",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Scorpion King: Music From and Inspired by the Motion Picture",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002-03-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-03-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "6b3a5ad1-0398-3ec8-a551-6c9ad52eb07e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "78db851f-2502-3bef-a31c-914d83624e6a",
+                  "number": "9",
+                  "title": "Iron Head",
+                  "length": 250813
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "23290cda-8b53-4aab-968e-6bcc01f4a4de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "024482b8-4d29-32d2-ba01-6fb51f4c1198",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0bdde213-15bb-40a1-9e13-fce8e1225121",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "df5256d3-4781-4603-8758-c70418abd5bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 5,
+          "title": "5 Classic Albums",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c8637c0-4c72-49d4-94d5-a4da7b830ddb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "5 Classic Albums",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-05-19",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-05-19",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 59,
+          "media": [
+            {
+              "id": "396f66a0-d495-38af-8566-96b7efe6343c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9f58c4f0-f6b4-4f5b-8b50-e0ffd44cd9bb",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "bcc7ff6e-ae04-4323-8b67-da91b2af9d8e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-11-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "751bb3f7-aeee-307f-8b93-d46dade1cb9a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5d3f7a81-7d6b-4800-a4c7-91e3bc4d4582",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "3d7380c3-1070-4b3f-8d61-d1aea4bd45e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "e7784c0a-3318-3130-bfee-3e4d2f706293",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c592fe54-6401-3257-84be-4d8707d8bc4a",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "fde64c4f-689c-46ef-8915-050959bbd5af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "disambiguation": "clean version",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4f52235d-d3ab-386e-8855-b8cda1212c84",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6b1e526-005d-3b4b-b555-1cc89c989b19",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 250000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "6fa97a24-025a-47bb-b945-c530c73c5ff9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "The Scorpion King",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bd5ed82-f5f6-3443-acde-d2465dcd8aa2",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Scorpion King: Music From and Inspired by the Motion Picture",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002-04-08",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002-04-08",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "5402779b-d36d-3456-b773-7271581065f0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a92784f8-37a8-3644-ba8e-acd633075807",
+                  "number": "9",
+                  "title": "Iron Head",
+                  "length": 252520
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "cef5794d-051d-3947-ba6a-3fe876671f79",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-11-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "975137a0-0e15-3c57-bdbc-e981d0da22bd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fdb0aa49-83de-3d46-92eb-3f7e631855c7",
+                  "number": "5",
+                  "title": "Iron Head",
+                  "length": 251200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USIR10120174"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "industrial"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "industrial metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 3,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "6480b9ed-09b6-4fe4-850c-c2fbf0048017",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Iron Head",
+      "length": 245000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "fa728de9-9d35-45c8-a878-e99c272a4c92",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ac0989c-d1b1-4c32-a4a0-7de8a52da4bf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "2efd9fc2-7a25-3881-8fc1-8701ac3bd3c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c552d642-f6f4-3d22-938a-cb7b13dcb97b",
+                  "number": "13",
+                  "title": "Iron Head",
+                  "length": 245000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "85a692fe-4a8e-4a41-ad07-e4b3e2a5edf5",
+      "score": 75,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demon Speeding / Dead Girl Superstar / Iron Head",
+      "length": 230000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001",
+      "releases": [
+        {
+          "id": "56bf38ef-5852-4f93-94d2-d40fc4ce0b5f",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Sampler",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e8411db6-a224-47a9-bdba-bc98d5be452f",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "The Sinister Sampler",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Demo"
+            ],
+            "secondary-type-ids": [
+              "81598169-0d6c-3bce-b4be-866fa658eda3"
+            ]
+          },
+          "track-count": 1,
+          "media": [
+            {
+              "id": "500396b9-7626-36b6-b84a-548c70ce9f35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f621c5c1-3b4c-44ce-873c-a22914704a82",
+                  "number": "1",
+                  "title": "Demon Speeding / Dead Girl Superstar / Iron Head",
+                  "length": 230000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

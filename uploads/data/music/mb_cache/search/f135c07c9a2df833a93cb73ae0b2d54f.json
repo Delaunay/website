@@ -1,0 +1,1335 @@
+{
+  "created": "2026-05-18T06:13:11.408Z",
+  "count": 7,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "b584a2b5-6d6a-4b91-9f3e-fedb371debb4",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore",
+      "length": 256400,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2023-11-17",
+      "releases": [
+        {
+          "id": "c9621264-605b-4e08-aad6-685fc1d3df5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Le Chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2023-11-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-11-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "ce055854-7f5a-31e9-9762-796f554c9dbc",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b4195f27-f551-421e-b011-fd45d04e8f12",
+                  "number": "4",
+                  "title": "Je saigne encore",
+                  "length": 256440
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "0a489edf-352b-435d-ba02-55139d8c7ff2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "track-count": 27,
+          "media": [
+            {
+              "id": "14d30862-05a9-3595-9cf4-16afcd6096d6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f71360cc-02b6-465e-b3ff-20580ffaf5ba",
+                  "number": "15",
+                  "title": "Je saigne encore",
+                  "length": 256400
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 14
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ082300562"
+      ]
+    },
+    {
+      "id": "d743930d-a316-4162-8716-781c42b21b90",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore",
+      "length": 262000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2005-01-24",
+      "releases": [
+        {
+          "id": "72935af9-4a28-4011-9a86-3eba40f58b5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Kyosph\u00e8re",
+          "status": "Official",
+          "release-group": {
+            "id": "9a954b22-c887-3483-98cf-02779357f36a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kyosph\u00e8re",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-01-24",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-24",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "2378649a-b525-3e5d-b504-2f297bce19c9",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "578fa8a0-d6fa-32e8-853a-5947178899a1",
+                  "number": "2",
+                  "title": "Je saigne encore",
+                  "length": 262000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "b509964f-d81a-47fa-997e-fa39792a1d38",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore",
+      "length": 227466,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2004-04-26",
+      "releases": [
+        {
+          "id": "20444b40-d2f2-4c23-b8cc-f18688a3be5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Tubes 2004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1be93fcb-e6dc-3afa-9ec9-d8378c342f4d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tubes 2004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-04-27",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-04-27",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "f6b1d20f-907b-3700-b307-e1ff114863e2",
+              "position": 1,
+              "track": [
+                {
+                  "id": "c8379bae-678d-3cd3-b601-97f1b02b4d2c",
+                  "number": "18",
+                  "title": "Je saigne encore",
+                  "length": 227466
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "ec146d85-c69b-4e0e-9ff2-12c307a43fea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Tubes 2004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6a87257a-6d1e-4d28-a8ce-37ea2f2f559b",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tubes 2004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2004-04-26",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-04-26",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "ba1798ef-1f1f-34d1-849a-754d67d69892",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e1ad802e-0c6c-43b8-9f66-b852dcd74117",
+                  "number": "18",
+                  "title": "Je saigne encore",
+                  "length": 227466
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2cac7e2-1b74-4c1a-882f-6db536a6f122",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore",
+      "length": 232000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2003-01-14",
+      "releases": [
+        {
+          "id": "c46642d1-f3d5-4c66-bcaa-0d66f8626824",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "NRJ Music Awards 2005",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3ff21e9c-9954-35c7-b2c2-38f032baeb3a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Music Awards 2005",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "7b3bd7dc-eb21-3698-8e7e-93a41872e21c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a1122d81-fa8b-42be-9d85-fd1c74ac961f",
+                  "number": "9",
+                  "title": "Je saigne encore",
+                  "length": 227813
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "5e23ee9e-8789-4ad9-ad30-9bf6a9d4b5cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-07-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-07-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "88140628-bd10-35db-9d8b-9e22d2b17a4b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "49a54f5e-f7be-359e-8633-00a9b3f8e4f1",
+                  "number": "7",
+                  "title": "Je saigne encore",
+                  "length": 242093
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "f6f36ebe-0127-4d7a-81fd-ecf24630ac5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "983ad530-7972-337c-b300-d5de66dfd17d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6071c7a5-afba-4818-b400-0fe7ff28593a",
+                  "number": "12",
+                  "title": "Je saigne encore",
+                  "length": 233000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6bab5cae-3b92-4b5c-9247-58fd402b5126",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Un maxx\u2019 de rock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "aaba41d6-fe84-47d8-a68a-6c16b811176f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Un maxx\u2019 de rock",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "e9eb8434-4ba1-3706-b625-b0d35ebe824b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "37386a05-fd74-3012-a05a-6216fdce81da",
+                  "number": "7",
+                  "title": "Je saigne encore",
+                  "length": 235000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "e891676f-7e4d-36c0-a557-4dd5481c3ce3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-01-14",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-01-14",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "28c85ad6-1fa5-3207-9699-373ae3afe9ac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9ba21f74-8eaf-3178-b7e4-3870d6da050b",
+                  "number": "7",
+                  "title": "Je saigne encore",
+                  "length": 242093
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "61474034-768d-3bb5-8180-bd2efd8e22ad",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2004-01-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-01-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c2e223fb-61d0-3464-bc71-8c6a9d03d1b6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6fbe1fac-471d-36ed-8008-0c98135cac9b",
+                  "number": "7",
+                  "title": "Je saigne encore",
+                  "length": 242093
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "89bdd3bf-edb6-49c9-9728-5efca8309cae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Je saigne encore",
+          "status": "Official",
+          "release-group": {
+            "id": "2d309138-b936-3d3a-8353-c5308dbb3b30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Je saigne encore",
+            "primary-type": "Single"
+          },
+          "date": "2004-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "34625d1f-b0e6-3365-b0f9-ce069901d89d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1dcd0b5b-1f65-37a1-adf8-39d48b4f3a1d",
+                  "number": "1",
+                  "title": "Je saigne encore",
+                  "length": 231946
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "039cedb1-d320-3c3b-801c-b9e370ecf70f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "NRJ Music Awards 2005",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3ff21e9c-9954-35c7-b2c2-38f032baeb3a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Music Awards 2005",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-10",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-10",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "775e0896-806a-3e15-9d72-47ed6e571b7b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4aa7bfa3-758c-37ff-bffe-973c15d85137",
+                  "number": "9",
+                  "title": "Je saigne encore",
+                  "length": 229880
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "ade5559d-fa05-481f-8199-a92433c2d867",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Je saigne encore",
+          "status": "Official",
+          "release-group": {
+            "id": "2d309138-b936-3d3a-8353-c5308dbb3b30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Je saigne encore",
+            "primary-type": "Single"
+          },
+          "date": "2004",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "dadb24d5-a80d-3de6-8b01-2e9d793daa84",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "787cfa9d-51f4-38e8-a633-08ae3154618e",
+                  "number": "1",
+                  "title": "Je saigne encore",
+                  "length": 232000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ea41036a-83fa-4d36-9b9b-77753571d71c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Dieux du hit",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ad68b522-4f12-3eaa-954c-f490af45d203",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dieux du Hit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-03-30",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-03-30",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "04c6e569-fdb1-39c6-ae4f-095c6d12ea49",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ca17336a-4914-3d4d-acc6-f283c8b969cc",
+                  "number": "20",
+                  "title": "Je saigne encore",
+                  "length": 231227
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 19
+            }
+          ]
+        },
+        {
+          "id": "8b4e643b-250f-40b4-bf4e-40e251251546",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Je saigne encore",
+          "status": "Official",
+          "release-group": {
+            "id": "2d309138-b936-3d3a-8353-c5308dbb3b30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Je saigne encore",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "d094be3e-f355-30df-9777-f9ab2ce97270",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "92f35693-2daa-426c-8635-60b7129b7920",
+                  "number": "1",
+                  "title": "Je saigne encore",
+                  "length": 232000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "eca09dfe-b80f-4093-9a75-128fb9e3e2bb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "NRJ Music Awards 2005",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3ff21e9c-9954-35c7-b2c2-38f032baeb3a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Music Awards 2005",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-10",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-10",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "bd2d2c65-a0fc-3207-ae1a-45e675f1ad01",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "428167b3-92be-30ca-ae59-8a5d70b72053",
+                  "number": "9",
+                  "title": "Je saigne encore",
+                  "length": 229880
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "c06675b6-1a5c-453d-9329-feadb7773eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-01-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-01-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "fad9813e-f5bf-3b09-b435-ae30b2f48c9e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "cc545a79-8dd4-45d9-93c0-75c02f243141",
+                  "number": "12",
+                  "title": "Je saigne encore",
+                  "length": 233000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR84S0200045"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "d291ec09-9482-44b6-84d2-b42e1bb33529",
+      "score": 86,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore (Niko remix)",
+      "length": 166000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "ade5559d-fa05-481f-8199-a92433c2d867",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Je saigne encore",
+          "status": "Official",
+          "release-group": {
+            "id": "2d309138-b936-3d3a-8353-c5308dbb3b30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Je saigne encore",
+            "primary-type": "Single"
+          },
+          "date": "2004",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "dadb24d5-a80d-3de6-8b01-2e9d793daa84",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5fe3fa90-16cc-3b1c-81b4-8ebf11458864",
+                  "number": "2",
+                  "title": "Je saigne encore (Niko remix)",
+                  "length": 166000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ050300151"
+      ]
+    },
+    {
+      "id": "2fd202b6-8750-4639-b67a-120400433e37",
+      "score": 86,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore (Ne\u00efmo flavoured)",
+      "length": 242000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "ade5559d-fa05-481f-8199-a92433c2d867",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Je saigne encore",
+          "status": "Official",
+          "release-group": {
+            "id": "2d309138-b936-3d3a-8353-c5308dbb3b30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Je saigne encore",
+            "primary-type": "Single"
+          },
+          "date": "2004",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "dadb24d5-a80d-3de6-8b01-2e9d793daa84",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bc1e2134-8da5-3053-91dc-e218808813a3",
+                  "number": "3",
+                  "title": "Je saigne encore (Ne\u00efmo flavoured)",
+                  "length": 242000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ050300152"
+      ]
+    },
+    {
+      "id": "1c22049f-24a3-4242-846d-f0c0c8fb1420",
+      "score": 86,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Je saigne encore (2023 remaster)",
+      "length": 232413,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2023-11-17",
+      "releases": [
+        {
+          "id": "c9621264-605b-4e08-aad6-685fc1d3df5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Le Chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2023-11-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-11-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "209afcfe-79d9-3725-8688-3d4fd0817a56",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5355d863-2afc-4176-a43f-5639007b50df",
+                  "number": "7",
+                  "title": "Je saigne encore (2023 remaster)",
+                  "length": 232413
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "0a489edf-352b-435d-ba02-55139d8c7ff2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "track-count": 27,
+          "media": [
+            {
+              "id": "14d30862-05a9-3595-9cf4-16afcd6096d6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e9345db0-b9cb-429d-b96a-e6c1d4ba9af8",
+                  "number": "7",
+                  "title": "Je saigne encore (2023 remaster)",
+                  "length": 232413
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ082300122"
+      ]
+    }
+  ]
+}

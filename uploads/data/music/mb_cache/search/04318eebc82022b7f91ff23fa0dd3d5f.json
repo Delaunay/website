@@ -1,0 +1,110 @@
+{
+  "created": "2026-05-18T05:54:44.026Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "33d4dc1e-abd1-4741-a71d-be749f13b2c8",
+      "score": 100,
+      "artist-credit-id": "09c23ad8-bdf5-3083-a55c-303bb94b0d51",
+      "title": "I Don't Like You But I Love You",
+      "length": 149000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Clean Cut Kid",
+          "artist": {
+            "id": "9ab6b365-f5f7-473f-bd1d-6ca106b49907",
+            "name": "Clean Cut Kid",
+            "sort-name": "Clean Cut Kid",
+            "disambiguation": "Liverpool based band"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "0e146615-4a0a-46fd-997e-981cf76c7090",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Painwave",
+          "status": "Official",
+          "release-group": {
+            "id": "67258284-5dc3-4599-8227-6038bf299794",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Painwave",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "8841e66d-e07a-3331-ac6a-9720a24d5dca",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "14ea9cf4-cb28-44e6-bf31-09f8ea394558",
+                  "number": "4",
+                  "title": "I Don't Like You But I Love You",
+                  "length": 149000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "d59c764b-0aeb-467e-8970-394ea8da053c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Painwave",
+          "status": "Official",
+          "release-group": {
+            "id": "67258284-5dc3-4599-8227-6038bf299794",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Painwave",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "09a6dc5f-d6b3-3264-824b-669ab546f2d6",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "e10fbd81-6249-4158-8c02-8f2838655edf",
+                  "number": "4",
+                  "title": "I Don't Like You But I Love You"
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBKPL1936764"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "created": "2026-05-18T07:51:16.064Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "fbe3844a-edc4-4976-bb7f-71306995d048",
+      "score": 100,
+      "artist-credit-id": "972cc02f-a426-30ae-8c7d-9136114e8c08",
+      "title": "How Soon Is Now? (single edit)",
+      "length": 253360,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Smiths",
+          "artist": {
+            "id": "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+            "name": "The Smiths",
+            "sort-name": "Smiths, The",
+            "disambiguation": "1980s English rock band",
+            "aliases": [
+              {
+                "sort-name": "The Smith",
+                "name": "The Smith",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Smiths, The",
+                "name": "Smiths, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Smiths",
+                "name": "Smiths",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-09-26",
+      "releases": [
+        {
+          "id": "f65696f7-7c86-41ef-a28b-320c821d6aa6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "972cc02f-a426-30ae-8c7d-9136114e8c08",
+          "count": 1,
+          "title": "Complete",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The Smiths",
+              "artist": {
+                "id": "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+                "name": "The Smiths",
+                "sort-name": "Smiths, The",
+                "disambiguation": "1980s English rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9fbdefbc-ca96-4865-967c-0a5759d40ab1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Complete",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-09-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-09-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 106,
+          "media": [
+            {
+              "id": "5ceead3d-2ede-3d4e-8536-d350118b9851",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fefecfd8-bfbf-4e6d-97e2-b4e983f5526a",
+                  "number": "97",
+                  "title": "How Soon Is Now? (single edit)",
+                  "length": 253360
+                }
+              ],
+              "track-count": 106,
+              "track-offset": 96
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBCRL0800589"
+      ]
+    }
+  ]
+}

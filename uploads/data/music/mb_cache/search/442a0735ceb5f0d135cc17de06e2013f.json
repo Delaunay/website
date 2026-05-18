@@ -1,0 +1,123 @@
+{
+  "created": "2026-05-18T06:30:32.474Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "c809e392-ba99-42c2-86a4-fbb1d45da999",
+      "score": 100,
+      "artist-credit-id": "13dd047b-7a02-4aae-b5ec-5bebfd15bec2",
+      "title": "Connected",
+      "length": 389000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Steven Weston",
+          "artist": {
+            "id": "3406adef-b773-46c5-ab02-79c96fe74081",
+            "name": "Steven Weston",
+            "sort-name": "Weston, Steven",
+            "disambiguation": "producer, engineer, and songwriter from London"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "c2fed1e9-de02-4989-9beb-1dd4b199bdb2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Connected",
+          "status": "Official",
+          "release-group": {
+            "id": "ea7dfc32-0419-4dd5-9cfd-d4a11720b146",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Connected",
+            "primary-type": "Single"
+          },
+          "date": "2022-09-23",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "2729ee04-a4e2-339f-86c0-51dd1982e530",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "74007e8a-307d-4939-9bd2-74259d80d3b1",
+                  "number": "1",
+                  "title": "Connected",
+                  "length": 389000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b1f7871d-0894-4c61-88c5-dd60b20e347e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Melt Air",
+          "status": "Official",
+          "release-group": {
+            "id": "6a43731b-457b-40f8-abfd-e50d0b064465",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Melt Air",
+            "primary-type": "EP"
+          },
+          "date": "2022-10-07",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2022-10-07",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "6b5c6aa3-108d-30e4-9f5d-cec00404b034",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d3ef5dd0-147e-4341-be62-164cfa3fa0d7",
+                  "number": "3",
+                  "title": "Connected",
+                  "length": 389000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "created": "2026-05-18T08:06:09.328Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3a86423e-baa8-4cf2-b783-34c5a1d3769e",
+      "score": 100,
+      "artist-credit-id": "a523b790-8a03-3a82-8837-be75193d9f0c",
+      "title": "All Praises To Thee Remixes Rmx",
+      "length": 257063,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jah Defender",
+          "artist": {
+            "id": "6a17ac47-9a79-40db-aaf6-c3fb79d76f54",
+            "name": "Jah Defender",
+            "sort-name": "Jah Defender"
+          }
+        }
+      ],
+      "first-release-date": "2024-07-31",
+      "releases": [
+        {
+          "id": "4d8f44f4-c5ff-4e62-88ee-99ddcea6ee9f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "eb1ffc59-4f57-3915-a866-c24dd3cb8b60",
+          "count": 1,
+          "title": "All Praises To Thee Remixes",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Michael Exodus",
+              "artist": {
+                "id": "759acf5a-560e-4838-91ce-86b24a39c640",
+                "name": "Michael Exodus",
+                "sort-name": "Michael Exodus",
+                "disambiguation": "Appears on dub netlabels"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "82b2b684-f67d-4c46-a9ce-093b15e87853",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "All Praises To Thee Remixes",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "2024-07-31",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-07-31",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "f0ab0ab0-835f-33c2-8240-763196e74818",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e80c0d5c-c0e8-417d-9e54-7642356b99ff",
+                  "number": "1",
+                  "title": "All Praises To Thee Remixes Rmx",
+                  "length": 257063
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

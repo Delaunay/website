@@ -1,0 +1,97 @@
+{
+  "created": "2026-05-18T05:26:09.621Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3e37fc63-0eb4-447b-b91e-16f0b728a05b",
+      "score": 100,
+      "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+      "title": "Le Logisexe",
+      "length": 161000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fran\u00e7ois P\u00e9russe",
+          "artist": {
+            "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+            "name": "Fran\u00e7ois P\u00e9russe",
+            "sort-name": "P\u00e9russe, Fran\u00e7ois",
+            "aliases": [
+              {
+                "sort-name": "Francois Perusse",
+                "name": "Francois Perusse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997-10",
+      "releases": [
+        {
+          "id": "89becef4-d4b3-43f4-bb1d-80fc674dc619",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "Fran\u00e7ois P\u00e9russe",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1f157853-cd32-4877-9785-25a6d48f403d",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Fran\u00e7ois P\u00e9russe",
+            "primary-type": "Other"
+          },
+          "date": "1997-10",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "1997-10",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "db129e2d-84dc-37c3-8550-af50eae4238f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e296ea04-3a53-440c-9612-c4efa9d956f1",
+                  "number": "1",
+                  "title": "Le Logisexe",
+                  "length": 161000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

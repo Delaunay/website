@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T08:09:27.034Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1b8817ff-067c-4f4b-8f90-ea04a2ebd97f",
+      "score": 100,
+      "artist-credit-id": "e1ce0067-a02c-3e4d-8f20-4efd7aa7dbef",
+      "title": "Plandemic",
+      "length": 223562,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Natty King",
+          "artist": {
+            "id": "070fb37b-1394-486a-82c3-b2b9920bdf26",
+            "name": "Natty King",
+            "sort-name": "Natty King",
+            "disambiguation": "reggae singer"
+          }
+        }
+      ],
+      "first-release-date": "2022-01-07",
+      "releases": [
+        {
+          "id": "07eb8541-bcae-47ec-aca9-583c7bb18335",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Rebellution",
+          "status": "Official",
+          "release-group": {
+            "id": "cc6f85ac-e418-46da-885a-b3df45fdb529",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rebellution",
+            "primary-type": "Album"
+          },
+          "date": "2022-01-07",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-01-07",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "53b6ead0-4cd4-3f52-b809-8eb7c537ae3a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c5dd236d-1312-4dbb-9e94-e394f788b97d",
+                  "number": "6",
+                  "title": "Plandemic",
+                  "length": 223562
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

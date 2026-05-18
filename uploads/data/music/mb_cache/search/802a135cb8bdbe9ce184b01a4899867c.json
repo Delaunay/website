@@ -1,0 +1,124 @@
+{
+  "created": "2026-05-18T12:43:14.040Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "87684162-ab42-4cfa-bf22-ebe237035f54",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "L.A. Guns",
+      "sort-name": "L.A. Guns",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119400846"
+      ],
+      "life-span": {
+        "begin": "1983",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Los Angeles guns",
+          "name": "Los Angeles guns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L>A> guns",
+          "name": "L>A> guns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L. A. Guns",
+          "name": "L. A. Guns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LA Guns",
+          "name": "LA Guns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "glam rock"
+        },
+        {
+          "count": 1,
+          "name": "glam metal"
+        },
+        {
+          "count": 0,
+          "name": "glam"
+        },
+        {
+          "count": 1,
+          "name": "estados unidos"
+        }
+      ]
+    },
+    {
+      "id": "0bb56a51-e1c2-4144-aaf7-df1e67190b2e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 70,
+      "name": "Riley's L.A. Guns",
+      "sort-name": "Riley's LA Guns",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4098aac7-995a-4e79-a951-da861d81e03a",
+      "score": 65,
+      "name": "Paul Black's L.A. Guns",
+      "sort-name": "Paul Black's L.A. Guns",
+      "disambiguation": "Hard Rock",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

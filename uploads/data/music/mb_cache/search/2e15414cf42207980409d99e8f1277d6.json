@@ -1,0 +1,125 @@
+{
+  "created": "2026-05-18T05:47:15.201Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "c0584aa9-c0b0-464f-ac57-d7a9f457327e",
+      "score": 100,
+      "artist-credit-id": "f5f580d3-95d2-361d-9bff-6769b921b00e",
+      "title": "The Distance Between",
+      "length": 178000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "A New Revenge",
+          "artist": {
+            "id": "e7198829-c002-4f6b-bb1b-eb0feeabb07f",
+            "name": "A New Revenge",
+            "sort-name": "New Revenge, A"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-20",
+      "releases": [
+        {
+          "id": "9eeafd08-8977-467b-9beb-89e9b7f5a338",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Enemies & Lovers",
+          "status": "Official",
+          "release-group": {
+            "id": "3da6dff8-be28-4922-b67d-88a81bd0b89c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Enemies & Lovers",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-20",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-20",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d152863c-264e-3f38-926f-f9b9032f06af",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2f2792d8-531c-447a-9df0-e7f4d073da34",
+                  "number": "1",
+                  "title": "The Distance Between",
+                  "length": 178000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ddf47a3d-9cf0-4a0a-944c-db6839da5027",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Enemies & Lovers",
+          "status": "Official",
+          "release-group": {
+            "id": "3da6dff8-be28-4922-b67d-88a81bd0b89c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Enemies & Lovers",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "5e6a1ea1-3397-3b82-aca6-f18c342ea296",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c9085dff-5e4c-4096-aac2-0a40c927091f",
+                  "number": "1",
+                  "title": "The Distance Between",
+                  "length": 178000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "AUMTB1800047"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:25:01.562Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "99d2e37e-cf97-43e6-85bc-d00a2d74519a",
+      "score": 100,
+      "artist-credit-id": "a20e3944-708e-4847-a17b-404c49da9be1",
+      "title": "Chernobyl's Imprint",
+      "length": 121768,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "dogs versus shadows",
+          "artist": {
+            "id": "873ac2d5-5b03-4ce6-b93f-9219bfbc8ca9",
+            "name": "dogs versus shadows",
+            "sort-name": "dogs versus shadows"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "47f6b78e-50b4-41f7-9151-4e98883577cb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Oracle Mama Dot",
+          "status": "Official",
+          "release-group": {
+            "id": "2d1e91de-838a-4a61-970f-a397e7d5cae0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Oracle Mama Dot",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a5a84599-f078-3a88-b938-29909376d0c3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "658e355d-e7eb-467d-8740-cdeb3d1a51f0",
+                  "number": "10",
+                  "title": "Chernobyl's Imprint",
+                  "length": 121768
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

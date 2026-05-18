@@ -1,0 +1,719 @@
+{
+  "created": "2026-05-18T05:57:35.664Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "2e3c6edd-a987-45a3-8313-d127defe900c",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Omega Man",
+      "length": 246000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "b0646f2b-5032-4ff8-9b1b-4ef16c8bbab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3e257979-c51a-3747-91e9-0c44dd331531",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5e12fe58-117d-45f6-b78f-9a0f2dc22d15",
+                  "number": "10",
+                  "title": "Omega Man",
+                  "length": 246000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "42d561ee-1c2c-4287-8fb2-abdbe24e25af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "disambiguation": "\u521d\u56de\u9650\u5b9a\u76e4",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "532d956c-eb0d-3ca9-91e6-5209b801cf72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7cadaf75-929b-4d46-9cfe-30c59f45bda5",
+                  "number": "10",
+                  "title": "Omega Man",
+                  "length": 246000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "e1f68ede-eaea-4c50-a0f8-656c6a5a28fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "422ef718-011d-36fe-862f-b1ab3dee8244",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dd05c4c9-246c-4d29-bbbb-9b9442738154",
+                  "number": "10",
+                  "title": "Omega Man",
+                  "length": 246000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "a0b15c7f-dcc9-4da7-9a05-8d5933d5710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "NUCLEUS",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5c518ba8-1c1b-305f-bc32-90ee7618c07c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4a90c240-604b-45bc-8089-5d94a4d13779",
+                  "number": "10",
+                  "title": "Omega Man",
+                  "length": 247000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPF970701842"
+      ]
+    },
+    {
+      "id": "593aa2aa-6235-4096-be44-6b7598b5f8a9",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Omega Man",
+      "disambiguation": "live, 2021-06-05: Ex Theater Roppongi, Minato, Tokyo, Japan",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-12-15",
+      "releases": [
+        {
+          "id": "9ea514b9-9cae-4c41-9131-6dc80312806f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "35+",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4f77c789-c1f8-4fda-8fcb-508572f9de2d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "35+",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 40,
+          "media": [
+            {
+              "id": "53e0141c-bd74-34c2-b881-eb1c863c892d",
+              "position": 1,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "15b73ceb-2222-4c00-bf63-23201c1f9c57",
+                  "number": "14",
+                  "title": "Omega Man"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d640669-192a-4090-9e74-c5e08f836035",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Omega Man",
+      "disambiguation": "live, 2021-06-11: Club Citta\u2019, Kawasaki, Kanagawa, Japan",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-12-15",
+      "releases": [
+        {
+          "id": "9ea514b9-9cae-4c41-9131-6dc80312806f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "35+",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4f77c789-c1f8-4fda-8fcb-508572f9de2d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "35+",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 40,
+          "media": [
+            {
+              "id": "659ce279-7946-3851-b0f9-4bb8c9502e5f",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "42795cd7-be26-4c63-bcc3-cfd427fb7310",
+                  "number": "14",
+                  "title": "Omega Man"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1e2cc15-dbcd-4f62-82b4-f721c635e788",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Omega Man",
+      "length": 247000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-07-21",
+      "releases": [
+        {
+          "id": "e02fd8b1-ea2d-44bb-867d-f3bb1267c007",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "ETERNAL WARRIOR",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0029407-644c-3304-b56d-dac7af941c50",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ETERNAL WARRIOR",
+            "primary-type": "Album"
+          },
+          "date": "2004-07-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2004-07-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "1a1b9570-6b77-3bf1-8783-a7a51f77624f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "790c8f21-97d0-3dad-b439-128f3b38a449",
+                  "number": "8",
+                  "title": "Omega Man",
+                  "length": 245933
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "ff558726-9bb6-4261-9d7e-ed8cd9c2128f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Core: Best of Anthem 2000-2007",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bca51e6-a300-431d-93e8-af635feadc34",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Core: Best of Anthem 2000-2007",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-07-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-07-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "7e985f2c-22b0-3203-986e-ce922bbd7227",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "30b04057-a9cf-3c74-8d87-c833175637c1",
+                  "number": "12",
+                  "title": "Omega Man",
+                  "length": 247000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "69795e0b-8415-457d-9a41-b29130a61f85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 3,
+          "title": "Anthems 2000-2011",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c60de4ce-37a4-4b50-9585-03bc837ce3b9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Anthems 2000-2011",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "0ab1fedf-2ce5-3968-b301-60817d7788b2",
+              "position": 1,
+              "format": "HQCD",
+              "track": [
+                {
+                  "id": "522b121d-5f8b-4d65-807c-ec8b2e92c51e",
+                  "number": "14",
+                  "title": "OMEGA MAN",
+                  "length": 250000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPVI00423190"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        }
+      ]
+    }
+  ]
+}

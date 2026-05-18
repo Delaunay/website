@@ -1,0 +1,58 @@
+{
+  "created": "2026-05-18T05:47:56.868Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "49cb7f14-f68f-42b4-b843-c7fcb49ec5bd",
+      "score": 100,
+      "artist-credit-id": "1745f05a-242e-437a-b4ea-39e19c05ba72",
+      "title": "E",
+      "length": 80133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Coughy",
+          "artist": {
+            "id": "eb707b03-d5c4-4d13-84c4-60c6c112cd8a",
+            "name": "Coughy",
+            "sort-name": "Coughy"
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "264e3748-b93b-4d7a-bfd6-a9866ebb1238",
+          "count": 1,
+          "title": "Ocean Hug",
+          "release-group": {
+            "id": "b42af2d9-4790-4210-8641-8a736be1bacf",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ocean Hug",
+            "primary-type": "Album"
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "711d14ec-7575-4f53-a6a3-2e1ed45b0e17",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6d9b313e-b396-4a30-a0f7-6e4000b78fff",
+                  "number": "8",
+                  "title": "E",
+                  "length": 80133
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

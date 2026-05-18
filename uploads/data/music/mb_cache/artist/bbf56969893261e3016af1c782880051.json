@@ -1,0 +1,216 @@
+{
+  "name": "Flume",
+  "type": "Person",
+  "begin-area": {
+    "type-id": null,
+    "sort-name": "Sydney",
+    "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed",
+    "name": "Sydney",
+    "type": null,
+    "disambiguation": ""
+  },
+  "country": "AU",
+  "genres": [
+    {
+      "count": 2,
+      "name": "alternative pop",
+      "disambiguation": "",
+      "id": "d3ebe947-7c03-43f5-b333-09379881b0f6"
+    },
+    {
+      "disambiguation": "",
+      "count": 2,
+      "name": "alternative r&b",
+      "id": "4e03fb35-d571-4111-824d-88c9f8a3d0c9"
+    },
+    {
+      "id": "7232e5df-8466-421f-ad5a-ce2048e5522d",
+      "count": 3,
+      "name": "chillout",
+      "disambiguation": ""
+    },
+    {
+      "id": "3976e9ba-16d0-461d-b732-99408a0374ba",
+      "disambiguation": "",
+      "count": 1,
+      "name": "edm"
+    },
+    {
+      "id": "89255676-1f14-4dd8-bbad-fca839d6aff4",
+      "count": 2,
+      "name": "electronic",
+      "disambiguation": ""
+    },
+    {
+      "count": 1,
+      "name": "experimental electronic",
+      "disambiguation": "",
+      "id": "3832a068-e169-40cb-9638-d0b04342f3a3"
+    },
+    {
+      "id": "e254f865-58ea-4483-9b2f-1bc65febcd71",
+      "count": 7,
+      "name": "future bass",
+      "disambiguation": ""
+    },
+    {
+      "id": "997baf8b-203b-4567-a475-1c1fe348d206",
+      "disambiguation": "",
+      "count": 3,
+      "name": "glitch pop"
+    },
+    {
+      "id": "52faa157-6bad-4d86-a0ab-d4dec7d2513c",
+      "disambiguation": "",
+      "count": 3,
+      "name": "hip hop"
+    },
+    {
+      "name": "trap edm",
+      "count": 3,
+      "disambiguation": "",
+      "id": "a21ea484-efba-4119-8120-429b26f98728"
+    },
+    {
+      "disambiguation": "",
+      "count": 3,
+      "name": "wonky",
+      "id": "449e7cdf-0d7e-46aa-852d-96d81078abf3"
+    }
+  ],
+  "gender": "Male",
+  "end-area": null,
+  "area": {
+    "name": "Australia",
+    "type": null,
+    "iso-3166-1-codes": [
+      "AU"
+    ],
+    "disambiguation": "",
+    "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+    "sort-name": "Australia",
+    "type-id": null
+  },
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "ipis": [
+    "00516430773"
+  ],
+  "disambiguation": "Australian DJ and producer",
+  "id": "35fd8d42-b4a6-4414-9827-8766bd0daa3c",
+  "isnis": [
+    "0000000440220817"
+  ],
+  "relations": [
+    {
+      "target-credit": "",
+      "begin": "2010",
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "end": "2015-02-20",
+      "artist": {
+        "sort-name": "What So Not",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "e840a9e5-4b73-486a-a47d-790d5096dd1f",
+        "type": "Group",
+        "name": "What So Not",
+        "disambiguation": "",
+        "country": "AU"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "sort-name": "What So Not",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "e840a9e5-4b73-486a-a47d-790d5096dd1f",
+        "name": "What So Not",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "AU"
+      },
+      "end": null,
+      "attributes": [],
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "Harley Streten",
+      "direction": "forward"
+    }
+  ],
+  "life-span": {
+    "begin": "1991-11-05",
+    "ended": false,
+    "end": null
+  },
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "tags": [
+    {
+      "count": 2,
+      "name": "alternative pop"
+    },
+    {
+      "count": 2,
+      "name": "alternative r&b"
+    },
+    {
+      "name": "chillout",
+      "count": 3
+    },
+    {
+      "name": "edm",
+      "count": 1
+    },
+    {
+      "count": 2,
+      "name": "electronic"
+    },
+    {
+      "name": "experimental electronic",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "flumestep"
+    },
+    {
+      "count": 7,
+      "name": "future bass"
+    },
+    {
+      "count": 3,
+      "name": "glitch pop"
+    },
+    {
+      "name": "hip hop",
+      "count": 3
+    },
+    {
+      "name": "trap edm",
+      "count": 3
+    },
+    {
+      "count": 2,
+      "name": "uk bass"
+    },
+    {
+      "name": "wonky",
+      "count": 3
+    }
+  ],
+  "sort-name": "Flume"
+}

@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T07:13:18.131Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "81c04810-2614-43ca-8b0e-b67704904725",
+      "score": 100,
+      "artist-credit-id": "d5e74b32-1cb1-343b-ac2c-0e0d36fa5190",
+      "title": "Du sagst",
+      "length": 198000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kaffkiez",
+          "artist": {
+            "id": "e0d27097-0383-46d1-ac10-73b60a69d7fa",
+            "name": "Kaffkiez",
+            "sort-name": "Kaffkiez",
+            "disambiguation": "Indie Rock"
+          }
+        }
+      ],
+      "first-release-date": "2022-04-29",
+      "releases": [
+        {
+          "id": "a631d95a-74ef-4c3c-8222-4148fa60e869",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "cf58a5be-37ea-3573-9aa7-783f1240b2d7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "27bfdd34-48f2-4419-9a97-13532057ea2b",
+                  "number": "7",
+                  "title": "Du sagst",
+                  "length": 198000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "7d0cd071-6e78-4770-a66c-3f37f0392309",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Du Sagst",
+          "status": "Official",
+          "release-group": {
+            "id": "0a45796e-36bd-48d0-89a7-8c04396d62f0",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Du Sagst",
+            "primary-type": "Single"
+          },
+          "date": "2022-04-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-04-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "db8917d7-f982-3ef2-af98-dcc4d0d9e9b4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8997453b-9980-4100-9468-86e5923dd04c",
+                  "number": "1",
+                  "title": "Du Sagst",
+                  "length": 198000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9441a1cf-9476-4e2a-a315-65a926bc53c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "eecc145c-dae6-3896-bb32-695f7be828a7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "af74ae6c-3a7a-4ca0-94e2-7c3a0c4372e2",
+                  "number": "7",
+                  "title": "Du sagst",
+                  "length": 198000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

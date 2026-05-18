@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T06:28:19.277Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e7bb208c-1074-4e2d-9d98-392a8fcc73da",
+      "score": 100,
+      "artist-credit-id": "5a8cfe0b-ff6d-48e4-98a9-4bccd63ace0a",
+      "title": "These problems are multiplied by the difficulty I have in front of a tape recorder",
+      "length": 207000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Steve Bates",
+          "artist": {
+            "id": "1acab696-3c28-47e3-bd43-3e31cab791fb",
+            "name": "Steve Bates",
+            "sort-name": "Bates, Steve",
+            "disambiguation": "founder of The Dim Coast"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "d1ca8f55-eac4-4048-821e-f4b20ac2b3ed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "All the Things That Happen",
+          "status": "Official",
+          "release-group": {
+            "id": "3f0d8007-0c0c-42fb-af7f-a3cbd504db01",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All the Things That Happen",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "daa4933f-dc6f-3f57-8eb6-9981623b9e60",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "93bb24ce-810a-4261-9d99-2a3cd70a84de",
+                  "number": "2",
+                  "title": "These problems are multiplied by the difficulty I have in front of a tape recorder",
+                  "length": 207000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

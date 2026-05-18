@@ -1,0 +1,3303 @@
+{
+  "created": "2026-05-18T06:09:24.981Z",
+  "count": 9,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "645f0d45-6bf7-4711-95e6-9cdd1baa6d11",
+      "score": 100,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja",
+      "length": 224586,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-01",
+      "releases": [
+        {
+          "id": "f7dff809-1695-4404-a276-34047d12f674",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 33,
+          "title": "XXXIII",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "377b8aec-71b8-4b87-b2a6-88c04da7d063",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "XXXIII",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2025-11-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2025-11-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 66,
+          "media": [
+            {
+              "id": "246be79f-3517-4640-91c2-9b5ab7b3e185",
+              "position": 10,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "8d3aef18-0ee1-49b3-8f4a-b4b9aedf223d",
+                  "number": "J2",
+                  "title": "Halleluja"
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "bfc81356-00e2-43a5-b393-f27a271e03ba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Resident Evil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4e3464a-ec09-34c5-b214-d8d5882f7c55",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Resident Evil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "213b1629-cd24-47bb-b880-e87b448e0d6f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d82b1f63-7c83-4f5f-8709-60c86c104608",
+                  "number": "9",
+                  "title": "Halleluja",
+                  "length": 219000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "0b72c351-0cfb-49ab-8b82-4af8e4a2827a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Dance Hits & Remixes",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7a9d1af2-8279-4480-8789-d9423ac64498",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Dance Hits & Remixes",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "05a17e2b-e268-3074-ba4a-ce2771dc5d30",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c8506175-1291-44bc-a8d5-644402cc8252",
+                  "number": "1",
+                  "title": "Halleluja",
+                  "length": 225653
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e130fce1-9307-471d-a781-a8bfbe535b79",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Mutter Remix",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "083b7e51-3b5f-4710-8b53-389f0a949130",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mutter Remix",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "028c9b27-1b79-3a42-9b7b-87fa6ea5ecb4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b3c695f5-343a-43fc-8de7-36ea9f4efe99",
+                  "number": "11",
+                  "title": "Halleluja",
+                  "length": 224706
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "6ba0aabb-a9d3-401f-aeba-65dcb7127c46",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "xXx",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c8a9028-177e-3b97-ba7e-38aceac355e4",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "xXx",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "f0bd49ef-54fc-3b3b-8e79-c5bf30c5534c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d4144e85-cf60-48e6-8c1c-c3b41ed5a386",
+                  "number": "16",
+                  "title": "Halleluja",
+                  "length": 222066
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "89092647-f97c-4b23-b564-d5b3433b4706",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Rarit\u00e4ten (1994 - 2012)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10ab51af-c648-4765-a176-eb78ec06eaed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rarit\u00e4ten: 1994\u20132012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017-05-15",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2017-05-15",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            },
+            {
+              "date": "2017-05-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c27c704d-7e53-339e-acf6-7f071ccf09bb",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "72e92b73-8f70-4019-8d47-f3434e3c4f65",
+                  "number": "6",
+                  "title": "Halleluja",
+                  "length": 224000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ee92ea13-dec4-4aa6-b610-7403c4811074",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "The Remix Album 2002",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b6c342c-8659-3da1-98bd-4c2eb668a773",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blutmond",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "32922f29-f5f7-3aa9-8a9f-78f9d9bd09cb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "69b93a41-986e-3c3f-98c1-dbfb67aa04e5",
+                  "number": "3",
+                  "title": "Halleluja (single track)",
+                  "length": 225000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "90aa67bf-d99f-49a1-82de-7510fcf4c076",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Blutmond",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b6c342c-8659-3da1-98bd-4c2eb668a773",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Blutmond",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "73c3c2c0-4df5-39cd-af66-028f163651a9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d600717e-7d18-3295-8ec2-3fa181c25e4d",
+                  "number": "3",
+                  "title": "Halleluja (single track)",
+                  "length": 225000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "0ea5f511-6dab-4453-8efe-b8832dd52ae7",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Golden Collection",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b9d74234-1680-4e4d-baf7-1159cc0a0f22",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Golden Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 164,
+          "media": [
+            {
+              "id": "7f5cb580-89df-3f3f-b9d0-76e096d7f18a",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "6f5a59cc-06a2-4839-a882-29a472f5f2ac",
+                  "number": "148",
+                  "title": "Halleluja"
+                }
+              ],
+              "track-count": 164,
+              "track-offset": 147
+            }
+          ]
+        },
+        {
+          "id": "d5a09bef-a341-46eb-ae30-e2aa5854affa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Links 2\u20103\u20104",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e634bfdc-ef97-36ec-982e-18e80ea133cb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Links 2\u20103\u20104",
+            "primary-type": "Single"
+          },
+          "date": "2001-05-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-05-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "50131560-cc63-39d9-b052-113170ae67a9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2a8a7869-5a92-38c6-8157-f4d9a10ca9b6",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 225666
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b588e76a-55c3-4963-bd13-1d95b3d1609a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Rare Tracks & Singles",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b376fe5-ab6e-43aa-b807-eb474193be73",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rare Tracks & Singles",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "33e07cac-a5f5-337c-8cdc-57cbbabac75d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ded352e2-2840-4ef2-9fdb-c020ec7c8721",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 218706
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d9ef8747-2b8d-428d-980f-f9e710478bd5",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Rarit\u00e4ten",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10ab51af-c648-4765-a176-eb78ec06eaed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rarit\u00e4ten: 1994\u20132012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "1df147f7-cd92-39d0-bec2-e9ae369860c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "96fc8edd-3b57-463f-98f6-1036a7a64e43",
+                  "number": "6",
+                  "title": "Halleluja",
+                  "length": 227000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "811ee57f-ed8a-4329-9357-d7cb5168bbb5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Ich Will",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "391b2ca1-03b6-3232-9d4d-131a20641df5",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Ich will",
+            "primary-type": "Single"
+          },
+          "date": "2002",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "438af824-d1c1-346b-bfa9-a8e1a81f0929",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ba170559-c9e5-4d47-86aa-d2fecabb0d67",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 225000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "9050af06-79ce-4b07-8324-6bf20d6512d0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Resident Evil: Music From and Inspired by the Original Motion Picture",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4e3464a-ec09-34c5-b214-d8d5882f7c55",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Resident Evil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002-03-12",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-03-12",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "ded379ed-5fc7-39ca-9ba1-3806e29ff5ff",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b26c1f47-5c9d-32c1-9aab-d9d36d1c1b97",
+                  "number": "9",
+                  "title": "Halleluja",
+                  "length": 218866
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "4dda4506-cd62-45c8-91a4-1e0c07670450",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "[untitled]",
+          "status": "Promotion",
+          "disambiguation": "Mutter 8-track tape",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d246693-309b-4a3f-866d-361240de11c6",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "[untitled]",
+            "disambiguation": "Mutter 8\u2010track tape",
+            "primary-type": "EP"
+          },
+          "date": "2001-01",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-01",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "91e8f90a-00da-3816-9ca2-7cb9d8704b6f",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "c05c9e11-b20c-436a-99f3-ce7813dbec86",
+                  "number": "7",
+                  "title": "Pastor",
+                  "length": 230000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "a7202804-6c6d-455c-aadf-abca5b04ec3e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Rarit\u00e4ten",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10ab51af-c648-4765-a176-eb78ec06eaed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rarit\u00e4ten: 1994\u20132012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "535d9fd1-f3c3-3b2a-a3bd-1adf5530badd",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "b4bc3821-7e87-4b4f-8537-fe7cb959f1a7",
+                  "number": "B2",
+                  "title": "Halleluja",
+                  "length": 227000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3a2a99dc-8cca-4cf8-ad14-759b32fe189b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Gold Collection",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "eb0cfcfd-9dbf-46a9-b9b0-045f31e04fcb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gold Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 110,
+          "media": [
+            {
+              "id": "9288b09c-0127-3ca9-af16-bff65e2050a4",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "93d748be-109a-4646-9071-d66d5a872ed1",
+                  "number": "20",
+                  "title": "Hallelujah"
+                }
+              ],
+              "track-count": 110,
+              "track-offset": 19
+            }
+          ]
+        },
+        {
+          "id": "d1471029-a3ed-4698-a13d-3bf930d16e2d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Rare Tracks",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "10ab51af-c648-4765-a176-eb78ec06eaed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rarit\u00e4ten: 1994\u20132012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-04-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015-04-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c05cbd75-ef5b-3345-8e5a-eb1545dac5df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5703fe28-ad7f-4e2c-9397-c35e89de8aae",
+                  "number": "6",
+                  "title": "Halleluja",
+                  "length": 225000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a6b99b3d-0529-43f9-a7f0-69ba34e4e2e8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Resident Evil: Music From and Inspired by the Original Motion Picture",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4e3464a-ec09-34c5-b214-d8d5882f7c55",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Resident Evil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002-03-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002-03-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2002-03-11",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2002",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "cf9a4bff-bb6c-3cf1-a4e8-0253502de51f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "43303454-0f71-4188-ab22-692561254978",
+                  "number": "9",
+                  "title": "Halleluja",
+                  "length": 218866
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "e625fb8d-64e2-4ca1-9178-bd095997d59d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "5/4 (B-sides)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "63d4e664-d513-308b-b14a-82768add02a3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "5/4 (B-sides)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "36e568e7-f2ac-3ca6-8433-de78183568aa",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "6d203dcd-b956-3d86-85a2-88604baca4b0",
+                  "number": "10",
+                  "title": "Hallelujah",
+                  "length": 220213
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "550cbd9d-c9c1-4b08-bf7e-f9f42c25efac",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Kein Engel",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4f61b64-f340-34b4-8297-eb7e11f19c44",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kein Engel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c21c9765-00d2-389b-a6d2-76bb6f5634b6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "461bccd5-08be-3d8c-ad46-5019ffb06288",
+                  "number": "5",
+                  "title": "Hallelujah",
+                  "length": 224586
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "31977069-5646-3f95-a198-93b02e36467c",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Kein Engel",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4f61b64-f340-34b4-8297-eb7e11f19c44",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kein Engel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-02-15",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2007-02-15",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "ce0ca57b-e548-3968-8786-e19bf37d2914",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1318b059-8a3c-3f6c-94a3-34ed092200b0",
+                  "number": "5",
+                  "title": "Hallelujah",
+                  "length": 224586
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "63549992-7e03-4125-9463-679a6d037587",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Ich will",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "391b2ca1-03b6-3232-9d4d-131a20641df5",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Ich will",
+            "primary-type": "Single"
+          },
+          "date": "2002-05-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002-05-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "31606d52-caec-393a-82a0-a8e5fc1356a8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a5aa2d96-cc8c-3ffb-91b2-7ec5198e6da0",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 224000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c7be2684-89c7-40e7-8c37-de53f12e7a79",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Links 2-3-4",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e634bfdc-ef97-36ec-982e-18e80ea133cb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Links 2\u20103\u20104",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "1f8e2a5f-2def-374f-a64b-09368876eb69",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ef85d032-457e-3b2c-8498-9e5aecdc756e",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 225000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "adcf01dc-4dc2-4159-a273-575fe7d6b9a7",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "All Time Hits 1980-2002",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "325842a3-12d9-4c91-b462-e96c76680bb9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "All Time Hits 1980-2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "9651da1e-4564-33e7-8c2d-58c9c40f65b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "207bb1ce-90d2-37a4-b6f2-dc8616178b8c",
+                  "number": "13",
+                  "title": "Halleluja",
+                  "length": 224786
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "1c94d9e7-77e0-46c6-84d2-b3157de53460",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d732caf9-77a0-4908-b994-597477285e95",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "8ef670a4-cf48-3977-884a-c5a56b40bbcf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8b8e28aa-eeee-3472-8571-3f41e373179d",
+                  "number": "16",
+                  "title": "Halleluja",
+                  "length": 224000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "cb04129d-b7e6-4735-9192-4f66d1bbbbd1",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Halleluya: The Very Best of 2001",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "09a1cf53-9cdf-429b-a57d-afedc66ef969",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Halleluya: The Very Best of 2001",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "a9eb58fa-b864-3994-b8fb-d0f7e3bc327d",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "275c6168-a6c1-3013-b742-3aaaaee0b3ef",
+                  "number": "1",
+                  "title": "Halleluya"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "21052ad6-b592-471c-863f-279d38f4af66",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Links 2-3-4",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e634bfdc-ef97-36ec-982e-18e80ea133cb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Links 2\u20103\u20104",
+            "primary-type": "Single"
+          },
+          "date": "2001-05-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-05-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "7906d6db-edcc-3723-86f5-f15d7c4c9f01",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "13b7db93-6eb9-43d4-9157-4bbdfd5283e7",
+                  "number": "2",
+                  "title": "Halleluja",
+                  "length": 225666
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "340bc5ef-7784-4d61-8628-3a3f8114a2d6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d732caf9-77a0-4908-b994-597477285e95",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "5328918e-650f-3442-b0b9-f4b5c1296aff",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c60b56e4-41ab-4633-9174-4f6362545d4f",
+                  "number": "14",
+                  "title": "Halleluja",
+                  "length": 224000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "031c1698-7eb1-45a8-bc53-d4fca01c4294",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 14,
+          "title": "XXI",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96c946de-ed41-4fc4-838e-56bdfb9c74b3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "XXI",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-12-04",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015-12-04",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 82,
+          "media": [
+            {
+              "id": "df8ac649-7aae-3592-b7bf-1b2d6d26fa32",
+              "position": 13,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "6d513967-9555-4293-b362-5d463ac1b658",
+                  "number": "B2",
+                  "title": "Halleluja",
+                  "length": 225000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fade0b24-42b8-4602-a43a-80694475cb4f",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Megamix",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "feae9ba5-c52c-34da-827d-9173b903b395",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Megamix",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 31,
+          "media": [
+            {
+              "id": "2d406c85-d32c-3398-a318-1f5774e4131b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8b87abe2-3334-3357-8d69-5b92e50c20bf",
+                  "number": "27",
+                  "title": "Halleluja",
+                  "length": 223133
+                }
+              ],
+              "track-count": 31,
+              "track-offset": 26
+            }
+          ]
+        },
+        {
+          "id": "4dd831e6-8231-4118-945d-0940f96c7d4d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Mutter",
+          "status": "Official",
+          "disambiguation": "Best Buy edition",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "833a9e1a-62c0-32f6-ab47-7797c4d83b07",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mutter",
+            "primary-type": "Album"
+          },
+          "date": "2001-04-02",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-04-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "6678c469-bc30-3341-aec2-5bd85334d44a",
+              "position": 2,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "95afb298-c144-3d71-9983-04ea1888f9a4",
+                  "number": "1",
+                  "title": "Hallelujah",
+                  "length": 220000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "be2ded52-07fa-4bec-90a8-caaa85a94bf8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Resident Evil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4e3464a-ec09-34c5-b214-d8d5882f7c55",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Resident Evil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2002",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "9a3ba43b-88a0-3850-ab71-37755c985e55",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a2393ae1-7770-32a2-aca7-c95bd506c7c0",
+                  "number": "9",
+                  "title": "Halleluja",
+                  "length": 219000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEN120100257"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "industrial metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive metal"
+        },
+        {
+          "count": 1,
+          "name": "thrash metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "gothic metal"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "movie soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "607ef637-3497-48f2-a0da-1bb748ae46f6",
+      "score": 100,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja",
+      "length": 255000,
+      "disambiguation": "live, 2001-12-03: Heineken Music Hall, Amsterdam, Netherlands",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "b36d5bbd-0667-4057-9678-7275ac89ef2b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "Heineken Music Hall 2001",
+          "status": "Bootleg",
+          "disambiguation": "2001-12-03: Amsterdam, Netherlands",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cac73227-178f-3fab-b385-2e4b9fa1444e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Heineken Music Hall 2001",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "55cae0e6-d25c-317b-a50e-3361dc9f5c64",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9647ba8e-4a95-3ea8-bf54-debe27fca1b8",
+                  "number": "9",
+                  "title": "Halleluja",
+                  "length": 255000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c582a704-ace4-4efd-86e3-12fb02c9e11c",
+      "score": 100,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja",
+      "length": 126000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "f5cbe96a-b4e4-4402-bdf8-b29ab1b47b1b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Zeitreise - Reisezeit",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "203daa21-9013-47f1-82be-d84eec8cafa5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Zeitreise - Reisezeit",
+            "primary-type": "Album"
+          },
+          "date": "2004",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "f5ac53d4-110d-4e68-bcb8-1e02b0473ac7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dfc9aa25-cb3a-4a93-aecc-337b1011fa7d",
+                  "number": "35",
+                  "title": "Halleluja",
+                  "length": 126000
+                }
+              ],
+              "track-count": 40,
+              "track-offset": 34
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "944ad2d0-2ccf-4df1-ae43-0d41b8a5211d",
+      "score": 100,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja",
+      "length": 236000,
+      "disambiguation": "live, 2004-11-28: Moscow, Russia",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "4db91612-e6c6-4a5e-bac0-c72f555c5ca4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 2,
+          "title": "2004-11-28: Moscow, Russia",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "02c60b97-75dd-3143-9bf3-06e1c825b50e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-11-28: Moscow, Russia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 34,
+          "media": [
+            {
+              "id": "a9e5311d-624c-3f1b-b349-c220eea27690",
+              "position": 2,
+              "track": [
+                {
+                  "id": "50586dcd-bd2b-346d-aa7d-e830fd362310",
+                  "number": "10",
+                  "title": "Halleluja",
+                  "length": 236000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c88a8867-195c-4873-a8ea-5caec6eb1434",
+      "score": 87,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Nebel / Halleluja",
+      "length": 633440,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-04-04",
+      "releases": [
+        {
+          "id": "b18729d7-287e-4519-9397-b9f3e079cd3d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Mutter",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "833a9e1a-62c0-32f6-ab47-7797c4d83b07",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mutter",
+            "primary-type": "Album"
+          },
+          "date": "2001-04-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-04-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "ee6947b3-1d80-39f3-805f-5b9d8f827cae",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2098b8d3-3820-301b-a92b-cc924235330c",
+                  "number": "11",
+                  "title": "Nebel / Halleluja",
+                  "length": 633440
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "industrial"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        }
+      ]
+    },
+    {
+      "id": "80f8b6b0-7158-4e56-abff-427f2cfce27f",
+      "score": 87,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja (Soundtrack Version)",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "d2f751cb-585e-46b7-879a-95c8a498d4d2",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Attack!",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8017d7b3-fe6b-4f32-8473-b2f77ae1126d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Attack!",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "454e1f3e-573f-332d-930b-a1e1f4cd2329",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "6f24ea56-2531-41cc-8891-a20c8c2f4bb9",
+                  "number": "A1",
+                  "title": "Halleluja (Soundtrack Version)"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c5be7154-9369-4935-910f-f904354f4e18",
+      "score": 87,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja remix 2",
+      "length": 225360,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "e130fce1-9307-471d-a781-a8bfbe535b79",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Mutter Remix",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "083b7e51-3b5f-4710-8b53-389f0a949130",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mutter Remix",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "028c9b27-1b79-3a42-9b7b-87fa6ea5ecb4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d08d93cc-d538-4d8e-818e-4bb9d28c269d",
+                  "number": "5",
+                  "title": "Halleluja remix 2",
+                  "length": 225360
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1718c9ab-dd15-436f-8ffe-1e386c534787",
+      "score": 79,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja (DJ J\u2019s Missionars mix)",
+      "length": 412000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "52be88ba-2234-4369-a7d2-357e55d82e58",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "In Stahlgewittern",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "531c54cb-8898-3b7c-8397-be53233741e6",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "In Stahlgewittern",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "af6c24e8-3d4b-3cf6-9eaf-a39a1a68d97a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6ba62364-1495-3d69-8905-a7752acb1d42",
+                  "number": "7",
+                  "title": "Halleluja (DJ J's Missionars mix)",
+                  "length": 412000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "723e2cdd-be1a-4df7-a5ef-716455951796",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Vater Remix",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f3880fe6-f496-39b3-a12f-b56060f62eae",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vater Remix",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "2002",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f30bbbf1-52fb-36a1-813f-30ebed53b5ad",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "22c0cba4-f313-3167-89ee-ecdfb4c699a3",
+                  "number": "9",
+                  "title": "Halleluja (DJ J\u2019s Missionars-mix)",
+                  "length": 414466
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "industrial metal"
+        }
+      ]
+    },
+    {
+      "id": "f8c6e120-ca1d-4884-872e-c930335ba9a4",
+      "score": 79,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Halleluja (Showa S Over Mix)",
+      "length": 321000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003",
+      "releases": [
+        {
+          "id": "8b6ceaf1-131c-467a-96c5-501b0a3bea4d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Mutter 2003 (Remixes)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "194f7783-deae-469e-9c44-9a1a288e57c4",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mutter 2003 (Remixes)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "7351e16a-eb63-3700-b76d-2f0c688a00ad",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f404504b-2b7b-45f7-b008-106b8cb1d8c9",
+                  "number": "13",
+                  "title": "Halleluja (Showa S Over Mix)",
+                  "length": 321000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

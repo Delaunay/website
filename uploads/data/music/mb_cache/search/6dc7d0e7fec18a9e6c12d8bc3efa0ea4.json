@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T07:13:19.918Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "84aaf296-b4e3-4f09-8ee3-72525fa53e2c",
+      "score": 100,
+      "artist-credit-id": "d5e74b32-1cb1-343b-ac2c-0e0d36fa5190",
+      "title": "Frei",
+      "length": 165000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kaffkiez",
+          "artist": {
+            "id": "e0d27097-0383-46d1-ac10-73b60a69d7fa",
+            "name": "Kaffkiez",
+            "sort-name": "Kaffkiez",
+            "disambiguation": "Indie Rock"
+          }
+        }
+      ],
+      "first-release-date": "2021-11-12",
+      "releases": [
+        {
+          "id": "a631d95a-74ef-4c3c-8222-4148fa60e869",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "cf58a5be-37ea-3573-9aa7-783f1240b2d7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d3912c37-ef76-4952-bc0f-f6120a8ee74a",
+                  "number": "9",
+                  "title": "Frei",
+                  "length": 165000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "6dcf75c8-57a4-4957-a0cd-6bf7a7da19d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Frei",
+          "status": "Official",
+          "release-group": {
+            "id": "25a0baa4-eb5c-42bd-b9d5-8ab61f6e70ce",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Frei",
+            "primary-type": "Single"
+          },
+          "date": "2021-11-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "c7cb73f4-6ffa-3868-8605-707160d3d6a2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "50899a01-0ebf-4f78-982b-8347fbb3e0f8",
+                  "number": "1",
+                  "title": "Frei",
+                  "length": 165000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9441a1cf-9476-4e2a-a315-65a926bc53c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "eecc145c-dae6-3896-bb32-695f7be828a7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4fbf3613-658b-48e5-9f05-cc50a5415497",
+                  "number": "9",
+                  "title": "Frei",
+                  "length": 165000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

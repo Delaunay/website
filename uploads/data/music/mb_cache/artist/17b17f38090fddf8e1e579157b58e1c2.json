@@ -1,0 +1,78 @@
+{
+  "life-span": {
+    "ended": true,
+    "end": "1982",
+    "begin": "1978"
+  },
+  "area": {
+    "type-id": null,
+    "name": "Sweden",
+    "type": null,
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "sort-name": "Sweden"
+  },
+  "name": "P.F. Commando",
+  "end-area": null,
+  "genres": [
+    {
+      "disambiguation": "",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3",
+      "count": 2,
+      "name": "punk"
+    }
+  ],
+  "disambiguation": "",
+  "id": "04f076c7-9466-48eb-9510-4d3ef81e3be6",
+  "sort-name": "P.F. Commando",
+  "gender-id": null,
+  "ipis": [],
+  "begin-area": null,
+  "tags": [
+    {
+      "name": "g\u00e4vle",
+      "count": 1
+    },
+    {
+      "name": "punk",
+      "count": 2
+    },
+    {
+      "count": 1,
+      "name": "sweden"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "begin": null,
+      "artist": {
+        "name": "Sonny Jansson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jansson, Sonny",
+        "id": "a184fb35-cfa5-44e6-8bb1-2c2ad40d6fd2",
+        "disambiguation": "P.F. Commando member",
+        "type": "Person",
+        "country": "SE"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist"
+    }
+  ],
+  "isnis": [],
+  "country": "SE",
+  "gender": null,
+  "type": "Group"
+}

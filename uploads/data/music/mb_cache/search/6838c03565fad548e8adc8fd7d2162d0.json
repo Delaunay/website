@@ -1,0 +1,142 @@
+{
+  "created": "2026-05-18T07:55:23.856Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "61fb4392-7940-482f-8f93-6796d2189f10",
+      "score": 100,
+      "artist-credit-id": "2845ed98-2963-37e6-9262-6e6defed0967",
+      "title": "Qu'est ce qui nous tente?",
+      "length": 166106,
+      "disambiguation": "live, 1997-11-13: New Morning, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Louise Attaque",
+          "artist": {
+            "id": "04d25080-32e2-49a2-b638-c9ca4f3e12bd",
+            "name": "Louise Attaque",
+            "sort-name": "Louise Attaque"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "59b6a50f-16c6-4ef3-82bc-3c0ad643d621",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "1997-11-13: T'as voulu voir Paris: New Morning, Paris",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "e3070c36-401c-3111-8dcd-c2e2fec4fe11",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1997-11-13: T'as voulu voir Paris: New Morning, Paris",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 21,
+          "media": [
+            {
+              "id": "db1e319d-d3f1-3335-b219-602b2bb7e4bf",
+              "position": 1,
+              "track": [
+                {
+                  "id": "5c34fdaf-5e3b-3d63-93dc-e10e77debd89",
+                  "number": "17",
+                  "title": "Qu'est ce qui nous tente?",
+                  "length": 166106
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48dd375c-fd14-46ca-862f-88ef49c6778d",
+      "score": 100,
+      "artist-credit-id": "2845ed98-2963-37e6-9262-6e6defed0967",
+      "title": "Qu'est ce qui nous tente",
+      "length": 167133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Louise Attaque",
+          "artist": {
+            "id": "04d25080-32e2-49a2-b638-c9ca4f3e12bd",
+            "name": "Louise Attaque",
+            "sort-name": "Louise Attaque"
+          }
+        }
+      ],
+      "first-release-date": "2025-09-26",
+      "releases": [
+        {
+          "id": "0abe99b1-5a50-40c2-a65f-14cf9bb4e122",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Best of",
+          "status": "Official",
+          "release-group": {
+            "id": "17782ff2-f840-4745-a470-be62c5bb5e00",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2025-09-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-09-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "9aff412e-5ba6-4f15-8324-6a2437743e19",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7a615155-09da-43e8-be48-aa214e735aa6",
+                  "number": "15",
+                  "title": "Qu'est ce qui nous tente",
+                  "length": 167133
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 14
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR5E79900700"
+      ]
+    }
+  ]
+}

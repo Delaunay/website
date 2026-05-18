@@ -1,0 +1,146 @@
+{
+  "created": "2026-05-18T07:05:30.478Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f4eccce1-09f7-4584-ada7-f38a751132a7",
+      "score": 100,
+      "artist-credit-id": "9b24046c-1694-4bd1-a480-7b92b47e3a8a",
+      "title": "Navigation",
+      "length": 215269,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kill Strings",
+          "artist": {
+            "id": "018d2348-a1b1-49d8-95ac-d2d2b65d2b5b",
+            "name": "Kill Strings",
+            "sort-name": "Kill Strings"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "76f480f2-43d9-4cdb-a48a-f01786849d64",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Limbo",
+          "status": "Official",
+          "release-group": {
+            "id": "bff32fdb-8aa5-427a-a6c9-cd23e245b27d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Limbo",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a40a3042-ef1e-32cc-a999-e7ec19cb7737",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0d6e068c-2909-414c-a092-a3a1d6b8b5ce",
+                  "number": "9",
+                  "title": "Navigation",
+                  "length": 215269
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5010ab42-05ec-4851-a5ca-0b504b36cb9c",
+      "score": 100,
+      "artist-credit-id": "9b24046c-1694-4bd1-a480-7b92b47e3a8a",
+      "title": "Navigation",
+      "length": 199506,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kill Strings",
+          "artist": {
+            "id": "018d2348-a1b1-49d8-95ac-d2d2b65d2b5b",
+            "name": "Kill Strings",
+            "sort-name": "Kill Strings"
+          }
+        }
+      ],
+      "first-release-date": "2022-08-05",
+      "releases": [
+        {
+          "id": "77291001-ebac-4efd-b912-c52b8a12e4de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Black Gold",
+          "status": "Official",
+          "release-group": {
+            "id": "cb6aa239-eefa-451e-952a-34995ab3ce5f",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Black Gold",
+            "primary-type": "Single"
+          },
+          "date": "2022-08-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-08-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "a9f5fda0-86ea-3be2-a0b1-c77c9fa589a9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a2761846-0c72-4d62-b400-b27c3cf7ed65",
+                  "number": "2",
+                  "title": "Navigation",
+                  "length": 199506
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "US5ED2201768"
+      ]
+    }
+  ]
+}

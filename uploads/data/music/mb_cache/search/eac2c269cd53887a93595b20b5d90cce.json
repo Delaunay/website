@@ -1,0 +1,143 @@
+{
+  "created": "2026-05-18T07:41:21.117Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "18135621-08cf-417e-915a-a409ca51ec00",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "I'm Ready to Love Again",
+      "length": 187000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1977",
+      "releases": [
+        {
+          "id": "6c37cd4b-7419-40e0-9fb2-7f543552e114",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "What's Happening to Me (It's a Spell)",
+          "status": "Official",
+          "release-group": {
+            "id": "2e1032c1-f0f5-4150-8d44-1306338b3eb9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "What's Happening to Me (It's a Spell)",
+            "primary-type": "Single"
+          },
+          "date": "1977",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1977",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "aa5f919a-3bf0-3f2c-9d3e-340ce0626c55",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "119152e6-d54a-4f8f-a39e-f04fed6edbeb",
+                  "number": "B",
+                  "title": "I'm Ready to Love Again",
+                  "length": 187000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a1f545e-be43-4c77-99be-c8b4b9b981e5",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "I'm Ready To Love Again",
+      "length": 187000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1977",
+      "releases": [
+        {
+          "id": "9107d79b-848a-4be8-a913-f5bef286071e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Road To Tomorrow",
+          "status": "Official",
+          "release-group": {
+            "id": "fe2fad74-489d-44e9-afaf-be593c5b909b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Road To Tomorrow",
+            "primary-type": "Album"
+          },
+          "date": "1977",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1977",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "b0c0e05d-fc04-343f-8382-645124664f0e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "cdd5e313-cc52-43dc-b8a7-50278511e1e4",
+                  "number": "A5",
+                  "title": "I'm Ready To Love Again",
+                  "length": 187000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "created": "2026-05-18T05:41:51.226Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "0ff1d945-6612-4643-afe7-643e48eb5408",
+      "score": 100,
+      "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+      "title": "Knock Knock",
+      "length": 198000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mac Miller",
+          "artist": {
+            "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+            "name": "Mac Miller",
+            "sort-name": "Miller, Mac",
+            "disambiguation": "American rapper",
+            "aliases": [
+              {
+                "sort-name": "Mac, Easy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Easy Mac",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-08-13",
+      "releases": [
+        {
+          "id": "3c771995-b2ef-4928-8b4a-61230896ff14",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S (Deluxe)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2020-08-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2020-08-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "16d49ba4-176e-366c-afc1-831c9c6a966c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a49ece1c-2e74-42c8-936f-760496111019",
+                  "number": "11",
+                  "title": "Knock Knock",
+                  "length": 197000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "1e57a52d-e756-4455-9fc4-963613754924",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2023-02-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023-02-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "9c33223f-14b3-3c5b-86ca-3ca62e6278cc",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a1b4d091-7f3a-4010-84cf-043d15178a62",
+                  "number": "11",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "34bd5991-d642-44cd-a23f-2d5eb300bcca",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "disambiguation": "deluxe",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2023-02-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023-02-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "2d3bf9b8-6619-3ad9-b214-38a32dcebdb8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1ba79227-757d-4f51-a240-92cfb57f4778",
+                  "number": "11",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "c851b848-f9a1-482e-b9bd-41abbc40b281",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2010-08-13",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-08-13",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "c2090097-d408-3ead-a813-6eddb1926a16",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8687caa5-0572-32f3-b46d-77646b473c3f",
+                  "number": "12",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "c9a6e880-61b1-4882-b466-a10f6473ea19",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "disambiguation": "17 tracks",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2011-04-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011-04-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "847dfcd4-0566-3d30-9792-434d432f6647",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "45ba9144-355e-4105-b3e3-c894f31e2088",
+                  "number": "12",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "693381b7-4723-416d-8b65-170fdac47ef7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "disambiguation": "standard",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2010-08-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-08-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "43717fea-4efc-3dc8-bf71-2a49383ad44d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "31a98a24-5b75-4434-b1db-cd8ba223613b",
+                  "number": "12",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "3b97d26e-275f-41c8-8e7d-e51070449ec8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S.",
+          "status": "Official",
+          "disambiguation": "18 tracks",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e13653e-685e-48d3-ab11-c4adfc4db608",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S.",
+            "disambiguation": "Kickin Incredibly Dope Shit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2011-04-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011-04-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "8bd13d46-ae8e-3321-8b97-54f09f728edb",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "81028ca1-c5c1-3b84-88e9-a056339a67ad",
+                  "number": "12",
+                  "title": "Knock Knock",
+                  "length": 198000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USA2P1122877"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip-hop"
+        }
+      ]
+    },
+    {
+      "id": "8ff083b9-b9d8-48eb-99db-1da9cda12e72",
+      "score": 100,
+      "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+      "title": "Knock Knock",
+      "length": 203000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mac Miller",
+          "artist": {
+            "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+            "name": "Mac Miller",
+            "sort-name": "Miller, Mac",
+            "disambiguation": "American rapper",
+            "aliases": [
+              {
+                "sort-name": "Mac, Easy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Easy Mac",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-02-11",
+      "releases": [
+        {
+          "id": "410015e0-d47c-4b3e-86c0-a79bace8870a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "Knock Knock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "69924b36-a78f-4771-a565-e0ad42f91284",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Knock Knock",
+            "primary-type": "Single"
+          },
+          "track-count": 1,
+          "media": [
+            {
+              "id": "180cfe3c-3dbd-3a5d-adc6-5ce1e8f78880",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "21988401-75fa-304b-976d-23c63b307f71",
+                  "number": "1",
+                  "title": "Knock Knock",
+                  "length": 203000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cbfebf4-30f4-4128-a6dd-c80a68636782",
+      "score": 100,
+      "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+      "title": "Knock Knock",
+      "length": 197929,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Mac Miller",
+          "artist": {
+            "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+            "name": "Mac Miller",
+            "sort-name": "Miller, Mac",
+            "disambiguation": "American rapper",
+            "aliases": [
+              {
+                "sort-name": "Mac, Easy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Easy Mac",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-08-13",
+      "releases": [
+        {
+          "id": "23395814-997f-488f-a567-4e83f5fbe410",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "bfed4031-e2c1-3f5e-bcd7-313186e9fb36",
+          "count": 1,
+          "title": "K.I.D.S. (Deluxe)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Mac Miller",
+              "artist": {
+                "id": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+                "name": "Mac Miller",
+                "sort-name": "Miller, Mac",
+                "disambiguation": "American rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8a3f34dc-41dd-4257-9d99-b09cc4fbcd25",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "K.I.D.S. (Deluxe)",
+            "primary-type": "Album"
+          },
+          "date": "2010-08-13",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-08-13",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "5912baaa-3205-48aa-abdd-f5dd44b8cc71",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fbfd55df-77c6-441c-b242-0299f7b82012",
+                  "number": "11",
+                  "title": "Knock Knock",
+                  "length": 197929
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "created": "2026-05-18T05:29:36.602Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "951e9fd1-279d-474a-980d-ea5df9d2e1b2",
+      "score": 100,
+      "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+      "title": "Le Blues du blues",
+      "length": 92000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fran\u00e7ois P\u00e9russe",
+          "artist": {
+            "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+            "name": "Fran\u00e7ois P\u00e9russe",
+            "sort-name": "P\u00e9russe, Fran\u00e7ois",
+            "aliases": [
+              {
+                "sort-name": "Francois Perusse",
+                "name": "Francois Perusse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-13",
+      "releases": [
+        {
+          "id": "a5fe2913-b261-49cb-b97e-33b553300e22",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L\u2019Album du peuple, Tome 7",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7ff20ae3-32cc-34c9-8cbf-8f3a8625c77e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 7",
+            "primary-type": "Album"
+          },
+          "date": "2007-11-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2007-11-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "4d860cce-10c6-342c-b251-4476476e119e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "96386ad9-cbb0-358b-ade7-fbfa1814b3a2",
+                  "number": "6",
+                  "title": "Le Blues du blues",
+                  "length": 92000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

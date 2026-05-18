@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T07:13:00.348Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "88b315df-ed80-4cab-8625-53bc1de65068",
+      "score": 100,
+      "artist-credit-id": "117bf8f0-fda4-4a46-8c06-e0600805fe29",
+      "title": "Dessin",
+      "length": 178252,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Moukoukenoff",
+          "artist": {
+            "id": "cb7caafe-e834-4530-91e8-d879917e8ea1",
+            "name": "Poppy Moukoukenoff",
+            "sort-name": "Moukoukenoff, Poppy"
+          }
+        }
+      ],
+      "first-release-date": "2022-11-02",
+      "releases": [
+        {
+          "id": "3ffb93fe-90ab-4378-a1aa-03bd61042db5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Premier degr\u00e9",
+          "status": "Official",
+          "release-group": {
+            "id": "1e502d04-27f8-4448-9dd4-65ff95a0c9d2",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Premier degr\u00e9",
+            "primary-type": "Single"
+          },
+          "date": "2022-11-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-11-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "b7e39bc3-3c52-3200-9e6c-6dbed80f0441",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7f944d97-aa80-43a1-883f-d56b5a8d53d1",
+                  "number": "1",
+                  "title": "Dessin",
+                  "length": 178252
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

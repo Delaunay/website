@@ -1,0 +1,934 @@
+{
+  "created": "2026-05-18T05:51:39.009Z",
+  "count": 5,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "169868f1-a8d6-4e5c-a254-a6613a7af00c",
+      "score": 100,
+      "artist-credit-id": "801149b5-cbdd-32ac-a756-cdc1765b23d6",
+      "title": "So Long",
+      "length": 221573,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Circa Waves",
+          "artist": {
+            "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+            "name": "Circa Waves",
+            "sort-name": "Circa Waves",
+            "disambiguation": "English indie rock band"
+          }
+        }
+      ],
+      "first-release-date": "2014-04-07",
+      "releases": [
+        {
+          "id": "3eeb3254-fe53-42ee-9e3a-e0f3fe25cd96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2014-04-07",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014-04-07",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "56a1549c-4460-3cf3-8f1a-f756d5681410",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "adf62845-87e5-4f68-8d07-f676abec894c",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "d98cb6c2-959d-4229-8bea-7f3f8150a9fd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers (Deluxe)",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-03-30",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2015-03-30",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "4d0602f3-97af-3715-8598-f050cfcfb629",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7b4278b5-5357-4add-b21f-06f125629ba8",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 229773
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "afbd7078-ddc6-45ea-b5d2-807a8cb35bf9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "disambiguation": "Mastered for iTunes",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-03-30",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2015-03-30",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2015-03-15",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "792d0c33-d184-3977-b4e9-4d46fee39c49",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "13a04706-1a3a-422e-8507-af510f65cfc3",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "77421cb9-a5dc-40a4-979d-cedc5df5074a",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "count": 1,
+          "title": "So Long",
+          "status": "Promotion",
+          "release-group": {
+            "id": "3a089529-6198-4098-87b1-ff1d79f93e84",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "So Long",
+            "primary-type": "Single"
+          },
+          "date": "2014",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "4b948551-5823-3802-b077-3ee9ab237f92",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "44f2ef86-9a38-44d7-b755-7a53b8b949b1",
+                  "number": "1",
+                  "title": "So Long"
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1fbe3d36-3b77-4c4a-b041-9e6974faba97",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "So Long",
+          "status": "Official",
+          "release-group": {
+            "id": "3a089529-6198-4098-87b1-ff1d79f93e84",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "So Long",
+            "primary-type": "Single"
+          },
+          "date": "2014-10-20",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014-10-20",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "698e6278-922f-33ee-8e38-a6bcedf01209",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "3054cac9-990c-4a67-a81e-274fdcaff03e",
+                  "number": "A",
+                  "title": "So Long",
+                  "length": 227000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4d612cdb-51be-4d3b-aa73-ba3c2db45e2a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-09-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2015-09-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0bbae8ae-970d-346e-b8b0-1b6ef3918694",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "a16ab121-66c9-444c-8603-11e5191f2e45",
+                  "number": "B6",
+                  "title": "So Long"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "39b66f25-03c2-4e83-96f1-31d43db412b5",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Promotion",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "dce54381-5945-3372-bc6d-c176b447d195",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "c27d614d-4235-4f0a-bc54-57d82b8f08be",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "8043829b-7640-4b87-947d-ca47e9b5faed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "6828846f-6bad-3a3f-a478-467cef3184f9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f5f03879-ab10-4bf1-9a2b-fb0b33dd27a6",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6d205876-fd41-4b66-8cd4-017be4f8f246",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-09-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2015-09-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "1f86cfda-c2c1-312b-8ce8-5f746a86ee0a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "764e319f-6ef5-4189-8a8c-1db8b5fcaffc",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "f10a51f8-2cd0-4d96-a251-f5a4e37dab37",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-03-30",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2015-03-30",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "b9e00db9-85f1-3268-8f4a-35347d0c8a26",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "cdc0d16f-6207-4ef6-803b-5202ffd4ddf5",
+                  "number": "B6",
+                  "title": "So Long"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "faa243a8-d86e-4c68-a215-9c14e8d5fdd6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "f0e9edb1-84aa-3b6a-92d6-eec4552683d9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "677aae36-ea8f-4e61-8875-55cbffbd6a1c",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 228000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "d58d9006-bc88-4fa3-8cb4-999f7712fe40",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "So Long",
+          "status": "Official",
+          "release-group": {
+            "id": "3a089529-6198-4098-87b1-ff1d79f93e84",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "So Long",
+            "primary-type": "Single"
+          },
+          "date": "2014-08-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014-08-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "1d5370e5-24cb-3f00-9288-3a986e2d251f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6aa51487-8c47-45fa-b5d5-c0a612b23fbf",
+                  "number": "1",
+                  "title": "So Long",
+                  "length": 227397
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "91a30f93-1f4d-4dc6-80c4-cfad68a74dee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Young Chasers",
+          "status": "Official",
+          "disambiguation": "Deluxe Version",
+          "release-group": {
+            "id": "6c4aeb16-57ba-4a03-8928-598e03fdf3b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Young Chasers",
+            "primary-type": "Album"
+          },
+          "date": "2015-03-15",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2015-03-15",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "e4cff9ad-112c-34e9-bdc0-4afa3683db96",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4567d1e9-cb2a-4a3e-830d-9f0dcf3ca3b0",
+                  "number": "12",
+                  "title": "So Long",
+                  "length": 221573
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71406763"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    },
+    {
+      "id": "2caa3491-8864-4d65-a7b2-24ad6c7e0332",
+      "score": 100,
+      "artist-credit-id": "801149b5-cbdd-32ac-a756-cdc1765b23d6",
+      "title": "So Long",
+      "disambiguation": "live, 2015-10-10: O2 Academy Brixton, London, England",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Circa Waves",
+          "artist": {
+            "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+            "name": "Circa Waves",
+            "sort-name": "Circa Waves",
+            "disambiguation": "English indie rock band"
+          }
+        }
+      ],
+      "first-release-date": "2017",
+      "releases": [
+        {
+          "id": "71d83fad-f3b0-4045-ab41-cc3750687e17",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Different Creatures",
+          "status": "Official",
+          "release-group": {
+            "id": "691fd8ae-d70e-476a-b87e-a3e025c16a28",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Different Creatures",
+            "primary-type": "Album"
+          },
+          "date": "2017",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2017",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "c4b34950-13d5-3a86-8150-84d148b44ac3",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "f28f4abd-242b-41d2-abe3-63c2ce1d4a23",
+                  "number": "4",
+                  "title": "So Long"
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8fff2ce3-47a4-47e4-b091-4061562384a2",
+      "score": 100,
+      "artist-credit-id": "801149b5-cbdd-32ac-a756-cdc1765b23d6",
+      "title": "So Long",
+      "length": 216779,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Circa Waves",
+          "artist": {
+            "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+            "name": "Circa Waves",
+            "sort-name": "Circa Waves",
+            "disambiguation": "English indie rock band"
+          }
+        }
+      ],
+      "first-release-date": "2014-07-31",
+      "releases": [
+        {
+          "id": "227a4ee1-3448-4e68-8c13-9e1c621e0804",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Daytrotter Session",
+          "status": "Official",
+          "release-group": {
+            "id": "94735a14-59b4-4567-9655-e58ec009d5a9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Daytrotter Session",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 4,
+          "media": [
+            {
+              "id": "dfb29b62-a38e-3954-af4b-0e6e84d44984",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e8170ebd-9645-4adb-9f7e-f1b0112835e5",
+                  "number": "3",
+                  "title": "So Long",
+                  "length": 216779
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03b3ae22-cb7e-41bc-9a0f-61fb7bd2a14d",
+      "score": 100,
+      "artist-credit-id": "801149b5-cbdd-32ac-a756-cdc1765b23d6",
+      "title": "So Long",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Circa Waves",
+          "artist": {
+            "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+            "name": "Circa Waves",
+            "sort-name": "Circa Waves",
+            "disambiguation": "English indie rock band"
+          }
+        }
+      ],
+      "first-release-date": "2017-03-10",
+      "releases": [
+        {
+          "id": "d1388898-e161-4120-a09d-10f183123e41",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Different Creatures",
+          "status": "Official",
+          "disambiguation": "deluxe edition, region 0",
+          "release-group": {
+            "id": "691fd8ae-d70e-476a-b87e-a3e025c16a28",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Different Creatures",
+            "primary-type": "Album"
+          },
+          "date": "2017-03-10",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2017-03-10",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "ba897e71-0ba3-3313-acc0-dcab4839100b",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "9ac8c77a-b459-4e0e-946a-1a1831043b2a",
+                  "number": "3",
+                  "title": "So Long"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0ba8887-df07-48f5-a522-742912d65fcc",
+      "score": 100,
+      "artist-credit-id": "801149b5-cbdd-32ac-a756-cdc1765b23d6",
+      "title": "So Long",
+      "length": 218000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Circa Waves",
+          "artist": {
+            "id": "050fffd7-c7cc-4bb2-8f7a-a0ee4bc47678",
+            "name": "Circa Waves",
+            "sort-name": "Circa Waves",
+            "disambiguation": "English indie rock band"
+          }
+        }
+      ],
+      "first-release-date": "2014-11-10",
+      "releases": [
+        {
+          "id": "3194b481-ccd9-4b29-a377-7aae56755ec9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "De Afrekening 57",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "89a6b980-5599-45d6-9877-04e75b3a5752",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "De Afrekening 57",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-11-10",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2014-11-10",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "6a273ec9-a7c8-33e4-b04e-478639fbf82d",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7f76c4c7-edbd-433e-bedb-3dbee223d721",
+                  "number": "14",
+                  "title": "So Long",
+                  "length": 218000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71404214"
+      ]
+    }
+  ]
+}

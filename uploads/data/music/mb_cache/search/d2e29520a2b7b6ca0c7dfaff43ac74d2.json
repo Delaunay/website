@@ -1,0 +1,2328 @@
+{
+  "created": "2026-05-18T06:01:17.702Z",
+  "count": 6,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "dd097e5d-c4ca-4370-9291-ea3635449670",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon",
+      "length": 244000,
+      "disambiguation": "music video",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-09-23",
+      "releases": [
+        {
+          "id": "bf47aa7f-f399-4a6d-b02b-1e6246c7c76b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Past, Present & Future",
+          "status": "Official",
+          "disambiguation": "BMG club edition",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "519c3183-5ac8-36e0-b8b3-b796f9b7ba97",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Past, Present & Future",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2003-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "ade657bf-11a9-3b63-b49a-5d94884bd83a",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "40cd3112-7695-48e4-8b3b-d6f305e13a36",
+                  "number": "8",
+                  "title": "Demonoid Phenomenon",
+                  "length": 244000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "16840f55-30cf-4855-a89a-f747ca4a9d7f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Past, Present & Future",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "519c3183-5ac8-36e0-b8b3-b796f9b7ba97",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Past, Present & Future",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "f1f48c0c-cfd6-332a-98c8-405ba1666560",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "270c7a5f-b096-46ff-842f-a459fc17f21b",
+                  "number": "8",
+                  "title": "Demonoid Phenomenon",
+                  "length": 244000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "2210d4f3-4ad3-4b64-9aaf-d6e25d8720f0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Past, Present & Future",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "519c3183-5ac8-36e0-b8b3-b796f9b7ba97",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Past, Present & Future",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2003-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "c4ebec08-c9c3-3a3d-a475-81f921c3f8fd",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "ec111e93-c879-3052-91b9-cec6dedf1814",
+                  "number": "8",
+                  "title": "Demonoid Phenomenon",
+                  "length": 244000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "08d42e78-689b-330e-8294-99b45ef219b3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Past, Present & Future",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "519c3183-5ac8-36e0-b8b3-b796f9b7ba97",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Past, Present & Future",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-10-20",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-10-20",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "3741e40e-f42f-3cb0-900f-a56592142d0a",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "461399bc-2057-3cd4-9261-acdc6c4768bc",
+                  "number": "8",
+                  "title": "Demonoid Phenomenon",
+                  "length": 244000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f149cf49-9364-365a-a9d5-b1ec5688075d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "72ee9d44-9fb8-30ff-8faf-6a0a59356928",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "cd15224f-ac2c-3422-a098-7d639eb40a56",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 242000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55b63e99-dac4-4d17-8444-e0c5ab5c36fa",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon",
+      "length": 253893,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2000",
+      "releases": [
+        {
+          "id": "92e990da-a9a6-44fa-9a7c-36933dc4fec5",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Nightmare Creatures II",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7cfa302-2bca-44ef-8652-540da188458e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nightmare Creatures II",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2000",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2000",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "2a73d275-b714-3ff7-a4e8-201a02c459a2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "15b133be-6024-4be3-942a-a78218ea2011",
+                  "number": "1",
+                  "title": "Demonoid Phenomenon",
+                  "length": 253893
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "09be1b7a-ad17-4184-8632-c0d351bf7bae",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon",
+      "length": 258000,
+      "disambiguation": "live, 2006: The DTE Energy Music Theatre, Detroit, MI, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-10-23",
+      "releases": [
+        {
+          "id": "0ffd0392-065f-4f5d-98bf-c9e24b5550a3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Zombie Live",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0944b546-f543-329f-884e-3053ca3d45a1",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Zombie Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-10-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-10-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "620941b5-59af-389a-9d5c-f4dc8ca3c85c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "09d9aeaf-26ad-3103-888a-0d0c64f334f7",
+                  "number": "10",
+                  "title": "Demonoid Phenomenon",
+                  "length": 258000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "fd8010bc-8c2d-4fd3-97bd-feafedd2a9bf",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon",
+      "length": 251693,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1998-08-25",
+      "releases": [
+        {
+          "id": "266e147b-7a34-4ec3-ba21-6eb50f675181",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "01f1a6f6-1e67-391e-926c-b16fd09cfd06",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f2436ae5-2ec6-4869-99dd-acda9a5c27f8",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251866
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "39e53604-e35b-4ebd-b0ea-38d4252ba34e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "disambiguation": "clean version",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7a169b71-bccf-3c14-90e7-b0e93c5d5930",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6ab69d2-2d88-3dcc-8407-1f03c992a008",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 252000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fa56a30f-13f0-4668-8dab-76db2261ba28",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "disambiguation": "BMG Direct release",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3c269929-7e3f-3492-b98b-07d8cb5268dc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aaed6ed1-645b-4348-a077-796e613e3eb2",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "745f958d-e6c3-4ff1-a67b-5f4c457dee6d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+          "status": "Official",
+          "disambiguation": "club edition",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "52f5d03b-5bec-3cdf-8e0b-264ef5d154a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9fb3bbfa-6ba3-48d2-b064-de6dfc89a911",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "df5256d3-4781-4603-8758-c70418abd5bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 5,
+          "title": "5 Classic Albums",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c8637c0-4c72-49d4-94d5-a4da7b830ddb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "5 Classic Albums",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-05-19",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-05-19",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 59,
+          "media": [
+            {
+              "id": "b5756ece-403f-35f1-90ce-ad94d618902c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "32dc19e6-31ee-4708-b857-7d6bad26228f",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "905b4520-bcda-4225-9efa-8f058dd5d4fb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "dd37dc6d-2208-382f-a834-55c3a7d5b3f5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ea19aa03-9789-345a-9eae-2e43ab34cc4e",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "626f648c-52ad-3849-862f-8d5805a538f5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "a204f766-a5b1-32db-a10f-409897caef75",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f13f1d81-bc58-33a1-9eda-ee2ab7af6cf5",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4290e444-3061-349c-9c8b-717afce92ba7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "75c97428-8f40-352c-a54a-f45d9d0db5f2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8dc7207c-62f3-3550-b9ab-bbb2a2d9fb2a",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f149cf49-9364-365a-a9d5-b1ec5688075d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "ff9aca51-b055-3949-87c0-ddd4295099c1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fc4e861b-a639-30d1-af1b-c75e3308f037",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 252000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fa728de9-9d35-45c8-a878-e99c272a4c92",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ac0989c-d1b1-4c32-a4a0-7de8a52da4bf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "2efd9fc2-7a25-3881-8fc1-8701ac3bd3c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6fd881b-2ddc-30d2-b61e-b6621a90016b",
+                  "number": "19",
+                  "title": "Demonoid Phenomenon",
+                  "length": 249000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "515b82e9-d6a0-38d4-9e46-a2df3f9674b8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Hellbilly Deluxe",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c02bfdf-8d3a-3cd6-aac2-93a19cc614f4",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hellbilly Deluxe: 13 Tales of Cadaverous Cavorting Inside the Spookshow International",
+            "primary-type": "Album"
+          },
+          "date": "1998-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1998-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "87e0db6f-ed0e-3035-ae4e-57b5ac850898",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "76c8e794-5d29-37e3-a29a-50b4a8c396b6",
+                  "number": "A6",
+                  "title": "Demonoid Phenomenon",
+                  "length": 251693
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "cd6177d9-c197-4fb9-b399-285efffae278",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "ICON 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ee1d8a16-4933-45fc-afaa-dd262a7e8c4f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ICON",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-08-31",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-08-31",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "9617d891-b591-30e4-b825-868c7f3c6bba",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "53230279-bb46-305b-8e26-1e2926fbccaa",
+                  "number": "11",
+                  "title": "Demonoid Phenomenon",
+                  "length": 252226
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USGF19821206"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 3,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "industrial metal"
+        },
+        {
+          "count": 5,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "gothic metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 4,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "79207bd2-9e6b-42e7-8868-03857c7e91f3",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon",
+      "length": 248120,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015-02-23",
+      "releases": [
+        {
+          "id": "d5c10f58-bbe6-4f2e-8a26-0e470ae6bbdc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Spookshow International Live",
+          "status": "Official",
+          "disambiguation": "explicit",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27f2afe5-a76b-4e1f-a324-52339242b677",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spookshow International Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-02-24",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2015-02-24",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "e6ab171d-edf6-3f8e-81a1-6d1dd7aabcf9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a9b8117c-25d7-4f7e-a46d-06ce7bf2b317",
+                  "number": "16",
+                  "title": "Demonoid Phenomenon",
+                  "length": 248120
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "cb5a36ee-66c6-4018-ada3-c9d643a5b0e6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Spookshow International Live",
+          "status": "Official",
+          "disambiguation": "clean",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27f2afe5-a76b-4e1f-a324-52339242b677",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spookshow International Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-02-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2015-02-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "5e549959-7237-3780-9b92-977d79e16cf1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8d43fddd-049c-47a1-8c96-6825d2313313",
+                  "number": "16",
+                  "title": "Demonoid Phenomenon",
+                  "length": 248120
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "4c0b10ff-a3ca-4eeb-a77d-40f056706e4d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Spookshow International Live",
+          "status": "Official",
+          "disambiguation": "Explicit Lyrics",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27f2afe5-a76b-4e1f-a324-52339242b677",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spookshow International Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-02-24",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-02-24",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "e23c8c66-58f4-30c6-815a-339665cf53e1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f2d5b80b-437f-4292-8596-3ce80c8521f4",
+                  "number": "16",
+                  "title": "Demonoid Phenomenon",
+                  "length": 248147
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "0e1c9ea5-bb4c-41a5-bc2b-cbdb8318e470",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Spookshow International Live",
+          "status": "Official",
+          "disambiguation": "Clean Lyrics",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27f2afe5-a76b-4e1f-a324-52339242b677",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spookshow International Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-02-24",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-02-24",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "b7026b53-47b1-3ba0-a6c7-596f89980bf4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "68bae071-663f-4dfd-9b21-be9738ff7b31",
+                  "number": "16",
+                  "title": "Demonoid Phenomenon",
+                  "length": 249787
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "61ff040a-8c65-472a-b5dc-c449f11cfc82",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Spookshow International Live",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "27f2afe5-a76b-4e1f-a324-52339242b677",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Spookshow International Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2015-02-24",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2015-02-24",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "adce183a-fafb-39cc-9988-d1bcbddfe880",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "395c391d-6706-4bdf-b037-984c6bf6a879",
+                  "number": "16",
+                  "title": "Demonoid Phenomenon",
+                  "length": 248120
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "industrial"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "industrial metal"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "gothic metal"
+        }
+      ]
+    },
+    {
+      "id": "a49a43e9-5734-47c6-bf96-1072492df6aa",
+      "score": 81,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "Demonoid Phenomenon (Sin Lives mix)",
+      "length": 276000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1999-10-26",
+      "releases": [
+        {
+          "id": "6eb43cd8-06b6-432a-9623-e7fcb0715df0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Made Music To Strip By",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce0053d6-395d-3350-b499-aeecd5895e78",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Made Music to Strip By",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "1999",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e631773a-dd2f-3d59-b7a9-7c2ec34cae1b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5a53c72f-3ff1-4f16-8a75-3ad27a9a63ac",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon (Sin Lives Mix)"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "04055483-e7d1-4303-9542-58d8f6730096",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Made Music to Strip By",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce0053d6-395d-3350-b499-aeecd5895e78",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Made Music to Strip By",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "1999-10-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1999-10-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "786f4959-9b67-3213-8473-8ca399d13107",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5e3c20e6-5063-3208-a929-be71af621b8e",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon (Sin Lives mix)",
+                  "length": 276000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "df9a8504-38c0-3df8-baf2-653c8037ef08",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Made Music to Strip By",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce0053d6-395d-3350-b499-aeecd5895e78",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Made Music to Strip By",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "1999-10-26",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1999-10-26",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "225ae684-4729-3c3d-9393-20fee23b2950",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b70529b4-11ee-3c9e-94d8-8bf2775e541d",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon (Sin Lives mix)",
+                  "length": 276000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "cbad978e-c89a-38e2-a947-d8f5c317550c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Made Music to Strip By",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce0053d6-395d-3350-b499-aeecd5895e78",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Made Music to Strip By",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "1999-11-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1999-11-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e704a70d-d7af-36ad-825f-6d9f20cefa44",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "665e3259-7101-38d8-aca2-c44df95d3238",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon (Sin Lives mix)",
+                  "length": 276000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "174c3a19-4152-4fd2-8449-623b5b4f3e78",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Made Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ce0053d6-395d-3350-b499-aeecd5895e78",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Made Music to Strip By",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "date": "1999",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1999",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "cd73f6df-bd9b-310f-bfe6-581873bf7eb7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b1d1faae-a058-49bf-a69c-e7ecea88c278",
+                  "number": "6",
+                  "title": "Demonoid Phenomenon (Sin Lives mix)",
+                  "length": 276000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 1,
+          "name": "big beat"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 3,
+          "name": "industrial metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 3,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop/rock"
+        }
+      ]
+    }
+  ]
+}

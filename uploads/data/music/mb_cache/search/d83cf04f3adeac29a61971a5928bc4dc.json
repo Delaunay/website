@@ -1,0 +1,145 @@
+{
+  "created": "2026-05-18T07:40:35.966Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ebf9b213-0162-4089-ba17-5709ebfe2912",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "Anymore",
+      "length": 286000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1981",
+      "releases": [
+        {
+          "id": "af4dd34b-3ef8-4e8b-9c8e-f3f6ce3c7257",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+          "status": "Official",
+          "release-group": {
+            "id": "9afb8692-befa-44c7-82df-1b48ba1e9cf2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2017",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "e938b9a9-7853-3dd1-ac2d-1f07decdd562",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c2d26693-fa00-4d3d-ae7e-9d13a4fa7ede",
+                  "number": "17",
+                  "title": "Anymore"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "cc5ec0ae-46a8-44b7-879c-7631a943c543",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Silk & Steel",
+          "status": "Official",
+          "release-group": {
+            "id": "442c3fea-22b3-421e-8f4b-152278ffe680",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Silk & Steel",
+            "primary-type": "Album"
+          },
+          "date": "1981",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1981",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "c7ff2e7b-266b-37e0-87c3-cd42bf83682e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "c6009df0-c064-46dd-82fd-c3d46c0eb70b",
+                  "number": "B3",
+                  "title": "Anymore",
+                  "length": 286000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "europop"
+        }
+      ]
+    }
+  ]
+}

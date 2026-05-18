@@ -1,0 +1,135 @@
+{
+  "created": "2026-05-18T07:13:46.555Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e35b687b-6b99-42ff-9374-6fc5c932c7c3",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "Dark Light",
+      "length": 270773,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-09-26",
+      "releases": [
+        {
+          "id": "e63f5ace-b5ec-4284-a591-cbc6438999a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Dark Light",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0b8e5ee3-583f-35d7-a190-595bd27f82ec",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dark Light",
+            "primary-type": "Album"
+          },
+          "date": "2005-09-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2005-09-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "030dfb60-ebe7-3819-94ec-24c611f0862e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3cec5d14-5194-4ee1-8173-b14054ca3db1",
+                  "number": "5",
+                  "title": "Dark Light",
+                  "length": 270773
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

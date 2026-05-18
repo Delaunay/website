@@ -1,0 +1,179 @@
+{
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1995-12-03"
+  },
+  "type": "Person",
+  "area": {
+    "sort-name": "Belgium",
+    "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "BE"
+    ],
+    "type": null,
+    "name": "Belgium",
+    "disambiguation": ""
+  },
+  "tags": [
+    {
+      "name": "french pop",
+      "count": 1
+    },
+    {
+      "count": 3,
+      "name": "pop"
+    },
+    {
+      "count": 1,
+      "name": "r&b"
+    },
+    {
+      "count": 1,
+      "name": "soul"
+    }
+  ],
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "isnis": [
+    "0000000466813880"
+  ],
+  "sort-name": "Ang\u00e8le",
+  "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+  "name": "Ang\u00e8le",
+  "genres": [
+    {
+      "id": "911c7bbb-172d-4df8-9478-dbff4296e791",
+      "count": 3,
+      "name": "pop",
+      "disambiguation": ""
+    },
+    {
+      "id": "31be54b2-4d0c-42df-aa44-c496c7b4c3c3",
+      "disambiguation": "",
+      "name": "r&b",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "soul",
+      "disambiguation": "",
+      "id": "1b5e7b16-336b-473e-a364-5120413a9827"
+    }
+  ],
+  "end-area": null,
+  "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+  "begin-area": {
+    "id": "9de5556b-16b3-4526-b764-3ec4455c7240",
+    "sort-name": "Linkebeek",
+    "disambiguation": "",
+    "name": "Linkebeek",
+    "type": null,
+    "type-id": null
+  },
+  "ipis": [
+    "00821813359"
+  ],
+  "relations": [
+    {
+      "target-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+        "country": null,
+        "disambiguation": "",
+        "name": "Six Women",
+        "type": "Choir",
+        "id": "e54914fe-50cb-49c5-8d5a-723d3ac587fd",
+        "sort-name": "Six Women"
+      },
+      "attributes": [
+        "choir vocals"
+      ],
+      "ended": false,
+      "attribute-credits": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {
+        "choir vocals": "43427f08-837b-46b8-bc77-483453af6a7b"
+      },
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "target-type": "artist",
+      "attribute-values": {},
+      "type": "parent",
+      "attribute-ids": {},
+      "begin": "1995-12-03",
+      "target-credit": "Serge Van Laeken",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "id": "41653191-3ba7-45b7-a465-4a03b02cee36",
+        "sort-name": "Marka",
+        "country": "BE",
+        "name": "Marka",
+        "disambiguation": "Belgian singer",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type": "parent",
+      "begin": null,
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "Belgian comedian",
+        "country": "BE",
+        "name": "Laurence Bibot",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c4e17c9c-213a-4b3c-84e8-866b66b05f5d",
+        "sort-name": "Bibot, Laurence"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "target-type": "artist",
+      "begin": null,
+      "type": "sibling",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Elvis, Rom\u00e9o",
+        "id": "b6e08f19-dca8-4009-aefe-9feb9f1aa1f2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "Belgian rapper",
+        "country": "BE",
+        "name": "Rom\u00e9o Elvis"
+      },
+      "attributes": [],
+      "source-credit": ""
+    }
+  ],
+  "gender": "Female",
+  "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken",
+  "country": "BE"
+}

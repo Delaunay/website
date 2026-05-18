@@ -1,0 +1,947 @@
+{
+  "created": "2026-05-18T05:22:01.783Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "6c358d76-4258-4cef-8f6e-1739fe253c01",
+      "score": 100,
+      "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+      "title": "Afterlife",
+      "length": 195000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Amaranthe",
+          "artist": {
+            "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+            "name": "Amaranthe",
+            "sort-name": "Amaranthe",
+            "aliases": [
+              {
+                "sort-name": "Avalanche",
+                "name": "Avalanche",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "2008",
+                "end-date": "2009-05-20"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-03-13",
+      "releases": [
+        {
+          "id": "e4b5a97e-5bf9-456f-9a8e-f81bb7539c5c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-19",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-03-19",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "4ace8c7b-2fb7-47dc-8224-36ea30760e56",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ad7e5c6c-4c01-4a83-8765-077049adc5af",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "bf735db7-a7af-4cb1-a57f-85d34675453c",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "Digital World",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ba6378ac-4402-4da7-a153-96bf70e623a7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Digital World",
+            "primary-type": "Album"
+          },
+          "date": "2019",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "438dd393-9600-33dc-b205-fe259bf932bd",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "bf7991d1-1207-4e39-8187-1648aca69535",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7b13283e-2f7a-430f-bd8b-4d2fc3032bfe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-03-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "67ec1b22-4cab-3e9e-ac21-ef54d14e7d9a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6651bd60-31b4-4865-b932-8ee989916055",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d5cae6bd-81cd-4e27-abe2-fe6df6e73ec4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-03-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "edd9686e-3069-3e1f-bb98-5de6daa80c94",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "98ed02e2-d66f-45d1-8e53-ef3a218dc23e",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "31fb72b9-6c64-4be4-a659-621ae12bd513",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "disambiguation": "iTunes version",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-20",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2013-03-20",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "98c1ca1e-1d42-3dec-96ce-1023325524c6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "278134d8-23a5-3b2d-baa3-fe11d2e0a705",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 194000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1dcc22e8-6056-4317-8d37-fed6652956c9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-03-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2ce83d32-2506-3e06-a9c7-bba657e9f995",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8ccfe91b-d427-3e94-9521-0c835eff6fb4",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8b61a363-32eb-4ee3-8d6b-e7b87d17457a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-20",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-03-20",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e717fcc3-d596-3ca2-b449-13722e5ccf46",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "663388da-ed9f-37b1-889c-5ec0dd4b9d4e",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "150447c0-7286-4918-8109-e2fa9eeaced6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-13",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-03-13",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7b5577d8-5537-399f-85b5-3643908da7cb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fe1817a3-0520-3dff-a8ae-59cfb6ce305f",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "db76301d-652c-4dfe-8389-5bf86a0fec2e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 2,
+          "title": "The Nexus (deluxe edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-13",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-03-13",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "f84e9ee8-2c16-3fe4-83c3-225bb65a0530",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "b69c11ef-ae39-4ec4-821a-eb9cd0a38271",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8d7b4778-ebfc-40ee-9550-75c55b172f78",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "disambiguation": "Spotify version",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "66851cca-687b-3efe-8181-68063623b745",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c67bb2ad-e403-4750-91b4-d0c08c4e7b93",
+                  "number": "1",
+                  "title": "Afterlife",
+                  "length": 195000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIUM71203275"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "melodic death metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 2,
+          "name": "metalcore"
+        },
+        {
+          "count": 1,
+          "name": "power metal"
+        }
+      ]
+    },
+    {
+      "id": "5982d7e4-caeb-4a59-a5a6-d434f12e35b2",
+      "score": 93,
+      "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+      "title": "Afterlife (acoustic)",
+      "length": 193840,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Amaranthe",
+          "artist": {
+            "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+            "name": "Amaranthe",
+            "sort-name": "Amaranthe",
+            "aliases": [
+              {
+                "sort-name": "Avalanche",
+                "name": "Avalanche",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "2008",
+                "end-date": "2009-05-20"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-03-20",
+      "releases": [
+        {
+          "id": "f95b017a-4f68-491c-ad9a-ded87eae2ff0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "Breaking Point \u2013 B\u2010Sides 2011\u20132015",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "68daab15-7abb-431f-a5a7-76453c38ec9d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Breaking Point \u2013 B\u2010Sides 2011\u20132015",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-10-30",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-10-30",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "4fe57c17-9b49-3f8a-ab29-60e5082c56c2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7e326b90-b7c0-40a4-8711-0cb7a83be6c0",
+                  "number": "2",
+                  "title": "Afterlife (acoustic)",
+                  "length": 194000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "7b13283e-2f7a-430f-bd8b-4d2fc3032bfe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-03-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "67ec1b22-4cab-3e9e-ac21-ef54d14e7d9a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "35e11f00-3b5d-4b4c-ae0e-fadcfc15ac73",
+                  "number": "13",
+                  "title": "Afterlife (Acoustic)",
+                  "length": 193000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "8b61a363-32eb-4ee3-8d6b-e7b87d17457a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-03-20",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-03-20",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e717fcc3-d596-3ca2-b449-13722e5ccf46",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d1701f29-d02a-3fb8-bace-483b9982ed22",
+                  "number": "13",
+                  "title": "Afterlife (acoustic)",
+                  "length": 193840
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIUM71203290"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        }
+      ]
+    },
+    {
+      "id": "f912e0c6-f419-40ca-a6fb-e7c041bdc7c3",
+      "score": 93,
+      "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+      "title": "Afterlife (Commentary)",
+      "length": 49040,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Amaranthe",
+          "artist": {
+            "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+            "name": "Amaranthe",
+            "sort-name": "Amaranthe",
+            "aliases": [
+              {
+                "sort-name": "Avalanche",
+                "name": "Avalanche",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": "2008",
+                "end-date": "2009-05-20"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-01-01",
+      "releases": [
+        {
+          "id": "492e23a2-a80a-47c5-98f2-d23dfd5faa86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c72a13a1-f865-3037-8037-91a9e822e798",
+          "count": 1,
+          "title": "The Nexus (Commentary)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Amaranthe",
+              "artist": {
+                "id": "eb380962-99bb-46c0-af40-1c7790a7822a",
+                "name": "Amaranthe",
+                "sort-name": "Amaranthe"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "83abff21-d32b-48d3-8950-0dbfbeae6a72",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Nexus",
+            "primary-type": "Album"
+          },
+          "date": "2013-01-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-01-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "75e22a01-a76c-4907-bf29-0f01ed6c3e2e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5d7b95d1-8fb5-4d05-868c-35401bad4078",
+                  "number": "1",
+                  "title": "Afterlife (Commentary)",
+                  "length": 49040
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIUM71300428"
+      ]
+    }
+  ]
+}

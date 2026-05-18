@@ -1,0 +1,1783 @@
+{
+  "created": "2026-05-18T06:45:09.454Z",
+  "count": 151,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1c8d75ca-7352-43a1-83b3-584408984fd1",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1154000,
+      "disambiguation": "live, 1977-02-01: Stadthalle, Vienna, Austria",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d539336e-36c9-4093-ad62-4debdd2fb5e1",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 1,
+          "title": "1977-02-01: Stadthalle, Vienna, Austria",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3db711c0-3208-42f8-9f4c-2fb124783a6a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-02-01: Animalisation",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 5,
+          "media": [
+            {
+              "id": "84b58beb-4c38-311d-9ec1-51c9bff84d10",
+              "position": 1,
+              "track": [
+                {
+                  "id": "9c32ad58-008c-34d9-855b-89cf7f356764",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1154000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "d63609d3-5dec-4978-9d1f-5a7bd5ad2604",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Vienna Master 77.2.1",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3db711c0-3208-42f8-9f4c-2fb124783a6a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-02-01: Animalisation",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5af6afe9-678c-3a09-a066-fcc84bbfd5f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fd1f44e3-2205-4029-b406-383379026543",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1154000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6799eddd-0724-49f7-a83e-65b1cb0b40c6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Test Flight",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3db711c0-3208-42f8-9f4c-2fb124783a6a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-02-01: Animalisation",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c3aeb388-ee9f-3237-955a-0c03d109ca1e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1e572d4a-9ce0-44d2-a0c3-8d144189b883",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1143000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0b60ad7-0aab-4b17-8749-494af13546d0",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1036986,
+      "disambiguation": "live, 1977-06-27: Boston Garden, Boston, MA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2014-11-02",
+      "releases": [
+        {
+          "id": "6e1966ab-40fb-4c56-897b-d457f279d095",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Through Boredom and Pain",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9ec17770-9d80-4e40-9382-c4511b0562ab",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-06-27: Boston Garden, Boston, MA, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2014-11-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2014-11-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "8a0c3827-3601-38a6-84d9-6375c3e2e360",
+              "position": 1,
+              "track": [
+                {
+                  "id": "cdceabd4-4b80-4619-9655-81ad0cbab66b",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1036986
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "a486d8e3-ee1b-42e6-98e2-f1f8038f9f55",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 1,
+          "title": "1977-06-27: Boston Garden, Boston, MA, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9ec17770-9d80-4e40-9382-c4511b0562ab",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-06-27: Boston Garden, Boston, MA, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c7a75a41-44a5-32e1-b261-21dfc0c9e40c",
+              "position": 1,
+              "format": "DAT",
+              "track": [
+                {
+                  "id": "c2b30736-3630-3d5a-b09b-aa9199c5cf7b",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1036986
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9cb54c2-b6fd-48b9-a5b8-9672cfe1bd2f",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1106000,
+      "disambiguation": "live, 1977: Oakland Coliseum, Oakland, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "823b17fa-71b1-407e-afb4-d0592109ff88",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 9,
+          "title": "Variations on a Theme of Absence",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a24a370f-66fb-4411-bdbc-1ff399c37f06",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Variations on a Theme of Absence",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1994",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 113,
+          "media": [
+            {
+              "id": "ff616b2f-4e6a-35b6-9bfc-48f31f1a9f8e",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1072e363-45f9-4022-8233-7212b420811d",
+                  "number": "5",
+                  "title": "Dogs",
+                  "length": 1106000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab97caf2-47e6-43f4-877e-93d630728738",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 811226,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013",
+      "releases": [
+        {
+          "id": "cb45c839-2bdf-4cdd-9295-9e48915417f9",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Animals Unreleased Sessions",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1bf86272-5119-43a1-bd5c-c29fd3bc334a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Animals Unreleased Sessions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "64ab8807-765d-333e-88e8-54831c8c3b5c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "38184a3f-2a37-4f6b-874f-7752092b045c",
+                  "number": "A2",
+                  "title": "Dogs",
+                  "length": 807000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "cb45c839-2bdf-4cdd-9295-9e48915417f9",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Animals Unreleased Sessions",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1bf86272-5119-43a1-bd5c-c29fd3bc334a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Animals Unreleased Sessions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "09e0407f-bc0d-300f-b1e6-b27dba2cc7c7",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3f750f50-a2c5-4522-81d9-1b92df84d9ba",
+                  "number": "2",
+                  "title": "Dogs"
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "7c1d58c2-975d-427f-8e8d-cf452808738b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 1,
+          "title": "Animals: The Extraction Tapes",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1bf86272-5119-43a1-bd5c-c29fd3bc334a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Animals Unreleased Sessions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "2ea5489e-0d35-387b-9d3f-d4bf2c299c3c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "af0549ac-3a01-47ce-aac2-abf3a182a9c8",
+                  "number": "A2",
+                  "title": "Dogs"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "15a0a0ff-8a6a-4e42-a356-cdbac957c0a8",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 1,
+          "title": "Wish You Were Here / Animals: Unissued Alternate Studio Recordings (1975 \u2013 1976)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8041e1b2-cecf-48e0-a046-5c7ec52e860d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Abbey Road to Britannia Row (unissued alternate studio recordings 1975\u20131976)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "4a045e06-5f20-3330-93d5-6a14e508bc9f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f0ae3f4e-1ea2-480d-a8f5-59ec6cecc1b6",
+                  "number": "5",
+                  "title": "Dogs",
+                  "length": 811226
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "84de7187-7bf8-47e0-83f8-d62a5aac2681",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 1,
+          "title": "From Abbey Road to Britannia Row (unissued alternate studio recordings 1975\u20131976)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8041e1b2-cecf-48e0-a046-5c7ec52e860d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "From Abbey Road to Britannia Row (unissued alternate studio recordings 1975\u20131976)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "96045f50-8cef-35af-b318-0d6e590a7514",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dd37f224-b1e0-4793-989f-f6892bda3c22",
+                  "number": "5",
+                  "title": "Dogs",
+                  "length": 814000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b28f0e72-85cd-41ee-bdfe-3b999b46e14b",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1104026,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2017",
+      "releases": [
+        {
+          "id": "c0872c14-3f7e-4608-a3a2-8da467305729",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 4,
+          "title": "Animals: The High Resolution Remasters",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "20c77fb4-1c9f-33c8-9d7e-c4977f11e847",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Animals",
+            "primary-type": "Album"
+          },
+          "date": "2017",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2017",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "ce126e8e-c013-3af7-9e2b-3eac9e60cbe1",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3369bd6d-d5f8-4835-8441-81c2970bb225",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1104026
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13240a39-dbd4-42fe-b3c0-6ede245706df",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1080000,
+      "disambiguation": "live, 1977-02-24: Pavillon de Paris, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "1b7ca623-f0bd-439d-93c2-c7b9d508e188",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Paris February 24 1977",
+          "status": "Bootleg",
+          "disambiguation": "1977-02-24: Pavillon de Paris, Paris, France",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "012c1de5-b4aa-4ad4-9aa5-6ad1c1bfb3d6",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris February 24 1977",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "353ec62a-37bc-3925-98cb-e971f37d8a42",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5d37f4fa-2700-482f-88c6-3b762c166f4c",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1080000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27cb2f6f-c28c-414f-b763-41534e8a8aa2",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1089000,
+      "disambiguation": "live, 1977-02-28: Olympiahalle, Munich, West Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "76648f60-ef10-4d31-9162-cc61ffa30e37",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Pigs on the Run",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d53f24b1-4c40-4d79-8db1-207d688a8dc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pigs on the Run",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "16b45a80-666d-34b8-b784-a8d0cb004467",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "453cb136-173b-49b6-9fc9-e546bdeed105",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1089000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "755a7fd5-bfe8-4d98-aa36-f159086f38ce",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 992000,
+      "disambiguation": "live, 1977-03-16: Empire Pool, Wembley, London",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "79f3cb74-ebfe-4225-99da-5cc344a897a5",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "1977-03-16: Empire Pool, Wembley, London",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "24976374-2ca3-4435-ae1f-c9d1f64446c9",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-03-16: Empire Pool, Wembley, London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "dc55c7fa-a001-35db-94dc-6b1c14c8e644",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1d257050-f6fe-49cc-801e-6796e7d4d184",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 992000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db57f321-809d-461f-96d7-1988103f80da",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1131000,
+      "disambiguation": "live, 1977-01-27: Festhalle, Frankfurt, W.Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d9ba966e-b261-4dae-b569-60418f15e2db",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Two Frankfurters",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a5f93aac-4d0a-4a21-987c-507b0a64ac27",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1977-01-27: Festhalle, Frankfurt, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "6ec897b8-6013-3a3c-aa75-409ca397ebd9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4d251e69-5f6f-4630-a8d9-bca99399e6de",
+                  "number": "5",
+                  "title": "Dogs",
+                  "length": 1131000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5931f0d-bf0a-4105-8c05-a894dd8a474c",
+      "score": 100,
+      "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+      "title": "Dogs",
+      "length": 1082000,
+      "disambiguation": "live, 1977-02-19: Sportpaleis Ahoy, Rotterdam, Netherlands",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Pink Floyd",
+          "artist": {
+            "id": "83d91898-7763-47d7-b03b-b92132375c47",
+            "name": "Pink Floyd",
+            "sort-name": "Pink Floyd",
+            "aliases": [
+              {
+                "sort-name": "Pink Floid",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pink Floid",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Pink Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "The Pink Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Floyd",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Floyd",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ud551\ud06c \ud50c\ub85c\uc774\ub4dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Pink Floyd",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Pink Floyd",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d4\u30f3\u30af\u30fb\u30d5\u30ed\u30a4\u30c9",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "10170305-97cf-416f-980e-1646ce414781",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "0b81ed37-abef-3a61-95a1-96078197007b",
+          "count": 2,
+          "title": "Rotterdam 19 February 1977",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Pink Floyd",
+              "artist": {
+                "id": "83d91898-7763-47d7-b03b-b92132375c47",
+                "name": "Pink Floyd",
+                "sort-name": "Pink Floyd"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9459fbc3-1ea1-4e6a-866d-7b1d4b82add3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rotterdam 19 February 1977",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "699739a4-a84a-3cbd-8735-8d0824243753",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9e00d93d-7a81-4c81-b826-9a25d91adcd8",
+                  "number": "3",
+                  "title": "Dogs",
+                  "length": 1082000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

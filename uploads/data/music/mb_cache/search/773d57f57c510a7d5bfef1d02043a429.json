@@ -1,0 +1,879 @@
+{
+  "created": "2026-05-18T06:00:51.164Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1419fc79-e41f-4402-9945-af87ed7b7a79",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "(Go to) California",
+      "length": 204960,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-11-13",
+      "releases": [
+        {
+          "id": "1a82dd45-c007-46c7-ad24-5b93085f844d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d4004cfd-185f-3731-9c35-8380942fe8a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "93f5e196-90d4-3f40-a185-b640c1e73aae",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4186005e-7089-4102-9a2d-567efb7a6025",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "47d0f254-b6c0-3be2-b1fa-c60ca83a87af",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "46982455-b5a1-4957-a2e7-1d457b2949c4",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b4afa517-c806-41a8-b4ed-10e68420f243",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "I Am Legend",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ceb3a13b-2aaa-4926-9130-3b31d631bc8e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "I Am Legend",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "ded95a20-7088-362b-850f-62d1c4f5ccb8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ee56512e-a844-46e1-952a-f7f7fda482af",
+                  "number": "6",
+                  "title": "(Go To) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ae572d36-8fad-4570-94a2-57555a99bcf1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "167cc32e-9acb-3e43-86f9-b4c4404104b6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fbce777d-8ac2-4fed-9d44-dc92041177dd",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c4dae2eb-2265-4184-b6c5-a69b6eed422b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "3dd90d43-e0a4-3b09-a5af-577a92823bd4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "eb2911be-66a3-4c2d-8913-6e0426a116ec",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "23290cda-8b53-4aab-968e-6bcc01f4a4de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "024482b8-4d29-32d2-ba01-6fb51f4c1198",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "43f503eb-50c8-4fc5-a5ba-62d162ca57da",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "df5256d3-4781-4603-8758-c70418abd5bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 5,
+          "title": "5 Classic Albums",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c8637c0-4c72-49d4-94d5-a4da7b830ddb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "5 Classic Albums",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-05-19",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-05-19",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 59,
+          "media": [
+            {
+              "id": "396f66a0-d495-38af-8566-96b7efe6343c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "41c7f942-253e-4d6b-ae35-073e3ba9241f",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bcc7ff6e-ae04-4323-8b67-da91b2af9d8e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-11-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "751bb3f7-aeee-307f-8b93-d46dade1cb9a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fb3ab7ca-48d7-444f-87db-96eb8f234273",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b97b6022-c213-4ba8-992e-9002b39f4d4c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Season 2: Music From the Showtime Series Californication",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2b9574f3-bb0a-4b06-bc0a-8d65fa53e871",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Season 2: Music From the Showtime Series Californication",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2009-08-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-08-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "b180eb6b-d973-3d7c-a4c5-7c06cc19b39d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3e299af3-5b63-31f9-836a-fb8de443ea4c",
+                  "number": "2",
+                  "title": "Go to California",
+                  "length": 206000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "3d7380c3-1070-4b3f-8d61-d1aea4bd45e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "e7784c0a-3318-3130-bfee-3e4d2f706293",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e8a57273-44f1-3a04-83ce-71056192aaee",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "cef5794d-051d-3947-ba6a-3fe876671f79",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-11-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "975137a0-0e15-3c57-bdbc-e981d0da22bd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "929f7734-9701-3bec-8588-1519968e741a",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fde64c4f-689c-46ef-8915-050959bbd5af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Sinister Urge",
+          "status": "Official",
+          "disambiguation": "clean version",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bc154099-bbd3-3abf-8053-8d2b471b39ce",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Sinister Urge",
+            "primary-type": "Album"
+          },
+          "date": "2001-11-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2001-11-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4f52235d-d3ab-386e-8855-b8cda1212c84",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "899695f1-3f20-3bb1-bb6b-363882895310",
+                  "number": "6",
+                  "title": "(Go to) California",
+                  "length": 204000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fa728de9-9d35-45c8-a878-e99c272a4c92",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ac0989c-d1b1-4c32-a4a0-7de8a52da4bf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "2efd9fc2-7a25-3881-8fc1-8701ac3bd3c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a1338ac0-8b26-304b-ae4c-dfafdfc38d44",
+                  "number": "17",
+                  "title": "(Go to) California",
+                  "length": 206000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 16
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USIR10120172"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 3,
+          "name": "heavy metal"
+        },
+        {
+          "count": 3,
+          "name": "industrial metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 3,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "groove metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    }
+  ]
+}

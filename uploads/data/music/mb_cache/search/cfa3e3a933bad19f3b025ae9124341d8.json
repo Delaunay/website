@@ -1,0 +1,2242 @@
+{
+  "created": "2026-05-18T06:07:09.344Z",
+  "count": 7,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "548d67ad-ba59-4c17-88e5-87dc050660b2",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls",
+      "length": 234000,
+      "disambiguation": "live, 2009-05-28: Akasaka BLITZ, Tokyo, Japan",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-05-15",
+      "releases": [
+        {
+          "id": "bee4e4f2-f21b-4f2e-8800-dfa09e73ccb8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Last Night on Earth: Live in Tokyo",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a95cc967-32af-4a94-9b01-c268e8b70ee9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Last Night on Earth: Live in Tokyo",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-11-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-11-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "9413780d-e368-33b4-b7f8-7c4d6a78b563",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ebb058f8-efbb-3bc7-b680-9c50e75a57f8",
+                  "number": "3",
+                  "title": "Last of American Girls",
+                  "length": 234640
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "3e1d97df-00ba-42b8-9ce7-fbfb14b825d5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Last Night on Earth: Live in Tokyo",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a95cc967-32af-4a94-9b01-c268e8b70ee9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Last Night on Earth: Live in Tokyo",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-05-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "5acadbf4-e1f0-3f33-a830-f27d00face36",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ae59f218-9972-4eb7-ade0-cb0730c6f64b",
+                  "number": "2",
+                  "title": "Last of American Girls",
+                  "length": 234000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRE10901459"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        }
+      ]
+    },
+    {
+      "id": "6858c93a-ce87-4831-ad38-89921b86ecb0",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls",
+      "length": 231000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "65a2b56d-6167-493c-9a3e-677a1efb6bdb",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5459bc25-1b7a-4264-ae34-cf6c2509793b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 51,
+          "media": [
+            {
+              "id": "3511583d-ab77-3dae-a85e-e31fac923318",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7232b171-cdff-343a-97ad-a7d93518f9fa",
+                  "number": "11",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        }
+      ]
+    },
+    {
+      "id": "5373e2f0-f77a-40dc-9aa2-dd79f4664536",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls",
+      "length": 227746,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "009e8a72-bfab-4dae-ad22-dc6d1d46ffe5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "100% Hits: The Best of 2010 - Summer Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "812c9aca-f609-4a5a-adf8-68ca3f2df659",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100% Hits: The Best of 2010 - Summer Edition",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "aba2e4d3-9b66-30fd-8883-1dd1c8687a46",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6a2f730-bf36-4125-9a30-1b0d4b0636bb",
+                  "number": "14",
+                  "title": "Last of the American Girls",
+                  "length": 227746
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "558d0dfb-6354-4e63-b0a1-7338ab3b0045",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls",
+      "length": 231026,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-04",
+      "releases": [
+        {
+          "id": "0a208e51-b48a-4b4c-8c12-88c32e3f19b8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 8,
+          "title": "The Studio Albums 1990 - 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "51a8e59f-2325-4773-81f9-bd7af33ad189",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Studio Albums 1990-2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-27",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2012-08-27",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 125,
+          "media": [
+            {
+              "id": "ce2ae32a-7f20-4539-bd6a-e7f1a5faa9ce",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7a4662b5-5707-4de8-8c76-da37710465b3",
+                  "number": "10",
+                  "title": "Last of the American Girls"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "6ac85abe-4458-407c-9945-8b37cb0c3425",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "The Green Day Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a006535d-95ed-4ba2-b709-f7bdb65ceade",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Green Day Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 173,
+          "media": [
+            {
+              "id": "62c7cb87-6b53-313b-b5f5-2872dea6c460",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6bfee464-bfe3-45c4-86e2-968bf4e36e3a",
+                  "number": "141",
+                  "title": "Last of the American Girls",
+                  "length": 230000
+                }
+              ],
+              "track-count": 173,
+              "track-offset": 140
+            }
+          ]
+        },
+        {
+          "id": "943f5800-9ccc-4611-9ae4-ccb56f851eb6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-04",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "2009-04",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "b96e10e5-8f11-3d3a-8bbc-8d384015c370",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b5109681-c60f-4a91-8b94-2a299952aab6",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "29fd1127-9d54-4140-936f-fc963d4e6a76",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "The Green Day Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a006535d-95ed-4ba2-b709-f7bdb65ceade",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Green Day Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-10-07",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016-10-07",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            },
+            {
+              "date": "2016-10-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 127,
+          "media": [
+            {
+              "id": "ad1dade7-b78f-3f25-806b-68ceb01c2490",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "57239d65-39c0-430d-8283-ef2e2a82f865",
+                  "number": "82",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 127,
+              "track-offset": 81
+            }
+          ]
+        },
+        {
+          "id": "fe39f1a3-b828-370c-9308-e96fd208d483",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "4dfd79f6-3f81-358b-b96b-48f3482f09c2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "139bf68d-0ea4-3d0b-9423-3598df82dbc8",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "1048f99b-97c9-4738-97d2-ace223278c3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "7280f6ca-cc10-3264-9e39-3021b15c2211",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7e659e5d-a7fa-4a58-990c-3536dc7a5ebd",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "82e4fe3d-f338-4e68-9186-f1bf6f91a0a8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "bf13855f-79fc-3689-8faa-2adc3889b20f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "eb5c94fb-930c-4b2f-a104-eb1ce65c9d1f",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "89efa553-2c2c-4826-b880-e61457399c8b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 8,
+          "title": "The Studio Albums 1990\u20132009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "51a8e59f-2325-4773-81f9-bd7af33ad189",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Studio Albums 1990-2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-27",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2012-08-27",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 125,
+          "media": [
+            {
+              "id": "d5a40226-4668-31c6-a6a3-d99552c0ab3d",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6a2fe2b7-6d0c-4dae-9961-0ec5ed455b15",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "4a5b6eb9-9cf2-46b3-818a-58b3555a3ce5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "9626e93f-6d9a-3481-b4c9-d25bb8cff1c6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1ed66168-51de-4481-8c0f-48373fb9fb5f",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "7ba74e72-715e-4f5d-b968-0ab5e999fa04",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown / American Idiot",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e3130e53-fbfc-4e76-9dc4-c554225ec887",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown / American Idiot",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2012-08-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "b21edb70-0c5a-3ac9-9c68-f57ac16b4b11",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "928caa8c-531c-4814-a5da-217be828c881",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "8489fe0e-ceee-32ec-b46f-c791322037e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "7c87763e-5c84-3bf7-abcf-e292f71ce8bd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "45840f4f-077b-3973-8733-0bc030e281db",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "73073de8-e725-3a49-8e79-35dd5ef29b98",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "e0fe5f84-7611-3306-a306-4d35ee75a8d4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "995be53a-2004-30ff-bb2d-d50e67818de2",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "e6f3e5a9-cdc0-451b-bf30-4430eff5cfcc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "340e158f-36f1-3969-8ca9-17c710f6ba96",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5ec313b0-51b0-33ed-8efb-e9764d6ecaa5",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "113801de-cddc-40c5-99b7-766476e11e0d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "543394b9-129a-3129-aae2-680ab3015254",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e88feda6-88b3-3a82-8479-6e17ad781d6d",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "72800544-3d3b-4edd-aa47-333fbc1cb60c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c556bab7-ff96-3938-8bd6-5666c1455603",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d2442eb9-7e09-3c2f-bb8b-ebf0fb13245b",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "96fe9f45-59e3-4633-ac95-e2d58956fe66",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Promo Only: Modern Rock Radio, June 2010",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5a2e261b-7b93-4bf2-a2f8-b546c81d8260",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Promo Only: Modern Rock Radio, June 2010",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-05-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-05-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "cf09c48c-999f-38a9-8dea-1ca997ab0b90",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4242401b-c4ef-3cd2-b351-e635e5baa27c",
+                  "number": "6",
+                  "title": "Last of the American Girls",
+                  "length": 228000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "5b0f89f9-3742-41ae-abd5-b177509683ff",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "disambiguation": "Target exclusive",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "b7486188-7bc8-3e5d-a995-8aebc4d1e147",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "65530aef-da11-3282-bf52-8da18b17590b",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "2fb753de-3497-42e0-9aad-60e9cac5e304",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Alternative Times, Volume 115",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "715bd5dc-0b15-4751-90a1-5ee566cddcf0",
+            "title": "Alternative Times, Volume 115",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-06-16",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-06-16",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "4a52ad9f-5b6d-3a6d-b4b2-c835aad47a18",
+              "position": 1,
+              "track": [
+                {
+                  "id": "5475b4ad-23b0-3fed-8dbe-2375a194217d",
+                  "number": "8",
+                  "title": "Last of the American Girls",
+                  "length": 229005
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "b266af07-7453-4e02-aa7a-c9d00369ec5d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "5b6ef2b6-8774-35ea-96a6-e1bf52af18b3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bd03bc0a-e111-4065-884d-295806a0ebcc",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "4f34d486-2fef-4180-919f-d7781ca36719",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "d4497140-1644-3755-9d29-72434923f888",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "fd686fd1-2419-4e2f-9488-f95178539414",
+                  "number": "B5",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "47e1be6d-1f50-44e7-99d4-1d4a590e601a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-12",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2009-05-12",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "d2991566-7792-3e40-a4d1-8a7810b8b28d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "243b3d49-643a-4b4b-a981-077f955e4970",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "7f4a38ed-1d5f-4690-86ca-b2db6f84ea67",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Last of the American Girls",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "edf2b42e-d3bc-4fe3-b954-8819595a9f30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Last of the American Girls",
+            "primary-type": "Single"
+          },
+          "date": "2010-05-31",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010-05-31",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "0e84e10c-be6e-3807-8af6-af4ad844235d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6f49ee60-43ce-412a-a45c-f2cdd4b509a6",
+                  "number": "1",
+                  "title": "Last of the American Girls",
+                  "length": 230000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f2a7d0b5-83a5-4f03-8c7b-9db96dc70c94",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Last of the American Girls",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "edf2b42e-d3bc-4fe3-b954-8819595a9f30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Last of the American Girls",
+            "primary-type": "Single"
+          },
+          "date": "2010-02-05",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010-02-05",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "1b244b9a-f769-3856-8625-b966b351ba58",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b5a092ed-2a3d-4053-bfff-91d81d0a321d",
+                  "number": "1",
+                  "title": "Last of the American Girls",
+                  "length": 231307
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9d6d1e4c-bc3b-4a8e-82bc-5ea5ef36bc02",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "189ea93f-2806-3663-ac7f-b1e9cb147ba6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "790a97f7-21e1-36ed-a2af-de08f1c9b3fe",
+                  "number": "10",
+                  "title": "Last of the American Girls",
+                  "length": 231026
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRE11200295",
+        "USRE10900673"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "punk-pop"
+        },
+        {
+          "count": 1,
+          "name": "punk revival"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "6ae3221a-0e0a-403d-adb9-e54868c70352",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls",
+      "length": 229000,
+      "disambiguation": "radio version",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "ab93955a-ae16-498b-b095-0968ab6ca629",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Last of the American Girls",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "edf2b42e-d3bc-4fe3-b954-8819595a9f30",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Last of the American Girls",
+            "primary-type": "Single"
+          },
+          "date": "2010",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "a854812b-8cbf-3109-81b9-ebbab594a70c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "584779f6-b4aa-44d3-a130-f1ecff96b561",
+                  "number": "1",
+                  "title": "Last of the American Girls (radio version)",
+                  "length": 229000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21d02100-d4ff-439f-918d-9d238e1c883f",
+      "score": 94,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls (live)",
+      "length": 229000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-11-13",
+      "releases": [
+        {
+          "id": "bdb74e05-d8c9-44a5-84cc-9fc5858dc299",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f7b6db26-b992-441d-9249-b401d9699efd",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "21st Century Breakdown",
+            "primary-type": "Single"
+          },
+          "date": "2009-11-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-11-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "72323fee-1dd2-33ae-a098-fdcdcc8afc51",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ef565c65-c962-4781-8f5c-5a13cfdbe3e1",
+                  "number": "2",
+                  "title": "Last of the American Girls (live)",
+                  "length": 229000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "9bd5767f-73a5-43d9-9d00-ea619514c133",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f7b6db26-b992-441d-9249-b401d9699efd",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "21st Century Breakdown",
+            "primary-type": "Single"
+          },
+          "date": "2009-12-28",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-12-28",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "dd9f8458-6ec1-327d-bd2e-ffe0fc5daa4b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2206d721-7fcb-4de1-bc97-38d2c16f4d90",
+                  "number": "2",
+                  "title": "Last of the American Girls (live)",
+                  "length": 229000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0497240a-59c3-4f0f-9a08-1f5f5e037ade",
+      "score": 83,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last of the American Girls / She's a Rebel",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-07-08",
+      "releases": [
+        {
+          "id": "c300b23c-f1a1-4ddf-8d59-f3c8cb6dc1c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "American Idiot: The Original Broadway Cast Recording",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a73dad3a-401b-4aac-aded-9a1fde315a5f",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Idiot: The Original Broadway Cast Recording",
+            "disambiguation": "2010 original Broadway cast",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2012-07-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-07-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "a39deea5-5661-3ab0-9e80-481cced77672",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "49f5943a-a80a-4be9-aff4-f873e56942e6",
+                  "number": "9",
+                  "title": "Last of the American Girls / She's a Rebel"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

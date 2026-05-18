@@ -1,0 +1,97 @@
+{
+  "created": "2026-05-18T08:13:00.624Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "929ab189-5bfb-4ebd-bd27-b2c8c361c375",
+      "score": 100,
+      "artist-credit-id": "ca263d42-e4f8-3325-bea2-af74f10bb14f",
+      "title": "Light (extended mix)",
+      "length": 264000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Black Light",
+          "artist": {
+            "id": "893f9dbf-97c3-4eca-97b0-d4fc50a745de",
+            "name": "Black Light",
+            "sort-name": "Black Light",
+            "disambiguation": "Italian Disco"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "b75d5b15-eefd-4bb0-aa55-74fde294b990",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "We Love Italian Dance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "50f999a5-bded-4c15-86f5-18fc5d0d3a4c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "We Love Italian Dance",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "1049a3f9-7b51-354d-87eb-851f8296bbab",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "13478114-4db7-4921-a2fb-fa45d7e420a8",
+                  "number": "7",
+                  "title": "Light (extended mix)",
+                  "length": 264000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IT00G9330121"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "fixme"
+        }
+      ]
+    }
+  ]
+}

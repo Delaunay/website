@@ -1,0 +1,640 @@
+{
+  "created": "2026-05-18T06:13:20.405Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5b3106e2-764a-4a81-8591-f12d9c23deb0",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Tout envoyer en l\u2019air",
+      "length": 191586,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2003-01-14",
+      "releases": [
+        {
+          "id": "5e23ee9e-8789-4ad9-ad30-9bf6a9d4b5cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-07-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-07-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "88140628-bd10-35db-9d8b-9e22d2b17a4b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "46d942c7-ab29-3811-871d-0cb6a32023e4",
+                  "number": "4",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 191586
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "f6f36ebe-0127-4d7a-81fd-ecf24630ac5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "983ad530-7972-337c-b300-d5de66dfd17d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "02ad1161-2665-4b54-bc41-372b4a637a90",
+                  "number": "9",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 191000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "e891676f-7e4d-36c0-a557-4dd5481c3ce3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-01-14",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-01-14",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "28c85ad6-1fa5-3207-9699-373ae3afe9ac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "73ced0f4-0f9c-3fb5-9e66-1f580e4eac9e",
+                  "number": "4",
+                  "title": "Tout envoyer en l'air",
+                  "length": 191586
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "61474034-768d-3bb5-8180-bd2efd8e22ad",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2004-01-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-01-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c2e223fb-61d0-3464-bc71-8c6a9d03d1b6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d7e81505-1994-3d3e-8300-f4bcf5a80625",
+                  "number": "4",
+                  "title": "Tout envoyer en l'air",
+                  "length": 191586
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "c06675b6-1a5c-453d-9329-feadb7773eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-01-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-01-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "fad9813e-f5bf-3b09-b435-ae30b2f48c9e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "1a73d9cb-d992-43ed-9b16-56324e57230b",
+                  "number": "9",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR84S0200042"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "cd68c665-abc2-4ab8-a637-c0d9e4f2c2e9",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Tout envoyer en l\u2019air",
+      "length": 194000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2005-01-24",
+      "releases": [
+        {
+          "id": "72935af9-4a28-4011-9a86-3eba40f58b5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Kyosph\u00e8re",
+          "status": "Official",
+          "release-group": {
+            "id": "9a954b22-c887-3483-98cf-02779357f36a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kyosph\u00e8re",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-01-24",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-24",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "2378649a-b525-3e5d-b504-2f297bce19c9",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "293ac677-3587-3616-a3ed-d6cafc6c6a60",
+                  "number": "1",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 194000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "c9f89b67-d95b-49ce-9f35-da09dbf2eaed",
+      "score": 92,
+      "artist-credit-id": "a2f51732-2d33-43f7-9426-88ecf5a514c2",
+      "title": "Tout envoyer en l\u2019air",
+      "length": 161013,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        },
+        {
+          "name": "Suzane",
+          "artist": {
+            "id": "d0fd9aec-0483-46ef-8126-4fcbb7dc5ab0",
+            "name": "Suzane",
+            "sort-name": "Suzane",
+            "disambiguation": "French electro artist",
+            "aliases": [
+              {
+                "sort-name": "Suzanne",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Suzanne",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Suzane",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Suzane",
+                "locale": "fr",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Colom, Oc\u00e9ane",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Oc\u00e9ane Colom",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2023-11-17",
+      "releases": [
+        {
+          "id": "c9621264-605b-4e08-aad6-685fc1d3df5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+          "count": 2,
+          "title": "Le Chemin - 20 ans",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Kyo",
+              "artist": {
+                "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+                "name": "Kyo",
+                "sort-name": "Kyo",
+                "disambiguation": "French pop-rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2023-11-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-11-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "ce055854-7f5a-31e9-9762-796f554c9dbc",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "63dbe417-cc0a-4762-a4e8-b9b4a9ae3d68",
+                  "number": "5",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 161880
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "0a489edf-352b-435d-ba02-55139d8c7ff2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+          "count": 1,
+          "title": "Le chemin - 20 ans",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Kyo",
+              "artist": {
+                "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+                "name": "Kyo",
+                "sort-name": "Kyo",
+                "disambiguation": "French pop-rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "track-count": 27,
+          "media": [
+            {
+              "id": "14d30862-05a9-3595-9cf4-16afcd6096d6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f29f76bc-5dc1-4ded-8147-f91a70208032",
+                  "number": "16",
+                  "title": "Tout envoyer en l\u2019air",
+                  "length": 161013
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ082300570"
+      ]
+    },
+    {
+      "id": "022df4b6-f924-4c04-ae75-b6ab3355d52b",
+      "score": 86,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Tout envoyer en l\u2019air (2023 remaster)",
+      "length": 190866,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2023-11-17",
+      "releases": [
+        {
+          "id": "c9621264-605b-4e08-aad6-685fc1d3df5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Le Chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2023-11-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-11-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "209afcfe-79d9-3725-8688-3d4fd0817a56",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "675a8b23-2a4b-4708-b58b-b409f953935e",
+                  "number": "4",
+                  "title": "Tout envoyer en l\u2019air (2023 remaster)",
+                  "length": 190866
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "0a489edf-352b-435d-ba02-55139d8c7ff2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "track-count": 27,
+          "media": [
+            {
+              "id": "14d30862-05a9-3595-9cf4-16afcd6096d6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1659e4e2-7b99-4ee1-b064-8bdfc7c8be97",
+                  "number": "4",
+                  "title": "Tout envoyer en l\u2019air (2023 remaster)",
+                  "length": 190866
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ082300119"
+      ]
+    }
+  ]
+}

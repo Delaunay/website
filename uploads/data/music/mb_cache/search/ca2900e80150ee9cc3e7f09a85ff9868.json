@@ -1,0 +1,110 @@
+{
+  "created": "2026-05-18T08:14:19.174Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "fa649fd4-77cf-4ee2-a320-8f64432a8453",
+      "score": 100,
+      "artist-credit-id": "1a27bdc2-8efa-3d97-bbc5-4145a52be435",
+      "title": "Bam Digi Bam",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Karl Wine",
+          "artist": {
+            "id": "0a24e84a-1fbe-450b-96c3-c446a1bb31a4",
+            "name": "Karl Wine",
+            "sort-name": "Karl Wine"
+          }
+        }
+      ]
+    },
+    {
+      "id": "078524be-5441-4c06-be11-2a8d8800e690",
+      "score": 100,
+      "artist-credit-id": "1a27bdc2-8efa-3d97-bbc5-4145a52be435",
+      "title": "Bam Digi Bam",
+      "length": 202000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Karl Wine",
+          "artist": {
+            "id": "0a24e84a-1fbe-450b-96c3-c446a1bb31a4",
+            "name": "Karl Wine",
+            "sort-name": "Karl Wine"
+          }
+        }
+      ],
+      "first-release-date": "2019-07-04",
+      "releases": [
+        {
+          "id": "3f64a115-b852-40ee-9716-7f89b7d7c0bc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Fun Summer Dance 2019",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a0cb2099-a197-4cc9-a1bd-2dd885e52b6f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Fun Summer Dance 2019",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-07-04",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2019-07-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "3f4e9bb8-f803-3b5a-a930-30539865d53b",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "96eac802-297c-46ff-94f4-038db42c968a",
+                  "number": "14",
+                  "title": "Bam Digi Bam",
+                  "length": 202000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

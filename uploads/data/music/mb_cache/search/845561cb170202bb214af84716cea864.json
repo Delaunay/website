@@ -1,0 +1,705 @@
+{
+  "created": "2026-05-18T06:17:08.580Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "02dd70ef-ca67-4e40-ab5b-1b79b211bf13",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Oh Yeah",
+      "length": 227440,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-04-20",
+      "releases": [
+        {
+          "id": "9577eb6d-c82a-48c5-a0e9-75b7f88d87a8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Princess, Part Two",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e24366c3-de01-4c97-9faf-35da08eba6c7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess, Part Two",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-04-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ec3bb861-67f5-3b38-b627-6a7fa5c4c9c4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3e2111c3-8115-496e-9176-9cb82226a2ff",
+                  "number": "8",
+                  "title": "Oh Yeah",
+                  "length": 227440
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "29cddfac-5707-4ee9-9d85-ca3e696eedb2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Princess",
+          "status": "Official",
+          "disambiguation": "No \"PSYcz\" logo",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7afde31-7b13-43de-8f0c-784b736cf6be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess",
+            "primary-type": "Album"
+          },
+          "date": "2012",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "141181bc-c1bb-38e5-b0c0-9512d132258c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dfa55091-d4b1-450f-a2cd-6360debb486b",
+                  "number": "8",
+                  "title": "Oh Yeah",
+                  "length": 227440
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "0cd5ece7-68c1-461d-82ac-b10ab32b37a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Princess",
+          "status": "Official",
+          "disambiguation": "\"PSYcz\" logo",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7afde31-7b13-43de-8f0c-784b736cf6be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-20",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2012-04-20",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "6e7ac960-492d-3483-be1c-09451187de12",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2cf22f40-c021-37ed-b838-aef678615dc0",
+                  "number": "8",
+                  "title": "Oh Yeah",
+                  "length": 227440
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ATE612000018"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "nu jazz"
+        },
+        {
+          "count": 1,
+          "name": "future jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazzdance"
+        },
+        {
+          "count": 1,
+          "name": "broken beat"
+        },
+        {
+          "count": 1,
+          "name": "electro swing"
+        }
+      ]
+    },
+    {
+      "id": "ed8923f1-74cc-4386-972b-64a82a1b321b",
+      "score": 94,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Oh Yeah (remix)",
+      "length": 301000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-12-14",
+      "releases": [
+        {
+          "id": "fb83fcdd-231b-433f-88ec-7ee0e33a4c33",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Art of Sampling",
+          "status": "Official",
+          "disambiguation": "special deluxe version",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f8934036-39e2-4e42-9e03-f7099be46b3c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Art of Sampling",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-01-01",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-01-01",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "fa77d8a9-2393-30ad-aa2c-13c76ceb97ab",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e9b20800-eb2e-44b0-8f1d-73a4f21b7eb0",
+                  "number": "19",
+                  "title": "Oh Yeah (remix)",
+                  "length": 300000
+                }
+              ],
+              "track-count": 28,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "57713dcb-b583-4ecd-9a21-eccaa79a5849",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Art of Sampling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f8934036-39e2-4e42-9e03-f7099be46b3c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Art of Sampling",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 25,
+          "media": [
+            {
+              "id": "aae345b8-0ad3-3d19-a812-d6a4969cc2c6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a1473117-0960-4f96-83b0-a20fced43557",
+                  "number": "19",
+                  "title": "Oh Yeah (remix)",
+                  "length": 302240
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "d73cd17e-6245-4a28-8148-29dfe1c3f487",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Art of Sampling",
+          "status": "Official",
+          "disambiguation": "deluxe version",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f8934036-39e2-4e42-9e03-f7099be46b3c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Art of Sampling",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 25,
+          "media": [
+            {
+              "id": "2db5d74e-c413-3c7e-ba10-684ef00c57e3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ea597545-331e-4581-9e9e-1172d78624f3",
+                  "number": "19",
+                  "title": "Oh Yeah (remix)",
+                  "length": 300280
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "a3601780-e62c-48d0-a0ef-2bd9a84613a6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Remix and re-edit Trilogy, Part 1/3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e92154c0-b4e4-423b-b394-10e0417a6f58",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Remix and re-edit Trilogy, Part 1/3",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 3,
+          "media": [
+            {
+              "id": "076fe932-5649-3699-85f1-9f82d1f6e9cd",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f33bed29-3406-3e9c-9bcf-8d1b147c27c6",
+                  "number": "3",
+                  "title": "Oh Yeah (remix)",
+                  "length": 301000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "a87d8402-8269-41a2-bd74-7e509c01ee0c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Art of Sampling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f8934036-39e2-4e42-9e03-f7099be46b3c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Art of Sampling",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-10-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-10-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "80f386bb-0816-3662-af51-62d1c4319d6f",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d58fc6b0-18ea-4fc6-8c4a-cebe12e0b44d",
+                  "number": "5",
+                  "title": "Oh Yeah (Parov Stelar remix)",
+                  "length": 302240
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "c1784fae-2413-4313-930b-14488c4b8195",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Art of Sampling",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f8934036-39e2-4e42-9e03-f7099be46b3c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Art of Sampling",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "854d1078-4235-35a3-adc2-f80a9aaf16c4",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ed9de076-f4f7-4d26-8314-919c66d31d04",
+                  "number": "5",
+                  "title": "Oh Yeah (Parov Stelar remix)",
+                  "length": 302253
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ATE612000037"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "nu jazz"
+        },
+        {
+          "count": 1,
+          "name": "future jazz"
+        },
+        {
+          "count": 1,
+          "name": "electro swing"
+        }
+      ]
+    }
+  ]
+}

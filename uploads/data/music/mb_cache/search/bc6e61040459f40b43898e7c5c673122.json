@@ -1,0 +1,405 @@
+{
+  "created": "2026-05-18T07:02:31.572Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9aabd78b-ebcd-489b-a609-51f20490ceb6",
+      "score": 100,
+      "artist-credit-id": "16a7fcd9-d4fc-346b-adb5-984a36fbf5c2",
+      "title": "Radio aktiv",
+      "length": 155800,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bruset",
+          "artist": {
+            "id": "9af328a1-f03d-4bd5-a29f-ab71de96276a",
+            "name": "Bruset",
+            "sort-name": "Bruset"
+          }
+        }
+      ],
+      "first-release-date": "1978",
+      "releases": [
+        {
+          "id": "d917da82-a35f-47d9-9fdf-4a6859c42519",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "GBG Punk 1977-1980",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f9979f0-2587-30f0-bc68-e511574a3a6c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "GBG Punk 1977-1980",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1992-10",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1992-10",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "88c292d5-1ee4-3947-9662-b98670e42d4c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64686121-2b4f-390a-ba26-1aeddbf71705",
+                  "number": "11",
+                  "title": "Radio Aktiv",
+                  "length": 156000
+                }
+              ],
+              "track-count": 35,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "3ed20146-3764-44ad-90c4-e05421780a01",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Vitt brus 1978-80",
+          "status": "Official",
+          "release-group": {
+            "id": "fa149d5c-e616-3df3-9122-d4cddd114f51",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vitt brus 1978-80",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "10b61d30-ddfa-32b1-b344-04feb6825475",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "af143d55-85ff-33e7-80a2-4779aa17933a",
+                  "number": "1",
+                  "title": "Radio Aktiv",
+                  "length": 155800
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7d70d88b-bee8-4158-a665-5bb2cb8a076c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Radio Aktiv",
+          "status": "Official",
+          "release-group": {
+            "id": "c5d18963-7c78-3f1c-a5ae-e99148603743",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Radio Aktiv",
+            "primary-type": "Single"
+          },
+          "date": "1978",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1978",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "3262d8ae-3dae-30d0-acae-583e0ae28ff2",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "b6cf8fb5-b68a-341d-9edc-f2febc41b3bf",
+                  "number": "A",
+                  "title": "Radio Aktiv",
+                  "length": 155000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "84fa476b-c74d-4474-8ee9-6d72223f7db5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Ny v\u00e5g 78-82",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0ded2f4-2698-3412-9c82-2fc1910400ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ny v\u00e5g 78-82",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1993-08-13",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1993-08-13",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 49,
+          "media": [
+            {
+              "id": "5238fdd3-b5c5-3bed-98c9-4f8c0c4f1581",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a188fe55-3ee9-35c8-b324-eccc8dfaee8c",
+                  "number": "7",
+                  "title": "Radio aktiv",
+                  "length": 156866
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "668d9fda-6511-4322-afa6-4bd0279aa040",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Svenska punkklassiker 78\u201381",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cc696c38-253b-35ba-9fe5-c8c444464c92",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Svenska punkklassiker 78-81",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-06-25",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2003-06-25",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 51,
+          "media": [
+            {
+              "id": "abcb0b74-5d40-3824-b453-90e1c2138a6b",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aeda3365-9e7d-3932-beb2-b77ce9112607",
+                  "number": "18",
+                  "title": "Radio aktiv",
+                  "length": 154626
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "08a279e5-2fa9-4219-87bf-9cb83e3d3899",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "GBG Punk 77-80",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9f9979f0-2587-30f0-bc68-e511574a3a6c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "GBG Punk 1977-1980",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1986",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1986",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "4c48aacc-8c92-345e-baa6-d5e15469e101",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "c206833a-3c3e-3fcb-9665-4117e7af9ec5",
+                  "number": "A8",
+                  "title": "Radio Aktiv"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "ska"
+        },
+        {
+          "count": 1,
+          "name": "reggae"
+        }
+      ]
+    }
+  ]
+}

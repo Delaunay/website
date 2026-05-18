@@ -1,0 +1,5423 @@
+{
+  "created": "2026-05-18T06:36:04.446Z",
+  "count": 10,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "84ea7549-e70f-4733-9d61-0a0d0b606986",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie",
+      "length": 317133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-05-04",
+      "releases": [
+        {
+          "id": "362d3e68-1850-449f-b4c1-982b0610a057",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a7dec3d6-cce9-4cfa-a7cb-9c23ca7534bc",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "43b910ff-0476-42a3-8f5d-e101975e08cb",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "a97917b4-aadd-4d7a-8338-511fe3ea6a0c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4e45ba7-919c-4a2d-ad4d-e795b563381c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b2e17a98-4557-4953-b861-8c4b3887b5a5",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317221
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d3d7fc33-2557-32ec-abae-bf77ab8baa57",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "21d93d7e-3f8a-4fbc-8625-e79dd0701f2c",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "85dc38cb-e852-47f2-bbb3-f5ff4c56c78d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC Germany pressing",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "108bf970-d3e7-3e15-967e-5786f9ce4d97",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cdbe5adb-7843-4831-b90f-e9e096da8391",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "93c83186-bb6a-4b28-b84c-271cd96db16f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8c4adcef-6f5f-4be1-9dd1-48528a3044bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a071988f-3ae2-47d8-947a-754d135762e6",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317213
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "9b2b2a3b-9883-45ea-abfb-99438448cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "Remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "03f9e146-40ee-42db-aa28-12318bbc2633",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8472dd48-e4e4-4259-a795-c574c327dd85",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "71662684-f90e-4ea7-a572-724a7ec70400",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6ae0d28a-dd1f-4b06-8139-2c83097753f9",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317213
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "65e09e55-c900-4b29-ad40-d999bed3424f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fe56b74c-5a5e-4d4b-b0c8-81aef358878a",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "59522f2a-8a75-4382-965c-9426705fef7a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7a5a549c-0206-44a0-b2ed-f7683ccbc290",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317213
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "aec18986-822b-48c2-88f8-54ba00ff1d1d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f0bb3a61-7b88-4c00-8b97-06069ee60769",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "04b02d4c-c8a0-38f7-965c-e5725a8dbc8b",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c2774b5a-8eca-435c-8c54-52c0bb03e9c3",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317213
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "1b7fd7f7-4632-4d07-adf6-3140694364ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC UK pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fc621538-7c3d-38bc-8c23-54ea19626f35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3097ec5c-c11f-49fb-8f3f-3b34cf5dacb1",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "caf9aec5-d1e4-4d23-a6ff-5600a2a95c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "cd952b6d-7ca5-3416-825a-9700a1fbe930",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d8c143a6-4398-45ab-b18d-c91a74e7dc0f",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "f2a03d39-d44b-4c21-b26c-b10a221a0e07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2014-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "2a02c1c9-cec9-3410-a1b6-162c1412d6ac",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "54e6067e-364a-4701-9b5e-b544d22a80cc",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b962af25-6981-4f97-aa6f-eab25306addc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c0a8602f-42df-3678-bab3-22987067dd9e",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "75ce27ba-7ab2-4451-9686-c91bf90d69bd",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b3a25ab9-fc70-4e0c-b2fc-928c293631b0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "BG",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0bbe4d0c-6b35-38a3-b531-e652cf0b0457",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "96cdea45-0c89-4d70-888c-43980e4441ad",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 319000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "1e3b03b3-4485-4d08-beb4-83ac73aee32c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition, reissue",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2023-04-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3c43f054-c8ec-3502-87ec-69c99a01a98c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "48b8a031-9225-4412-a357-1f8a79d3a97a",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "f8614b9e-29a8-35c4-883c-2136ef80cb97",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "799002bf-ef86-41e8-86d0-a530bf9d0a44",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "41fa7ef7-20f5-44cb-bcef-8dbb5cf957e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f2553e72-e734-3287-b791-680529269d62",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "46116025-b087-4d22-ae18-0ab4e1d22112",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "771eab04-c4c5-4a22-9b4d-4c11f1960938",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "051ad4bc-0a64-321a-8372-0dee8ead6d5f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4485f13b-5100-41cf-a318-ac5073e49373",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "36a26c7d-b372-4b26-aae8-8003b7e71502",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 33,
+          "media": [
+            {
+              "id": "258fb242-8c3e-3475-a642-8a01bbf854e1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c92be4b7-ed6f-4d0b-8e23-13c95b27b1e6",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "d0edc24b-f201-3076-b015-e54401239a8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-01",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1996-06-01",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "862cbaa4-2fa8-3de8-9840-3c4f346ed8b9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2d38ed91-a0cf-3fd2-915e-0b70be94f2e6",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "e1cd6a26-0875-4352-8af0-196972716ac7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1a0f0152-a481-30ac-a37b-aeb276a243c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7b219bee-adb0-326d-a01b-a3386cfeef35",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "d08247fc-25b6-3570-a794-bed0735a8f86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3568b7be-6abc-3bd3-beae-fa10bd98f5f4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6d049fae-c8fd-32e8-8fed-fc9d8fcc416f",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "5c4d63a9-065f-4abf-a6d6-9d520985361e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1c50e305-0328-304b-901c-0f624932e05a",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "6a9720b7-3631-44f0-baaa-6c91dce0ae56",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "909a0c16-4f75-47c3-84b1-000869a3844a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "55a82266-9500-33b1-ba3e-7d2db5eae29c",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "adb23162-c697-3284-81f5-2acc07c61e86",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "579d642d-6dbd-4e1f-8ee8-0b7497b48303",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-05-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-05-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "82751a48-d3df-3b3b-8d99-0911d817f2c5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "30ca5ac4-5226-4244-9bbd-292358222147",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "08b278ec-b23e-46d5-9d75-37992e841ef6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6e135eb7-1cf6-3467-ba06-3d95f74eb2f7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9f23010a-c741-4f38-83cb-202c511ea1ec",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "de69cdb0-4127-4338-ad92-6fb94f852f7e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8d974fdf-cb9c-3853-9ba1-fb366fbd3a35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "44f4d1d8-870e-45d2-9830-8857423159f9",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "14afa94a-13b2-4d45-a4c2-121394b680ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/MCPS on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "81b8eb20-b73b-3031-ac48-5998b94f7a72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f9ad0df-4c3d-43ff-a708-1ebde318daaf",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "2b6cf64a-403b-418f-9a17-70ad8ffac525",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e45d95e3-3bf1-3cf9-bfa5-99374dcaea26",
+              "position": 4,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b552e0ec-d134-482f-ac9a-d954cf31f584",
+                  "number": "G2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "ae9f2ce4-ee58-4a73-93d4-b8a424fa6610",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f3b10e22-f67b-35c0-b5a3-c6342cbf8d72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f1624aab-93e5-4288-b5ce-c9772989405e",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "56c8bbc8-a9fa-4fd7-ae1d-d3d1eac18c6b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4148366-0482-382b-96b2-f7d2ece0aac4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0e6854c6-277e-4d9d-99a9-e256ffadfac6",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "c488e108-c0cd-3117-af76-373a7c71b96c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c1667308-5e04-35ba-924b-361c9c69c4b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ca4d6457-f7d3-3eff-8d94-bbf39bc6772d",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 319200
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "aae56d3f-d7b4-4620-9c69-df6f9332801a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a19d6baf-3cc1-37b9-94fc-e8e3693bc9e4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8c8c9f9a-7c63-4f99-886c-d3e8a5697105",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317133
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "1333f3c2-3061-451b-8908-2e8ed0c18599",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "77034b56-5e8d-3d7e-9f83-a89945d70737",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "d7c7b62b-b934-4a59-b08a-a30fbc9137f9",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "0b277314-7ce2-3793-a1bc-a9d1be3ecc13",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "87767774-97be-39d0-ac20-495ce6538742",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c0c013b8-a0d8-3b54-bf90-bd012433b30f",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317173
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "e233c4ef-783f-3d1d-b024-dafd9076325b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "79d0282e-e2a0-3e44-9127-9cd63e8d8f7c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e4abeb9-1fb2-3d9d-a841-f52955f973f9",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317173
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "6304ebcd-39c1-476f-bca4-6679bb0aa9d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "197e6f1d-e9d1-3619-b74a-c0f2d3f8e465",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d2a1324f-abf8-33f4-95d5-04c0e71b045b",
+                  "number": "12",
+                  "title": "Ronnie",
+                  "length": 320586
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "98f69ea0-66e0-4ab4-beea-dd90d1fdc5b7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "65c84608-d647-35f0-9963-4b29add17171",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "73b8016a-ef16-331b-9ec5-7c19d98c8b59",
+                  "number": "D2",
+                  "title": "Ronnie",
+                  "length": 317000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "6e077ca1-ed82-4499-81e3-0cc0c19e13d9",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7e96105b-50a1-377b-821a-4dbac6bb94df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "36193e47-ebd0-4f4f-b14d-548ecb64cf10",
+                  "number": "13",
+                  "title": "Ronnie",
+                  "length": 317173
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400013",
+        "QMKHM1900287",
+        "USEVI9692313",
+        "USEV19692313",
+        "GBAMC9600019"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 6,
+          "name": "alternative rock"
+        },
+        {
+          "count": 8,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "thrash metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 4,
+          "name": "hard rock"
+        },
+        {
+          "count": 2,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "speed metal"
+        },
+        {
+          "count": 0,
+          "name": "trash metal"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "7f5b174c-df40-4d81-9232-927bea652ca0",
+      "score": 91,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie (demo)",
+      "length": 476331,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dbb3a3d2-28f7-4217-b313-9994ed92e28f",
+                  "number": "28",
+                  "title": "Ronnie (demo)",
+                  "length": 476333
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 27
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ccb66e61-e093-47c9-9ef0-71b0c4ef97c5",
+                  "number": "28",
+                  "title": "Ronnie (demo)",
+                  "length": 476331
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 27
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "539afddd-9954-4b2b-9936-f9518f3b709d",
+                  "number": "28",
+                  "title": "Ronnie (demo)",
+                  "length": 476331
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 27
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400061"
+      ]
+    },
+    {
+      "id": "07d7efb7-be7d-4b1f-a4fd-7ab6e8cd1efa",
+      "score": 91,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie (jam)",
+      "length": 125462,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0b68bb25-7ac4-44ae-b5ce-c110a5ffb57e",
+                  "number": "18",
+                  "title": "Ronnie (jam)",
+                  "length": 125466
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "36b9847f-ab3d-41cb-a33d-8d6bff5ba9fb",
+                  "number": "18",
+                  "title": "Ronnie - Jam",
+                  "length": 125462
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "79814c26-0b6b-415b-bb78-6df1d391cf80",
+                  "number": "18",
+                  "title": "Ronnie - Jam",
+                  "length": 125462
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 17
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400051"
+      ]
+    },
+    {
+      "id": "9373750c-e8d6-455e-a90b-ae6e81ca0cac",
+      "score": 91,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie (jam)",
+      "length": 55000,
+      "disambiguation": "live, 1996-06-10: Slims Club, San Francisco, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "82a4c49e-153f-471c-8703-b377c6450357",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "1996-06-10: Slims Club, San Francisco, CA, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4094c220-5952-3798-b97b-ed696204db74",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1996-06-10: Slims Club, San Francisco, CA, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "49ebc123-82f9-3f5e-806f-5bd354243996",
+              "position": 1,
+              "track": [
+                {
+                  "id": "417e0fd3-548d-3c34-a597-ee7efecce0a9",
+                  "number": "14",
+                  "title": "Ronnie (jam)",
+                  "length": 55000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad95d47e-81cd-4fc5-89cc-3f38524cadba",
+      "score": 85,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie Rising Medley",
+      "length": 544166,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "317f81fa-1658-46fa-a1ba-9ad2d5e876e5",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Rare Tracks & Covers",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ffb4ed0c-330b-4064-9fa6-81742fc1b1fe",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rare Tracks & Covers",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 48,
+          "media": [
+            {
+              "id": "8abe06c3-5d63-3f61-9fb0-8f178183bbc6",
+              "position": 1,
+              "format": "USB Flash Drive",
+              "track": [
+                {
+                  "id": "787cd7e9-a314-4aee-aceb-a4eed054d5c1",
+                  "number": "6",
+                  "title": "Ronnie Rising Medley",
+                  "length": 544166
+                }
+              ],
+              "track-count": 48,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3ec7875c-7e10-446e-a8e3-16a7d09707ae",
+      "score": 80,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronny (\"Ronnie\" take 16)",
+      "length": 330268,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "deec9c1a-c00c-3a2c-af3e-682be88fb2e1",
+              "position": 10,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7350e7f3-6d33-43c2-b1c4-9a498ce0f3dc",
+                  "number": "7",
+                  "title": "Ronny (\"Ronnie\" take 16)",
+                  "length": 330266
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e51b58e5-4d2c-49ac-ab50-1cdcf9b31ee1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "17f33843-9ab1-44c7-b139-65c4b0c79960",
+                  "number": "7",
+                  "title": "Ronny (\u201cRonnie\u201d take 16)",
+                  "length": 330268
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "ed486ab9-db3c-471e-8957-1c9d73bdf6c1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "94cc9913-19e8-492d-806f-b5afac1cb3b0",
+                  "number": "7",
+                  "title": "Ronny (\u201cRonnie\u201d take 16)",
+                  "length": 330268
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400081"
+      ]
+    },
+    {
+      "id": "81d72f84-1557-4572-8f84-497bf16ee941",
+      "score": 80,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie (instrumental rough mix)",
+      "length": 324448,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "00e6543a-d4cf-390a-9529-8f33abfca919",
+              "position": 12,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "94af5a7e-7816-42c2-9f26-88a19ed6e27b",
+                  "number": "6",
+                  "title": "Ronnie (instrumental rough mix)",
+                  "length": 324453
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "78719221-0e50-4c39-9b9e-d31956532918",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c81c5d7c-9007-4ba1-824b-055d4a7ece19",
+                  "number": "6",
+                  "title": "Ronnie (instrumental Rough mix)",
+                  "length": 324448
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "99da2408-f834-465e-bd74-0a89693701db",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "740ade95-d77a-49c5-b856-a8280bca6f7f",
+                  "number": "6",
+                  "title": "Ronnie (instrumental Rough mix)",
+                  "length": 324448
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400107"
+      ]
+    },
+    {
+      "id": "1cee257e-38cf-42d2-9ebb-80b6115d3af9",
+      "score": 76,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie (vocal comp rough mix)",
+      "length": 329308,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "00e6543a-d4cf-390a-9529-8f33abfca919",
+              "position": 12,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "27ea690b-cb3a-4f25-b17a-5df204e11be3",
+                  "number": "10",
+                  "title": "Ronnie (vocal comp rough mix)",
+                  "length": 329306
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "78719221-0e50-4c39-9b9e-d31956532918",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f041213f-9b5d-4517-a72a-b9a62888a168",
+                  "number": "10",
+                  "title": "Ronnie (vocal Comp Rough mix)",
+                  "length": 329308
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "99da2408-f834-465e-bd74-0a89693701db",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f5cbd0ac-e4ea-45e1-8d7c-680b59220ffd",
+                  "number": "10",
+                  "title": "Ronnie (vocal Comp Rough mix)",
+                  "length": 329308
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400111"
+      ]
+    },
+    {
+      "id": "aaf5c17e-a17d-4d8d-9ad5-f5cdea334750",
+      "score": 62,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "The Blue and the Gray (And the Red) (\"Ronnie\" vocal idea)",
+      "length": 476493,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d6c9ba98-6281-3eb6-8d86-dfd7f871e6b2",
+              "position": 9,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e032cb5-24df-4718-b905-7d32468d38d0",
+                  "number": "8",
+                  "title": "The Blue and the Gray (And the Red) (\"Ronnie\" vocal idea)",
+                  "length": 476493
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "c48f50f1-316d-4df0-bce7-cb798fa02290",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5d981941-57d2-4550-9264-e581f811f033",
+                  "number": "13",
+                  "title": "The Blue and the Gray (and the Red) (\u201cRonnie\u201d vocal idea)",
+                  "length": 476493
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "16db5912-dfc9-4f24-be48-7a2ecc154f0f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d79d21dd-ac5b-49f1-a191-753ee934a40f",
+                  "number": "8",
+                  "title": "The Blue and the Gray (And the Red) (\u201cRonnie\u201d vocal idea)",
+                  "length": 476496
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "77364746-4bfb-434d-8a25-12d0166bb78c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "191f170a-fe4d-40f3-952f-cd2ee3120c59",
+                  "number": "13",
+                  "title": "The Blue and the Gray (and the Red) (\u201cRonnie\u201d vocal idea)",
+                  "length": 476493
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "8cc3f647-71af-4c92-afc0-d166e7eab26f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "258592ce-b5a2-405a-a140-892b0bb7c78d",
+                  "number": "8",
+                  "title": "The Blue and the Gray (And the Red) (\u201cRonnie\u201d vocal idea)",
+                  "length": 476496
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400070"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "5e175b3c-04ba-4b90-ab7e-c23c30094ffb",
+      "score": 56,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+      "length": 543146,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2014-03-14",
+      "releases": [
+        {
+          "id": "5ecca912-3af2-4399-aa7b-34b7b8adb33c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-08",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016-11-08",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "0837cfb7-0ce4-4b8e-86f2-de2a66de1be2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6742c522-2598-4274-9e7b-7bee59c52bb7",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "04775096-e607-4e2d-a238-bed89ed81174",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "5b079b69-2a5e-3f73-b064-e69c2eb460f0",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "adc31571-0024-4f19-b41f-decb43354183",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0163bb29-a448-4b41-8d22-c149aa495b86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "0c2cb3c9-7e30-3671-9b01-35d798c5aace",
+              "position": 3,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "bec29eb6-2e9a-4fb4-8479-93ed681d429e",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b8d17079-206f-4b41-934d-ca4ceb489f7c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "a3871654-f7fb-3d59-92b3-5ec9402b4e32",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0e1e2163-5ba8-4fc2-880a-f572089cdc13",
+                  "number": "1",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8589afd4-b47e-47ee-85f0-6f5baa3e06e0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Ronnie Rising",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3fabf2e-3ff3-4bdc-8784-02745a20c819",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Ronnie Rising",
+            "primary-type": "Single"
+          },
+          "date": "2014-03-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2014-03-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "00233102-211c-306f-911a-71f61f9cfcb1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e8129302-1bfe-4852-9a28-e05aa45fdef8",
+                  "number": "1",
+                  "title": "Ronnie Rising",
+                  "length": 544000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fc9b02ad-a7ab-4ef6-8f2b-29647b1276c2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "date": "2014-03-28",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-03-28",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "fe7827d8-e0a8-3327-975c-c84f83e79c5e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3dff96fc-dd04-407f-90a6-06dea952d4c1",
+                  "number": "13",
+                  "title": "Ronnie Rising Medley (feat. A Light in the Black, Tarot Woman, Stargazer & Kill the King)",
+                  "length": 544000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "ce6e8b8e-e83d-4148-a715-28a5e45e57cc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "4a54cec1-e0ed-3549-bbfd-b80a02ab7562",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9546981d-e790-49ea-a0a0-cfca591e2b01",
+                  "number": "13",
+                  "title": "Ronnie Rising (medley)"
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "ba28f8dd-a5e1-413b-8f56-53368062edf2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "date": "2014-03-26",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2014-03-26",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "41d59d62-a290-34df-ab2d-a61b4340abae",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2900287c-440c-4591-9275-75f78748152d",
+                  "number": "13",
+                  "title": "Ronnie Rising Medley",
+                  "length": 544120
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "eee925f4-9dd4-4b50-b696-ffd235b1badb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "a1ff9d80-e2e6-3563-9acb-7ce2b14270fe",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "106fb47d-fad6-44bf-b813-780a5c30e64f",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "5d0d7ded-2eb5-4134-a9f3-6f904488d3de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "3ffc0455-3a02-306f-b18f-bee03ab37b9e",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f4467454-dc37-413a-96f6-008f2161c15e",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+                  "length": 543147
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "34118200-069c-4dcb-b01b-56a04ed4ca2f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe edition, Metallica store",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "bf0d0e62-f95f-37f3-b550-298be5a94427",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "27685548-c857-4316-9d8d-4ff4d41a5919",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 544000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b7717790-b657-4d11-8472-95699f3edb3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "74381b99-36da-31ac-a524-083a401f52a0",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5bf5587c-4880-4b70-aca4-3a19b00fc23a",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d13d317b-e471-4172-b0a2-a7f0539ebfd4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2016-11",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "6238c866-3d15-30da-a6f4-36f7cd007cbc",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a7cb6c36-5a55-4054-ae63-65bc5a3be812",
+                  "number": "2",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "cfe1dd40-8304-46cb-9ad9-24659a63e568",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Hardwired\u2026 to Self\u2010Destruct",
+          "status": "Official",
+          "disambiguation": "deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55d8ab42-990b-4c94-93c8-9ca7927b5fc0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hardwired\u2026 to Self\u2010Destruct",
+            "primary-type": "Album"
+          },
+          "date": "2016-11-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016-11-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "22686c53-5157-3932-adac-f33b11b9018c",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "77e6410a-f440-4bd5-9a4e-a60746781775",
+                  "number": "1",
+                  "title": "Ronnie Rising Medley",
+                  "length": 543146
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "78872155-079f-46e4-94e5-c875ccca2fec",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "date": "2014-03-14",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2014-03-14",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fd631d7b-3433-33c2-a0db-904eb1eeca3b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d1f97c11-ed82-4a79-9bdb-469bbc3fcd8e",
+                  "number": "13",
+                  "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+                  "length": 544120
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "7deb22c4-a93c-4692-ac7e-02d66e189eb7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "date": "2014",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c0a05c2e-b42a-312a-9efd-11afd47044b6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "816f56bb-60fc-4148-bcaa-ea6cbec20813",
+                  "number": "13",
+                  "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+                  "length": 544120
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "4991d089-ccad-4c2b-86b3-8f4c90eebcbc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Ronnie James Dio: This Is Your Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e981181-c27f-4e49-8ede-9e336f6f5ee9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ronnie James Dio: This Is Your Life",
+            "primary-type": "Album"
+          },
+          "date": "2014-04-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2014-04-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "822fbdf4-a3aa-3ffa-a984-2e97af5dbb63",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "887345c1-b1dc-44cb-8405-f78231697fd8",
+                  "number": "13",
+                  "title": "Ronnie Rising Medley: A Light in the Black / Tarot Woman / Stargazer / Kill the King",
+                  "length": 544000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRH11400032",
+        "QMKHM1600390"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "metal"
+        }
+      ]
+    }
+  ]
+}

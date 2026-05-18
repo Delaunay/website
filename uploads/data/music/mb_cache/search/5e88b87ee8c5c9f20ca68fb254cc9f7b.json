@@ -1,0 +1,81 @@
+{
+  "created": "2026-05-18T06:31:43.179Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "09d4e55c-48d8-4822-a74a-7a9393ee2115",
+      "score": 100,
+      "artist-credit-id": "6596756f-df7c-3693-9370-258f511a8e31",
+      "title": "17. The Winning Line (Acoustic)",
+      "length": 154000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Joachim Pastor",
+          "artist": {
+            "id": "d5e6dad5-b01b-4f4e-8642-ea79a69a6ebc",
+            "name": "Joachim Pastor",
+            "sort-name": "Pastor, Joachim"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "b8a2f3c0-c21d-46e5-ab2a-bed97f6bba6e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "The Winning Line",
+          "status": "Official",
+          "release-group": {
+            "id": "d6e61af5-9929-4033-a815-01217f92301a",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Winning Line",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "6c6bec0f-887b-3efd-96f5-c9ee0e21d463",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "175056cc-6f01-4aea-9edc-23c400bc8f7e",
+                  "number": "17",
+                  "title": "The Winning Line (Acoustic)",
+                  "length": 154000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

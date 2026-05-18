@@ -1,0 +1,123 @@
+{
+  "created": "2026-05-18T07:20:45.813Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "155d2d24-ce9f-465f-8931-3e8820a0a724",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Rock 'n' Roll Junkie",
+      "length": 246000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-04-22",
+      "releases": [
+        {
+          "id": "f4fcba92-4040-4af1-b899-eba20e0700dc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Universal Monsters",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ab941641-9052-43cd-93d3-543541a78f65",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Universal Monsters",
+            "primary-type": "Album"
+          },
+          "date": "2016-04-22",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2016-04-22",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "605bd983-4b36-3822-810e-7a3ce44665ea",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1448b76b-3453-4965-94b5-f388690e48e3",
+                  "number": "11",
+                  "title": "Rock 'n' Roll Junkie",
+                  "length": 246000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "gothic"
+        },
+        {
+          "count": 1,
+          "name": "gothic rock"
+        },
+        {
+          "count": 1,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "created": "2026-05-18T07:02:10.993Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "192e9403-428f-477d-b29e-fc72c8dfbf14",
+      "score": 100,
+      "artist-credit-id": "a10b4617-cf4a-316c-8f17-f4d3517ebf12",
+      "title": "En dag i varuhuset",
+      "length": 240000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "St\u00e5\u00e5lf\u00e5gel",
+          "artist": {
+            "id": "dc075be0-c3b8-46a1-a90b-c9d799026fab",
+            "name": "St\u00e5\u00e5lf\u00e5gel",
+            "sort-name": "St\u00e5\u00e5lf\u00e5gel",
+            "aliases": [
+              {
+                "sort-name": "St\u00e5lf\u00e5gel",
+                "name": "St\u00e5lf\u00e5gel",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1994",
+      "releases": [
+        {
+          "id": "5f467229-ccf8-4ff6-ae1d-e2cd5616e0c7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a10b4617-cf4a-316c-8f17-f4d3517ebf12",
+          "count": 1,
+          "title": "St\u00e5\u00e5lf\u00e5gel",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "St\u00e5\u00e5lf\u00e5gel",
+              "artist": {
+                "id": "dc075be0-c3b8-46a1-a90b-c9d799026fab",
+                "name": "St\u00e5\u00e5lf\u00e5gel",
+                "sort-name": "St\u00e5\u00e5lf\u00e5gel"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c786bc58-72d2-4a88-8e23-c9ce6ddd1333",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "St\u00e5\u00e5lf\u00e5gel",
+            "primary-type": "Album"
+          },
+          "date": "1994",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1994",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "f4e704cb-9374-34a9-84f1-88a1ebfb2f21",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2a8585d1-d7ac-48bd-a83e-117e81dcdf92",
+                  "number": "3",
+                  "title": "En dag i varuhuset",
+                  "length": 240000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5cbbc80f-ac57-4af9-a157-247fd265248d",
+      "score": 100,
+      "artist-credit-id": "a10b4617-cf4a-316c-8f17-f4d3517ebf12",
+      "title": "En dag i varuhuset",
+      "length": 241053,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "St\u00e5\u00e5lf\u00e5gel",
+          "artist": {
+            "id": "dc075be0-c3b8-46a1-a90b-c9d799026fab",
+            "name": "St\u00e5\u00e5lf\u00e5gel",
+            "sort-name": "St\u00e5\u00e5lf\u00e5gel",
+            "aliases": [
+              {
+                "sort-name": "St\u00e5lf\u00e5gel",
+                "name": "St\u00e5lf\u00e5gel",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "857a1712-d258-4488-9906-3c84daccc6e6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Svensk postpunk",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fd54902a-7152-421e-9f93-680029e2f59d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Svensk postpunk",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "9f1de806-b7e1-3089-949c-6388333bddd2",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab747ac1-7aae-39c4-903e-d364f38814b1",
+                  "number": "10",
+                  "title": "En dag i varuhuset",
+                  "length": 241053
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        }
+      ]
+    },
+    {
+      "id": "4c0846e9-4fe1-4131-bfe0-3042835656c7",
+      "score": 100,
+      "artist-credit-id": "a10b4617-cf4a-316c-8f17-f4d3517ebf12",
+      "title": "En dag i varuhuset",
+      "length": 239000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "St\u00e5\u00e5lf\u00e5gel",
+          "artist": {
+            "id": "dc075be0-c3b8-46a1-a90b-c9d799026fab",
+            "name": "St\u00e5\u00e5lf\u00e5gel",
+            "sort-name": "St\u00e5\u00e5lf\u00e5gel",
+            "aliases": [
+              {
+                "sort-name": "St\u00e5lf\u00e5gel",
+                "name": "St\u00e5lf\u00e5gel",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1980",
+      "releases": [
+        {
+          "id": "84fa476b-c74d-4474-8ee9-6d72223f7db5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Ny v\u00e5g 78-82",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0ded2f4-2698-3412-9c82-2fc1910400ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ny v\u00e5g 78-82",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1993-08-13",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1993-08-13",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 49,
+          "media": [
+            {
+              "id": "c1f09a0a-6eeb-3ee1-911f-edafb76bbf58",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8b6de923-ded8-3ea5-a624-5ac814475cf7",
+                  "number": "8",
+                  "title": "En dag i varuhuset",
+                  "length": 241093
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "06131e2a-4831-48de-a4c2-0e4464cab0a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a10b4617-cf4a-316c-8f17-f4d3517ebf12",
+          "count": 1,
+          "title": "St\u00e5\u00e5lf\u00e5gel",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "St\u00e5\u00e5lf\u00e5gel",
+              "artist": {
+                "id": "dc075be0-c3b8-46a1-a90b-c9d799026fab",
+                "name": "St\u00e5\u00e5lf\u00e5gel",
+                "sort-name": "St\u00e5\u00e5lf\u00e5gel"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c786bc58-72d2-4a88-8e23-c9ce6ddd1333",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "St\u00e5\u00e5lf\u00e5gel",
+            "primary-type": "Album"
+          },
+          "date": "1980",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1980",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "dfba9139-f998-3e80-8c7c-4ebc473618ee",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "7f4822d1-ca3b-4602-8b59-d764cdb9c245",
+                  "number": "A3",
+                  "title": "En dag i varuhuset",
+                  "length": 239000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        }
+      ]
+    }
+  ]
+}

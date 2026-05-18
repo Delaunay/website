@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T07:13:21.924Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9976b43b-3fc7-4ee7-8a94-879a7abebe02",
+      "score": 100,
+      "artist-credit-id": "d5e74b32-1cb1-343b-ac2c-0e0d36fa5190",
+      "title": "Alles geht vorbei",
+      "length": 202000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kaffkiez",
+          "artist": {
+            "id": "e0d27097-0383-46d1-ac10-73b60a69d7fa",
+            "name": "Kaffkiez",
+            "sort-name": "Kaffkiez",
+            "disambiguation": "Indie Rock"
+          }
+        }
+      ],
+      "first-release-date": "2021-12-03",
+      "releases": [
+        {
+          "id": "a631d95a-74ef-4c3c-8222-4148fa60e869",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "cf58a5be-37ea-3573-9aa7-783f1240b2d7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6a48d0c0-5b02-4ff9-b147-8fcfc5ad6df6",
+                  "number": "10",
+                  "title": "Alles geht vorbei",
+                  "length": 202000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "e2398740-0e56-4b28-8ccd-75d0ccf43b18",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles Geht Vorbei",
+          "status": "Official",
+          "release-group": {
+            "id": "e0eac455-2202-4058-9640-c73e73d1ea6b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Alles Geht Vorbei",
+            "primary-type": "Single"
+          },
+          "date": "2021-12-03",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-12-03",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "9b72abc5-9543-36f6-9105-72f97e24c181",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "181988b8-82fa-4272-b6d0-f789d9587dc3",
+                  "number": "1",
+                  "title": "Alles Geht Vorbei",
+                  "length": 202000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9441a1cf-9476-4e2a-a315-65a926bc53c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "eecc145c-dae6-3896-bb32-695f7be828a7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f609cea0-8a23-43a2-9864-9a0287e6842e",
+                  "number": "10",
+                  "title": "Alles geht vorbei",
+                  "length": 202000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

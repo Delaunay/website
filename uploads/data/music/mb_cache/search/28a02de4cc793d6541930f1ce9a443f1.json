@@ -1,0 +1,118 @@
+{
+  "created": "2026-05-18T07:37:25.328Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7fe27223-afef-4339-9bbb-a310186f1207",
+      "score": 100,
+      "artist-credit-id": "e86199c3-1c67-42af-80af-e47851cc9904",
+      "title": "Mafia Style (D-Tune mix)",
+      "length": 140533,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " X ",
+          "name": "D-Tune",
+          "artist": {
+            "id": "d2c6488c-c366-4162-999b-de837ddaf103",
+            "name": "D-Tune",
+            "sort-name": "D-Tune",
+            "disambiguation": "Philip Wiese",
+            "aliases": [
+              {
+                "sort-name": "Wiese, Philip",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Philip Wiese",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "H.U.P.D.",
+          "artist": {
+            "id": "f63fce55-05ac-47da-abaa-6fc69547de8f",
+            "name": "H.U.P.D.",
+            "sort-name": "H.U.P.D."
+          }
+        }
+      ],
+      "first-release-date": "2022-08-05",
+      "releases": [
+        {
+          "id": "20d8afff-3c5c-4c05-bbdc-6a1b2655dfe7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Technobase.FM Volume 34",
+          "status": "Official",
+          "disambiguation": "mixed",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "05fec6d4-5a49-487c-894e-066d64e7db55",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Technobase.FM Volume 34",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "DJ-mix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+            ]
+          },
+          "date": "2022-08-05",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-08-05",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 75,
+          "media": [
+            {
+              "id": "fab3bc55-506f-385f-b7d3-5172a1ed65fb",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "92f0999f-e615-4ec0-908b-aadbca85da5f",
+                  "number": "14",
+                  "title": "Mafia Style (D-Tune mix)",
+                  "length": 140533
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T05:54:35.954Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "a1aa07e8-120a-4ded-b539-23431602a4a2",
+      "score": 100,
+      "artist-credit-id": "ac06ab2b-4058-357f-94ac-1e1362c5cd41",
+      "title": "Boogie",
+      "length": 217931,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wet Dreams",
+          "artist": {
+            "id": "6d5c947a-f78c-4580-920d-853097ecab35",
+            "name": "Wet Dreams",
+            "sort-name": "Dreams, Wet",
+            "disambiguation": "Norwegian punk & power pop band"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "177e7a70-07e8-45f7-863d-e173e1cb83fe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Wet Dreams",
+          "status": "Official",
+          "release-group": {
+            "id": "37630519-d409-4a23-9cc9-c619922d0e74",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Wet Dreams",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "dad35600-25ee-3e33-bfea-46e81ea00018",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6409753f-0b88-4b5e-b708-0709f512a15e",
+                  "number": "7",
+                  "title": "Boogie",
+                  "length": 217931
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

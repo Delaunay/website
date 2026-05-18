@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:24:48.642Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "a784eace-ea70-42a5-bf4f-2ea6c09b4aa1",
+      "score": 100,
+      "artist-credit-id": "901f5b2b-665c-3000-b099-4557cbf75b83",
+      "title": "Lovember",
+      "length": 298000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sa Pa",
+          "artist": {
+            "id": "b4b51a9d-38c6-4f3e-999e-4e92d1015a03",
+            "name": "Sa Pa",
+            "sort-name": "Sa Pa"
+          }
+        }
+      ],
+      "first-release-date": "2022-06-22",
+      "releases": [
+        {
+          "id": "827e4b0e-d395-4fb2-bd2c-9c043cfcce01",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Borders of the Sun",
+          "status": "Official",
+          "release-group": {
+            "id": "75ff5205-2b2d-4299-ae18-0e2fc3441943",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Borders of the Sun",
+            "primary-type": "Album"
+          },
+          "date": "2022-06-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-06-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "95ea98fe-fc72-3215-9393-4e4545e321fa",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "24dfc3ed-1299-42a8-9e4e-76d63b16c3b8",
+                  "number": "2",
+                  "title": "Lovember",
+                  "length": 298000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

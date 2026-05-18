@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T05:50:28.154Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "522ef059-0176-4ff6-acd7-71af2f59e22d",
+      "score": 100,
+      "artist-credit-id": "5196ffac-7328-32b9-ab4d-eb4186642de1",
+      "title": "Fire",
+      "length": 324000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Navarone",
+          "artist": {
+            "id": "478db734-a2f3-43cc-b8c2-59cb85d967fb",
+            "name": "Navarone",
+            "sort-name": "Navarone",
+            "disambiguation": "Dutch alternative rock band"
+          }
+        }
+      ],
+      "first-release-date": "2018-11-22",
+      "releases": [
+        {
+          "id": "00900b5b-f3c8-486a-ae44-30b840c25aa0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Salvo",
+          "status": "Official",
+          "release-group": {
+            "id": "d7ec0b22-2aba-4414-ab27-a0efaaa7f29b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Salvo",
+            "primary-type": "Album"
+          },
+          "date": "2018-11-22",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2018-11-22",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "ca97e2c4-b387-376f-be5c-c778da8da34e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f7a8f85-ed26-4e35-93b7-f139ae119690",
+                  "number": "7",
+                  "title": "Fire",
+                  "length": 324000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

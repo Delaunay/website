@@ -1,0 +1,1326 @@
+{
+  "created": "2026-05-18T07:44:57.502Z",
+  "count": 6,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1eb2f316-fa83-4378-973c-730df5b6c976",
+      "score": 100,
+      "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+      "title": "Kitchen Sink",
+      "length": 334000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "twenty one pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-07-08",
+      "releases": [
+        {
+          "id": "fb618be2-a439-41ab-bd4f-dca2b1149254",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Vessel",
+          "status": "Official",
+          "disambiguation": "Limited Edition Box Set",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "71304780-1d90-4c34-bf5b-84935d8348bc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vessel",
+            "primary-type": "Album"
+          },
+          "date": "2023-02-17",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2023-02-17",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "bd3f9b10-25e3-3e11-938c-b09e1cc4a61f",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "cd6f3d14-6521-4a5c-9424-cc1d348bbeeb",
+                  "number": "D3",
+                  "title": "Kitchen Sink",
+                  "length": 335000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "77f25b0b-bb51-44fb-b7b5-9c5c391769dd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Vessel",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "71304780-1d90-4c34-bf5b-84935d8348bc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vessel",
+            "primary-type": "Album"
+          },
+          "date": "2013-09-02",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-09-02",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "4cdbd296-e268-3447-b0cc-7050a0c24444",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3edcd863-2d00-4a8c-bbdf-fc9a107ad326",
+                  "number": "14",
+                  "title": "Kitchen Sink",
+                  "length": 331840
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "9acdb5ee-1afe-4182-8081-99d3276ec2d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Regional at Best",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "2011",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "b9704326-196c-3e00-8d91-f823f43d0255",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7de1c1e3-a4e3-4217-979a-6f9faa883fb6",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 330293
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "2a92ad7e-c570-461e-8c15-effc66ee3a32",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Regional at Best",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "2011",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "e4140d6e-f83c-3aa9-a1ea-5a74011d5e23",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "474b01f6-18e3-4a0e-889c-b70e1ef437c7",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 334000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f4a3f76f-959e-46e9-bfdb-59d8ba3066e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Regional at Best",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "2011-07-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011-07-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "2ffb3189-b0b6-387d-b657-d94526716383",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "63eaa12c-69f2-3438-a735-ec770f6727c4",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 334000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "ba3fb069-8d77-48a7-916e-9d6890464953",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 2,
+          "title": "Regional at Best",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "2011",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "d4147cef-85f8-3024-b2a1-df10820a479c",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "f1a2cba8-4d3e-49e8-b8d7-18170d5be861",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 334000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "c0ec6c6d-449e-4215-bd28-99489ea9dac1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Vessel",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "71304780-1d90-4c34-bf5b-84935d8348bc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vessel",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "37a82c11-e8e7-3608-b587-885bae73102f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9d5d6fcf-2105-457d-8476-aff3acda324f",
+                  "number": "14",
+                  "title": "Kitchen Sink",
+                  "length": 331840
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "8a25c8ed-3d16-48f7-a099-895fb163fc31",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Vessel",
+          "status": "Official",
+          "disambiguation": "bonus tracks version",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "71304780-1d90-4c34-bf5b-84935d8348bc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vessel",
+            "primary-type": "Album"
+          },
+          "date": "2013-01-04",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-01-04",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c971c60f-6577-3053-9c3e-153f828e7dc6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c4455565-8e51-47ed-83ce-a802a0f7cd87",
+                  "number": "14",
+                  "title": "Kitchen Sink",
+                  "length": 334000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USAT21302052"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        },
+        {
+          "count": 1,
+          "name": "indietronica"
+        },
+        {
+          "count": 1,
+          "name": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "c14ae73f-8319-4c0e-979a-99cfd453a5fe",
+      "score": 100,
+      "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+      "title": "Kitchen Sink",
+      "length": 334000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "twenty one pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-07-08",
+      "releases": [
+        {
+          "id": "f27accee-bacb-498c-8495-a6c498e2fbbb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "Regional At Best",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "2011-07-08",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-07-08",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6c51904c-961b-3333-91d5-3fca288608ce",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e4f4492b-f051-4334-88c7-3709524c9553",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 334000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USHM21159146"
+      ]
+    },
+    {
+      "id": "2ba996ac-f46f-47a5-b82b-63d383a51b59",
+      "score": 100,
+      "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+      "title": "Kitchen Sink",
+      "length": 335832,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "twenty one pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-04-26",
+      "releases": [
+        {
+          "id": "d269110d-cd85-4bf6-8f8a-6c9390590de3",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "2013-04-26: Lifestyle Communities Pavilion, Columbus, OH, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1f53c782-71ae-4be6-8d68-94a3274000b0",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "2013-04-26: Lifestyle Communities Pavilion, Columbus, OH, USA",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-04-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-04-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "d6f16b3e-2d1d-42ca-9c22-88f14abb6264",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dcd3f06e-00f8-41c9-ae3e-3b5fdbe3776d",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 335832
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "2a87442a-3934-4181-8c55-af23ed51632d",
+      "score": 100,
+      "artist-credit-id": "d4239e83-2712-3661-be4a-e63e5ee30748",
+      "title": "Kitchen Sink",
+      "length": 324000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Twenty One Pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "f0e80cae-9e72-4cc9-b3db-5968e6f57cc4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "d4239e83-2712-3661-be4a-e63e5ee30748",
+          "count": 1,
+          "title": "Regional At Best",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Twenty One Pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c64314d9-f071-4632-bd96-af53730ef0d0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Regional at Best",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c60b4182-6262-3ffa-a6bf-d91c65ca2bd7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "12fdeea1-669f-4f55-beef-6384432001ff",
+                  "number": "8",
+                  "title": "Kitchen Sink",
+                  "length": 324000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4ac3ccb-5609-4030-8322-e1fb09de954f",
+      "score": 100,
+      "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+      "title": "Kitchen Sink",
+      "length": 302471,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "twenty one pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-07-08",
+      "releases": [
+        {
+          "id": "509c67fe-f4d6-48ac-bba8-b7ad0a18ab36",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "23b715cc-4f91-34d8-93f7-c219952d8775",
+          "count": 1,
+          "title": "2011-07-08: New Albany High School, Ohio, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "twenty one pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7f20db3-d6b7-4ff5-be47-a31bd0c86db9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "2011-07-08: New Albany High School, Ohio, USA",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Live",
+              "Field recording"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+              "dbb7cf7d-47c6-42d1-a621-ab84849bc7b7"
+            ]
+          },
+          "date": "2011-07-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011-07-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "8f512add-4de2-42dd-ac3a-b3d599d7e152",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "297c0160-4dbc-4ac5-8e01-34880b1f7543",
+                  "number": "2",
+                  "title": "Kitchen Sink",
+                  "length": 302471
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "reggae"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "rap rock"
+        },
+        {
+          "count": 1,
+          "name": "unknown"
+        }
+      ]
+    },
+    {
+      "id": "99e8055e-cc6d-43ea-9ddb-5f3aae06814e",
+      "score": 85,
+      "artist-credit-id": "d4239e83-2712-3661-be4a-e63e5ee30748",
+      "title": "Kitchen Sink - Bonus Track",
+      "length": 334000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Twenty One Pilots",
+          "artist": {
+            "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+            "name": "twenty one pilots",
+            "sort-name": "twenty one pilots",
+            "aliases": [
+              {
+                "sort-name": "twenty \u00f8ne pil\u00f8ts",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "twenty \u00f8ne pil\u00f8ts",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "21 Pilots",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "21 Pilots",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "twenty | one | pilots",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "twenty | one | pilots",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "TWENTY \u00d8NE PIL\u00d8TS",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-01-08",
+      "releases": [
+        {
+          "id": "d9e55f4e-4ac8-4092-841a-126d00375c8c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d4239e83-2712-3661-be4a-e63e5ee30748",
+          "count": 1,
+          "title": "Vessel (with Bonus Tracks)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Twenty One Pilots",
+              "artist": {
+                "id": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+                "name": "twenty one pilots",
+                "sort-name": "twenty one pilots"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "71304780-1d90-4c34-bf5b-84935d8348bc",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Vessel",
+            "primary-type": "Album"
+          },
+          "date": "2013-01-08",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            },
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+                "name": "Luxembourg",
+                "sort-name": "Luxembourg",
+                "iso-3166-1-codes": [
+                  "LU"
+                ]
+              }
+            },
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            },
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2013-01-08",
+              "area": {
+                "id": "53ccc8be-1551-3e28-965b-7f95465f2093",
+                "name": "Cura\u00e7ao",
+                "sort-name": "Cura\u00e7ao",
+                "iso-3166-1-codes": [
+                  "CW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "6e328612-0bf5-4d80-b900-85d48ca763e9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8e23e51f-7ec4-4251-a78c-85d9f18e64c3",
+                  "number": "14",
+                  "title": "Kitchen Sink - Bonus Track",
+                  "length": 334000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

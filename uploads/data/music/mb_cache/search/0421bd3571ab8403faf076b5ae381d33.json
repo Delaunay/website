@@ -1,0 +1,58 @@
+{
+  "created": "2026-05-18T07:40:17.035Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5c4f8287-a9a7-44ee-b6ec-9059327e3186",
+      "score": 100,
+      "artist-credit-id": "f196f77f-7fe0-351f-84ed-c03225283c81",
+      "title": "Maybe Baby",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Alli Neumann",
+          "artist": {
+            "id": "a2e7d9e7-f675-431a-802a-2778e1462964",
+            "name": "Alli Neumann",
+            "sort-name": "Alli Neumann"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-22",
+      "releases": [
+        {
+          "id": "757f315d-ca8f-49d1-894a-4f4b6b403df3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Monster",
+          "status": "Official",
+          "release-group": {
+            "id": "194dd313-32fd-4628-a92b-04adcbb00bd1",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Monster",
+            "primary-type": "EP"
+          },
+          "track-count": 5,
+          "media": [
+            {
+              "id": "b8b077b9-52fe-3233-aa26-6c35b94bb249",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "adc36b60-7004-4d14-b569-c21574b1cd4c",
+                  "number": "5",
+                  "title": "Maybe Baby"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

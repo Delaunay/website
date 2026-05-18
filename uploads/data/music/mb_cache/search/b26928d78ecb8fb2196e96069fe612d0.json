@@ -1,0 +1,87 @@
+{
+  "created": "2026-05-18T06:21:23.768Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "dd17b36e-d98e-4834-978c-02f1a39c5abc",
+      "score": 100,
+      "artist-credit-id": "e4da4625-5d3d-4220-baf2-6ecc8ce97cda",
+      "title": "Vecta",
+      "length": 376000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "LOIF",
+          "artist": {
+            "id": "607de0fa-0c79-4b33-a00b-5a0b45bb041b",
+            "name": "LOIF",
+            "sort-name": "LOIF"
+          }
+        }
+      ],
+      "first-release-date": "2021-07-30",
+      "releases": [
+        {
+          "id": "5a679aed-54b9-4f0c-85ac-4a27dcea2113",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "INTL.PDCOMP001",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4b83a07-371b-414d-98b1-119275a46fd0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "INTL.PDCOMP001",
+            "primary-type": "Album"
+          },
+          "date": "2021-07-30",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-07-30",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "14a7a599-65b3-3d1c-9a52-03d43958d31b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "09323112-a11d-4685-a76e-950a3e1812d6",
+                  "number": "7",
+                  "title": "Vecta",
+                  "length": 376000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

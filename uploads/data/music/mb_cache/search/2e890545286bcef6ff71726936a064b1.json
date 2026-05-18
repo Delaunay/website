@@ -1,0 +1,183 @@
+{
+  "created": "2026-05-18T06:53:05.344Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d744fd5a-29d6-4311-bd02-0d4a3530261e",
+      "score": 100,
+      "artist-credit-id": "01a8f87b-7456-3b98-a9a4-fb11b7c4276d",
+      "title": "Cowboy",
+      "length": 155000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "NEIKED",
+          "artist": {
+            "id": "45d2e2d4-a8eb-402b-9a49-2cc117232feb",
+            "name": "NEIKED",
+            "sort-name": "NEIKED"
+          }
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "artist": {
+            "id": "a9403aaa-0377-4bc3-bc32-909e94ae1eb0",
+            "name": "Thomas Stenstr\u00f6m",
+            "sort-name": "Stenstr\u00f6m, Thomas",
+            "aliases": [
+              {
+                "sort-name": "Stenstr\u00f6m, Karl Thomas",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Karl Thomas Stenstr\u00f6m",
+                "locale": "sv_SE",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015-11-13",
+      "releases": [
+        {
+          "id": "1713fa41-ea0a-4a93-9005-d69d0a474e42",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "6004a4d6-1dd2-3620-9c8e-d7fefb9b0e12",
+          "count": 1,
+          "title": "Best of Hard Drive",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "NEIKED",
+              "artist": {
+                "id": "45d2e2d4-a8eb-402b-9a49-2cc117232feb",
+                "name": "NEIKED",
+                "sort-name": "NEIKED"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "70a1a33f-a5bd-45a0-8f52-c82a561cb42c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Hard Drive",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "4280f6b0-2f14-3826-b5ae-5e44c8dcfcb6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "005e10e3-c196-4a88-b671-d476ffec9945",
+                  "number": "9",
+                  "title": "Cowboy",
+                  "length": 156000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "e4d0ae85-05af-4f4d-b7c1-8ab27ecfbb21",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "01a8f87b-7456-3b98-a9a4-fb11b7c4276d",
+          "count": 1,
+          "title": "Cowboy",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " feat. ",
+              "name": "NEIKED",
+              "artist": {
+                "id": "45d2e2d4-a8eb-402b-9a49-2cc117232feb",
+                "name": "NEIKED",
+                "sort-name": "NEIKED"
+              }
+            },
+            {
+              "name": "Thomas Stenstr\u00f6m",
+              "artist": {
+                "id": "a9403aaa-0377-4bc3-bc32-909e94ae1eb0",
+                "name": "Thomas Stenstr\u00f6m",
+                "sort-name": "Stenstr\u00f6m, Thomas"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe09bde5-6997-45ff-84ff-e89478828260",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Cowboy",
+            "primary-type": "Single"
+          },
+          "date": "2015-11-13",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-11-13",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "cd12550e-b015-3598-98b7-99e604eed7df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "627a58c0-1640-4189-95e4-eff58cebc971",
+                  "number": "1",
+                  "title": "Cowboy",
+                  "length": 155000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBKPL1562170"
+      ]
+    }
+  ]
+}

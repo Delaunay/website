@@ -1,0 +1,145 @@
+{
+  "created": "2026-05-18T07:49:49.220Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "32895e71-8487-4e37-90f7-3fec2f77400d",
+      "score": 100,
+      "artist-credit-id": "b4e83bcd-7256-46fd-b371-1d58b4bf6650",
+      "title": "Lucifer",
+      "length": 184533,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Suck",
+          "artist": {
+            "id": "da36bf85-614a-45a5-ad39-ee031d26bd2a",
+            "name": "Suck",
+            "sort-name": "Suck",
+            "disambiguation": "Punk band"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "1535941b-8808-4b1b-b85d-a22b9e45309a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Ribbit",
+          "status": "Official",
+          "release-group": {
+            "id": "936801aa-79eb-4e0f-b731-44f37dbd2070",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Ribbit",
+            "primary-type": "Single"
+          },
+          "date": "2022-09-23",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "b0feaa37-1265-326f-bbf9-781a7f5f59da",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "39e36bd4-ab8b-4071-8d89-3510897fcb20",
+                  "number": "8",
+                  "title": "Lucifer",
+                  "length": 184533
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "69fa4ccb-e693-4144-8fd5-839cdbbf1f3a",
+      "score": 100,
+      "artist-credit-id": "a7063353-bf1e-34e0-9713-b775c1b99933",
+      "title": "Lucifer",
+      "length": 184000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "SUCK",
+          "artist": {
+            "id": "d463f784-df81-4329-93f8-9685957b8ee8",
+            "name": "SUCK",
+            "sort-name": "SUCK",
+            "disambiguation": "Garage Synth-Fuzz Punk from Germany"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "6b6abfb4-c1b1-4def-8afb-8a5c148f71ce",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Ribbit",
+          "status": "Official",
+          "release-group": {
+            "id": "419468a1-a801-40de-8b32-3be63d8b89be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ribbit",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "10a6b43f-657b-3f8d-aa6c-2f19f7742090",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d6bfb78d-dc1a-4047-9397-7b2b29dfd3a4",
+                  "number": "8",
+                  "title": "Lucifer",
+                  "length": 184000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

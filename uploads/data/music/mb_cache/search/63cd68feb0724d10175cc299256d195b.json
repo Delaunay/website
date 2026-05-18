@@ -1,0 +1,82 @@
+{
+  "created": "2026-05-18T06:26:30.213Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "8cee5b7c-71e7-4016-90d6-c3d8e04715ed",
+      "score": 100,
+      "artist-credit-id": "ea3627ef-3397-41f6-a0d9-8c259e6b0a54",
+      "title": "Yay [2026 Remaster]",
+      "length": 352000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Outsider",
+          "artist": {
+            "id": "17dee988-f8e2-448d-9c63-36b607944776",
+            "name": "Outsider",
+            "sort-name": "Outsider",
+            "disambiguation": "Techno producer from the UK"
+          }
+        }
+      ],
+      "first-release-date": "2026-03-18",
+      "releases": [
+        {
+          "id": "ef0cd7f1-dff1-4071-9dbb-ceada66672fc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Bandcamp Archives",
+          "status": "Official",
+          "release-group": {
+            "id": "94299775-c434-4679-aa0f-d6a75f8214c9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bandcamp Archives",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2026-03-18",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2026-03-18",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "69be94f3-e409-4d48-a975-2c08fb364083",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e7dd6afa-6763-4dbc-8e19-987b5729655e",
+                  "number": "2",
+                  "title": "Yay [2026 Remaster]",
+                  "length": 352000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

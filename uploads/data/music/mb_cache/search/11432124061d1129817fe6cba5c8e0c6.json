@@ -1,0 +1,1530 @@
+{
+  "created": "2026-05-18T07:31:38.479Z",
+  "count": 5,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "33cd12b1-1329-4c2d-887e-55797b6f56f5",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Snowblind",
+      "length": 280000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1982",
+      "releases": [
+        {
+          "id": "fad1dbe5-b96c-4399-925c-0b5c88fe642d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 3,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1982",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "07c55583-1da5-337f-9b5c-2f2369196bdf",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "7963cb05-b69d-45e3-876f-e768864f2c8a",
+                  "number": "A2",
+                  "title": "Snowblind",
+                  "length": 280000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "6749e0ca-5e67-4c9d-9d8a-9d01030f017c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1982",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "00688f80-a4ad-35c7-90da-326afabb3eed",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "a0175c04-4cbc-4dfc-8830-0c77e3845e44",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 280000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4c30e8dd-ab85-402a-a494-1d460f80e55f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1987",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1987",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "759c326e-4b66-3f51-9442-980474f52754",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "d68c7502-2904-4969-b037-fbac3ea2fb77",
+                  "number": "A2",
+                  "title": "Snowblind",
+                  "length": 280000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56e885d7-23c1-4b98-b577-6d7992665ea9",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Snowblind",
+      "length": 284640,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "e92b1609-6d46-48fe-bd16-d43d04598839",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "eaa7b931-0cef-31c4-9378-fb9dd9146fd7",
+              "position": 1,
+              "track": [
+                {
+                  "id": "18a17575-53ec-35e6-8e01-a548ee170f64",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 284640
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f66ce0ca-8f98-4949-98f7-8255ed597c6c",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Snowblind",
+      "length": 297466,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1992",
+      "releases": [
+        {
+          "id": "78cc443c-d361-4f65-9808-e6156f83f89e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Tears of the Sinner",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7e496992-e538-3a2b-b978-357b2b65d2dc",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tears of the Sinner",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1992",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "1992",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "f1070a9a-89e7-38aa-b50d-9342b35976fe",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "06617094-f0d9-3930-b153-dce37951074a",
+                  "number": "10",
+                  "title": "Snowblind",
+                  "length": 297466
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7d175cc-dfda-47ca-a5ec-36a246bfcc24",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Snowblind",
+      "length": 296000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1982",
+      "releases": [
+        {
+          "id": "0572172d-e479-4de8-8907-8c649d2f29c7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1986-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1986-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a49a99fe-5c1e-3606-9f62-88880a5a982a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "68aaf242-a131-4ad8-add0-b5f4352df0e0",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "01f36f45-fca7-4908-8615-7dbfd802490c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1987",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1987",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8dbf6789-cb73-4aa6-9c7b-ad4157605518",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "80794310-8e1d-4598-9fe8-b051b79dcd52",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "905be37f-82ee-4c76-a376-b1e0bbe7b327",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Talk of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1982",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1982",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "b18c7f8c-0bc4-3891-8d09-2a64afc96a1b",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "5cef81be-3cb6-45fe-bd4f-7d21658c7102",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 292533
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "dc4e6ae6-d25a-4446-ad0b-a06b7e412816",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "disambiguation": "\u201c2\u2010record set on 1 compact disc\u201d",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1995",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "db8823a9-290d-3040-ba60-b54d4d9ded6b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1c14c8b1-e146-4863-abc9-7e10c8a7a7e9",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "a53d847e-13db-4c7e-9a06-8504972b4fc3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1986-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1986-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "3e118f60-14f0-39b7-96e7-791ae4f9a19f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f8054bb0-9f7b-33ce-8d69-98ead857f46e",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "19f4198a-1ae3-4ce9-9df1-6a7f0eba7657",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1995",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "f82cf073-654c-3e7b-ab1c-e71657a56b46",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c9c5ffd7-fc39-3531-b7a9-e373065b5fe7",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "604b9fb0-727d-3add-9f76-f71aae76712d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-06-20",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-06-20",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "64540a26-6c62-3ad7-980b-0f242177a3c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3fcb1c47-ddb6-3f5e-b2dc-1009c29f4e9d",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "e4e526b4-59fa-3349-9b9c-a6771f063747",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1995-11-06",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1995-11-06",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "ba1702dd-d28d-36fa-8544-067b041b434d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a46bc59c-d934-38ba-a6df-ca148075a633",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "22ac6bb8-17db-4771-97c4-67d5386d5f19",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1986-05-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1986-05-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "335d20ae-286f-3b35-8ec9-74e07e552f27",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f302d6c9-0d51-4033-85a4-42e22daff768",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 5,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "metalcore"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "album rock"
+        },
+        {
+          "count": 1,
+          "name": "neo-classical metal"
+        },
+        {
+          "count": 1,
+          "name": "british metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "c2b369ec-5ad5-4a1c-a60e-9bc6b19d28e0",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Snowblind",
+      "length": 296000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1995",
+      "releases": [
+        {
+          "id": "96f98b3c-8c49-461e-a02e-840c39519cc4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Speak of the Devil",
+          "status": "Official",
+          "disambiguation": "22 bit SBM digital re\u2010master",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a05ab0f-43e0-33dd-a30c-97fc4e323cc3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Speak of the Devil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1995",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1995",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "06c50c2d-99ad-343c-8834-29b2b1ddb6a0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b7deeaa3-68f3-4395-be18-6e398e4f56eb",
+                  "number": "2",
+                  "title": "Snowblind",
+                  "length": 296000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

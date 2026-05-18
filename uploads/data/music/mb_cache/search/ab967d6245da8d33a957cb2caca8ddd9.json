@@ -1,0 +1,809 @@
+{
+  "created": "2026-05-18T06:55:26.413Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "36d417e8-90a8-4377-9285-cf38bc2ab93d",
+      "score": 100,
+      "artist-credit-id": "6e5d9a8f-d416-3d54-837f-1c8155a92866",
+      "title": "sex in the morning",
+      "length": 187606,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Lena",
+          "artist": {
+            "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+            "name": "Lena",
+            "sort-name": "Lena",
+            "disambiguation": "Lena Meyer-Landrut, Eurovision winner",
+            "aliases": [
+              {
+                "sort-name": "Lena",
+                "name": "Lena",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Meyer-Landrut, Lena",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lena Meyer-Landrut",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ramz",
+          "artist": {
+            "id": "adbc1042-de61-4911-a124-167f3b3b8dc3",
+            "name": "Ramz",
+            "sort-name": "Ramz",
+            "disambiguation": "British rapper",
+            "aliases": [
+              {
+                "sort-name": "Rochester, Ramone",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Ramone Rochester",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramz",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ramz",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-04-05",
+      "releases": [
+        {
+          "id": "f2a31f83-edbe-4eb7-91da-623aa6df32fc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L (More Love Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "5f59b90c-b5f9-4435-b19d-c118654e0509",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "073522dc-b774-45ab-a11b-216db0970bd9",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 187606
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fbf0165b-acf1-42ca-b65c-9c6fbe6ee1ed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L (More Love Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "date": "2019-12-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "05d29c6d-e07f-4f29-850a-43a5e58c3252",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "da78d89e-1e87-4181-b458-06d3818f24d9",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 187606
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c618a3f0-c860-40ce-a1b9-baf6ef7866d7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L (More Love Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "bee041d9-4a57-4ca2-972e-afb533976009",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "121f413d-1ce6-4c7a-b464-9eb75aaf7d15",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 187606
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "f1254b67-7147-4211-a084-ccd3c7e4bca3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L (More Love Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "date": "2019-12-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "19e45d06-b959-39e9-8289-b0c73527e0b2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "15be38b9-d55e-4253-9cfa-a66aff838ecb",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 188613
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "3e304d52-26dd-4b14-96d9-56b6ac554ca0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "date": "2019-04-05",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-04-05",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e720324b-d471-3a9f-9f71-0ded43264ed9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "77306ba7-4008-430b-969a-4d0a349a3a53",
+                  "number": "6",
+                  "title": "Sex in the Morning",
+                  "length": 188613
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "e490c968-9d96-4f33-8e7e-61904fbe243a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "date": "2019-04-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-04-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "c8d2d139-e2b9-36be-a77f-0e27acfac89c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f80521a6-8ac4-4afd-8d12-9c8f69350b1c",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 188000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "30b36db4-4117-4447-82c3-de3ce8d01197",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "faf85ef0-e8c5-3396-a726-7dfab69cb14e",
+          "count": 1,
+          "title": "Only Love, L (More Love Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lena",
+              "artist": {
+                "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+                "name": "Lena",
+                "sort-name": "Lena",
+                "disambiguation": "Lena Meyer-Landrut, Eurovision winner"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ac257e9c-dbe2-4fbf-ba94-0c509a5cdb9a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Only Love, L",
+            "primary-type": "Album"
+          },
+          "date": "2019-12-06",
+          "country": "AD",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "e01da61e-99a8-3c76-a27d-774c3f4982f0",
+                "name": "Andorra",
+                "sort-name": "Andorra",
+                "iso-3166-1-codes": [
+                  "AD"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "a75b525f-8c01-31f6-975e-4a32a2b001d5",
+                "name": "Cyprus",
+                "sort-name": "Cyprus",
+                "iso-3166-1-codes": [
+                  "CY"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+                "name": "Czechia",
+                "sort-name": "Czechia",
+                "iso-3166-1-codes": [
+                  "CZ"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+                "name": "Estonia",
+                "sort-name": "Estonia",
+                "iso-3166-1-codes": [
+                  "EE"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+                "name": "Greece",
+                "sort-name": "Greece",
+                "iso-3166-1-codes": [
+                  "GR"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+                "name": "Hungary",
+                "sort-name": "Hungary",
+                "iso-3166-1-codes": [
+                  "HU"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "48802a32-075a-3805-a183-277c66047693",
+                "name": "Iceland",
+                "sort-name": "Iceland",
+                "iso-3166-1-codes": [
+                  "IS"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+                "name": "Latvia",
+                "sort-name": "Latvia",
+                "iso-3166-1-codes": [
+                  "LV"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "d2007481-eefe-37c0-be71-2256dfe148cb",
+                "name": "Liechtenstein",
+                "sort-name": "Liechtenstein",
+                "iso-3166-1-codes": [
+                  "LI"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+                "name": "Lithuania",
+                "sort-name": "Lithuania",
+                "iso-3166-1-codes": [
+                  "LT"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+                "name": "Luxembourg",
+                "sort-name": "Luxembourg",
+                "iso-3166-1-codes": [
+                  "LU"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "050c94f7-1413-3a34-bb90-4a94f3bb2084",
+                "name": "Malta",
+                "sort-name": "Malta",
+                "iso-3166-1-codes": [
+                  "MT"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "6f26d528-4467-3ecb-b105-10daf3466b40",
+                "name": "Monaco",
+                "sort-name": "Monaco",
+                "iso-3166-1-codes": [
+                  "MC"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "6743d351-6f37-3049-9724-5041161fff4d",
+                "name": "Norway",
+                "sort-name": "Norway",
+                "iso-3166-1-codes": [
+                  "NO"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "781b0c54-3d54-362d-a941-8a617def4992",
+                "name": "Portugal",
+                "sort-name": "Portugal",
+                "iso-3166-1-codes": [
+                  "PT"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+                "name": "Romania",
+                "sort-name": "Romania",
+                "iso-3166-1-codes": [
+                  "RO"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+                "name": "Slovakia",
+                "sort-name": "Slovakia",
+                "iso-3166-1-codes": [
+                  "SK"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+                "name": "Spain",
+                "sort-name": "Spain",
+                "iso-3166-1-codes": [
+                  "ES"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            },
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "a46d4e70-ebb2-32a2-9129-2c2347441cd2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "393bc519-177d-4137-9669-dfe82438ef66",
+                  "number": "6",
+                  "title": "sex in the morning",
+                  "length": 187606
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71711184"
+      ]
+    }
+  ]
+}

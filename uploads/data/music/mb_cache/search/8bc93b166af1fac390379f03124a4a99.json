@@ -1,0 +1,440 @@
+{
+  "created": "2026-05-18T07:08:13.687Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "277905e3-9dd0-46f8-bfdf-e00faa8bcb07",
+      "score": 100,
+      "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+      "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+      "length": 181510,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Weezer",
+          "artist": {
+            "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+            "name": "Weezer",
+            "sort-name": "Weezer",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30a6\u30a3\u30fc\u30b6\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a6\u30a3\u30fc\u30b6\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-22",
+      "releases": [
+        {
+          "id": "aec2b13f-835b-4b9f-85e8-f9b3e7f22ed5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 1,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bf88d97-678e-4ffc-b0d2-453323579eca",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "SZNZ: Autumn",
+            "primary-type": "EP"
+          },
+          "date": "2022-09-22",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "f1b9b756-142b-3e9b-9565-7b975778966e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "618a4d8e-b200-46c1-af25-1e0b08695854",
+                  "number": "1",
+                  "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+                  "length": 181510
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d2c19184-14a3-48f4-92ba-69f093674f85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 1,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bf88d97-678e-4ffc-b0d2-453323579eca",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "SZNZ: Autumn",
+            "primary-type": "EP"
+          },
+          "date": "2022-11-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2022-11-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "17fddf47-0f98-34c5-aab9-606258569ca5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9ccb0afe-8e9d-40c3-ba8a-b8edc3163291",
+                  "number": "1",
+                  "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+                  "length": 181000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "2f7b86ec-83ba-499d-86b1-3567eb065dd3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 1,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bf88d97-678e-4ffc-b0d2-453323579eca",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "SZNZ: Autumn",
+            "primary-type": "EP"
+          },
+          "date": "2022-09-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "3ef52cd2-a646-3ea9-aac8-adb4abe592b7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f9d87bd6-5806-4d3a-93ba-9a958ee679aa",
+                  "number": "1",
+                  "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+                  "length": 182000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "149a524a-eebd-4d9d-bef2-858fe9cadbe3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 1,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bf88d97-678e-4ffc-b0d2-453323579eca",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "SZNZ: Autumn",
+            "primary-type": "EP"
+          },
+          "date": "",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "3aa201db-ea0c-3867-9506-ffe2af84ba1a",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "2bf35dd8-404b-4b02-b1c7-748e46531bc7",
+                  "number": "1",
+                  "title": "Can't Dance, Don't Ask Me"
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ebd14d92-982a-4103-860d-b2a8846695d0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 3,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "disambiguation": "partial compilation of SZNZ",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5be0bb79-04aa-44ae-a632-6f7d25752970",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "SZNZ: Autumn",
+            "disambiguation": "partial compilation of SZNZ",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2022-09-22",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2022-09-22",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "32847ea0-c836-3501-a1c2-1c2d8e47cdf9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "66701fa5-2116-46d2-a6d8-7bb5a452d2fb",
+                  "number": "1",
+                  "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+                  "length": 181510
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USAT22214222"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "power pop"
+        },
+        {
+          "count": 1,
+          "name": "geek rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative dance"
+        }
+      ]
+    },
+    {
+      "id": "e86fa177-212e-4c7b-919b-c687f7793078",
+      "score": 100,
+      "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+      "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+      "length": 182000,
+      "disambiguation": "Dolby Atmos mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Weezer",
+          "artist": {
+            "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+            "name": "Weezer",
+            "sort-name": "Weezer",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30a6\u30a3\u30fc\u30b6\u30fc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30a6\u30a3\u30fc\u30b6\u30fc",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-22",
+      "releases": [
+        {
+          "id": "4b82953a-4990-4994-a43a-10533ed2c4fe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41f04ee4-0be3-3a3c-b1fd-99c5bedf84a5",
+          "count": 1,
+          "title": "SZNZ: Autumn",
+          "status": "Official",
+          "disambiguation": "Dolby Atmos mix",
+          "artist-credit": [
+            {
+              "name": "Weezer",
+              "artist": {
+                "id": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+                "name": "Weezer",
+                "sort-name": "Weezer",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9bf88d97-678e-4ffc-b0d2-453323579eca",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "SZNZ: Autumn",
+            "primary-type": "EP"
+          },
+          "track-count": 7,
+          "media": [
+            {
+              "id": "9317b563-e311-3b4f-9910-b5523a63cdef",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "88801a39-51cd-43f1-9259-72a827fe691e",
+                  "number": "1",
+                  "title": "Can\u2019t Dance, Don\u2019t Ask Me",
+                  "length": 182000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

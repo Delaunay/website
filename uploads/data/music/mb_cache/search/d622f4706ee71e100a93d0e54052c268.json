@@ -1,0 +1,963 @@
+{
+  "created": "2026-05-18T07:10:44.368Z",
+  "count": 5,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "19cc848b-3e67-4239-9dd3-a3a8c8ba4dd4",
+      "score": 100,
+      "artist-credit-id": "87da2593-8471-3924-abb4-dab61e650620",
+      "title": "Mer fiere et Levve",
+      "length": 293000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cat Ballou",
+          "artist": {
+            "id": "f515844e-2c01-4b43-9424-b09b8b997cee",
+            "name": "Cat Ballou",
+            "sort-name": "Cat Ballou",
+            "disambiguation": "k\u00f6lsch-rock-pop band from Cologne"
+          }
+        }
+      ],
+      "first-release-date": "2022-11-25",
+      "releases": [
+        {
+          "id": "e8d84fdf-5d8b-4614-951d-7583e2e960cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Auf samtleisen Pfoten",
+          "status": "Official",
+          "release-group": {
+            "id": "c13a2201-1653-456e-94e2-9c591b4af927",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Auf samtleisen Pfoten",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2022-11-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-11-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5649fca5-c004-33dc-b5e3-62a888832f9a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b9a512a1-3a52-437d-8604-abb6eb3e8911",
+                  "number": "8",
+                  "title": "Mer fiere et Levve",
+                  "length": 293000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "666e774a-6063-40f3-bae6-a64703873f96",
+      "score": 100,
+      "artist-credit-id": "87da2593-8471-3924-abb4-dab61e650620",
+      "title": "Mer fiere et Levve",
+      "length": 267546,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cat Ballou",
+          "artist": {
+            "id": "f515844e-2c01-4b43-9424-b09b8b997cee",
+            "name": "Cat Ballou",
+            "sort-name": "Cat Ballou",
+            "disambiguation": "k\u00f6lsch-rock-pop band from Cologne"
+          }
+        }
+      ],
+      "first-release-date": "2018-09-20",
+      "releases": [
+        {
+          "id": "6e2006d1-f51d-4079-a903-8c6aa3814993",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Cat Ballou",
+          "status": "Official",
+          "release-group": {
+            "id": "f6aec8dd-5f34-449b-bdf5-85a554ecf81f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Cat Ballou",
+            "primary-type": "Album"
+          },
+          "date": "2018-09-21",
+          "country": "AL",
+          "release-events": [
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "1c69b790-b46b-3e92-b6b4-93b4364badbc",
+                "name": "Albania",
+                "sort-name": "Albania",
+                "iso-3166-1-codes": [
+                  "AL"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "e01da61e-99a8-3c76-a27d-774c3f4982f0",
+                "name": "Andorra",
+                "sort-name": "Andorra",
+                "iso-3166-1-codes": [
+                  "AD"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "660e3c48-b301-3c8c-9708-0f71d5d094d6",
+                "name": "Belarus",
+                "sort-name": "Belarus",
+                "iso-3166-1-codes": [
+                  "BY"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "f2b64f81-6d36-35b3-94b9-5ba53d693914",
+                "name": "Bosnia and Herzegovina",
+                "sort-name": "Bosnia and Herzegovina",
+                "iso-3166-1-codes": [
+                  "BA"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "7d30afff-e425-356a-873e-17ae9745b31d",
+                "name": "Croatia",
+                "sort-name": "Croatia",
+                "iso-3166-1-codes": [
+                  "HR"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "a75b525f-8c01-31f6-975e-4a32a2b001d5",
+                "name": "Cyprus",
+                "sort-name": "Cyprus",
+                "iso-3166-1-codes": [
+                  "CY"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+                "name": "Czechia",
+                "sort-name": "Czechia",
+                "iso-3166-1-codes": [
+                  "CZ"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "4757b525-2a60-324a-b060-578765d2c993",
+                "name": "Denmark",
+                "sort-name": "Denmark",
+                "iso-3166-1-codes": [
+                  "DK"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+                "name": "Estonia",
+                "sort-name": "Estonia",
+                "iso-3166-1-codes": [
+                  "EE"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+                "name": "Greece",
+                "sort-name": "Greece",
+                "iso-3166-1-codes": [
+                  "GR"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+                "name": "Hungary",
+                "sort-name": "Hungary",
+                "iso-3166-1-codes": [
+                  "HU"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "48802a32-075a-3805-a183-277c66047693",
+                "name": "Iceland",
+                "sort-name": "Iceland",
+                "iso-3166-1-codes": [
+                  "IS"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+                "name": "Latvia",
+                "sort-name": "Latvia",
+                "iso-3166-1-codes": [
+                  "LV"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "d2007481-eefe-37c0-be71-2256dfe148cb",
+                "name": "Liechtenstein",
+                "sort-name": "Liechtenstein",
+                "iso-3166-1-codes": [
+                  "LI"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+                "name": "Lithuania",
+                "sort-name": "Lithuania",
+                "iso-3166-1-codes": [
+                  "LT"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+                "name": "Luxembourg",
+                "sort-name": "Luxembourg",
+                "iso-3166-1-codes": [
+                  "LU"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "fa75cdb9-cbc4-35de-8bf4-a21e7b811484",
+                "name": "North Macedonia",
+                "sort-name": "North Macedonia",
+                "iso-3166-1-codes": [
+                  "MK"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "050c94f7-1413-3a34-bb90-4a94f3bb2084",
+                "name": "Malta",
+                "sort-name": "Malta",
+                "iso-3166-1-codes": [
+                  "MT"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "560ddb6d-4304-3938-8407-c96605226fad",
+                "name": "Moldova",
+                "sort-name": "Moldova",
+                "iso-3166-1-codes": [
+                  "MD"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "6f26d528-4467-3ecb-b105-10daf3466b40",
+                "name": "Monaco",
+                "sort-name": "Monaco",
+                "iso-3166-1-codes": [
+                  "MC"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "6743d351-6f37-3049-9724-5041161fff4d",
+                "name": "Norway",
+                "sort-name": "Norway",
+                "iso-3166-1-codes": [
+                  "NO"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "781b0c54-3d54-362d-a941-8a617def4992",
+                "name": "Portugal",
+                "sort-name": "Portugal",
+                "iso-3166-1-codes": [
+                  "PT"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+                "name": "Romania",
+                "sort-name": "Romania",
+                "iso-3166-1-codes": [
+                  "RO"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "d4dd44b6-fa46-30f5-b331-ce9e88d06242",
+                "name": "San Marino",
+                "sort-name": "San Marino",
+                "iso-3166-1-codes": [
+                  "SM"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+                "name": "Slovakia",
+                "sort-name": "Slovakia",
+                "iso-3166-1-codes": [
+                  "SK"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "5b0b6225-584c-3942-b69d-5efceb9989af",
+                "name": "Slovenia",
+                "sort-name": "Slovenia",
+                "iso-3166-1-codes": [
+                  "SI"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+                "name": "Spain",
+                "sort-name": "Spain",
+                "iso-3166-1-codes": [
+                  "ES"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+                "name": "T\u00fcrkiye",
+                "sort-name": "T\u00fcrkiye",
+                "iso-3166-1-codes": [
+                  "TR"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "6f8faf25-44cb-313b-9162-77145cdc192d",
+                "name": "Montenegro",
+                "sort-name": "Montenegro",
+                "iso-3166-1-codes": [
+                  "ME"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "424c1b50-57f8-34af-ab97-313e2ad40058",
+                "name": "Serbia",
+                "sort-name": "Serbia",
+                "iso-3166-1-codes": [
+                  "RS"
+                ]
+              }
+            },
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "7b6ae6b7-6f4f-43df-aab8-0c72531ea8ae",
+                "name": "Kosovo",
+                "sort-name": "Kosovo",
+                "iso-3166-1-codes": [
+                  "XK"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "e6a5cc91-3387-3bb1-a8bc-5915baa5d37f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "35779dcf-e6c0-4f87-867b-e200b76488d7",
+                  "number": "7",
+                  "title": "Mer fiere et Levve",
+                  "length": 267546
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "4465e32a-4ea5-46e8-8286-e87a0f229fe7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Cat Ballou",
+          "status": "Official",
+          "release-group": {
+            "id": "f6aec8dd-5f34-449b-bdf5-85a554ecf81f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Cat Ballou",
+            "primary-type": "Album"
+          },
+          "date": "2018-09-21",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2018-09-21",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "99002a60-3b48-3bfc-a896-0cfc5cdc334e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7bc1bc0d-4177-4516-8d0c-bdd48d9464a6",
+                  "number": "7",
+                  "title": "Mer fiere et Levve",
+                  "length": 267546
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "c30c31bb-142f-429b-bf70-f9af38076cb0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Cat Ballou",
+          "status": "Official",
+          "release-group": {
+            "id": "f6aec8dd-5f34-449b-bdf5-85a554ecf81f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Cat Ballou",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "daf752b3-e13e-3318-a18d-b613557d286e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "216d9123-7241-402b-ab6b-85cd22bb2635",
+                  "number": "7",
+                  "title": "Mer fiere et Levve",
+                  "length": 267000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DED191700034"
+      ]
+    },
+    {
+      "id": "cd53ddaa-57fc-45d2-b67c-cb8567cbc70c",
+      "score": 100,
+      "artist-credit-id": "87da2593-8471-3924-abb4-dab61e650620",
+      "title": "Mer fiere et Levve",
+      "length": 254733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cat Ballou",
+          "artist": {
+            "id": "f515844e-2c01-4b43-9424-b09b8b997cee",
+            "name": "Cat Ballou",
+            "sort-name": "Cat Ballou",
+            "disambiguation": "k\u00f6lsch-rock-pop band from Cologne"
+          }
+        }
+      ],
+      "first-release-date": "2019-12-06",
+      "releases": [
+        {
+          "id": "9fbd87b3-3351-4e63-a668-efe35d4c3b76",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "20 Jahre - Live aus der K\u00f6lnarena",
+          "status": "Official",
+          "release-group": {
+            "id": "eb777fa6-8cbb-4b2e-bfbe-02813f4fc331",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "20 Jahre - Live aus der K\u00f6lnarena",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "8fa50a80-3574-3501-8093-6f252f5e5450",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a58a4866-e37d-4dbc-81c2-d480b5cadc66",
+                  "number": "2",
+                  "title": "Mer fiere et Levve",
+                  "length": 254733
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11b875bd-6472-4ae9-a5a6-aa7b90d1d1e2",
+      "score": 84,
+      "artist-credit-id": "87da2593-8471-3924-abb4-dab61e650620",
+      "title": "Mer fiere et Levve - live 2024",
+      "length": 215040,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cat Ballou",
+          "artist": {
+            "id": "f515844e-2c01-4b43-9424-b09b8b997cee",
+            "name": "Cat Ballou",
+            "sort-name": "Cat Ballou",
+            "disambiguation": "k\u00f6lsch-rock-pop band from Cologne"
+          }
+        }
+      ],
+      "first-release-date": "2024-11-29",
+      "releases": [
+        {
+          "id": "efcd6e9e-f5a0-419b-80d1-6ca0a48bcf6f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Cat Ballou - 25 Jahre K\u00f6lnarena Live",
+          "status": "Official",
+          "release-group": {
+            "id": "d072fb7f-af44-421a-a668-bd1777a2251c",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Cat Ballou - 25 Jahre K\u00f6lnarena Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2024-11-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-11-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "ce9519cd-68e6-4ba2-b3bd-b38090c81ec9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4141fdf1-a1d5-4228-9d83-863b1eff11c0",
+                  "number": "3",
+                  "title": "Mer fiere et Levve - live 2024",
+                  "length": 215040
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e107b514-4a32-4932-899d-b7cff341cf88",
+      "score": 80,
+      "artist-credit-id": "87da2593-8471-3924-abb4-dab61e650620",
+      "title": "Mer fiere et Levve (Live aus der K\u00f6lnarena)",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cat Ballou",
+          "artist": {
+            "id": "f515844e-2c01-4b43-9424-b09b8b997cee",
+            "name": "Cat Ballou",
+            "sort-name": "Cat Ballou",
+            "disambiguation": "k\u00f6lsch-rock-pop band from Cologne"
+          }
+        }
+      ],
+      "first-release-date": "2020",
+      "releases": [
+        {
+          "id": "854e2a1f-331a-4202-8455-58e614ab8d5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Megajeck 24",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8872d4c3-3609-4fa7-83ed-26050e9b150f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Megajeck 24",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2020",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2020",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "1a0524b6-53f9-3cea-9c0d-ebe8e359f9f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bbeca0af-86f0-4162-b4d9-595392497d2a",
+                  "number": "22",
+                  "title": "Mer fiere et Levve (Live aus der K\u00f6lnarena)"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 21
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

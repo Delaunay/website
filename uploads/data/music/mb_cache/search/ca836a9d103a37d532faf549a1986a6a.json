@@ -1,0 +1,457 @@
+{
+  "created": "2026-05-18T07:55:19.332Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1a49c4a6-5ccb-4d68-8f6f-f97695994a29",
+      "score": 100,
+      "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+      "title": "We Are One",
+      "length": 206000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "12 Stones",
+          "artist": {
+            "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+            "name": "12 Stones",
+            "sort-name": "12 Stones",
+            "aliases": [
+              {
+                "sort-name": "Twelve Stones",
+                "name": "Twelve Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-07-20",
+      "releases": [
+        {
+          "id": "0f758104-8237-4c80-9782-191f66c81709",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+          "count": 1,
+          "title": "The Only Easy Day Was Yesterday",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "12 Stones",
+              "artist": {
+                "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+                "name": "12 Stones",
+                "sort-name": "12 Stones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c2a10670-4699-44ac-b05f-04a7812037d9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "The Only Easy Day Was Yesterday",
+            "primary-type": "EP"
+          },
+          "date": "2010-07-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-07-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "ee243449-e5aa-37a2-83c8-09159ea616fd",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "01710398-3900-4676-bc80-49e563b41b46",
+                  "number": "2",
+                  "title": "We Are One",
+                  "length": 206000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "06ea2cae-29f9-45ec-8c61-022582e62a71",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+          "count": 1,
+          "title": "The Only Easy Day Was Yesterday",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "12 Stones",
+              "artist": {
+                "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+                "name": "12 Stones",
+                "sort-name": "12 Stones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c2a10670-4699-44ac-b05f-04a7812037d9",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "The Only Easy Day Was Yesterday",
+            "primary-type": "EP"
+          },
+          "date": "2010-07-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-07-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "e1144b22-c021-3392-b690-4a64409d0c72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ffacc5fc-8bee-3a2f-8777-fff8acaa307e",
+                  "number": "2",
+                  "title": "We Are One",
+                  "length": 206000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "348d2e83-158b-4be0-ab95-bfc9b74bbda9",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Alternative Times, Volume 116",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "82bb916f-1b07-4f63-abeb-5ac29eb262f8",
+            "title": "Alternative Times, Volume 116",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-07-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-07-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "f97514e0-59f2-3c94-936a-761f31c5cec2",
+              "position": 1,
+              "track": [
+                {
+                  "id": "d498cd30-63c6-390b-8006-cb55e8edd066",
+                  "number": "12",
+                  "title": "We Are One",
+                  "length": 204173
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USWU31000059"
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "094dc611-bcf5-40aa-ab3d-ac7fc68708e3",
+      "score": 90,
+      "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+      "title": "We Are One (WWE mix)",
+      "length": 223160,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "12 Stones",
+          "artist": {
+            "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+            "name": "12 Stones",
+            "sort-name": "12 Stones",
+            "aliases": [
+              {
+                "sort-name": "Twelve Stones",
+                "name": "Twelve Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-12-14",
+      "releases": [
+        {
+          "id": "7d89835c-c9e1-4013-b339-20929d155b1f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+          "count": 1,
+          "title": "We Are One (WWE mix)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "12 Stones",
+              "artist": {
+                "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+                "name": "12 Stones",
+                "sort-name": "12 Stones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e73c63e1-b01d-4ce3-81dc-b3af95de32d4",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "We Are One (WWE mix)",
+            "primary-type": "Single"
+          },
+          "date": "2010-12-14",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-12-14",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "42579ef5-1fbe-34c0-999a-9b92b0d277f4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "931a7287-31dc-32bd-b028-fa6256d4f49c",
+                  "number": "1",
+                  "title": "We Are One (WWE mix)",
+                  "length": 223160
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32e1ad24-8f2b-4ac5-a135-66c37fa8a838",
+      "score": 86,
+      "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+      "title": "We Are One (Picture Perfect session)",
+      "length": 177000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "12 Stones",
+          "artist": {
+            "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+            "name": "12 Stones",
+            "sort-name": "12 Stones",
+            "aliases": [
+              {
+                "sort-name": "Twelve Stones",
+                "name": "Twelve Stones",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2017-07-14",
+      "releases": [
+        {
+          "id": "72360828-995b-4710-b404-15e46a863a53",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+          "count": 1,
+          "title": "Picture Perfect",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "12 Stones",
+              "artist": {
+                "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+                "name": "12 Stones",
+                "sort-name": "12 Stones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2fb74251-49e6-48aa-9636-83e9d4629ab5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Picture Perfect",
+            "primary-type": "Album"
+          },
+          "date": "2022-06-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-06-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3c626aa8-1254-360f-8af7-565591143723",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "230c6c89-68e1-4a3c-9e5a-6d7339df975c",
+                  "number": "14",
+                  "title": "We Are One (Picture Perfect session)"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "34bf2246-2641-48c8-aa67-d3d803c1cf14",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a0b2a717-9ab3-3a88-a053-d04ad9d61850",
+          "count": 1,
+          "title": "Picture Perfect",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "12 Stones",
+              "artist": {
+                "id": "6f81a7dc-be31-4498-ae95-6d994ffec614",
+                "name": "12 Stones",
+                "sort-name": "12 Stones"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2fb74251-49e6-48aa-9636-83e9d4629ab5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Picture Perfect",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "41662ae7-08eb-3716-a91d-153c4c93c6b9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "946ecbd1-a0fb-4ee4-9d2c-3c70a83ef997",
+                  "number": "14",
+                  "title": "We Are One (Picture Perfect Sessions)",
+                  "length": 177000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QM6XS1704152"
+      ]
+    }
+  ]
+}

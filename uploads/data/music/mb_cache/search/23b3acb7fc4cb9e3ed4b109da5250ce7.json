@@ -1,0 +1,141 @@
+{
+  "created": "2026-05-18T05:54:31.347Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "24806748-e928-4c8d-b33b-a47cdd49c3d5",
+      "score": 100,
+      "artist-credit-id": "ac06ab2b-4058-357f-94ac-1e1362c5cd41",
+      "title": "Bad Boy",
+      "length": 159295,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wet Dreams",
+          "artist": {
+            "id": "6d5c947a-f78c-4580-920d-853097ecab35",
+            "name": "Wet Dreams",
+            "sort-name": "Dreams, Wet",
+            "disambiguation": "Norwegian punk & power pop band"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "8e47b262-301f-4486-9ffb-d3afbb569652",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "SXSW 2019 Showcasing Artists",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6640cbc6-fcb8-4c41-9861-c6254e6843a3",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "SXSW 2019 Showcasing Artists",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1177,
+          "media": [
+            {
+              "id": "771a3106-d38a-3efd-bcd0-4b2e9a198d61",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e9e921a5-0f8a-476d-b942-2aa81bb272e9",
+                  "number": "1109",
+                  "title": "Bad Boy",
+                  "length": 159393
+                }
+              ],
+              "track-count": 1177,
+              "track-offset": 1108
+            }
+          ]
+        },
+        {
+          "id": "177e7a70-07e8-45f7-863d-e173e1cb83fe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Wet Dreams",
+          "status": "Official",
+          "release-group": {
+            "id": "37630519-d409-4a23-9cc9-c619922d0e74",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Wet Dreams",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "dad35600-25ee-3e33-bfea-46e81ea00018",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8eb04b74-5065-4aed-b458-17914401f874",
+                  "number": "6",
+                  "title": "Bad Boy",
+                  "length": 159295
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

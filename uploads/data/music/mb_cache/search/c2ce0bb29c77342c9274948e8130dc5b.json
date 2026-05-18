@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T06:45:43.071Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5c2f2caa-0097-4651-96a0-2ebab402256f",
+      "score": 100,
+      "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+      "title": "Come \u00e8 successo che sei qui",
+      "length": 209053,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Banco del Mutuo Soccorso",
+          "artist": {
+            "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+            "name": "Banco del Mutuo Soccorso",
+            "sort-name": "Banco del Mutuo Soccorso",
+            "aliases": [
+              {
+                "sort-name": "Banco",
+                "name": "Banco",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "b5030350-5015-4616-b543-fe154292197f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+          "count": 1,
+          "title": "Orlando: Le forme dell\u2019amore",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Banco del Mutuo Soccorso",
+              "artist": {
+                "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+                "name": "Banco del Mutuo Soccorso",
+                "sort-name": "Banco del Mutuo Soccorso"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d543535-14ae-45c6-8cd8-3d612232d9a1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orlando: Le forme dell\u2019amore",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "aad4dc83-0f0c-35a6-b9f3-cedd127e1f09",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6d85436-5fd7-4401-bdfc-7920005852dc",
+                  "number": "14",
+                  "title": "Come \u00e8 successo che sei qui",
+                  "length": 209053
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "09932033-d1ce-4cfb-9b18-23f983784d07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "96c9bfb7-f44f-35eb-9bca-27cc5a2e35fe",
+          "count": 1,
+          "title": "Orlando: Le forme dell\u2019amore",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Banco del Mutuo Soccorso",
+              "artist": {
+                "id": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+                "name": "Banco del Mutuo Soccorso",
+                "sort-name": "Banco del Mutuo Soccorso"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d543535-14ae-45c6-8cd8-3d612232d9a1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orlando: Le forme dell\u2019amore",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "6bf5e1d0-3696-30a9-810e-28ca532f99a0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "64233db0-eb89-4fed-b052-6e4ed693d84b",
+                  "number": "14",
+                  "title": "Come \u00e8 successo che sei qui",
+                  "length": 209053
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

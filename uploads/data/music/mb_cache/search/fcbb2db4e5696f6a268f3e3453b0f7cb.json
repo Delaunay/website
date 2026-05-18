@@ -1,0 +1,67 @@
+{
+  "created": "2026-05-18T08:05:36.843Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "83a5bca2-8b9f-4856-93c9-939b6c2f68f5",
+      "score": 100,
+      "artist-credit-id": "ac8a63d8-e204-3b4c-860b-596b82088b96",
+      "title": "Wankatakiya",
+      "length": 293053,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Era",
+          "artist": {
+            "id": "881c5eec-ab10-4523-98cc-0abf43900065",
+            "name": "Era",
+            "sort-name": "Era",
+            "disambiguation": "French new age project"
+          }
+        }
+      ],
+      "first-release-date": "2000",
+      "releases": [
+        {
+          "id": "8f76ca7a-b43e-402c-a14f-acf23f9a1789",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Magic Spirit",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "6fa59bf9-6a73-35c0-a6fd-3d24f079c650",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Magic Spirit",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "de430b9a-eb10-3eaf-b6a2-51472bc9347e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eff80149-c1ca-3a58-9b4f-e8f281526c58",
+                  "number": "8",
+                  "title": "Wankatakiya",
+                  "length": 293053
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "new age"
+        }
+      ]
+    }
+  ]
+}

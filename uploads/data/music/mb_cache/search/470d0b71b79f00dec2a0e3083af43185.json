@@ -1,0 +1,216 @@
+{
+  "created": "2026-05-18T05:29:04.137Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "49d19cb8-ff94-462e-8dc8-52f0b20c0601",
+      "score": 100,
+      "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+      "title": "Snack bar chez L\u00e9on",
+      "length": 159666,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fran\u00e7ois P\u00e9russe",
+          "artist": {
+            "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+            "name": "Fran\u00e7ois P\u00e9russe",
+            "sort-name": "P\u00e9russe, Fran\u00e7ois",
+            "aliases": [
+              {
+                "sort-name": "Francois Perusse",
+                "name": "Francois Perusse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1997-10-07",
+      "releases": [
+        {
+          "id": "7d6df19a-8ba8-41f5-83c3-ad3e734b2377",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L'album du peuple, Volume 1",
+          "status": "Official",
+          "disambiguation": "Canada Cassette issue",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b25f7edf-664a-34e3-973d-006e97874f0e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Volume 1",
+            "primary-type": "Album"
+          },
+          "date": "1997-10-07",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1997-10-07",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "58638ae3-598d-340f-8322-7a0e0789820a",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "4520a1e0-24d3-4984-b4ba-36af83fbc48f",
+                  "number": "A5",
+                  "title": "Snack bar chez L\u00e9on",
+                  "length": 159666
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "0a93e177-51ed-4d00-bd61-04970580e49f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L\u2019Album du peuple, Volume 1",
+          "status": "Official",
+          "disambiguation": "Canada CD issue",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b25f7edf-664a-34e3-973d-006e97874f0e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Volume 1",
+            "primary-type": "Album"
+          },
+          "date": "1997-10-07",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1997-10-07",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "2722791e-6193-33e5-93b6-89afbc7518ac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "15be3540-bfdf-3b1a-aefb-a7ddce468ec5",
+                  "number": "5",
+                  "title": "Snack bar chez L\u00e9on",
+                  "length": 159666
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "575264ba-c261-3840-b506-d93e2d7414e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L'album du peuple, Volume 1",
+          "status": "Official",
+          "disambiguation": "France CD issue",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b25f7edf-664a-34e3-973d-006e97874f0e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Volume 1",
+            "primary-type": "Album"
+          },
+          "date": "1997-10-07",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "1997-10-07",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "410c7421-2a4a-375e-b73a-a0205ebb36fe",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "df677092-4381-379f-a257-7f69cf8c1fb1",
+                  "number": "5",
+                  "title": "Snack bar chez L\u00e9on",
+                  "length": 159666
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

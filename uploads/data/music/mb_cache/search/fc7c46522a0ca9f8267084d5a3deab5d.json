@@ -1,0 +1,126 @@
+{
+  "created": "2026-05-18T06:14:06.758Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f379a316-9ccb-4443-8bf8-094790a20f97",
+      "score": 100,
+      "artist-credit-id": "e2d2b627-1c3f-3865-9610-96cfa5953e2a",
+      "title": "Cudzesy",
+      "length": 212466,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Nocny Kochanek",
+          "artist": {
+            "id": "460cd979-52d1-48a8-95be-d37248d71fd1",
+            "name": "Nocny Kochanek",
+            "sort-name": "Nocny Kochanek",
+            "disambiguation": "polish heavy metal group"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "7ce5ace7-fb9b-45bb-ad11-954d16f41da4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "O Jeden Most Za Daleko",
+          "status": "Official",
+          "release-group": {
+            "id": "74b6bac4-e9b5-4598-8a77-81a057772f81",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "O jeden most za daleko",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "7863b99e-d3b7-3964-acd9-ad4021bb96ff",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "05b9ae22-fb1c-44a0-981e-fb4cba661fc1",
+                  "number": "2",
+                  "title": "Cudzesy",
+                  "length": 214667
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "bbed935f-a0da-49d2-9fe7-fa2c3ed4bab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "O jeden most za daleko",
+          "status": "Official",
+          "release-group": {
+            "id": "74b6bac4-e9b5-4598-8a77-81a057772f81",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "O jeden most za daleko",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "e670f20e-1089-3c69-a73f-148a5f8a1be9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "62bb8bbe-759d-4ac9-aa0f-51c1629f4e4c",
+                  "number": "2",
+                  "title": "Cudzesy",
+                  "length": 212466
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "PLP732200001"
+      ]
+    }
+  ]
+}

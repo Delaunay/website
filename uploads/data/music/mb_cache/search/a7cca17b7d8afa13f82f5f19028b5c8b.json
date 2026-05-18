@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:21:10.900Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "05cf7b2b-afed-4465-ab2c-7776484e7810",
+      "score": 100,
+      "artist-credit-id": "ffd09f65-d205-3f9e-8cf9-29f0b6650298",
+      "title": "Careen",
+      "length": 244929,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Zakku",
+          "artist": {
+            "id": "c76654a2-e273-473c-abc5-8b54808add8a",
+            "name": "Zakku",
+            "sort-name": "Zakku"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-09",
+      "releases": [
+        {
+          "id": "fd2e3156-70e8-44b6-ba8b-dc0cf292408c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Adulthood",
+          "status": "Official",
+          "release-group": {
+            "id": "3c4601ce-f19e-497f-89af-14217edc3d4e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Adulthood",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "275a6710-3f70-3933-907d-7150f335c4bf",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b495a2c6-95bc-4d24-b590-8b4768940981",
+                  "number": "5",
+                  "title": "Careen",
+                  "length": 244929
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

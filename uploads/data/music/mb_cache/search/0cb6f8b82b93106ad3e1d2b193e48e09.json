@@ -1,0 +1,78 @@
+{
+  "created": "2026-05-18T06:23:46.084Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f98df65f-124c-4f1b-9ff7-49d9820d0161",
+      "score": 100,
+      "artist-credit-id": "ad8dc412-70c3-3ebf-9968-bc4ff4c8e0e5",
+      "title": "Buffalo Skank",
+      "length": 332230,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Frankel & Harper",
+          "artist": {
+            "id": "24090c67-252a-4332-abfe-eb674fbaade0",
+            "name": "Frankel & Harper",
+            "sort-name": "Frankel & Harper"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "bba0ba03-93c0-4ce1-bf23-9942c5d8bdd8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Time Is Now White, Vol.18",
+          "status": "Official",
+          "release-group": {
+            "id": "ae7a7cd5-756c-455b-be93-e7c251a1423b",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Time Is Now White, Vol.18",
+            "primary-type": "EP"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "dc44a9ff-7739-3c30-98a5-4d84afa377a6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4cdea877-75e0-4bb8-abef-2e9a0ba99fe7",
+                  "number": "1",
+                  "title": "Buffalo Skank",
+                  "length": 332230
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "UKN6K2200601"
+      ]
+    }
+  ]
+}

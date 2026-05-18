@@ -1,0 +1,112 @@
+{
+  "created": "2026-05-18T06:29:24.892Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ae838999-ec76-45f1-9330-042278a42142",
+      "score": 100,
+      "artist-credit-id": "f9522959-a0f1-39ee-8abc-5dd73cefc50a",
+      "title": "Obsidian (Braxton Remix)",
+      "length": 347000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Banco de Gaia",
+          "artist": {
+            "id": "70cc316b-37a3-4174-bdc0-f546b3b3d03c",
+            "name": "Banco de Gaia",
+            "sort-name": "Banco de Gaia",
+            "aliases": [
+              {
+                "sort-name": "Branco de Gaia",
+                "name": "Branco de Gaia",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Blanc\u00f3 DeGia",
+                "name": "Blanc\u00f3 DeGia",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-12-02",
+      "releases": [
+        {
+          "id": "2e8a1268-5542-4827-8d0a-00fde279a07d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "f9522959-a0f1-39ee-8abc-5dd73cefc50a",
+          "count": 1,
+          "title": "Rewritten Histories, Volume 5 (2017-2022)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Banco de Gaia",
+              "artist": {
+                "id": "70cc316b-37a3-4174-bdc0-f546b3b3d03c",
+                "name": "Banco de Gaia",
+                "sort-name": "Banco de Gaia"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0550a804-17ad-40db-bf6c-ec5072c39c5b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rewritten Histories, Volume 5 (2017-2022)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2022-12-02",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2022-12-02",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "3420c04e-5ea6-3fcd-b5c7-1d4cd6ad96a5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "edcf6feb-76df-41c8-b6fa-4bb3e14022bf",
+                  "number": "8",
+                  "title": "Obsidian (Braxton Remix)",
+                  "length": 347000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

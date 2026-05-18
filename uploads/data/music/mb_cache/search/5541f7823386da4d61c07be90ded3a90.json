@@ -1,0 +1,101 @@
+{
+  "created": "2026-05-18T12:35:49.795Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ab2528d9-719f-4261-8098-21849222a0f2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stromae",
+      "sort-name": "Stromae",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "77a56ebd-54af-48fb-9091-c3817c5f3c2e",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Etterbeek",
+        "sort-name": "Etterbeek",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00497406811",
+        "00497406909"
+      ],
+      "isnis": [
+        "0000000084160095"
+      ],
+      "life-span": {
+        "begin": "1985-03-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Van Haver, Paul",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Van Haver",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sromae",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sromae",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "electropop"
+        },
+        {
+          "count": 8,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "french pop"
+        },
+        {
+          "count": 1,
+          "name": "hip house"
+        },
+        {
+          "count": 3,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "art pop"
+        },
+        {
+          "count": 0,
+          "name": "nouvelle chanson fran\u00e7aise"
+        }
+      ]
+    }
+  ]
+}

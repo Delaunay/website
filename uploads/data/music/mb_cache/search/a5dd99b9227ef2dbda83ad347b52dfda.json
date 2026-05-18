@@ -1,0 +1,4910 @@
+{
+  "created": "2026-05-18T06:35:58.640Z",
+  "count": 11,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d46fd8e8-11ca-4796-bdd6-5183c831cde3",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "The House Jack Built",
+      "length": 398933,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-05-04",
+      "releases": [
+        {
+          "id": "362d3e68-1850-449f-b4c1-982b0610a057",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7bb8dd20-d997-4370-945b-d425ff22665f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "45b203b4-a06f-40c8-94c5-bed956505e50",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "a97917b4-aadd-4d7a-8338-511fe3ea6a0c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4e45ba7-919c-4a2d-ad4d-e795b563381c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "679e5701-5801-4a25-b636-8ed7576e40c6",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "b839b013-b450-37d4-ab32-a6f62ed33950",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "a75b3ea0-0160-4eb7-b691-3385db24128a",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "85dc38cb-e852-47f2-bbb3-f5ff4c56c78d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC Germany pressing",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "108bf970-d3e7-3e15-967e-5786f9ce4d97",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9db8805e-bc22-4789-b253-c26435d8f579",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "93c83186-bb6a-4b28-b84c-271cd96db16f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8c4adcef-6f5f-4be1-9dd1-48528a3044bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9a118208-c3a1-4682-af8c-8d0d2676fa4c",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "9b2b2a3b-9883-45ea-abfb-99438448cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "Remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "03f9e146-40ee-42db-aa28-12318bbc2633",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "025fad4b-7476-4837-9bf8-f7a5bc4732f2",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398867
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "71662684-f90e-4ea7-a572-724a7ec70400",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7e4bd8e4-e239-4969-9340-7b6b3ff5265a",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "65e09e55-c900-4b29-ad40-d999bed3424f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "da05ade2-8cee-4292-a06a-fba23382d5b4",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "aec18986-822b-48c2-88f8-54ba00ff1d1d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ee2c688b-5f9a-4131-84b8-c6133c28f60c",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "59522f2a-8a75-4382-965c-9426705fef7a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ae0510b5-9b04-4aac-b063-9c738e9280ae",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "04b02d4c-c8a0-38f7-965c-e5725a8dbc8b",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9dcb5de1-fe6e-49c5-8d67-faa29d1a9e93",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1b7fd7f7-4632-4d07-adf6-3140694364ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC UK pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fc621538-7c3d-38bc-8c23-54ea19626f35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "35104b1d-316c-4e45-a92a-145c1df67a9e",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "caf9aec5-d1e4-4d23-a6ff-5600a2a95c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "cd952b6d-7ca5-3416-825a-9700a1fbe930",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "46f70c03-acd2-46dd-bba5-a118b8d5d1ae",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398867
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f2a03d39-d44b-4c21-b26c-b10a221a0e07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2014-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0675f9f2-a37b-3b5c-80c2-eeb61064d032",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ede6d40e-600b-4317-ac69-b0b62aadf66c",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "b962af25-6981-4f97-aa6f-eab25306addc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "d8187ffe-cdd4-36aa-8854-4123a61d60f5",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "57a992cc-5b94-46a1-8c4e-7b9cc16ef2be",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "b3a25ab9-fc70-4e0c-b2fc-928c293631b0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "BG",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0bbe4d0c-6b35-38a3-b531-e652cf0b0457",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7464caf8-9f5e-4e5c-8744-61348c970085",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1e3b03b3-4485-4d08-beb4-83ac73aee32c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition, reissue",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2023-04-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3c43f054-c8ec-3502-87ec-69c99a01a98c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a8ea7ada-7ff6-4318-9f63-8bc2b7c63a0a",
+                  "number": "3",
+                  "title": "The House That Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "f8614b9e-29a8-35c4-883c-2136ef80cb97",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "50f871b2-6af5-4584-9cfa-adde517df29e",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "41fa7ef7-20f5-44cb-bcef-8dbb5cf957e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f2553e72-e734-3287-b791-680529269d62",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ca2c3b2e-dc54-409d-9b48-c6088a0c5e0f",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "771eab04-c4c5-4a22-9b4d-4c11f1960938",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "051ad4bc-0a64-321a-8372-0dee8ead6d5f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "66f8ff50-cbfd-4873-9df0-4e3756a66082",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "36a26c7d-b372-4b26-aae8-8003b7e71502",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 33,
+          "media": [
+            {
+              "id": "258fb242-8c3e-3475-a642-8a01bbf854e1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "540fbe2e-fed4-4162-83f7-b1791ccaea73",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e1cd6a26-0875-4352-8af0-196972716ac7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1a0f0152-a481-30ac-a37b-aeb276a243c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d7bb73ad-084b-3ab7-90a3-48e6ea1cd094",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "d08247fc-25b6-3570-a794-bed0735a8f86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3568b7be-6abc-3bd3-beae-fa10bd98f5f4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5a6c8831-7c2b-3a58-baf8-c0a25393efde",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "5c4d63a9-065f-4abf-a6d6-9d520985361e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1c50e305-0328-304b-901c-0f624932e05a",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "a4ccc936-d1f7-4b61-a5b8-c46c91ad9a8c",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "909a0c16-4f75-47c3-84b1-000869a3844a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "55a82266-9500-33b1-ba3e-7d2db5eae29c",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "f0c033b3-7032-35be-a23a-6383ed1f9407",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "579d642d-6dbd-4e1f-8ee8-0b7497b48303",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-05-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-05-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "82751a48-d3df-3b3b-8d99-0911d817f2c5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ed6cc994-e371-4a52-99dd-264dba7d1f27",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "08b278ec-b23e-46d5-9d75-37992e841ef6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6e135eb7-1cf6-3467-ba06-3d95f74eb2f7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bbb3c00e-f10f-4b5d-82a9-e3d7b50d82a8",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "de69cdb0-4127-4338-ad92-6fb94f852f7e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8d974fdf-cb9c-3853-9ba1-fb366fbd3a35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "72cd35b4-7524-45a3-bea8-3b0598ec440a",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "2b6cf64a-403b-418f-9a17-70ad8ffac525",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "bb077a23-2bc3-373f-a528-98c818c2890f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "e59655e6-632e-44ec-994d-7ccb35903a0a",
+                  "number": "B1",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "14afa94a-13b2-4d45-a4c2-121394b680ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/MCPS on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "81b8eb20-b73b-3031-ac48-5998b94f7a72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c1b559ba-92cf-4605-849a-cfcb2f469a8e",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398906
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "ae9f2ce4-ee58-4a73-93d4-b8a424fa6610",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f3b10e22-f67b-35c0-b5a3-c6342cbf8d72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6ceb2e27-3ef7-4998-b1ad-bb7cc5da119a",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "56c8bbc8-a9fa-4fd7-ae1d-d3d1eac18c6b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4148366-0482-382b-96b2-f7d2ece0aac4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1fc65234-5dba-4a52-995f-c7215279e746",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "c488e108-c0cd-3117-af76-373a7c71b96c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c1667308-5e04-35ba-924b-361c9c69c4b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d0e02346-015b-3ba6-8b99-6c62c01d1a4a",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 400000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "aae56d3f-d7b4-4620-9c69-df6f9332801a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a19d6baf-3cc1-37b9-94fc-e8e3693bc9e4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ed2fa7ee-8c9e-4fb1-a4e7-083991469735",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398867
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1333f3c2-3061-451b-8908-2e8ed0c18599",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a1be55ab-f6d4-34f9-8fc3-924006a54935",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "910f3f7c-cc52-4c1b-87bf-3b9d887b6213",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "d0edc24b-f201-3076-b015-e54401239a8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-01",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1996-06-01",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "862cbaa4-2fa8-3de8-9840-3c4f346ed8b9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "444cd3d4-8ebf-30f2-9599-6e20ec57cc9a",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398906
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e233c4ef-783f-3d1d-b024-dafd9076325b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "79d0282e-e2a0-3e44-9127-9cd63e8d8f7c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4baf9d27-cc35-3ecf-93b3-75296550b63e",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398933
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6304ebcd-39c1-476f-bca4-6679bb0aa9d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "197e6f1d-e9d1-3619-b74a-c0f2d3f8e465",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6280858f-f03d-3db4-a9a6-419d3373de85",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 400013
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "04b00cfd-7e2e-48fb-b8aa-db3c02745d5f",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "17 Years in the Life of Metallica",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "193f0680-c4a6-3dc2-90a8-45bb3916a0f5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "17 Years in the Life of Metallica",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 40,
+          "media": [
+            {
+              "id": "b34afd9a-9666-34ba-9ffa-82a3005158ab",
+              "position": 3,
+              "track": [
+                {
+                  "id": "287c33a2-ab57-380f-9a65-429361697762",
+                  "number": "5",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "98f69ea0-66e0-4ab4-beea-dd90d1fdc5b7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7bba61a0-2f40-39f4-8304-d88d22616780",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "796af647-9efa-3aa3-97a3-b3c4132600b9",
+                  "number": "A3",
+                  "title": "The House Jack Built",
+                  "length": 399000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "0b277314-7ce2-3793-a1bc-a9d1be3ecc13",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "87767774-97be-39d0-ac20-495ce6538742",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "27f10964-c7ba-336f-a8a5-a159eecd56c3",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398933
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6e077ca1-ed82-4499-81e3-0cc0c19e13d9",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7e96105b-50a1-377b-821a-4dbac6bb94df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f82e6e26-b879-45a8-ba24-3dcda1dd9586",
+                  "number": "3",
+                  "title": "The House Jack Built",
+                  "length": 398933
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400003",
+        "QMKHM1900277",
+        "USEVI9692303",
+        "USEV19692303",
+        "GBAMC9600009"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 6,
+          "name": "alternative rock"
+        },
+        {
+          "count": 8,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "thrash metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 4,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "speed metal"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "american rock"
+        }
+      ]
+    },
+    {
+      "id": "dbf1ef88-fe49-4b13-8ef4-dcf65db8a510",
+      "score": 87,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" demo)",
+      "length": 432682,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "53312db6-849c-4e74-b981-8c3fdc619f74",
+                  "number": "25",
+                  "title": "Jack (\"The House Jack Built\" demo)",
+                  "length": 432693
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 24
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "411d572b-80b1-4c6c-ad22-749a8d3eba31",
+                  "number": "25",
+                  "title": "Jack (\u201cThe House Jack Built\u201d demo)",
+                  "length": 432682
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 24
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f64e511b-a427-4718-8504-e4a575e7b436",
+                  "number": "25",
+                  "title": "Jack (\u201cThe House Jack Built\u201d demo)",
+                  "length": 432682
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 24
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400058"
+      ]
+    },
+    {
+      "id": "987d34d7-8937-46d6-a9e6-82b81b4c9969",
+      "score": 87,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" riff)",
+      "length": 54649,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "496e46ca-0aa9-4ebf-aa2c-30c379d80429",
+                  "number": "5",
+                  "title": "Jack (\"The House Jack Built\" riff)",
+                  "length": 54653
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "aed6ff25-51a1-468c-bd79-dfaba36c09a1",
+                  "number": "5",
+                  "title": "Jack - \u201cThe House Jack Built\u201d Riff",
+                  "length": 54649
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bfa348f8-06a3-4e23-a2ce-1c1fc6059c4d",
+                  "number": "5",
+                  "title": "Jack - \u201cThe House Jack Built\u201d Riff",
+                  "length": 54649
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400038"
+      ]
+    },
+    {
+      "id": "97516d66-7a38-48a4-a961-33f8eac0a407",
+      "score": 82,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "The House Jack Built (Birmingham, England rehearsal)",
+      "length": 434426,
+      "disambiguation": "1996-09, live: NEC Arena, Birmingham, England",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f2d91837-8753-3a5e-b148-7f3295748257",
+              "position": 19,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f3c6b54-8e07-4684-baef-47cd217e5af0",
+                  "number": "13",
+                  "title": "The House Jack Built (Birmingham, England rehearsal)",
+                  "length": 434426
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "7d70e976-5348-4c9b-9be2-7dba234bb13d",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7e1ed295-84dc-4c4b-97fa-75d7021c6365",
+                  "number": "3",
+                  "title": "The House Jack Built (Birmingham, England rehearsal \u2013 September 1996)",
+                  "length": 436173
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "46217b59-0196-49a8-82ce-ae055f4bf443",
+              "position": 14,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "715791c5-119c-4646-8758-3bd4b276d520",
+                  "number": "13",
+                  "title": "The House Jack Built (Birmingham, England rehearsal)",
+                  "length": 434410
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "4fe4ea7c-b89c-4a9a-8666-f00e6a226ddf",
+              "position": 14,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "61498c66-0739-41ab-9a39-4c235d055d81",
+                  "number": "13",
+                  "title": "The House Jack Built (Birmingham, England rehearsal)",
+                  "length": 434410
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "c0b6ad97-62b0-41ed-9bfb-7ad28de9e00f",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "27f82feb-68e7-4506-9470-5addd1ca0293",
+                  "number": "3",
+                  "title": "The House Jack Built (Birmingham, England rehearsal)",
+                  "length": 436173
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400205"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "b93ee0f9-bc96-4873-aebc-1bfb3aab6fdf",
+      "score": 82,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Egypt (\"The House Jack Built\" vocal idea)",
+      "length": 432158,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d6c9ba98-6281-3eb6-8d86-dfd7f871e6b2",
+              "position": 9,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "26b7641f-2cf4-466c-8081-e60ff9f5d057",
+                  "number": "6",
+                  "title": "Egypt (\"The House Jack Built\" vocal idea)",
+                  "length": 432160
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "16db5912-dfc9-4f24-be48-7a2ecc154f0f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0ae0bec4-2155-4289-8060-4de467c09029",
+                  "number": "6",
+                  "title": "Egypt (\u201cThe House Jack Built\u201d vocal idea)",
+                  "length": 432158
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "8cc3f647-71af-4c92-afc0-d166e7eab26f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c1d2442c-7ea1-4307-9500-155f55394b17",
+                  "number": "6",
+                  "title": "Egypt (\u201cThe House Jack Built\u201d vocal idea)",
+                  "length": 432158
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400068"
+      ]
+    },
+    {
+      "id": "c9939e75-0d36-4756-87ac-2994c4ed5b73",
+      "score": 82,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "The House Jack Built (Hun Sound Rehearsal)",
+      "length": 452422,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "7fc2a450-0262-3303-aa49-2942acb45835",
+              "position": 17,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "19647ca4-fa27-4f9f-b111-2ffe5c5b682d",
+                  "number": "9",
+                  "title": "The House Jack Built (Hun Sound rehearsal)",
+                  "length": 452413
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "b96e0ef4-d412-4c51-905d-d5adba6968fa",
+              "position": 12,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5e344e8d-7c20-4eec-a10e-bab483f46e36",
+                  "number": "9",
+                  "title": "The House Jack Built (Hun Sound rehearsal)",
+                  "length": 452422
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "c7e2684e-ccfc-45a5-8ccb-8cff14b575e8",
+              "position": 12,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "531da591-627b-434e-909a-3d4a791c90fd",
+                  "number": "9",
+                  "title": "The House Jack Built (Hun Sound rehearsal)",
+                  "length": 452422
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400171"
+      ]
+    },
+    {
+      "id": "2b14f3d4-9736-497e-89e9-060e82f02ba7",
+      "score": 82,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" take 16)",
+      "length": 435859,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "deec9c1a-c00c-3a2c-af3e-682be88fb2e1",
+              "position": 10,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d7348eda-8e87-4d18-9c27-ae689b037bd7",
+                  "number": "5",
+                  "title": "Jack (\"The House Jack Built\" take 16)",
+                  "length": 435866
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e51b58e5-4d2c-49ac-ab50-1cdcf9b31ee1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fbd564b3-17b3-4f45-9ae7-e4b9f177145a",
+                  "number": "5",
+                  "title": "Jack (\u201cThe House Jack Built\u201d take 16)",
+                  "length": 435859
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "ed486ab9-db3c-471e-8957-1c9d73bdf6c1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "358428eb-9f82-41e2-9f72-8e398c887054",
+                  "number": "5",
+                  "title": "Jack (\u201cThe House Jack Built\u201d take 16)",
+                  "length": 435859
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400079"
+      ]
+    },
+    {
+      "id": "d4b08d7d-63d7-44a9-957d-e5036b68b91c",
+      "score": 82,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" riff II)",
+      "length": 43005,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c6458e84-44fc-47fa-90a8-9b66e4ec0b4f",
+                  "number": "6",
+                  "title": "Jack (\"The House Jack Built\" riff II)",
+                  "length": 43013
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2897f676-8808-4fec-a4fc-fe826e7d9a93",
+                  "number": "6",
+                  "title": "Jack - \u201cThe House Jack Built\u201d Riff II",
+                  "length": 43005
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ca2cbec8-bce0-433a-86a8-d80587bbb852",
+                  "number": "6",
+                  "title": "Jack - \u201cThe House Jack Built\u201d Riff II",
+                  "length": 43005
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400039"
+      ]
+    },
+    {
+      "id": "6734d6ef-ffff-4672-a577-b0cacfe270f3",
+      "score": 74,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" original arrangement rough mix)",
+      "length": 446570,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "336bcd3d-38f3-3bff-8a46-45740878d536",
+              "position": 11,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6471cccf-fb1a-4de3-b07d-02d4cc74f0e8",
+                  "number": "2",
+                  "title": "Jack (\"The House Jack Built\" original arrangement rough mix)",
+                  "length": 446573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "61d0a1e4-18ae-49d7-859e-2c06030ce473",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8c31b664-2cad-4bff-a8dc-2d42acc9e52d",
+                  "number": "2",
+                  "title": "Jack (\u201cThe House Jack Built\u201d original Arrangement rough mix)",
+                  "length": 446570
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "339e64b9-c5ad-47b9-b4ff-9dc1c19b34da",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "10faf55f-9139-45ab-93a3-cce1c735ec02",
+                  "number": "2",
+                  "title": "Jack (\u201cThe House Jack Built\u201d original Arrangement rough mix)",
+                  "length": 446570
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400089"
+      ]
+    },
+    {
+      "id": "8c10f774-32f0-4936-86d3-1ef8be3fecc0",
+      "score": 74,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Jack (\"The House Jack Built\" more FX alternate mix)",
+      "length": 430418,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "00e6543a-d4cf-390a-9529-8f33abfca919",
+              "position": 12,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d7666094-e0b9-40bb-9629-bb38caa1baed",
+                  "number": "11",
+                  "title": "Jack (\"The House Jack Built\" more FX alternate mix)",
+                  "length": 430426
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "78719221-0e50-4c39-9b9e-d31956532918",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7358d287-d2f0-49a1-b26b-ac4a2907a79f",
+                  "number": "11",
+                  "title": "Jack (\u201cThe House Jack Built\u201d More FX alternate mix)",
+                  "length": 430418
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "99da2408-f834-465e-bd74-0a89693701db",
+              "position": 7,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4fe0e966-2569-404f-8db4-3ae9b2556ab4",
+                  "number": "11",
+                  "title": "Jack (\u201cThe House Jack Built\u201d More FX alternate mix)",
+                  "length": 430418
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400112"
+      ]
+    }
+  ]
+}

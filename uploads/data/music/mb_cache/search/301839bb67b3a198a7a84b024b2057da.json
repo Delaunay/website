@@ -1,0 +1,157 @@
+{
+  "created": "2026-05-18T05:26:06.743Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d03690d3-fcb5-4f3b-ba16-170516e91dff",
+      "score": 100,
+      "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+      "title": "Les Simpsons passent au Bart",
+      "length": 137000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fran\u00e7ois P\u00e9russe",
+          "artist": {
+            "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+            "name": "Fran\u00e7ois P\u00e9russe",
+            "sort-name": "P\u00e9russe, Fran\u00e7ois",
+            "aliases": [
+              {
+                "sort-name": "Francois Perusse",
+                "name": "Francois Perusse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1991-10-21",
+      "releases": [
+        {
+          "id": "6fe415a8-d959-42a5-be86-2f3d3ce6885c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L'album du peuple, Tome 1",
+          "status": "Official",
+          "disambiguation": "Original cassette issue by Trafic",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "252a7b8e-5c20-3643-8eaa-a8de41e350b1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 1",
+            "primary-type": "Album"
+          },
+          "date": "1991-10-21",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1991-10-21",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9fe33be2-2f4a-33ed-9927-a2f66b7e8638",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "10473e3a-9df0-4e77-8a10-f9dcff78eaa1",
+                  "number": "B2",
+                  "title": "Les Simpsons passent au bart",
+                  "length": 137000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "7e5ee9ff-e07d-439d-8aed-626f0f603e5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L\u2019Album du peuple, Tome 1",
+          "status": "Official",
+          "disambiguation": "Original CD issue by Trafic",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "252a7b8e-5c20-3643-8eaa-a8de41e350b1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 1",
+            "primary-type": "Album"
+          },
+          "date": "1991-10-21",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1991-10-21",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "7edfde0e-8c67-3f1a-898b-915f50c3a4a3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cfda0b0d-4fba-42a3-a8ef-e0729de6a485",
+                  "number": "9",
+                  "title": "Les Simpsons passent au bart",
+                  "length": 137000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

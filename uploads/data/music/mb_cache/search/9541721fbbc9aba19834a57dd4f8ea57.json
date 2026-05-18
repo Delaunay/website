@@ -1,0 +1,131 @@
+{
+  "created": "2026-05-18T08:09:50.813Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f224fcea-0865-40f9-9268-5211e89202e4",
+      "score": 100,
+      "artist-credit-id": "2557d430-ff0c-4a5b-9815-66a0d766a917",
+      "title": "Natural Melody",
+      "length": 259866,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Queen Omega",
+          "artist": {
+            "id": "8636578b-9eeb-4bc5-844f-6816890d230c",
+            "name": "Queen Omega",
+            "sort-name": "Queen Omega"
+          }
+        },
+        {
+          "name": "Lions Flow",
+          "artist": {
+            "id": "9aac7a2a-621b-4f43-8c0a-d51fd8b99750",
+            "name": "Lions Flow",
+            "sort-name": "Flow, Lions"
+          }
+        }
+      ],
+      "first-release-date": "2023-03-24",
+      "releases": [
+        {
+          "id": "bc642327-22db-4729-90c3-9ebf8ebd5575",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Freedom Legacy",
+          "status": "Official",
+          "release-group": {
+            "id": "cde8944d-ee55-4fc9-bd2a-406e2837ff0b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Freedom Legacy",
+            "primary-type": "Album"
+          },
+          "date": "2023-03-24",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-03-24",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7a2392f3-5032-366f-baef-c092d56a4833",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "99627fd4-f58b-401e-8c56-523bbf3dcc58",
+                  "number": "12",
+                  "title": "Natural Melody",
+                  "length": 259866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "fae45193-059b-42d7-9ed5-b85a94903c38",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Freedom Legacy",
+          "status": "Official",
+          "release-group": {
+            "id": "cde8944d-ee55-4fc9-bd2a-406e2837ff0b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Freedom Legacy",
+            "primary-type": "Album"
+          },
+          "date": "2023-03-24",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-03-24",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "057a628e-0574-3e79-a691-c835f160dca6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7399d18b-0516-4951-9651-fcc68f103a90",
+                  "number": "12",
+                  "title": "Natural Melody",
+                  "length": 259973
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

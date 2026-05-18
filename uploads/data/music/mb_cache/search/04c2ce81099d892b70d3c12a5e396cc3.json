@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T06:14:02.869Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "532ba84c-01ae-4ff8-8d4b-836949ab937a",
+      "score": 100,
+      "artist-credit-id": "97be6076-d8c4-3496-9003-9900529c00f4",
+      "title": "Follow Your Heart",
+      "length": 262062,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Meridian",
+          "artist": {
+            "id": "3dc51f5d-4534-4ad4-9725-4aa2a7f6bac0",
+            "name": "Meridian",
+            "sort-name": "Meridian",
+            "disambiguation": "Denmark Heavy Metal"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "c91345c1-5853-4185-99f1-056093d01dfd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "The 4th Dimension",
+          "status": "Official",
+          "release-group": {
+            "id": "4d1b0de9-cafd-4927-8cc8-8565c55c83a6",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 4th Dimension",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "bac9e9f9-99e2-3dc1-9dbe-a77570db3e2f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b038f4d4-7f8f-4620-9ab2-5d4aa42a9f81",
+                  "number": "4",
+                  "title": "Follow Your Heart",
+                  "length": 262062
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

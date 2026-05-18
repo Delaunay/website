@@ -1,0 +1,593 @@
+{
+  "created": "2026-05-18T05:58:49.750Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3b4d262e-955b-4353-b791-df7f6b6be95e",
+      "score": 100,
+      "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+      "title": "Everybody\u2019s Changing",
+      "length": 160417,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lily Allen",
+          "artist": {
+            "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+            "name": "Lily Allen",
+            "sort-name": "Allen, Lily",
+            "aliases": [
+              {
+                "sort-name": "Cooper, Lily Rose Beatrice",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lily Rose Beatrice Cooper",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "2011-06-11",
+                "end-date": null
+              },
+              {
+                "sort-name": "Lily Allen & Dizzee Rascal",
+                "name": "Lily Allen & Dizzee Rascal",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Allen, Lily Rose Beatrice",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lily Rose Beatrice Allen",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lilly Allen",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Lilly Allen",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cooper, Lily Rose",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lily Rose Cooper",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "2012-08-02",
+                "end-date": "2013-08-30"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-07-14",
+      "releases": [
+        {
+          "id": "0728beb5-2cb4-4768-a963-73d6862360e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+          "count": 2,
+          "title": "Alright, Still",
+          "status": "Official",
+          "disambiguation": "deluxe edition, clean version",
+          "artist-credit": [
+            {
+              "name": "Lily Allen",
+              "artist": {
+                "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+                "name": "Lily Allen",
+                "sort-name": "Allen, Lily"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "06e9ba8d-6920-3a47-aa3a-6fa63224ef3f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alright, Still",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "af3fec6f-5992-4f3d-9237-f87e18d32323",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f004523-4acb-4acc-bd3d-1c1915cdfc9c",
+                  "number": "7",
+                  "title": "Everybody's Changing",
+                  "length": 160417
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "3f760a44-09a2-4203-a9d7-2fda83578999",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Saturday Sessions: The Dermot O\u2019Leary Show",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8746fa2a-1c46-3903-8716-d242c469e98a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Saturday Sessions: The Dermot O\u2019Leary Show",
+            "disambiguation": "2007",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-07-23",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2007-07-23",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 44,
+          "media": [
+            {
+              "id": "3e9ac30a-2a42-3173-b4c2-af9f36d635d5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64a97a36-6b6c-38f5-913c-5428faa93041",
+                  "number": "2",
+                  "title": "Everybody\u2019s Changing",
+                  "length": 160480
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "7421b89f-b801-474a-857b-4c3c465b77da",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "100 Greatest: Covers",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ff61b3a7-e05d-467d-96f0-48a6d4415dec",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Greatest: Covers",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 100,
+          "media": [
+            {
+              "id": "40b5ae90-9359-39b5-ba3d-606b4b7da461",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "186190ce-c314-4a06-b43a-5f425549a453",
+                  "number": "61",
+                  "title": "Everybody\u2019s Changing",
+                  "length": 160000
+                }
+              ],
+              "track-count": 100,
+              "track-offset": 60
+            }
+          ]
+        },
+        {
+          "id": "a9ff1a75-fe6b-4fcb-aab1-5716a197e230",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Saturday Sessions: The Dermot O'Leary Show",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8746fa2a-1c46-3903-8716-d242c469e98a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Saturday Sessions: The Dermot O\u2019Leary Show",
+            "disambiguation": "2007",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "63320c9f-b1b4-3718-8153-0a465ddf1d8e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "28404086-ba94-4603-811b-791148fa1d0b",
+                  "number": "3",
+                  "title": "Everybody's Changing",
+                  "length": 160480
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e139a2b5-b7c0-4057-831b-0b2cd226e05e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+          "count": 1,
+          "title": "Alfie",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Lily Allen",
+              "artist": {
+                "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+                "name": "Lily Allen",
+                "sort-name": "Allen, Lily"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e84ac4bf-4ed3-48a5-8f36-34d78ef65e6d",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Alfie",
+            "primary-type": "EP"
+          },
+          "date": "2007-07-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-07-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "9a034353-009c-357b-9436-48c367b0bb82",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e0de8e53-b94f-3b19-9978-e9f8e6204e86",
+                  "number": "3",
+                  "title": "Everybody's Changing",
+                  "length": 162773
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "850d110e-7d74-45ce-b657-124a540fe006",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+          "count": 2,
+          "title": "Alright, Still",
+          "status": "Official",
+          "disambiguation": "deluxe edition, explicit version",
+          "artist-credit": [
+            {
+              "name": "Lily Allen",
+              "artist": {
+                "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+                "name": "Lily Allen",
+                "sort-name": "Allen, Lily"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "06e9ba8d-6920-3a47-aa3a-6fa63224ef3f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alright, Still",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "e1209938-791f-39c4-8eb1-3d7a7ca30960",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "981a8328-7c23-43d7-96ea-1c775fd9a4c3",
+                  "number": "7",
+                  "title": "Everybody\u2019s Changing",
+                  "length": 160000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAYE0700312"
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 0,
+          "name": "cover"
+        },
+        {
+          "count": 0,
+          "name": "bonus"
+        },
+        {
+          "count": 0,
+          "name": "keane"
+        }
+      ]
+    },
+    {
+      "id": "506a3911-2507-4001-9a5e-53ed72a1c857",
+      "score": 100,
+      "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+      "title": "Everybody\u2019s Changing",
+      "length": 183799,
+      "disambiguation": "live, 2007-11-10: Planeta Terra Festival: Villa dos Galp\u00f5es, S\u00e3o Paulo, Brazil",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lily Allen",
+          "artist": {
+            "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+            "name": "Lily Allen",
+            "sort-name": "Allen, Lily",
+            "aliases": [
+              {
+                "sort-name": "Cooper, Lily Rose Beatrice",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lily Rose Beatrice Cooper",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "2011-06-11",
+                "end-date": null
+              },
+              {
+                "sort-name": "Lily Allen & Dizzee Rascal",
+                "name": "Lily Allen & Dizzee Rascal",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Allen, Lily Rose Beatrice",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Lily Rose Beatrice Allen",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lilly Allen",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Lilly Allen",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cooper, Lily Rose",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lily Rose Cooper",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "2012-08-02",
+                "end-date": "2013-08-30"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "1c635ee2-b2f0-4629-aad2-c6ca37418718",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "fa8f06cb-a8e8-3ad4-901d-2f7dc2526206",
+          "count": 1,
+          "title": "Live at Alright, Still... Tour",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Lily Allen",
+              "artist": {
+                "id": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+                "name": "Lily Allen",
+                "sort-name": "Allen, Lily"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b8779986-75ee-4aa1-ab16-fd031d93de2d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Alright, Still... Tour",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "740aa364-6d19-34ef-9c3a-dfa1bc45f474",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "45094ce6-5cdb-4238-9302-016d5009e7fc",
+                  "number": "8",
+                  "title": "Everybody's Changing (live in Brazil)",
+                  "length": 183799
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

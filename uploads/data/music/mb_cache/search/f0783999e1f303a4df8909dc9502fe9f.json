@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T07:36:26.892Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "c77ce75e-21bf-475e-9236-14625e13932a",
+      "score": 100,
+      "artist-credit-id": "9540ca24-f074-3d95-8166-1afd5d43897b",
+      "title": "Reach Out",
+      "length": 282107,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Decoy",
+          "artist": {
+            "id": "5ded6cb9-ef2f-4e56-bdfb-683341cee0cb",
+            "name": "Decoy",
+            "sort-name": "Decoy",
+            "disambiguation": "Metal band fronted by Peter Sundell"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "b430751f-1996-46a2-9643-c6a0711d092a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Without Warning",
+          "status": "Official",
+          "release-group": {
+            "id": "8d6c40b2-1757-44e6-9a9a-645020c1aa62",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Without Warning",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "28a89157-51c6-3b69-bd9e-820c0a800a2c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d7eabb7e-50c5-4ce5-81e1-2a9780834746",
+                  "number": "9",
+                  "title": "Reach Out",
+                  "length": 282107
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

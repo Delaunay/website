@@ -1,0 +1,173 @@
+{
+  "created": "2026-05-18T07:06:15.771Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cb0acb24-7699-421d-ac79-efe22ed2c06b",
+      "score": 100,
+      "artist-credit-id": "0982f305-838e-36a1-93ad-f761be6f50f6",
+      "title": "TV Pity Party",
+      "length": 167643,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bloods",
+          "artist": {
+            "id": "473a451b-59f5-4606-9920-677f6ff20316",
+            "name": "Bloods",
+            "sort-name": "Bloods",
+            "disambiguation": "Australian garage-punk-pop trio"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "05d51130-000f-4436-801d-c2c871b483a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Together, Baby!",
+          "status": "Official",
+          "disambiguation": "Deluxe Edition",
+          "release-group": {
+            "id": "5b542a60-425a-42e9-9fd1-82e2adf95af0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Together, Baby!",
+            "primary-type": "Album"
+          },
+          "date": "2023-05-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023-05-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "269349b3-89e6-319f-92f9-4333e5a493ed",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6da98e13-cb22-467f-b441-26611acc2c03",
+                  "number": "8",
+                  "title": "TV Pity Party",
+                  "length": 167643
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "f1ffd2cb-57a9-40e9-b4f3-5c0211df507b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Together, Baby!",
+          "status": "Official",
+          "release-group": {
+            "id": "5b542a60-425a-42e9-9fd1-82e2adf95af0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Together, Baby!",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "dd9cc082-9871-30ad-8477-f62f2f69e9cd",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ce03753d-0acb-40f7-a351-a10b4a9e22bd",
+                  "number": "8",
+                  "title": "TV Pity Party",
+                  "length": 167643
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "964c2920-8286-4a0f-a654-30962f384052",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Together, Baby!",
+          "status": "Official",
+          "release-group": {
+            "id": "5b542a60-425a-42e9-9fd1-82e2adf95af0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Together, Baby!",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "b0e2f0c8-8c69-379b-99bd-6a5ea840315c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b80d1597-92a9-4953-b4eb-fbd8cdf9aff8",
+                  "number": "B3",
+                  "title": "TV Pity Party"
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QZGKC2201007"
+      ]
+    }
+  ]
+}

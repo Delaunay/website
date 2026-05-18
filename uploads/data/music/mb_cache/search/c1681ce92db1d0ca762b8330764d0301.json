@@ -1,0 +1,123 @@
+{
+  "created": "2026-05-18T07:07:07.823Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "222ea492-5146-4367-8329-7c8d0aa65ccf",
+      "score": 100,
+      "artist-credit-id": "c30cd0fb-ce6d-4251-9ca2-ab587371b12a",
+      "title": "Triest",
+      "length": 192800,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "AYMZ",
+          "artist": {
+            "id": "b7cbcc85-53f8-41bb-8d24-87b0f10fa696",
+            "name": "AYMZ",
+            "sort-name": "AYMZ",
+            "disambiguation": "New music project of Amy Wald"
+          }
+        }
+      ],
+      "first-release-date": "2022-08-19",
+      "releases": [
+        {
+          "id": "eb77a3aa-3dcc-4f78-93b1-a83fbf761903",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Triest",
+          "status": "Official",
+          "release-group": {
+            "id": "f8a3d8f5-c574-44fe-bdb4-2460d5370e5e",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Triest",
+            "primary-type": "Single"
+          },
+          "date": "2022-08-19",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-08-19",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "bb16cb5d-0ab3-4cf9-90ca-c18256b6b343",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "83ee0a04-c0a4-4001-8226-ca05fbd41713",
+                  "number": "2",
+                  "title": "Triest",
+                  "length": 192800
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "edaf364f-033f-457c-8423-2292e2113437",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "PYROLYSE",
+          "status": "Official",
+          "release-group": {
+            "id": "a91ab6f3-c630-42db-92bf-67149e377bc1",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "PYROLYSE",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "50fde4ab-6cb6-4ad0-b2fb-d9b40a3f5426",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "47e62982-0ce4-48d9-a401-de9890ac2071",
+                  "number": "11",
+                  "title": "Triest",
+                  "length": 194000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

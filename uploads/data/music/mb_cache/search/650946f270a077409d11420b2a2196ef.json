@@ -1,0 +1,105 @@
+{
+  "created": "2026-05-18T05:38:48.585Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f1bed346-7523-4543-ad97-178518b06d0a",
+      "score": 100,
+      "artist-credit-id": "83b6a4d6-360e-3802-8fd3-d23e00ef6fb0",
+      "title": "Tous les m\u00eame",
+      "length": 258720,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "La Fouine",
+          "artist": {
+            "id": "998f1ece-a2b0-47d2-93df-17553430ab73",
+            "name": "La Fouine",
+            "sort-name": "Fouine, La",
+            "disambiguation": "French rapper",
+            "aliases": [
+              {
+                "sort-name": "Mouhid, Laounni",
+                "name": "Laounni Mouhid",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-05-19",
+      "releases": [
+        {
+          "id": "4f256978-be27-43e2-b125-3e41bcc23510",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Plan\u00e8te Rap 2009, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b61fe73-c932-4bfe-8e9c-b5bb97eca619",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Plan\u00e8te Rap 2009, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-05-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-05-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "8f04c080-60bd-3919-a3b7-1b6dfbb0180b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d987118f-e4fd-4b3f-8c79-6871841eeef4",
+                  "number": "4",
+                  "title": "Tous les m\u00eame",
+                  "length": 258720
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

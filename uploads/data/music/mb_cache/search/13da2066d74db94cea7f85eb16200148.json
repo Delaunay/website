@@ -1,0 +1,736 @@
+{
+  "created": "2026-05-18T05:57:49.297Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5620ef2d-c053-4e3c-b413-216d0ea40e96",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Linkage",
+      "length": 313000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-02-14",
+      "releases": [
+        {
+          "id": "b756fe9f-2e91-4931-ae95-92594d1b6d8e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "ATTITUDE 2017 - Live and documents - (Complete Edition)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d8edd8ea-f72a-4511-bfb7-722122a086cd",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Attitude 2017 - Live and Documents",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018-02-14",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-02-14",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "e0d05bcf-9822-398f-bc0b-d43ee7fc9ff0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d6ad44ca-18cb-42b4-87c9-b5cc55918d88",
+                  "number": "6",
+                  "title": "Linkage",
+                  "length": 313000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ea941de1-44d1-4c3d-bd47-5ebcbbd73af4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 3,
+          "title": "Attitude 2017 - Live and Documents",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d8edd8ea-f72a-4511-bfb7-722122a086cd",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Attitude 2017 - Live and Documents",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018-02-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2018-02-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 45,
+          "media": [
+            {
+              "id": "b8cf5112-aeac-37c6-ade0-6d9125b9b62a",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e4a2ca56-fb67-425c-86a1-827d45c126c9",
+                  "number": "6",
+                  "title": "Linkage",
+                  "length": 313000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPF970701640"
+      ]
+    },
+    {
+      "id": "2753d899-ca92-4553-8ca7-255e86821184",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "LINKAGE",
+      "length": 290000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2017-06-21",
+      "releases": [
+        {
+          "id": "4d5e8cca-1792-4606-85b9-b2ebc8fdb9b0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Engraved",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7ef2fa29-a3c2-40e1-8360-85f9eb4b271e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Engraved",
+            "primary-type": "Album"
+          },
+          "date": "2017-06-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2017-06-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "b054b8ab-f051-31cf-aef3-251bca908366",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2cebb1b9-736f-480d-a991-679310f29226",
+                  "number": "4",
+                  "title": "Linkage",
+                  "length": 290000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "9de7bb86-4a14-40df-81a4-29d2d1f1c0dd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "ENGRAVED",
+          "status": "Official",
+          "disambiguation": "\u901a\u5e38\u76e4",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7ef2fa29-a3c2-40e1-8360-85f9eb4b271e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Engraved",
+            "primary-type": "Album"
+          },
+          "date": "2017-06-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2017-06-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "ee8e5d42-fb98-361b-8450-a1d91531fe62",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f952ffda-bd2e-4269-bdae-53eccdb98f89",
+                  "number": "4",
+                  "title": "LINKAGE"
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPPO01703116"
+      ]
+    },
+    {
+      "id": "cc584851-0e87-4e20-8a29-6084bc0ef4ec",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Linkage",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-02-14",
+      "releases": [
+        {
+          "id": "ea941de1-44d1-4c3d-bd47-5ebcbbd73af4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 3,
+          "title": "Attitude 2017 - Live and Documents",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d8edd8ea-f72a-4511-bfb7-722122a086cd",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Attitude 2017 - Live and Documents",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018-02-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2018-02-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 45,
+          "media": [
+            {
+              "id": "22046e96-64a2-3870-8e1a-0da0b7c226f2",
+              "position": 1,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "32d5f2db-5194-494e-933d-d41809c22185",
+                  "number": "6",
+                  "title": "Linkage"
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12fc38d9-bddb-465d-a404-5d01bbda5732",
+      "score": 100,
+      "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+      "title": "Linkage",
+      "length": 291000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "ANTHEM",
+          "artist": {
+            "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+            "name": "ANTHEM",
+            "sort-name": "ANTHEM",
+            "disambiguation": "Japanese heavy metal band",
+            "aliases": [
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "ANTHEM",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30a2\u30f3\u30bb\u30e0",
+                "name": "\u30a2\u30f3\u30bb\u30e0",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "b0646f2b-5032-4ff8-9b1b-4ef16c8bbab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3e257979-c51a-3747-91e9-0c44dd331531",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "77956d31-d01c-4b83-8747-5d063ae59092",
+                  "number": "5",
+                  "title": "Linkage",
+                  "length": 291000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "42d561ee-1c2c-4287-8fb2-abdbe24e25af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "disambiguation": "\u521d\u56de\u9650\u5b9a\u76e4",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "532d956c-eb0d-3ca9-91e6-5209b801cf72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f89e7452-7ab1-4a2d-a2e3-6a6cd4fd41d1",
+                  "number": "5",
+                  "title": "Linkage",
+                  "length": 291000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "e1f68ede-eaea-4c50-a0f8-656c6a5a28fa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 2,
+          "title": "Nucleus",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "422ef718-011d-36fe-862f-b1ab3dee8244",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "05321f15-c66e-4e0f-a60e-4b667290ee7d",
+                  "number": "5",
+                  "title": "Linkage",
+                  "length": 291000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "a0b15c7f-dcc9-4da7-9a05-8d5933d5710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1eaa196e-288f-327e-a102-0bda2911402e",
+          "count": 1,
+          "title": "NUCLEUS",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "ANTHEM",
+              "artist": {
+                "id": "b4a99553-a46f-40e7-b371-ba144b5859f3",
+                "name": "ANTHEM",
+                "sort-name": "ANTHEM",
+                "disambiguation": "Japanese heavy metal band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "be0c5197-7a99-4eaf-a2e9-4c90ad34758d",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nucleus",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5c518ba8-1c1b-305f-bc32-90ee7618c07c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d21d0e92-6329-45aa-8a4f-27d56f177956",
+                  "number": "5",
+                  "title": "Linkage",
+                  "length": 291000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "JPF970701838"
+      ]
+    }
+  ]
+}

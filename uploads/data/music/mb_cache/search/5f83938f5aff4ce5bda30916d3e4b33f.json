@@ -1,0 +1,1247 @@
+{
+  "created": "2026-05-18T06:01:26.787Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "63385d4e-5390-468b-a7b7-ff1232b11a45",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "American Witch",
+      "length": 228000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-03-27",
+      "releases": [
+        {
+          "id": "d2cc6127-3c33-4dd0-a737-b7c8d59bd880",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Promo Only: Modern Rock Radio, May 2006",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d8ef7166-2410-3a2d-8213-eb7b77d55419",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Promo Only: Modern Rock Radio, May 2006",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006-04-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-04-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "dedb9a9c-3b62-309b-a153-bfcb316fa96c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4f2c92b6-4f07-369f-b00d-34d4274f535f",
+                  "number": "7",
+                  "title": "American Witch",
+                  "length": 229640
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "5ed3284d-4087-4d2b-8b3d-614bd34c1afb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Halloween Horrors",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1ade8047-80c9-4d2f-b176-16cf9a2a74a0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Halloween Horrors",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 30,
+          "media": [
+            {
+              "id": "ef7f097f-e4e8-3f07-b1b4-bee4d02c7e1b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "da547b3f-9eda-4d75-a826-5d88d30e7c26",
+                  "number": "3",
+                  "title": "American Witch",
+                  "length": 227986
+                }
+              ],
+              "track-count": 30,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e87ed57a-5c78-408f-b752-0308b5dbe702",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "American Witch",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "60360dc2-a6d0-4109-878e-ce810d654a4e",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "American Witch",
+            "primary-type": "Single"
+          },
+          "date": "2006",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "6374111f-992c-3a32-aac3-70bcb99e6ff2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6bafff0d-f61b-49b9-822a-832f9a6e4987",
+                  "number": "1",
+                  "title": "American Witch",
+                  "length": 227000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fa728de9-9d35-45c8-a878-e99c272a4c92",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ac0989c-d1b1-4c32-a4a0-7de8a52da4bf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "2efd9fc2-7a25-3881-8fc1-8701ac3bd3c7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d4863a51-45d0-3496-a7a8-960cceaa1154",
+                  "number": "6",
+                  "title": "American Witch",
+                  "length": 229000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "7e8b4246-1380-47aa-a8e7-4d69c1e91c3a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Educated Horses",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "86978ad4-fe0f-3680-b69d-99e147409e59",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Educated Horses",
+            "primary-type": "Album"
+          },
+          "date": "2006-03-28",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2006-03-28",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "79688b9f-2b26-3640-b308-c6a374134e3d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2c8874b5-c41b-46e7-9aa6-76cd1f25448c",
+                  "number": "2",
+                  "title": "American Witch",
+                  "length": 228000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "ddbff957-673a-4c38-bea6-74b9f6f7a535",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Concrete Approved: April Sampler 2006",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c91b861e-a30b-3937-8bcb-f1267063b40e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Concrete Approved: April Sampler 2006",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "056d0ab2-5030-349e-a62f-ade5d83e2754",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70ac5b74-2d1b-3818-a028-e65bce557264",
+                  "number": "1",
+                  "title": "American Witch",
+                  "length": 230053
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "df5256d3-4781-4603-8758-c70418abd5bf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 5,
+          "title": "5 Classic Albums",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7c8637c0-4c72-49d4-94d5-a4da7b830ddb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "5 Classic Albums",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-05-19",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-05-19",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 59,
+          "media": [
+            {
+              "id": "c909875d-1bdb-3e7a-bac1-3b9384029ec3",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4209b2cb-9082-44bb-8187-4c09183a845b",
+                  "number": "2",
+                  "title": "American Witch",
+                  "length": 228000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "cd6177d9-c197-4fb9-b399-285efffae278",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 2,
+          "title": "ICON 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ee1d8a16-4933-45fc-afaa-dd262a7e8c4f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ICON",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-08-31",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-08-31",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "9e00099e-5ee6-3502-b987-141b22fbe6ef",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a552ba9e-cd21-3265-a645-87585098dc8b",
+                  "number": "6",
+                  "title": "American Witch",
+                  "length": 229146
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "bb721db0-7bd4-45b6-a46f-f6933e03857c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Icon",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ee1d8a16-4933-45fc-afaa-dd262a7e8c4f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ICON",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-08-31",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-08-31",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "b64ddd2d-7c13-3e1b-a3bb-6813bb8f1329",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4cfd4a7a-ce5b-3017-a726-6395986ef174",
+                  "number": "9",
+                  "title": "American Witch",
+                  "length": 228986
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "d9294662-5a24-37ab-9fd7-e04a2480ab52",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Educated Horses",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "86978ad4-fe0f-3680-b69d-99e147409e59",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Educated Horses",
+            "primary-type": "Album"
+          },
+          "date": "2006-03-27",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-03-27",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f858c07b-e597-39a7-9108-084717ad59b7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "376c81b0-4185-3ae4-92c0-cad9e17e775e",
+                  "number": "2",
+                  "title": "American Witch",
+                  "length": 228000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c76dc53d-a2ad-4c68-9ce4-ffb01b6c2d54",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Educated Horses",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "86978ad4-fe0f-3680-b69d-99e147409e59",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Educated Horses",
+            "primary-type": "Album"
+          },
+          "date": "2006-03-28",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-03-28",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "503e7fa3-6955-3853-8e9c-3e410d132c8d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "db9c9a43-0a6d-3e33-8195-a491bf5345d7",
+                  "number": "2",
+                  "title": "American Witch",
+                  "length": 228000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "92ac50ce-f0f6-411c-85fe-b40f5b2d1208",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Crusty Demons: Unleash Hell",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ecc8f469-4a9a-43e4-8469-04a5957c3046",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Crusty Demons: Unleash Hell",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "19ad3e5a-31a1-390e-b996-045fa8f9ac44",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f87984f4-ed19-3bfd-9fc9-becfbfe06b79",
+                  "number": "8",
+                  "title": "American Witch",
+                  "length": 226000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USUM70600524"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "industrial"
+        },
+        {
+          "count": 3,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "industrial metal"
+        },
+        {
+          "count": 3,
+          "name": "metal"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "groove metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "07444c16-ef5b-4b46-bad9-5fad1bc98a51",
+      "score": 100,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "American Witch",
+      "length": 207000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "90ac86a2-d46e-40f9-a7f0-72f03414cb60",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Interscope Radio Compilation Volume 2 2006",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "165c4672-70a3-4e6f-a3b3-ddebed0150b2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Interscope Radio Compilation Volume 2 2006",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "ccd3130a-7db2-3f36-a155-4190f50ad8f8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "37a1f179-3763-46fa-b637-e5a9dd1cceba",
+                  "number": "14",
+                  "title": "American Witch",
+                  "length": 207000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c73531c-00c8-4d76-85f3-fd49fa4d961b",
+      "score": 99,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "American Witch",
+      "length": 241000,
+      "disambiguation": "live, 2006: The DTE Energy Music Theatre, Detroit, MI, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-10-23",
+      "releases": [
+        {
+          "id": "0ffd0392-065f-4f5d-98bf-c9e24b5550a3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "Zombie Live",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0944b546-f543-329f-884e-3053ca3d45a1",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Zombie Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-10-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-10-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "620941b5-59af-389a-9d5c-f4dc8ca3c85c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aaf4a856-2543-3415-8812-1cc2dea8f089",
+                  "number": "2",
+                  "title": "American Witch",
+                  "length": 241000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "4564abb5-a5c8-481e-a07c-23a1f20cec93",
+      "score": 99,
+      "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+      "title": "American Witch",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rob Zombie",
+          "artist": {
+            "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+            "name": "Rob Zombie",
+            "sort-name": "Zombie, Rob",
+            "aliases": [
+              {
+                "sort-name": "Rob Straker",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Rob Straker",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Cummings, Robert Bartleh",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Bartleh Cummings",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1965-01-12",
+                "end-date": "1996"
+              },
+              {
+                "sort-name": "Cummings, Robert",
+                "name": "Robert Cummings",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Zombie, Robert Wolfgang",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robert Wolfgang Zombie",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1996",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "dcad00d0-a76e-4690-a26a-4b155a9120c3",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "ab91eece-d8bf-3909-a354-56dde602d6ca",
+          "count": 1,
+          "title": "The Best Of Rob Zombie",
+          "status": "Bootleg",
+          "disambiguation": "Limited Edition, Remastered",
+          "artist-credit": [
+            {
+              "name": "Rob Zombie",
+              "artist": {
+                "id": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+                "name": "Rob Zombie",
+                "sort-name": "Zombie, Rob"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "84491b8b-e79c-3db5-89eb-6b51a7f18138",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "20th Century Masters: The Millennium Collection: The Best of Rob Zombie",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "37b6a71c-6cf1-3930-8225-c41b0e54a4d2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5f4c2d8c-194c-4730-b357-1ee342ef94a8",
+                  "number": "13",
+                  "title": "American Witch"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

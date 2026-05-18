@@ -1,0 +1,124 @@
+{
+  "created": "2026-05-18T05:42:33.736Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3c7fc084-8df6-470f-9be3-1cb19dd6ef15",
+      "score": 100,
+      "artist-credit-id": "17d68e98-cf34-372d-9d7b-03da596e319d",
+      "title": "Caresse sur l'oc\u00e9an",
+      "length": 161600,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Les Choristes",
+          "artist": {
+            "id": "37f0e479-9661-4375-98fe-4ffd2f23c3ca",
+            "name": "Les Petits Chanteurs de Saint-Marc",
+            "sort-name": "Petits Chanteurs de Saint-Marc, Les",
+            "disambiguation": "Les Choristes",
+            "aliases": [
+              {
+                "sort-name": "Choristes, Les",
+                "name": "Les Choristes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Les Petits Chanteurs de St Marc",
+                "name": "Les Petits Chanteurs de St Marc",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Chicos del coro de Saint Marc, Los",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Los chicos del coro de Saint Marc",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-02-22",
+      "releases": [
+        {
+          "id": "6be12588-878c-437a-b00a-1c2b99a2bbc6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "17d68e98-cf34-372d-9d7b-03da596e319d",
+          "count": 1,
+          "title": "Les Choristes en concert",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Les Choristes",
+              "artist": {
+                "id": "37f0e479-9661-4375-98fe-4ffd2f23c3ca",
+                "name": "Les Petits Chanteurs de Saint-Marc",
+                "sort-name": "Petits Chanteurs de Saint-Marc, Les",
+                "disambiguation": "Les Choristes"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "03a60c89-eb66-3cc0-80a0-ee37cb90f839",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Choristes en concert",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-02-22",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-02-22",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "70a3c870-8e62-3745-94a2-61245a73b636",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b011cd59-fd47-3569-8df4-409075ea529b",
+                  "number": "21",
+                  "title": "Caresse sur l'oc\u00e9an",
+                  "length": 161600
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 20
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

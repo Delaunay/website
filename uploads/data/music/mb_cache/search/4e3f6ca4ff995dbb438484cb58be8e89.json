@@ -1,0 +1,110 @@
+{
+  "created": "2026-05-18T06:21:18.772Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "a604c477-9e18-4560-813b-23408770e05d",
+      "score": 100,
+      "artist-credit-id": "a67fdb51-0412-44a9-b780-d7e90a1daa4e",
+      "title": "Ololiuqui",
+      "length": 388000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Ronan",
+          "artist": {
+            "id": "2586f775-fb17-4b09-8d52-2ea768743629",
+            "name": "Ronan",
+            "sort-name": "Ronan",
+            "disambiguation": "DJ/producer Robin Lohrey",
+            "aliases": [
+              {
+                "sort-name": "Lohrey, Robin",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Robin Lohrey",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Turning Torso",
+          "artist": {
+            "id": "4311e662-3d49-466d-8c30-7dbb882762c0",
+            "name": "Turning Torso",
+            "sort-name": "Turning Torso",
+            "disambiguation": "David S\u00e1nchez"
+          }
+        }
+      ],
+      "first-release-date": "2021-07-30",
+      "releases": [
+        {
+          "id": "5a679aed-54b9-4f0c-85ac-4a27dcea2113",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "INTL.PDCOMP001",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4b83a07-371b-414d-98b1-119275a46fd0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "INTL.PDCOMP001",
+            "primary-type": "Album"
+          },
+          "date": "2021-07-30",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-07-30",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "14a7a599-65b3-3d1c-9a52-03d43958d31b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d475c469-e2df-4311-b380-1eb9fd684845",
+                  "number": "4",
+                  "title": "Ololiuqui",
+                  "length": 388000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1410 @@
+{
+  "created": "2026-05-18T05:39:48.351Z",
+  "count": 47,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "97f75a62-ea0a-436d-a7e3-2c958778ce2f",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 233000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-03-08",
+      "releases": [
+        {
+          "id": "6dd3faf7-14da-4c4f-8732-1929c9976a2d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Alternative Times, Volume 58",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6e9b3aad-ae62-440d-81fb-fc219a523926",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alternative Times, Volume 58",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-03-08",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2005-03-08",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "58d0df72-393e-3d66-be98-32566256fc4b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "80c50a28-e4e4-3ed8-a122-04334605b612",
+                  "number": "13",
+                  "title": "Holiday",
+                  "length": 233000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6118f374-38a4-4e72-ae17-b0dcb77ad5e6",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 236146,
+      "disambiguation": "radio edit",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "c6bda500-eac7-40c8-ab38-4a88a34da3e0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Holiday",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b244672-1e38-3bae-bebf-6db8dd5eb8b5",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Holiday",
+            "primary-type": "Single"
+          },
+          "track-count": 2,
+          "media": [
+            {
+              "id": "373d56eb-5eba-3321-a5f8-e5f632565b57",
+              "position": 1,
+              "track": [
+                {
+                  "id": "cce9b233-db8f-3531-ac6b-db29c9d5b161",
+                  "number": "1",
+                  "title": "Holiday (radio edit)",
+                  "length": 236146
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRE10401841"
+      ]
+    },
+    {
+      "id": "73ad7a11-e073-4fa0-b320-5d85ea3552ed",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 234000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "90658362-fc22-46fe-a904-9d5d2eeccb5c",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5459bc25-1b7a-4264-ae34-cf6c2509793b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "0bea41ee-8478-304c-b885-11a2bcd7c1f0",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "82d2fe9f-c7af-3df2-b89a-58f6862b3bd7",
+                  "number": "1",
+                  "title": "Holiday",
+                  "length": 234000
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1491f1e4-8b41-4095-870f-325d0388ec42",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5459bc25-1b7a-4264-ae34-cf6c2509793b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2006",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "3003aced-6664-31f2-b54b-2b0e61085641",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a690cc3f-f047-4c23-b1cd-9e7daa716022",
+                  "number": "1",
+                  "title": "Holiday",
+                  "length": 234000
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4172e434-92e8-461b-a70c-d7fb16aeac38",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5459bc25-1b7a-4264-ae34-cf6c2509793b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "8f43c2f0-7d87-309a-9208-f13b170b0193",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7e952a04-cc6f-434b-bf9d-1b942d639d24",
+                  "number": "1",
+                  "title": "Holiday",
+                  "length": 234000
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        }
+      ]
+    },
+    {
+      "id": "8d038d1f-6560-4edd-8d10-1e441533a390",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 273640,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-05",
+      "releases": [
+        {
+          "id": "1257874e-e471-40d8-a0af-a7565e2e48e4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Live In Japan (Target Bonus Disc)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "ab41d712-54c7-4124-bd3e-316f935142c8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "caa0e26f-80bb-41be-934f-7834e788f8ec",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 273640
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "87402be0-d956-48eb-8c0b-dfca7769fa73",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 247000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-07-08",
+      "releases": [
+        {
+          "id": "c300b23c-f1a1-4ddf-8d59-f3c8cb6dc1c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "American Idiot: The Original Broadway Cast Recording",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a73dad3a-401b-4aac-aded-9a1fde315a5f",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Idiot: The Original Broadway Cast Recording",
+            "disambiguation": "2010 original Broadway cast",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2012-07-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-07-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "a39deea5-5661-3ab0-9e80-481cced77672",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "df428522-6db6-441a-8e56-0369c338dcc7",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 247000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06cb0041-0abb-4c2f-a30d-006955681921",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 490000,
+      "disambiguation": "live, 2005-06-19: The National Bowl, Milton Keynes, UK",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-11-11",
+      "releases": [
+        {
+          "id": "27b422fd-7acb-4ec2-931b-747716720677",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Bullet in a Bible",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96636bc5-2799-32a8-a273-1e93771e811b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet in a Bible",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-11-15",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2005-11-15",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "f4a6c761-7df9-305a-87e2-03035ebe0a85",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "0ef2d1e7-c645-43e3-b584-16d683eba926",
+                  "number": "3",
+                  "title": "Holiday"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f8991877-7535-46fa-aed6-a2fe7dfd36d9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Bullet in a Bible",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96636bc5-2799-32a8-a273-1e93771e811b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet in a Bible",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "fbdb527e-cc0f-379f-970c-031ea589edd3",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "7d8dd0ac-9c1f-4373-9fbb-775d8b39d047",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 490000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f3a25ec7-da4e-3cb9-8a0f-d6f61a0a4ac1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Bullet in a Bible",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96636bc5-2799-32a8-a273-1e93771e811b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet in a Bible",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-11-11",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2005-11-11",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2005-11-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "0b472c7a-689b-3e2d-8c06-640f76ff9dd6",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "41035228-24f8-4206-bb1a-27d63df48267",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 490000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "43e4c05b-cc89-472d-84c3-1049dc53b55e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Bullet in a Bible",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96636bc5-2799-32a8-a273-1e93771e811b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet in a Bible",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "6d8dfca2-6fb1-37e1-aff1-78cd500bc0e0",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "62f33749-79ef-48cf-ad3c-75e668083675",
+                  "number": "3",
+                  "title": "Holiday"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "208c7933-3a6c-38b2-b69c-82df3d593eaa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "Bullet in a Bible",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96636bc5-2799-32a8-a273-1e93771e811b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet in a Bible",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-11-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "43e52336-8561-3213-87cf-6097633e440d",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "2e1a9589-bb3a-40d7-8923-4e8281203f7e",
+                  "number": "3",
+                  "title": "Holiday"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4b0cbc1-ab2f-4944-8b89-ca2ee2a301a9",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 258000,
+      "disambiguation": "live, 2004-10-01: Zeche, Bochum, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "3bb6d33a-9fbc-4f6c-a0c7-3fc2168de642",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "Four More Years: Odes to the All American Idiot",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe33d0f9-8a28-4f9d-8504-5ea6b84ff85e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Four More Years: Odes to the All American Idiot",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "2eb871c4-b251-3e22-be32-bb67b01e8993",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9280d757-4bb4-3ce5-945d-a6c36473df38",
+                  "number": "12",
+                  "title": "Holiday",
+                  "length": 258000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "444ce7d5-1308-4913-886f-b22cf5146eb5",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 232692,
+      "disambiguation": "Dolby Atmos mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2024-09-21",
+      "releases": [
+        {
+          "id": "34491b14-5870-49a1-b4cc-8a5dda4593f3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "American Idiot",
+          "status": "Official",
+          "disambiguation": "Dolby Atmos mix",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "de9bf827-a9b0-348b-a7c9-556c03c3fb07",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Idiot",
+            "primary-type": "Album"
+          },
+          "date": "2024-09-21",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-09-21",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "57e81b9c-34a2-337b-8862-5b6a9fe2e5d4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7ecb22d4-ce24-4647-8e1b-b4586ef1a904",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 232692
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRE12400422"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dolby atmos"
+        }
+      ]
+    },
+    {
+      "id": "1c0506cd-4ff2-4e52-94de-0f46743b73b2",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 206693,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "c3fc32d8-c12b-4029-8a4f-06392ae08538",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 6,
+          "title": "Live rarities",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "050f6a31-6146-4961-b202-badcb44ec956",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "Live rarities",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 69,
+          "media": [
+            {
+              "id": "be307121-856b-4fbf-8987-fe0e86bd5f60",
+              "position": 6,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d94396a5-dcfa-41d1-a605-d8f1ad291c3b",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 206693
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64d7ab00-5d55-431f-b018-98d4a7851526",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Holiday",
+      "length": 207000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "13e980ad-146f-4ba8-bcbc-cb7effccea8a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 6,
+          "title": "Green Day Box",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e197f99b-09fc-47d2-a3d7-f3bf66ec4bf7",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Green Day Box",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 79,
+          "media": [
+            {
+              "id": "1f48fd1f-f1f6-32d3-bcdf-3c45729e6e36",
+              "position": 6,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ad889785-e035-4c66-8701-9d89394dcda2",
+                  "number": "3",
+                  "title": "Holiday",
+                  "length": 207000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

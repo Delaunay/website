@@ -1,0 +1,115 @@
+{
+  "created": "2026-05-18T08:06:58.900Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e86761c7-48bd-4718-ac35-912cff56469a",
+      "score": 100,
+      "artist-credit-id": "25dc9195-5469-35e9-9f2c-fcc3b3cb63fe",
+      "title": "Tune In",
+      "length": 260386,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Dean Fraser",
+          "artist": {
+            "id": "f3d9f662-24f3-4b41-ac8a-472201dcd25c",
+            "name": "Dean Fraser",
+            "sort-name": "Fraser, Dean",
+            "disambiguation": "Dean Ivanhoe Fraser - Jamaican saxophonist",
+            "aliases": [
+              {
+                "sort-name": "Dean Frasier (misspelling)",
+                "name": "Dean Frasier (misspelling)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Dean Frazer",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Dean Frazer",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011",
+      "releases": [
+        {
+          "id": "240240b8-03d2-46eb-ad61-c889cf6334bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "We Remember Gregory Isaacs",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "91dc5573-dbb6-4efe-8e08-d0296698526a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "We Remember Gregory Isaacs",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "dbec3acc-274a-384d-86be-33a4dad24530",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "535dabb0-1168-3bc1-a111-75039b7f4b50",
+                  "number": "14",
+                  "title": "Tune In",
+                  "length": 260386
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

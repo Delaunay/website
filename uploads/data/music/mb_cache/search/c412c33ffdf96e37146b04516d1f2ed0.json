@@ -1,0 +1,73 @@
+{
+  "created": "2026-05-18T08:06:42.108Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "09ec44b8-be2b-494e-b998-1ab57d3be8b2",
+      "score": 100,
+      "artist-credit-id": "40086df9-ae3b-3fc6-803b-dbdc2929d43e",
+      "title": "Drums",
+      "length": 322000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Annette Brissett",
+          "artist": {
+            "id": "6eaf7a21-232e-48d7-817d-b039b0c6b5d6",
+            "name": "Annette Brissett",
+            "sort-name": "Brissett, Annette"
+          }
+        }
+      ],
+      "first-release-date": "1983",
+      "releases": [
+        {
+          "id": "e540cac8-9a18-4724-85c4-5f11bc599cf0",
+          "count": 1,
+          "title": "Love Power",
+          "release-group": {
+            "id": "c2f67283-4066-40ba-be87-86f4cb89d91c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Power",
+            "primary-type": "Album"
+          },
+          "date": "1983",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1983",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "c72feedb-eca4-326a-9417-784caa356c30",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "d53fba08-f218-4f49-a938-0cbe94ffcc0d",
+                  "number": "8",
+                  "title": "Drums",
+                  "length": 322000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "created": "2026-05-18T07:01:26.913Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d61399aa-80cb-47c6-9520-8df039d307e0",
+      "score": 100,
+      "artist-credit-id": "d63871c1-7652-3885-ad4e-2042a4d7d33a",
+      "title": "Hemligheten",
+      "length": 364626,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Raketerna",
+          "artist": {
+            "id": "6d4258da-8e23-48f4-bda5-7e3c2b7d4962",
+            "name": "Raketerna",
+            "sort-name": "Raketerna"
+          }
+        }
+      ],
+      "first-release-date": "1993-08-13",
+      "releases": [
+        {
+          "id": "c8d38b18-6140-4479-9067-691abe15f3e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "1979\u201382",
+          "status": "Official",
+          "release-group": {
+            "id": "fc62d8d6-053c-4727-a74b-0ff47be4e64b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "1979\u201382",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1996",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "d584b356-e60d-3c67-99d4-c4b82ed5ef47",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "38a8b71d-1922-43aa-a62f-745abeac252e",
+                  "number": "8",
+                  "title": "Hemligheten",
+                  "length": 364933
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "84fa476b-c74d-4474-8ee9-6d72223f7db5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Ny v\u00e5g 78-82",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0ded2f4-2698-3412-9c82-2fc1910400ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ny v\u00e5g 78-82",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1993-08-13",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1993-08-13",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 49,
+          "media": [
+            {
+              "id": "c1f09a0a-6eeb-3ee1-911f-edafb76bbf58",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "18f3193b-0418-3295-958d-8aa76c348776",
+                  "number": "17",
+                  "title": "Hemligheten",
+                  "length": 364626
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 16
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        }
+      ]
+    }
+  ]
+}

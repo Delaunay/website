@@ -1,0 +1,3116 @@
+{
+  "created": "2026-05-18T06:11:31.531Z",
+  "count": 15,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ab86bdf5-ac83-4f67-9a8b-a1b30cd58413",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 314413,
+      "disambiguation": "live, 2013-07-06: Stadio Olimpico, Rome, Italy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-11-25",
+      "releases": [
+        {
+          "id": "b5cbf4fa-29ae-4b38-9e3d-bb31106950cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "ef58a0da-93b4-4fd0-bc6a-7cc7821e254c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "747017b9-a2c9-49f4-b2dc-7fd51bd6adb1",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314413
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "399ce06a-0815-4176-b9d6-3d43fc108a4d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-11-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-11-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ff7f7c05-915d-30b5-bb24-61f139bd725a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "938057ce-a8d3-43a3-b222-631b4b2336ae",
+                  "number": "1",
+                  "title": "Supremacy (live at Rome Olympic Stadium)",
+                  "length": 316000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5778c193-1fda-4326-9fae-715ae8f85eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "205f660c-b8f9-355a-9df8-5479127767c1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0afaa352-ecc1-4f68-b251-c885bdd1e009",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314413
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d08a6b17-53a2-4f16-b850-aca31a8e7bbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "2a949750-41f7-38af-91bc-6e474da2caf5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b1b20d0a-88c6-4e05-bd01-507052834f14",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314413
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a4d53dd3-9fe1-4c5c-8207-e1390a9290a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "bfe22dbb-7408-3b61-93b4-77072fd0376d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "00fe63cb-0527-46f7-9601-35dd6b592888",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314413
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "8149c715-cb08-42cb-872f-38e72a05518d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "0d53b7df-e720-30ad-8de8-44e0c31eba92",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "63266de0-b248-4217-9f46-28e78f9cc818",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314413
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "089ca863-f9e8-40bc-93e3-4d91e5054edb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "13672f2e-e319-32e4-88dd-f0f404773319",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1d638d74-9ca4-4b00-a1fa-19207bec9710",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 314000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1326108"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "classic soul"
+        }
+      ]
+    },
+    {
+      "id": "f8f583d7-7280-45e1-86cb-3c0dd05b06d8",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 295373,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-09-26",
+      "releases": [
+        {
+          "id": "2f9944e9-621d-487b-9998-60b21f495fb2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law (Deluxe Version)",
+          "status": "Official",
+          "disambiguation": "Apple Digital Master",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "56684541-fbb5-4f22-9d85-b422069b2a24",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b716b8e0-63fe-417b-b5ec-6822f1ca6cef",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295376
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f9cc51d8-5ed4-40c2-a4ad-9e8137a888f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "0fc8fef0-1f69-383a-9dfe-015596fb670d",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "96c58f0a-d85f-3e76-8509-bda82dae78aa",
+                  "number": "A1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b203e323-049b-4ee9-92a1-64752ac14caa",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "1e5e1850-6327-3589-b1d8-7e09343589d6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7e747948-f333-4650-908b-cfdb819ba1f5",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "bd631fd3-f92d-4475-ab56-e3b109de64f4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "937d2e27-b26e-3ed4-9336-cc107c5c7d02",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "366bea80-a228-4611-9cf1-1e5a63d3fbff",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4ab8c9f5-f0cf-4847-81ff-5583721ee104",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "b776ef42-4302-343c-b2c9-2f252f1ebdb7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4a49ac19-776d-47f0-b3ef-aa011fbfb724",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1999dc8e-fc6b-403e-b287-b1529f425442",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Supremacy",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6e50eaaf-960f-419e-b3f3-a80cac25b0a4",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Supremacy",
+            "primary-type": "Single"
+          },
+          "date": "2013-02-25",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-02-25",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "37243e41-90dc-37c9-b1b8-1b209ec235ff",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "a64d66d3-07b2-4904-b351-5202e42d7e35",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b58523f1-1db7-4308-84bd-41abceb92519",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c99872b0-99c5-359d-a48a-21caec033241",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ac0a9f6b-7c06-4141-b9c4-7e28b646fd4b",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0f8971e0-903c-417b-a81d-c38853c0e00e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "28037ae4-1c0a-399d-9155-273490f40792",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "053c56a3-742e-3549-82c8-dbfee2c98406",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "eba3b05d-443f-4e5d-a477-b201b5b941e4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "ff24e281-4f76-3055-9435-80a487fb4cd1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "105ea23b-3834-3505-9d9f-ff890997b594",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e99479b6-889d-4ad9-a6f4-63e89e0b32d4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "5b7df4c5-eee4-3618-9686-533daf4447a4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "48b32e4e-29bc-3b5a-a077-1b4a606c0f95",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e3c0e7c7-df7c-4b51-9894-e45d1480e7b5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "6d94668e-96b5-3feb-88d0-88763de79743",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c97919e0-6eba-3475-a239-7382ed14d755",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "0628623f-ff64-4eb8-a6ca-3798f7a37f62",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "25335b70-eed3-3d1b-aa40-0925f43f8bdd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "031897b6-0339-3846-a1ba-94fa64bfa080",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fc344490-5aea-4ae0-9ab1-c24a020f92a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 4,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "box set",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "0f0190b6-3687-3257-8ca7-37eb4f5aa0f5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e03c5657-03be-3fe3-bdf5-483e374400a2",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "fc344490-5aea-4ae0-9ab1-c24a020f92a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 4,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "box set",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "7abdc59b-090d-3831-a098-91246aed465a",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "3b7db7ae-85c3-3b01-9ec4-f77be05815b0",
+                  "number": "A1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "a58167c5-4645-440f-b50c-e48fb2b15d98",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "6605b62e-03f6-32dc-9a7b-8dbb5a7d75f8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3b0f7eec-b0f2-3c09-a6b9-57a1e5650f87",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1f27b00b-b078-4286-9f0b-2fb0bd516cff",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "22cce840-fe9f-3fc9-9638-42fadfe48a9d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e2f77888-ced6-3bf4-87bf-ccfb8f5733e0",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "2e5053f0-3023-4700-9660-a876145819a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "softpak",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2012-09-26",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "e34da726-c4fd-34e0-826f-dc11e291ba9b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "92204a31-b471-3eed-b8b0-1d1867fcdb38",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "1d4f3ead-a5c9-4fbf-a70b-051d50942af5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "special edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-03",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2012-10-03",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "8b43c941-81dc-351f-80d1-22f2856a60a0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "408b5d05-db5a-4018-bf77-330ecca6d7f2",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "7070f9c9-ef00-465b-8579-7627e43abdfc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Official",
+          "disambiguation": "24 bit/96 kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2012-10-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "a581ba87-0066-3a37-9a95-ddadc2f08640",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b5000d6f-78e5-4d8d-b6e9-ddb389743f90",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1200401",
+        "GBAHT1200431",
+        "GBAHT1200389"
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative"
+        },
+        {
+          "count": 0,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "symphonic rock"
+        },
+        {
+          "count": 0,
+          "name": "best"
+        },
+        {
+          "count": 0,
+          "name": "classic soul"
+        },
+        {
+          "count": 1,
+          "name": "classical march"
+        }
+      ]
+    },
+    {
+      "id": "4e9feb1d-3b39-439a-812a-7d24668bc548",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 305000,
+      "disambiguation": "live, 2012-09-30: Roundhouse, London, England",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "fecb51e0-a925-420e-b09d-ed141651eab4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at iTunes Festival 2012",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c272d6d8-85c2-40ec-a7bb-0ea90f57c8ff",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at iTunes Festival 2012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "9c7e6286-1ed6-35df-9de5-382b46bce6be",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "64d19f7e-aaaf-43df-9267-10ee79a5dc2f",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 305000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cd1d7b02-4500-446c-a8d6-5f71c2d59ea1",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 295418,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018",
+      "releases": [
+        {
+          "id": "cb9f1f22-1bba-4432-aba2-cc2011f4ab59",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Greatest Songs",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "28c0209d-aa35-49fd-9f35-6ff1373ebc2e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Songs",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "c855e1ff-120e-3984-9df7-c2bc0b3465d2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "750e8c2f-9819-49ed-b01c-8cfa765f706a",
+                  "number": "11",
+                  "title": "Supremacy",
+                  "length": 295418
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "82fd7e1e-9b87-4a69-b617-3d975d6bc52d",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 295373,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "e1eb15b9-b12b-4d3f-9059-e5d23e0ad835",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "The 2nd Law",
+          "status": "Bootleg",
+          "disambiguation": "instrumental",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "422cd8ac-8599-4356-b874-4da79a06abac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The 2nd Law",
+            "primary-type": "Album"
+          },
+          "date": "2012",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "90aca0bb-2f8e-3f4e-a1e8-f8fd934c9639",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "08dc775f-2f44-4c95-a977-77979d49360a",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295373
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        }
+      ]
+    },
+    {
+      "id": "c1be39d0-73c2-4954-a479-dc294e9d79c3",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 296866,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-02-11",
+      "releases": [
+        {
+          "id": "1f22484b-4ef5-4f5d-93ba-c7a94d1266fb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Brit Awards 2013",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "834d6268-2639-4282-9c0c-8e62651a5f6e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brit Awards 2013",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-02-11",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-02-11",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 62,
+          "media": [
+            {
+              "id": "40ed5fc7-ca89-30f7-af41-0fa4fb478252",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5e9fd89a-ed57-4ee1-bea5-36572c7985a9",
+                  "number": "4",
+                  "title": "Supremacy",
+                  "length": 296866
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1200431"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        }
+      ]
+    },
+    {
+      "id": "164b76c9-7451-4484-86a8-4190387f87c9",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-02-18",
+      "releases": [
+        {
+          "id": "2ea9fc7f-a58c-4b93-8452-8db9ef8aac25",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2013-02-18: Shepherds Bush Empire, London",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f0f57448-c925-454a-b4bc-d32565a9796d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2013-02-18: Shepherds Bush Empire, London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-02-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-02-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e8563512-f3e9-31e2-9ddf-20273c3b9694",
+              "position": 1,
+              "track": [
+                {
+                  "id": "88cfcfea-eedf-4cc4-ac7b-794db0673fe4",
+                  "number": "2",
+                  "title": "Supremacy"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b9fa2b8-6b72-4d01-a2c6-046d8785b193",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 295000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "f424ceef-85b4-41e6-abee-4db4de9f7c6e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Pott\u00fe\u00e9tt 59",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7f7590d4-fd73-4aeb-bd84-746283fef7b5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pott\u00fe\u00e9tt 59",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-05-03",
+          "country": "IS",
+          "release-events": [
+            {
+              "date": "2013-05-03",
+              "area": {
+                "id": "48802a32-075a-3805-a183-277c66047693",
+                "name": "Iceland",
+                "sort-name": "Iceland",
+                "iso-3166-1-codes": [
+                  "IS"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "e3bebce3-e097-356c-87fc-4493e4b1e375",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a343d140-4d1d-4a3d-929e-a1824fc9bf22",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0001e55a-ab05-4b53-88b8-b39d280226a4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "560e5473-0f5d-3e74-a284-afd628b6eddd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b7f23575-676b-4986-831e-cf7c2c1dd2c3",
+                  "number": "1",
+                  "title": "Supremacy",
+                  "length": 295000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a35fc58a-ea25-4527-921a-60299c7f182a",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "length": 321000,
+      "disambiguation": "live, 2013-07-06: Stadio Olimpico, Rome, Italy",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-12-03",
+      "releases": [
+        {
+          "id": "b5cbf4fa-29ae-4b38-9e3d-bb31106950cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "4ae8bc1b-45ab-4837-829e-ae273b2f6983",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "484ce34a-bef5-4e18-b6ea-473aab3be716",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 321000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "5778c193-1fda-4326-9fae-715ae8f85eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "e2ed95a8-f270-3b5b-abb4-0a1041da4a0f",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "267637af-bf31-4203-ba70-8f65d7e4c525",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 321000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "a4d53dd3-9fe1-4c5c-8207-e1390a9290a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2013-12-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "f95b49b3-79d4-37e7-9c88-402a7413a8c1",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "98926113-3999-47ab-93c4-52f42d3353db",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 321000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "8149c715-cb08-42cb-872f-38e72a05518d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-11",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-11",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "4b6fbcce-1809-3104-b257-e966f71c1f3e",
+              "position": 2,
+              "format": "Blu-ray",
+              "track": [
+                {
+                  "id": "e08ec2bc-8a8e-4d66-b346-02611f5b3745",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 321000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d08a6b17-53a2-4f16-b850-aca31a8e7bbf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Rome Olympic Stadium",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1064cc31-5ad0-4f94-a136-8294ffb756e3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Rome Olympic Stadium",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-12-04",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2013-12-04",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "60743925-19db-3b4d-94e6-8df8837c9efc",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "c4063fdc-cbff-45b4-b7c1-aaaa063a5c57",
+                  "number": "2",
+                  "title": "Supremacy",
+                  "length": 321000
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3f642da-3a5b-4dd6-9aac-626e3b6e6d35",
+      "score": 99,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Supremacy",
+      "disambiguation": "live, 2012-09-30: Roundhouse, London, England",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "fecb51e0-a925-420e-b09d-ed141651eab4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at iTunes Festival 2012",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c272d6d8-85c2-40ec-a7bb-0ea90f57c8ff",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at iTunes Festival 2012",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "b480f44a-3054-3385-9ca6-27e31fc6ca3e",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "13a85a19-3bfb-4698-8e0b-2875ab298555",
+                  "number": "1",
+                  "title": "Supremacy"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

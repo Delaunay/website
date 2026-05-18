@@ -1,0 +1,764 @@
+{
+  "created": "2026-05-18T07:19:22.463Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "66b49bbe-8b17-4b73-b209-d6700fd3ae39",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Borderline",
+      "length": 233147,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-09-28",
+      "releases": [
+        {
+          "id": "6b3d103b-4b70-4f97-9385-ae83835e2cc2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "d2bfa68e-1c29-3a1c-8e13-2bbeef810b4b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "672a781a-d61b-4827-b38a-10025038dce0",
+                  "number": "11",
+                  "title": "Borderline",
+                  "length": 233147
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "97d5bb98-f863-4121-837f-a4a70788aa63",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "2eb4b7e1-9dd6-3126-84fc-eaea4c5d18f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7481da01-14ca-4276-bae3-03155d261f5a",
+                  "number": "11",
+                  "title": "Borderline",
+                  "length": 233906
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "d9f94f4d-22fe-4bc5-9ab3-9109689093b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e807b9ae-ea20-3712-b47b-2ee682025923",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7eb7f284-b79c-34c5-8ae1-4c7c8c646fdb",
+                  "number": "7",
+                  "title": "Borderline",
+                  "length": 232000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "9ce14053-30c0-49f6-9c51-ade3d9776ca0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "db04f740-3cb2-30f5-b5c0-b7c24f5a3803",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3615a2cc-a69f-3775-bc0f-d3d3838cdafb",
+                  "number": "7",
+                  "title": "Borderline",
+                  "length": 234000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "3193845e-f577-4167-9d6b-aa9866b40e3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "833ffbe3-4114-3bf0-99a8-85b0f11cfc29",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ad9a6750-a321-3dc0-9038-f8a8c91a3338",
+                  "number": "7",
+                  "title": "Borderline",
+                  "length": 232000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "84af1176-dbf9-4072-93fa-877112c97c07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "disambiguation": "bonus version",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "428a53e9-8ccb-36d8-adf2-55410ec083a8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "63ff689f-b1e3-4631-ba1a-e27e3cef5a8f",
+                  "number": "7",
+                  "title": "Borderline",
+                  "length": 232000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b406792d-2410-400b-87fd-115fee773144",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "895932dc-083d-3f34-a8d4-fa69ac7775e5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1228478f-e0fb-4e18-9ae6-014960d400d4",
+                  "number": "7",
+                  "title": "Borderline",
+                  "length": 234000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIHVA1200008"
+      ]
+    },
+    {
+      "id": "687dd331-a47b-40f4-ba63-f23d4429c15d",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Borderline",
+      "length": 234120,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-09-25",
+      "releases": [
+        {
+          "id": "79bfdfe8-21e9-4566-bd7a-5a312e88e318",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Borderline",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "035430c1-8f2e-4ca7-882c-efb18f435885",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Borderline",
+            "primary-type": "Single"
+          },
+          "date": "2012",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "8bca36cf-2f8e-3d01-b16d-cb78ffe70681",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "46c90bb0-f4b9-4045-8e51-67d59a8ded69",
+                  "number": "1",
+                  "title": "Borderline",
+                  "length": 234120
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "780923ed-2c98-40c1-a695-25a7a72345a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Borderline",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "035430c1-8f2e-4ca7-882c-efb18f435885",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Borderline",
+            "primary-type": "Single"
+          },
+          "date": "2012-09-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-09-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "ae835098-56d3-38c7-9d99-6542f6f8008d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a9729e4b-835a-30ec-9647-764d82a1756c",
+                  "number": "1",
+                  "title": "Borderline",
+                  "length": 234120
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "330e6a4c-8a6b-484a-a80f-2bae5b12ba46",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Borderline",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "035430c1-8f2e-4ca7-882c-efb18f435885",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Borderline",
+            "primary-type": "Single"
+          },
+          "date": "2012-11-16",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-11-16",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "4edf885e-9b6c-3850-bd43-0732cdea1c71",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "31250971-7d9c-497f-964f-20a97251ba70",
+                  "number": "1",
+                  "title": "Borderline",
+                  "length": 232000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f36d814a-4a0c-4252-82e2-7417ea88bc8b",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Borderline",
+      "length": 288000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-01-03",
+      "releases": [
+        {
+          "id": "d173a90d-e7b3-4326-9e34-fbe7d11fa353",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Sonic Seducer: Cold Hands Seduction, Volume 138",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7f03eac4-266f-42af-8fe4-10a5fed65c73",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sonic Seducer: Cold Hands Seduction, Volume 138",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-01-03",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2013-01-03",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "333a6774-8012-3042-8bf1-0821dd7b9d89",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "83268e83-6670-4c45-840d-e4bc8661bfcc",
+                  "number": "5",
+                  "title": "Borderline",
+                  "length": 288000
+                }
+              ],
+              "track-count": 42,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

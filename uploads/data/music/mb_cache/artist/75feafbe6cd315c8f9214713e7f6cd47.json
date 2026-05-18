@@ -1,0 +1,220 @@
+{
+  "relations": [
+    {
+      "attribute-values": {},
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "type": "Other",
+        "disambiguation": "",
+        "name": "1,000 UK Artists",
+        "type-id": "ac897045-5043-3294-969b-187360e45d86",
+        "id": "ef96a7c5-cfe5-43e0-a65f-0262e7f44630",
+        "sort-name": "1,000 UK Artists"
+      },
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "end": null,
+      "begin": null,
+      "type": "collaboration",
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "disambiguation": "Hans Zimmer & Warren Cann",
+        "type": "Group",
+        "country": "GB",
+        "id": "08a6235a-f305-4e0f-87ca-fd89ff246935",
+        "sort-name": "Helden",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Helden"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attributes": [
+        "original"
+      ]
+    }
+  ],
+  "gender": "Male",
+  "sort-name": "Zimmer, Hans",
+  "country": "US",
+  "life-span": {
+    "begin": "1957-09-12",
+    "end": null,
+    "ended": false
+  },
+  "disambiguation": "German score composer",
+  "ipis": [
+    "00022486300",
+    "00339503461",
+    "00440938453"
+  ],
+  "end-area": null,
+  "genres": [
+    {
+      "id": "23b490c7-69f9-418c-8e63-32f1a683dcf1",
+      "count": 5,
+      "name": "cinematic classical",
+      "disambiguation": ""
+    },
+    {
+      "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+      "count": 2,
+      "name": "classical",
+      "disambiguation": ""
+    },
+    {
+      "id": "a190bb32-e0a7-4c56-b142-5cf9cfcfa713",
+      "name": "contemporary classical",
+      "count": 3,
+      "disambiguation": ""
+    },
+    {
+      "id": "4ae63770-68af-4fae-b0f1-5e53f372c743",
+      "count": 1,
+      "name": "instrumental",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "name": "modern classical",
+      "count": 9,
+      "id": "e328c306-8e35-46d2-93c3-623412ec7c13"
+    },
+    {
+      "disambiguation": "",
+      "count": 9,
+      "name": "orchestral",
+      "id": "f3fe6570-1e79-4ed5-8eb9-9ed64d631871"
+    }
+  ],
+  "type": "Person",
+  "tags": [
+    {
+      "name": "academy award winner",
+      "count": 1
+    },
+    {
+      "name": "cinematic classical",
+      "count": 5
+    },
+    {
+      "count": 2,
+      "name": "classical"
+    },
+    {
+      "count": 3,
+      "name": "composer"
+    },
+    {
+      "name": "contemporary classical",
+      "count": 3
+    },
+    {
+      "count": 2,
+      "name": "european"
+    },
+    {
+      "count": 1,
+      "name": "film"
+    },
+    {
+      "count": 8,
+      "name": "film composer"
+    },
+    {
+      "count": 2,
+      "name": "film score"
+    },
+    {
+      "count": 2,
+      "name": "film soundtrack"
+    },
+    {
+      "count": 1,
+      "name": "game"
+    },
+    {
+      "count": 4,
+      "name": "german"
+    },
+    {
+      "count": 1,
+      "name": "instrumental"
+    },
+    {
+      "name": "modern classical",
+      "count": 9
+    },
+    {
+      "name": "orchestral",
+      "count": 9
+    },
+    {
+      "name": "score",
+      "count": 1
+    },
+    {
+      "name": "soundtrack",
+      "count": 14
+    },
+    {
+      "count": 2,
+      "name": "soundtrack composer"
+    },
+    {
+      "name": "soundtracks",
+      "count": 1
+    },
+    {
+      "name": "television music",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "video game music"
+    }
+  ],
+  "name": "Hans Zimmer",
+  "isnis": [
+    "0000000121023816"
+  ],
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "begin-area": {
+    "name": "Frankfurt am Main",
+    "type-id": null,
+    "sort-name": "Frankfurt am Main",
+    "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+    "type": null,
+    "disambiguation": ""
+  },
+  "area": {
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "name": "United States",
+    "type-id": null,
+    "type": null,
+    "sort-name": "United States"
+  },
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "id": "e6de1f3b-6484-491c-88dd-6d619f142abc"
+}

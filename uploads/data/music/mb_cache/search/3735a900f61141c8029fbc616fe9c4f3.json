@@ -1,0 +1,368 @@
+{
+  "created": "2026-05-18T06:57:24.820Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "6518b4b2-aa32-4262-bd73-a50e4388c8a4",
+      "score": 100,
+      "artist-credit-id": "e3908b33-d7ed-32b1-aa80-77dcdfbf9791",
+      "title": "It's All About You",
+      "length": 217560,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Edwyn Collins",
+          "artist": {
+            "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+            "name": "Edwyn Collins",
+            "sort-name": "Collins, Edwyn",
+            "aliases": [
+              {
+                "sort-name": "Edwyn Colins",
+                "name": "Edwyn Colins",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edwin Collins",
+                "name": "Edwin Collins",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Collins, Edwyn Stephen",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Edwyn Stephen Collins",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "0231a3f1-49c5-4c94-86df-66a81963cc15",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e3908b33-d7ed-32b1-aa80-77dcdfbf9791",
+          "count": 1,
+          "title": "Badbea",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Edwyn Collins",
+              "artist": {
+                "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+                "name": "Edwyn Collins",
+                "sort-name": "Collins, Edwyn"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8eeffb80-6317-44a5-8411-0b3e1ff9e048",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Badbea",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "3a3122b4-1545-3af6-bdf6-0a482c72152f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2d830109-265c-4c55-bcc8-f24701f3a3d4",
+                  "number": "1",
+                  "title": "It's All About You",
+                  "length": 220000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "30fb28bc-37d3-4936-a4ab-370c07728b58",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e3908b33-d7ed-32b1-aa80-77dcdfbf9791",
+          "count": 1,
+          "title": "Badbea",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Edwyn Collins",
+              "artist": {
+                "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+                "name": "Edwyn Collins",
+                "sort-name": "Collins, Edwyn"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8eeffb80-6317-44a5-8411-0b3e1ff9e048",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Badbea",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e8e915a7-6117-3ac1-9242-eb0bdc13197e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "53bf7142-95eb-4f17-89bb-80500774fb25",
+                  "number": "1",
+                  "title": "It's All About You",
+                  "length": 217560
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61c7535f-1a8b-448b-a98b-d5c64243be44",
+      "score": 81,
+      "artist-credit-id": "89afda18-a0c3-3715-baae-0e0006e06f63",
+      "title": "It's All About You",
+      "length": 222000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Edwyn Collins",
+          "artist": {
+            "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+            "name": "Edwyn Collins",
+            "sort-name": "Collins, Edwyn",
+            "aliases": [
+              {
+                "sort-name": "Edwyn Colins",
+                "name": "Edwyn Colins",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edwin Collins",
+                "name": "Edwin Collins",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Collins, Edwyn Stephen",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Edwyn Stephen Collins",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sean Read",
+          "artist": {
+            "id": "386777ee-738b-4e49-b24e-f4fab75a2405",
+            "name": "Sean Read",
+            "sort-name": "Read, Sean"
+          }
+        }
+      ],
+      "first-release-date": "2019-06-14",
+      "releases": [
+        {
+          "id": "f73db159-37ab-44d0-8f22-823b624f38ce",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "89afda18-a0c3-3715-baae-0e0006e06f63",
+          "count": 1,
+          "title": "Sometimes Always Never (Original Motion Picture Soundtrack)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "Edwyn Collins",
+              "artist": {
+                "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+                "name": "Edwyn Collins",
+                "sort-name": "Collins, Edwyn"
+              }
+            },
+            {
+              "name": "Sean Read",
+              "artist": {
+                "id": "386777ee-738b-4e49-b24e-f4fab75a2405",
+                "name": "Sean Read",
+                "sort-name": "Read, Sean"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d41987b2-5e2c-4831-be31-2892e6382273",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sometimes Always Never (Original Motion Picture Soundtrack)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "60677922-4904-334b-8c48-6166aadf0f19",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f6df1df3-9474-43aa-bb28-db2c16ffe856",
+                  "number": "19",
+                  "title": "It's All About You",
+                  "length": 222450
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "568a4413-cff1-45dc-9aae-e1ebab59cf17",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "894aef6c-9c3b-3aa6-b3ae-d5cde8eb0be0",
+          "count": 1,
+          "title": "Sometimes Always Never (Original Motion Picture Soundtrack)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": ", ",
+              "name": "Edwyn Collins",
+              "artist": {
+                "id": "14c0c282-e0c1-46fe-acd1-9a015ba721c5",
+                "name": "Edwyn Collins",
+                "sort-name": "Collins, Edwyn"
+              }
+            },
+            {
+              "name": "Sean Read",
+              "artist": {
+                "id": "386777ee-738b-4e49-b24e-f4fab75a2405",
+                "name": "Sean Read",
+                "sort-name": "Read, Sean"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d41987b2-5e2c-4831-be31-2892e6382273",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sometimes Always Never (Original Motion Picture Soundtrack)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2019-06-14",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-06-14",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "7b884c86-8b33-3cd3-a399-5ce7e4ffce7d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "cbee295a-92d3-496f-9664-d58213d122f6",
+                  "number": "19",
+                  "title": "It's All About You",
+                  "length": 222000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 18
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GB72T1900015"
+      ]
+    }
+  ]
+}

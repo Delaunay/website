@@ -1,0 +1,1653 @@
+{
+  "sort-name": "Osbourne, Ozzy",
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "disambiguation": "",
+  "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+  "end-area": {
+    "type-id": null,
+    "name": "Uxbridge",
+    "type": null,
+    "id": "45f052d7-8417-493a-bb2a-5f8bfb24994e",
+    "disambiguation": "",
+    "sort-name": "Uxbridge"
+  },
+  "area": {
+    "type": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "disambiguation": "",
+    "type-id": null,
+    "name": "United Kingdom"
+  },
+  "name": "Ozzy Osbourne",
+  "genres": [
+    {
+      "name": "glam metal",
+      "disambiguation": "",
+      "id": "818134e3-9392-4624-a13c-c4b19c54bccd",
+      "count": 5
+    },
+    {
+      "count": 12,
+      "id": "51cb9f91-e6a2-41bf-891f-e78e3f1e52ab",
+      "disambiguation": "",
+      "name": "hard rock"
+    },
+    {
+      "id": "a6719055-99c4-47eb-beaa-71081f2376f9",
+      "disambiguation": "",
+      "count": 21,
+      "name": "heavy metal"
+    },
+    {
+      "name": "metal",
+      "count": 3,
+      "id": "cc28f5aa-5e19-487c-88e1-e56b022f1fdd",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "id": "797e2e85-5ffd-495c-a757-8b4079052f0e",
+      "count": 4,
+      "name": "pop rock"
+    },
+    {
+      "name": "symphonic rock",
+      "count": 4,
+      "id": "f729e6f8-30dc-4b81-9ff4-f4e7de82225d",
+      "disambiguation": ""
+    }
+  ],
+  "life-span": {
+    "end": "2025-07-22",
+    "begin": "1948-12-03",
+    "ended": true
+  },
+  "type": "Person",
+  "gender": "Male",
+  "relations": [
+    {
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "artist": {
+        "country": "US",
+        "type": "Person",
+        "id": "19dccaac-efa8-413f-9042-28006792e0f2",
+        "disambiguation": "American guitarist, Quiet Riot, Ozzy Osbourne",
+        "sort-name": "Rhoads, Randy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Randy Rhoads"
+      },
+      "end": "1982-03-19",
+      "begin": "1979-11",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "end": "1981",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Bob Daisley",
+        "country": "AU",
+        "type": "Person",
+        "id": "af49ecbb-a0b9-4805-9cec-f97eac794c81",
+        "disambiguation": "",
+        "sort-name": "Daisley, Bob"
+      },
+      "begin": "1979",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "end": "1983",
+      "artist": {
+        "sort-name": "Aldridge, Tommy",
+        "disambiguation": "",
+        "id": "a7f32bf1-ed5c-4071-a6c7-1877d2f58924",
+        "type": "Person",
+        "country": "US",
+        "name": "Tommy Aldridge",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": "1981",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Brad Gillis",
+        "country": "US",
+        "type": "Person",
+        "id": "a1b80e43-02e4-4880-a07d-92b7104c567a",
+        "disambiguation": "",
+        "sort-name": "Gillis, Brad"
+      },
+      "end": "1982",
+      "begin": "1982"
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "ended": true,
+      "begin": "1982",
+      "end": "1987",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jake E. Lee",
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Lee, Jake E.",
+        "id": "3ee1d8cd-c79a-442f-a6ba-5ee5297d9019",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician"
+    },
+    {
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "end": "1991",
+      "artist": {
+        "name": "Bob Daisley",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Daisley, Bob",
+        "disambiguation": "",
+        "id": "af49ecbb-a0b9-4805-9cec-f97eac794c81",
+        "type": "Person",
+        "country": "AU"
+      },
+      "begin": "1983",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "ended": true,
+      "begin": "1983",
+      "end": "1993",
+      "artist": {
+        "name": "Randy Castillo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f7fc5a30-008d-48ab-861d-f328120e6702",
+        "disambiguation": "",
+        "sort-name": "Castillo, Randy",
+        "country": "US",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "artist": {
+        "name": "Phil Soussan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Soussan, Phil",
+        "disambiguation": "",
+        "id": "61188034-76ac-4c9c-8529-f4018f9d944f",
+        "type": "Person",
+        "country": "GB"
+      },
+      "end": "1987",
+      "begin": "1985"
+    },
+    {
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "begin": "1987",
+      "artist": {
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "sort-name": "Wylde, Zakk",
+        "country": "US",
+        "type": "Person"
+      },
+      "end": "1992",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ]
+    },
+    {
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "John Sinclair",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "keyboardist, Uriah Heep/Ozzy Osbourne\u2019s band",
+        "id": "ab92465a-fb88-4196-87a0-81f1e2aa6483",
+        "sort-name": "Sinclair, John",
+        "country": "GB",
+        "type": "Person"
+      },
+      "end": "1991",
+      "begin": "1988",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1989",
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Inez, Mike",
+        "disambiguation": "",
+        "id": "8080e7ca-5f51-4668-bbe7-e75c96aabf42",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Inez"
+      },
+      "end": "1993",
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "begin": "1994",
+      "artist": {
+        "name": "James LoMenzo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "LoMenzo, James",
+        "disambiguation": "",
+        "id": "0bba3da0-437c-4a9d-a5f1-19bed09101d3",
+        "type": "Person",
+        "country": "US"
+      },
+      "end": "1994",
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Castillo, Randy",
+        "id": "f7fc5a30-008d-48ab-861d-f328120e6702",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "name": "Randy Castillo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1995",
+      "begin": "1995",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497"
+    },
+    {
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "begin": "1995",
+      "end": "1995",
+      "artist": {
+        "name": "Deen Castronovo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Castronovo, Deen",
+        "id": "4ff8dc8f-7005-473f-8ac5-11617fc46cd6",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US"
+      },
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "membranophone"
+      ]
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Wylde, Zakk",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zakk Wylde"
+      },
+      "end": "1995",
+      "begin": "1995",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "777038ba-d2b5-41ab-a6c5-57a7e97abdf1",
+        "disambiguation": "",
+        "sort-name": "Trujillo, Robert",
+        "country": "US",
+        "type": "Person",
+        "name": "Robert Trujillo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2003",
+      "begin": "1996",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "artist": {
+        "disambiguation": "American drummer",
+        "id": "9c2c5b32-ca3f-4280-a269-bf2430b5a16b",
+        "sort-name": "Bordin, Mike",
+        "country": "US",
+        "type": "Person",
+        "name": "Mike Bordin",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2010",
+      "begin": "1996",
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "begin": "1998",
+      "end": "1998",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zakk Wylde",
+        "country": "US",
+        "type": "Person",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "disambiguation": "",
+        "sort-name": "Wylde, Zakk"
+      },
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ],
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "begin": "2002",
+      "artist": {
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "disambiguation": "",
+        "sort-name": "Wylde, Zakk",
+        "country": "US",
+        "type": "Person",
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2004",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "ended": true,
+      "begin": "2003",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jason Newsted",
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Newsted, Jason",
+        "disambiguation": "",
+        "id": "248ead7d-8058-4e0c-b334-fde70c036f8d"
+      },
+      "end": "2003",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician"
+    },
+    {
+      "source-credit": "",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Wylde, Zakk",
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zakk Wylde"
+      },
+      "end": "2009",
+      "begin": "2006",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "artist": {
+        "name": "Sharon Osbourne",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "5d8949a4-05bb-479e-9664-90c5f01fefc8",
+        "sort-name": "Osbourne, Sharon",
+        "country": "GB",
+        "type": "Person"
+      },
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type": "married",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "Earth",
+      "artist": {
+        "country": "GB",
+        "type": "Group",
+        "disambiguation": "English heavy metal band",
+        "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "sort-name": "Black Sabbath",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Black Sabbath"
+      },
+      "end": "1969-08",
+      "begin": "1968-09",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Black Sabbath",
+        "country": "GB",
+        "type": "Group",
+        "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "disambiguation": "English heavy metal band",
+        "sort-name": "Black Sabbath"
+      },
+      "end": "1969-08",
+      "begin": "1968-09",
+      "ended": true,
+      "target-credit": "Earth",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-ids": {
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attributes": [
+        "harmonica",
+        "original"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "Black Sabbath",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1969-08",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Black Sabbath",
+        "type": "Group",
+        "country": "GB",
+        "sort-name": "Black Sabbath",
+        "disambiguation": "English heavy metal band",
+        "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+      },
+      "end": "1977",
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "direction": "forward",
+      "target-type": "artist"
+    },
+    {
+      "direction": "forward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1"
+      },
+      "attributes": [
+        "harmonica",
+        "original"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "Black Sabbath",
+      "artist": {
+        "country": "GB",
+        "type": "Group",
+        "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "disambiguation": "English heavy metal band",
+        "sort-name": "Black Sabbath",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Black Sabbath"
+      },
+      "end": "1977",
+      "begin": "1969-08"
+    },
+    {
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "name": "Black Sabbath",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+        "disambiguation": "English heavy metal band",
+        "sort-name": "Black Sabbath",
+        "country": "GB",
+        "type": "Group"
+      },
+      "begin": "1997",
+      "ended": true,
+      "target-credit": "Black Sabbath",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "begin": null,
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "country": null,
+        "sort-name": "Blizzard of Ozz",
+        "disambiguation": "Ozzy Osbourne\u2019s solo band",
+        "id": "4bdd336e-4401-436d-8b41-6347ff2510d0",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Blizzard of Ozz"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "begin": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "The Osbournes",
+        "type": "Group",
+        "country": "US",
+        "sort-name": "Osbournes, The",
+        "id": "319a0222-c183-4d4d-b563-e054eb9ca148",
+        "disambiguation": ""
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "name": "Various Artists for Children\u2019s Promise",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "one\u2010off super group",
+        "id": "64e1c07d-9f49-4c89-aa27-0b84a6915cf8",
+        "sort-name": "Various Artists for Children\u2019s Promise",
+        "country": "GB",
+        "type": "Group"
+      },
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Kelly Osbourne",
+        "country": "GB",
+        "type": "Person",
+        "id": "6f54eacf-7ec1-4917-8995-6c2f67b606e6",
+        "disambiguation": "",
+        "sort-name": "Osbourne, Kelly"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "parent",
+      "source-credit": "John Michael Osbourne"
+    },
+    {
+      "source-credit": "John Michael Osbourne",
+      "attribute-values": {},
+      "type": "parent",
+      "ended": false,
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "target-credit": "Aimee Osbourne",
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "ARO",
+        "type": "Person",
+        "country": null,
+        "sort-name": "ARO",
+        "disambiguation": "Aimee Osbourne",
+        "id": "14f43383-ab7a-46e2-87b4-e81c0d6dd45b"
+      },
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "type": "parent",
+      "attribute-values": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "id": "7fae6ee5-7c17-4cf7-9653-f97f9ece6565",
+        "disambiguation": "",
+        "sort-name": "Osbourne, Jack",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jack Osbourne"
+      },
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "begin": "2000",
+      "end": "2000",
+      "artist": {
+        "name": "Tommy Lee",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "M\u00f6tley Cr\u00fce drummer",
+        "id": "9e8ae35d-95d3-4d49-aab9-d979d64902b7",
+        "sort-name": "Lee, Tommy",
+        "country": "US",
+        "type": "Person"
+      },
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type": "supporting musician",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "artist": {
+        "sort-name": "G., Gus",
+        "id": "722a5515-d564-4215-b4e3-08abad8869f0",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GR",
+        "name": "Gus G.",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "begin": "2009",
+      "source-credit": "",
+      "type": "supporting musician",
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "id": "7d1ebc92-1be4-4d3e-a939-c7a59025ff40",
+        "sort-name": "Mendoza, Marco",
+        "country": "US",
+        "type": "Person",
+        "name": "Marco Mendoza",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "ended": true,
+      "type": "supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": [],
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Group",
+        "country": "US",
+        "sort-name": "Bark at the Moon",
+        "id": "2f15eefc-f553-4434-93b9-2cb4bbff7dec",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Bark at the Moon"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Blizzard of a Madman",
+        "type": "Group",
+        "country": "CA",
+        "sort-name": "Blizzard of a Madman",
+        "id": "e7008664-b7f6-4088-a686-c7cf957ffc39",
+        "disambiguation": "Canadian Ozzy Osbourne tribute"
+      },
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "artist": {
+        "name": "Blizzard of Us",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Blizzard of Us",
+        "id": "4aadc28c-c242-4dea-98e7-e7a9e9019816",
+        "disambiguation": "Swedish Ozzy tribute band",
+        "type": "Group",
+        "country": "SE"
+      },
+      "source-credit": "",
+      "type": "tribute",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "artist": {
+        "id": "f6f4355b-b19e-4ac2-83a7-d4ae3c760c43",
+        "disambiguation": "Canadian tribute to Ozzy Osbourne/Black Sabbath",
+        "sort-name": "Crazy Babies",
+        "country": "CA",
+        "type": "Group",
+        "name": "Crazy Babies",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Crazy Train - America's Ozzy Tribute",
+        "country": "US",
+        "type": "Group",
+        "id": "82e1bad7-5347-44ce-90b0-5af62b7cf442",
+        "disambiguation": "",
+        "sort-name": "Crazy Train - America's Ozzy Tribute"
+      },
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "artist": {
+        "type-id": null,
+        "name": "Dawn of the Final Day",
+        "country": null,
+        "type": null,
+        "id": "beaee84c-916b-4ec4-aa16-873c6f501c48",
+        "disambiguation": "Ozzy Osbourne cover artist",
+        "sort-name": "Dawn of the Final Day"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attributes": [],
+      "source-credit": "",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "begin": null,
+      "artist": {
+        "type": "Group",
+        "country": null,
+        "sort-name": "Ikons of Rock",
+        "id": "c1c6620b-39be-4d2d-8042-ab58d53cb968",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Ikons of Rock"
+      },
+      "end": null
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Killer of Giants",
+        "type": "Group",
+        "country": "US",
+        "sort-name": "Killer of Giants",
+        "id": "a58399f3-62f6-44aa-87ab-f3150c7abac2",
+        "disambiguation": "Ozzy Osbourne tribute band"
+      },
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type": "tribute",
+      "attribute-values": {}
+    },
+    {
+      "artist": {
+        "id": "d9f85674-6238-4f8e-b9f0-9c12519d93d3",
+        "disambiguation": "The Ozzy Osbourne Experience",
+        "sort-name": "Mr. Crowley",
+        "country": "US",
+        "type": "Group",
+        "name": "Mr. Crowley",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "artist": {
+        "sort-name": "OBB",
+        "disambiguation": "Ozzy Osbourne tribute band",
+        "id": "f34e6b71-88ff-4a39-a54e-944c1e330a3c",
+        "type": "Group",
+        "country": "ES",
+        "name": "Ozzy Bloody Bastard",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "begin": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {},
+      "attributes": [],
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "7a6962b6-87f5-4e42-b387-23ff80329f76",
+        "disambiguation": "",
+        "sort-name": "Ozz \u2013 A Tribute to Ozzy",
+        "country": null,
+        "type": "Group",
+        "name": "Ozz \u2013 A Tribute to Ozzy",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "artist": {
+        "sort-name": "Ozzbournes, The",
+        "disambiguation": "Black Sabbath/Ozzy Osbourne tribute band",
+        "id": "3c986e19-b10b-4f9b-87fb-27c4d36c8803",
+        "type": "Group",
+        "country": "US",
+        "name": "The Ozzbournes",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute"
+    },
+    {
+      "artist": {
+        "name": "Ozzmosis",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Ozzmosis",
+        "id": "492b9143-7091-4791-bde1-d4f80ca6bb2f",
+        "disambiguation": "NY\u2010based Ozzy Osbourne tribute band",
+        "type": "Group",
+        "country": "US"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "ended": false,
+      "begin": null,
+      "artist": {
+        "disambiguation": "tribune band from Spain",
+        "id": "86d757f0-ab06-45ab-976f-96bf5b71f083",
+        "sort-name": "Ozzy Solution",
+        "country": "ES",
+        "type": "Group",
+        "name": "Ozzy Solution",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Ozzyfied",
+        "type": "Group",
+        "country": null,
+        "sort-name": "Ozzyfied",
+        "id": "49c7702c-7adc-4c1e-b965-717a86e16103",
+        "disambiguation": "Ozzy Osbourne tribute band"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type": "tribute",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "SABBATH",
+        "country": "US",
+        "type": "Group",
+        "id": "94aed6c0-749b-4d7a-88db-4851be7a2746",
+        "disambiguation": "The Complete Black Sabbath Experience",
+        "sort-name": "SABBATH"
+      },
+      "begin": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type": "tribute",
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Spiritus Sabbathi",
+        "country": "FI",
+        "type": "Group",
+        "id": "382d2df2-62a9-4a87-a287-bd7c8e00ea8a",
+        "disambiguation": "Ozzy Osbourne, Dio, Black Sabbath tribute band",
+        "sort-name": "Spiritus Sabbathi"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attributes": [],
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "White Lightning",
+        "id": "4dbd4983-a863-4a9e-bac0-ce565824de4f",
+        "disambiguation": "Hinsdale, IL",
+        "type": "Group",
+        "country": "US",
+        "name": "White Lightning",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-credits": {},
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "end": "1992",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zakk Wylde",
+        "country": "US",
+        "type": "Person",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "disambiguation": "",
+        "sort-name": "Wylde, Zakk"
+      },
+      "begin": "1987"
+    },
+    {
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "attribute-values": {},
+      "ended": true,
+      "target-credit": "",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "end": "1995",
+      "artist": {
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "sort-name": "Wylde, Zakk",
+        "country": "US",
+        "type": "Person",
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": "1995",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "target-credit": "",
+      "ended": true,
+      "begin": "1998",
+      "artist": {
+        "sort-name": "Wylde, Zakk",
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "type": "Person",
+        "country": "US",
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1998",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "vocal supporting musician",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "end": "2004",
+      "artist": {
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "sort-name": "Wylde, Zakk",
+        "country": "US",
+        "type": "Person",
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": "2002",
+      "ended": true,
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "vocal supporting musician",
+      "source-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "ended": true,
+      "begin": "2006",
+      "artist": {
+        "name": "Zakk Wylde",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "b109e75a-89d9-4fb2-843c-c0418b755d4c",
+        "sort-name": "Wylde, Zakk",
+        "country": "US",
+        "type": "Person"
+      },
+      "end": "2009",
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "attribute-values": {}
+    }
+  ],
+  "isnis": [
+    "0000000115764634",
+    "0000000368599630"
+  ],
+  "country": "GB",
+  "tags": [
+    {
+      "name": "british",
+      "count": 5
+    },
+    {
+      "name": "glam metal",
+      "count": 5
+    },
+    {
+      "count": 12,
+      "name": "hard rock"
+    },
+    {
+      "name": "heavy metal",
+      "count": 21
+    },
+    {
+      "name": "metal",
+      "count": 3
+    },
+    {
+      "count": 4,
+      "name": "pop rock"
+    },
+    {
+      "name": "symphonic rock",
+      "count": 4
+    }
+  ],
+  "begin-area": {
+    "sort-name": "Aston",
+    "disambiguation": "",
+    "id": "329e49d2-180c-4ac3-a06b-40737e50d4d6",
+    "type": null,
+    "name": "Aston",
+    "type-id": null
+  },
+  "ipis": [
+    "00059623948",
+    "00127204015"
+  ],
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+}

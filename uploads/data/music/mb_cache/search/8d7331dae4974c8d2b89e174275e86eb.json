@@ -1,0 +1,131 @@
+{
+  "created": "2026-05-18T12:43:10.046Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "be600e96-9ce5-4fc7-8da4-a37acd57654d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Manuel Molina",
+      "sort-name": "Molina, Manuel",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "381524a3-718f-4a22-837e-e3bc698a45ef",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ceuta",
+        "sort-name": "Ceuta",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0adc4677-6f7f-4776-be7f-931b014e69f4",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "San Juan de Aznalfarache",
+        "sort-name": "San Juan de Aznalfarache",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish flamenco composer and singer",
+      "ipis": [
+        "00069790427"
+      ],
+      "isnis": [
+        "0000000083520423"
+      ],
+      "life-span": {
+        "begin": "1948-07-21",
+        "end": "2015-05-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Molina Jim\u00e9nez, Manuel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Manuel Molina Jim\u00e9nez",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Manuel Molina Jimenez",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Manuel Molina Jimenez",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2c2cf850-d431-4648-b881-e90ecf7b681c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Manuel Molina",
+      "sort-name": "Molina, Manuel",
+      "gender": "male",
+      "country": "PE",
+      "area": {
+        "id": "719f6082-95c7-3dd5-9503-e143010a6cc1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Peru",
+        "sort-name": "Peru",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Peruvian guitarist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1fcf4e39-a728-4b9c-bea0-6d879f3ab672",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jos\u00e9 Manuel Molina G\u00f3mez",
+      "sort-name": "Molina G\u00f3mez, Jos\u00e9 Manuel",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

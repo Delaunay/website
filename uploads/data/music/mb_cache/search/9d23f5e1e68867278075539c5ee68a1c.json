@@ -1,0 +1,771 @@
+{
+  "created": "2026-05-18T07:19:01.050Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "206afad9-109f-43c4-97a4-23242a88c8e2",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Tonight",
+      "length": 222000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "07ec6adf-5fcb-4386-bab0-c8a2611d0d62",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Tonight",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d973fd0a-cf86-4568-9fd3-94fadf7b3ed9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Tonight",
+            "primary-type": "Single"
+          },
+          "date": "2012",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "c7de900a-1564-3af7-9cc4-4a9035788f7f",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "88c0d4bb-e2af-4cdd-919b-5f2b5eb87af2",
+                  "number": "1",
+                  "title": "Tonight",
+                  "length": 222000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0ae4b910-f928-4709-895f-10c0d9c3ccd2",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Tonight",
+      "length": 223000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-09-28",
+      "releases": [
+        {
+          "id": "6b3d103b-4b70-4f97-9385-ae83835e2cc2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "d2bfa68e-1c29-3a1c-8e13-2bbeef810b4b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "06d29104-9616-4a51-99fc-9fd7f5358862",
+                  "number": "9",
+                  "title": "Tonight",
+                  "length": 224960
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "97d5bb98-f863-4121-837f-a4a70788aa63",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "2eb4b7e1-9dd6-3126-84fc-eaea4c5d18f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c6015d07-af99-4904-b57a-f4f4b2d9c732",
+                  "number": "9",
+                  "title": "Tonight",
+                  "length": 226626
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "d9f94f4d-22fe-4bc5-9ab3-9109689093b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e807b9ae-ea20-3712-b47b-2ee682025923",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b210c0be-a085-3d2d-abb8-4f212af9cd87",
+                  "number": "2",
+                  "title": "Tonight",
+                  "length": 222000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "9ce14053-30c0-49f6-9c51-ade3d9776ca0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "db04f740-3cb2-30f5-b5c0-b7c24f5a3803",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab69575a-0d6e-364e-9d4b-4b25407be758",
+                  "number": "2",
+                  "title": "Tonight",
+                  "length": 223000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "804f4a82-290c-4ac3-806e-f3b22817a61d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Gothic Spirits 16",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a0697d58-939e-4ebd-aad9-0801f959248c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gothic Spirits 16",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-11-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-11-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "b65778b4-79c7-300e-a2b2-5b9cc84e51e2",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d826c029-48da-3603-a4e4-e0c7b42a7a43",
+                  "number": "5",
+                  "title": "Tonight",
+                  "length": 224880
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "3193845e-f577-4167-9d6b-aa9866b40e3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "833ffbe3-4114-3bf0-99a8-85b0f11cfc29",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "56cf83c9-7d2b-3b4b-8802-69ebde51e08c",
+                  "number": "2",
+                  "title": "Tonight",
+                  "length": 222000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "84af1176-dbf9-4072-93fa-877112c97c07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "disambiguation": "bonus version",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "428a53e9-8ccb-36d8-adf2-55410ec083a8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0edb2957-97a8-44d4-8999-cd9b548a6c13",
+                  "number": "2",
+                  "title": "Tonight",
+                  "length": 222000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b406792d-2410-400b-87fd-115fee773144",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "X",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ddcab1f8-8f84-4f1d-996f-3af5fedd2b93",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "X",
+            "primary-type": "Album"
+          },
+          "date": "2012-09-28",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-09-28",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "895932dc-083d-3f34-a8d4-fa69ac7775e5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fb6ee9a5-8f04-43ce-919b-100bf5bcecb9",
+                  "number": "2",
+                  "title": "Tonight",
+                  "length": 224000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIHVA1200004"
+      ]
+    },
+    {
+      "id": "0d09c5f1-8b72-4e27-9f18-197313429882",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Tonight",
+      "length": 224000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "2e62c0e0-fb35-4412-9849-08d246521035",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Gothic File 12 | 3",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a6d3283e-6cd0-4086-9127-f15abf5e9fe9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gothic File 12 | 3",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "9451450f-d3ed-34e9-a124-fe06cc9d7328",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f241b134-b315-4229-be3c-451e947f2cd8",
+                  "number": "1",
+                  "title": "Tonight",
+                  "length": 224000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e5cd4e0c-3a6c-409e-b9d4-d83aa7e95564",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Tonight",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d973fd0a-cf86-4568-9fd3-94fadf7b3ed9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Tonight",
+            "primary-type": "Single"
+          },
+          "date": "2013-01-25",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-01-25",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "2a971bc5-89a4-376a-b172-fc5cd4d58713",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "abc1b657-1040-47a4-a9d9-d380d51f8b8e",
+                  "number": "1",
+                  "title": "Tonight",
+                  "length": 224067
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

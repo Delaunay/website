@@ -1,0 +1,661 @@
+{
+  "created": "2026-05-18T06:15:59.248Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "b6c1c5ef-917f-4c92-a518-13c200ec7c71",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "The Flame",
+      "length": 332000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-05",
+      "releases": [
+        {
+          "id": "862e0da1-1197-4487-87b0-32b126d2d822",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Single Collection 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "250a3554-0b7f-4a35-b70b-fea249a44b5c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Single Collection 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-05",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2008-05",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e1753bde-903b-3517-b275-54bd770285db",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4e2457ad-1e67-3685-9a20-3a05c3d30fa7",
+                  "number": "1",
+                  "title": "The Flame",
+                  "length": 335386
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ccdc4bce-779b-4df0-8419-b69cc9a19ba7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "Coco",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e51ec0d8-a168-418b-ad09-3595fbf3dc5c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Coco",
+            "primary-type": "Album"
+          },
+          "date": "2009-09-14",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2009-09-14",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 27,
+          "media": [
+            {
+              "id": "b01d8db2-faa2-371e-ba30-a851497319c1",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6c3dd23-0659-3215-b881-5058b22b9e49",
+                  "number": "7",
+                  "title": "The Flame",
+                  "length": 333386
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "6ef16744-b428-4ec6-9b35-dc562af67b55",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "Coco",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e51ec0d8-a168-418b-ad09-3595fbf3dc5c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Coco",
+            "primary-type": "Album"
+          },
+          "date": "2009-11-16",
+          "country": "TW",
+          "release-events": [
+            {
+              "date": "2009-11-16",
+              "area": {
+                "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+                "name": "Taiwan",
+                "sort-name": "Taiwan",
+                "iso-3166-1-codes": [
+                  "TW"
+                ]
+              }
+            }
+          ],
+          "track-count": 27,
+          "media": [
+            {
+              "id": "96662dad-d775-3f83-baaa-4724f8a17271",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b180fdf3-6736-48c9-a203-f9bf7c8913f3",
+                  "number": "7",
+                  "title": "The Flame",
+                  "length": 333386
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "8eb61767-a5a0-4c7e-9fbb-f70a3068ac42",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Coco, Part 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e51ec0d8-a168-418b-ad09-3595fbf3dc5c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Coco",
+            "primary-type": "Album"
+          },
+          "date": "2009-08-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-08-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "74636145-9e08-3175-8365-3e730cfc99fd",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "134633cc-fb06-3790-aca8-f245a4b07bbb",
+                  "number": "7",
+                  "title": "The Flame",
+                  "length": 331000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "48a14e55-4d12-4dd0-943a-62df2ef5cba8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Break'n' Jazz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "db9bbeab-49df-3917-bfed-db44a06e8874",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Break'n' Jazz",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-10-08",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-10-08",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "debc917a-5b64-30ef-a1d6-fc4c4cfbee73",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1737ae13-cc49-3d17-8888-b0a9a3019aa5",
+                  "number": "3",
+                  "title": "The Flame",
+                  "length": 331000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "388edb27-1184-491c-9959-156d05eea272",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "That Swing",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "adbcf038-ecea-48df-bcb1-5157e19a4b70",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "That Swing",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "GR",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+                "name": "Greece",
+                "sort-name": "Greece",
+                "iso-3166-1-codes": [
+                  "GR"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "f49e6811-0e87-3eb7-98d8-062d4fb316fa",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "764a528a-c8ca-3b95-9549-d3b3fb6e8121",
+                  "number": "9",
+                  "title": "The Flame",
+                  "length": 332000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "a2774f84-b2dc-3133-99c2-c0cc591c5a6d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Break'n' Jazz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "db9bbeab-49df-3917-bfed-db44a06e8874",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Break'n' Jazz",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-11-05",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-11-05",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "223332cb-e688-322e-a147-749a1dfd389a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3a6cde49-fb05-3eb3-8cb6-157f9796eb8a",
+                  "number": "3",
+                  "title": "The Flame",
+                  "length": 331000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ATE610900015",
+        "ATE610800083"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "acid jazz"
+        },
+        {
+          "count": 1,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "future jazz"
+        }
+      ]
+    },
+    {
+      "id": "2a194a3d-943a-40df-bb9a-2eb724c8423a",
+      "score": 92,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "The Flame of Fame",
+      "length": 331000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-04",
+      "releases": [
+        {
+          "id": "7d4ea5ee-025d-4827-9c45-acb91a9c6123",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Flame of Fame",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1ad342f0-3782-3c7b-865e-5c0049b4bd68",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "The Flame of Fame",
+            "primary-type": "EP"
+          },
+          "date": "2008-04",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-04",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "2c7da3a4-d761-3354-a4b8-6b6be3c5955e",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "ffb57e72-bd72-3489-bab0-2cf06914561a",
+                  "number": "1",
+                  "title": "The Flame of Fame",
+                  "length": 331000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "nu jazz"
+        },
+        {
+          "count": 1,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "electro swing"
+        }
+      ]
+    }
+  ]
+}

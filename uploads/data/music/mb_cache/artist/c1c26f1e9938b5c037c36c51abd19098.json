@@ -1,0 +1,71 @@
+{
+  "country": "SE",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group",
+  "ipis": [],
+  "relations": [
+    {
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Zachrisson, Jan",
+        "type": "Person",
+        "name": "Jan Zachrisson",
+        "id": "4ed7ae59-2e15-45c4-a69b-50cf330f0d37",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "SE"
+      },
+      "direction": "backward",
+      "begin": null
+    }
+  ],
+  "gender": null,
+  "area": {
+    "disambiguation": "",
+    "type": null,
+    "name": "Sundsvall",
+    "id": "d4a7b44d-a603-4c38-b801-6de13890abe4",
+    "sort-name": "Sundsvall",
+    "type-id": null
+  },
+  "id": "c84a9660-75de-4551-b72c-2944ac2feada",
+  "isnis": [],
+  "name": "Diestinct",
+  "life-span": {
+    "ended": true,
+    "end": "1985",
+    "begin": null
+  },
+  "gender-id": null,
+  "sort-name": "Diestinct",
+  "begin-area": null,
+  "genres": [
+    {
+      "count": 1,
+      "disambiguation": "",
+      "name": "punk",
+      "id": "8cc9b280-230b-4a3a-b1e2-8acab0744dd3"
+    }
+  ],
+  "tags": [
+    {
+      "count": 1,
+      "name": "punk"
+    },
+    {
+      "count": 1,
+      "name": "sweden"
+    }
+  ],
+  "disambiguation": "post-punk",
+  "end-area": null
+}

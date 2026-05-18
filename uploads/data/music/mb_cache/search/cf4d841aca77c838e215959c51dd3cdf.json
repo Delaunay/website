@@ -1,0 +1,282 @@
+{
+  "created": "2026-05-18T06:16:58.678Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7b6cf299-14b5-4b8a-919c-0d299aed7897",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Requiem for Annie",
+      "length": 71346,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-04-20",
+      "releases": [
+        {
+          "id": "164cac0b-7033-4854-8b31-b2fc493d55c2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "The Princess",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7afde31-7b13-43de-8f0c-784b736cf6be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-04-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "5f201e55-3f71-3605-b34e-da88f0b07313",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "617dbe42-2cbd-4d0b-9fb4-62c2cda18e0b",
+                  "number": "9",
+                  "title": "Requiem for Annie",
+                  "length": 71347
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "29cddfac-5707-4ee9-9d85-ca3e696eedb2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Princess",
+          "status": "Official",
+          "disambiguation": "No \"PSYcz\" logo",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7afde31-7b13-43de-8f0c-784b736cf6be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess",
+            "primary-type": "Album"
+          },
+          "date": "2012",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "6b2c3b13-1ff3-365f-b46d-e402d60cdb79",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a6f08e84-ba40-4b95-b6da-b947e9e9ba22",
+                  "number": "9",
+                  "title": "Requiem for Annie",
+                  "length": 71346
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "0cd5ece7-68c1-461d-82ac-b10ab32b37a0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 2,
+          "title": "The Princess",
+          "status": "Official",
+          "disambiguation": "\"PSYcz\" logo",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c7afde31-7b13-43de-8f0c-784b736cf6be",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Princess",
+            "primary-type": "Album"
+          },
+          "date": "2012-04-20",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2012-04-20",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "84071b7e-f14c-3acc-9e42-cdca9a59d203",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b16d16b8-4a64-3a8a-8b1b-c331171946a1",
+                  "number": "9",
+                  "title": "Requiem for Annie",
+                  "length": 71346
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ATE612000009"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 2,
+          "name": "nu jazz"
+        },
+        {
+          "count": 1,
+          "name": "future jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazzdance"
+        },
+        {
+          "count": 1,
+          "name": "broken beat"
+        },
+        {
+          "count": 1,
+          "name": "electro swing"
+        }
+      ]
+    }
+  ]
+}

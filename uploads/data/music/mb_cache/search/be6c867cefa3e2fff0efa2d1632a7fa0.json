@@ -1,0 +1,278 @@
+{
+  "created": "2026-05-18T06:48:11.167Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "43ec7c8e-6b8a-41ec-8348-d141572b8b78",
+      "score": 100,
+      "artist-credit-id": "50f5b398-85b2-30fd-a4d5-dd2d8ac7f2a1",
+      "title": "Cancer",
+      "length": 185653,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sick Puppies",
+          "artist": {
+            "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+            "name": "Sick Puppies",
+            "sort-name": "Sick Puppies"
+          }
+        }
+      ],
+      "first-release-date": "2007-04-03",
+      "releases": [
+        {
+          "id": "d70476c1-1e3d-47e0-8361-ad16686493cb",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Chew It Up!",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6e411e2-b137-43d1-976d-c65d95c0a0e8",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Chew It Up!",
+            "disambiguation": "Stride Gum Promo CD",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f6576984-4cea-3c21-88d2-eebc778e3ac2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "53cad803-d833-4eec-802e-d1695f5385f7",
+                  "number": "10",
+                  "title": "Cancer",
+                  "length": 184626
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "bf4c0ccc-9f55-4eeb-9fda-ef33a426ea87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e038dae0-aaa4-4ebe-a927-99d481a7aa57",
+          "count": 1,
+          "title": "Dressed Up as Life",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "SICK PUPPIES",
+              "artist": {
+                "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+                "name": "Sick Puppies",
+                "sort-name": "Sick Puppies"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fa847b49-5139-39d7-938f-50f0964c4db5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dressed Up as Life",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "00c41c17-169e-3078-aea1-7eecaf299e48",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c4df2fa0-4d95-4dc0-ad66-43b63fab7db5",
+                  "number": "3",
+                  "title": "Cancer",
+                  "length": 185773
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "d4154364-8616-4603-b823-406e01443884",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Dressed Up as Life",
+          "status": "Official",
+          "release-group": {
+            "id": "fa847b49-5139-39d7-938f-50f0964c4db5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Dressed Up as Life",
+            "primary-type": "Album"
+          },
+          "date": "2007-04-03",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-04-03",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "5b71eb16-4c3f-36cf-a345-73cbc80e4dca",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "80bfc310-3c5c-38f3-9a15-572eea116517",
+                  "number": "3",
+                  "title": "Cancer",
+                  "length": 185653
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USVI20700564"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "emo"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "e4c484f1-f091-42fd-ac8b-5a89681b4f74",
+      "score": 94,
+      "artist-credit-id": "50f5b398-85b2-30fd-a4d5-dd2d8ac7f2a1",
+      "title": "Cancer (Live)",
+      "length": 252000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Sick Puppies",
+          "artist": {
+            "id": "86f78011-5087-48d2-8922-c381d2eb0c40",
+            "name": "Sick Puppies",
+            "sort-name": "Sick Puppies"
+          }
+        }
+      ],
+      "first-release-date": "2011-06-21",
+      "releases": [
+        {
+          "id": "d9704c96-d330-4f79-9f21-915b75ba5561",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Live At House of Blues Cleveland - Live Nation Studios",
+          "status": "Official",
+          "release-group": {
+            "id": "eb2b2a4b-99b7-43cb-9adb-955dfc73987b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live At House of Blues Cleveland - Live Nation Studios",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 8,
+          "media": [
+            {
+              "id": "d88bb9e5-752e-30fc-a852-f5c349ac2de9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c0226b69-7d08-31b3-bb3d-5a2c178bb355",
+                  "number": "2",
+                  "title": "Cancer (Live)",
+                  "length": 252000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

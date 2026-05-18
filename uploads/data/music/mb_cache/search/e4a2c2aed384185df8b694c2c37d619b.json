@@ -1,0 +1,457 @@
+{
+  "created": "2026-05-18T06:13:19.460Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ae01b314-7631-4db9-8443-51c6de1b543d",
+      "score": 100,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Chaque seconde",
+      "length": 229120,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2002-11",
+      "releases": [
+        {
+          "id": "5e23ee9e-8789-4ad9-ad30-9bf6a9d4b5cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-07-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-07-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "88140628-bd10-35db-9d8b-9e22d2b17a4b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5eb9c810-3fb1-3194-ad05-702c8d4e4a9b",
+                  "number": "5",
+                  "title": "Chaque seconde",
+                  "length": 229746
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "f6f36ebe-0127-4d7a-81fd-ecf24630ac5f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005-01-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2005-01-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "983ad530-7972-337c-b300-d5de66dfd17d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bc695201-e912-4ec5-8fbd-09d78d72af09",
+                  "number": "11",
+                  "title": "Chaque seconde",
+                  "length": 229000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "e891676f-7e4d-36c0-a557-4dd5481c3ce3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2003-01-14",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-01-14",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "28c85ad6-1fa5-3207-9699-373ae3afe9ac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dbc08503-f963-3bd3-9905-c8bc71179eb0",
+                  "number": "5",
+                  "title": "Chaque seconde",
+                  "length": 229746
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "61474034-768d-3bb5-8180-bd2efd8e22ad",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2004-01-20",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2004-01-20",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c2e223fb-61d0-3464-bc71-8c6a9d03d1b6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fb959c2f-6d8b-3bab-9074-33f00f724aac",
+                  "number": "5",
+                  "title": "Chaque seconde",
+                  "length": 229746
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "cb150add-fee7-4dc6-a725-030fe6e93ae4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "27e5701f-6cc8-3258-a450-a1d52277c46e",
+          "count": 1,
+          "title": "Le Chemin",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " feat. ",
+              "name": "Kyo",
+              "artist": {
+                "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+                "name": "Kyo",
+                "sort-name": "Kyo",
+                "disambiguation": "French pop-rock band"
+              }
+            },
+            {
+              "name": "Sita",
+              "artist": {
+                "id": "89d7b859-e989-4e05-bfb3-884befdcdb35",
+                "name": "Sita",
+                "sort-name": "Sita"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "92f053bf-cd57-332e-a718-251aa3471fe9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Le Chemin",
+            "primary-type": "Single"
+          },
+          "date": "2002-11",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2002-11",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "8c828d33-d09a-3aeb-bdf5-8e1f3ae72739",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5d7b59ef-7235-3951-8408-8e0e701c3d89",
+                  "number": "2",
+                  "title": "Chaque seconde",
+                  "length": 229120
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c06675b6-1a5c-453d-9329-feadb7773eba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Best Of",
+          "status": "Official",
+          "release-group": {
+            "id": "a1c2d3e4-b1fa-4436-b2a2-fb24472637ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Of",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-01-23",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-01-23",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "fad9813e-f5bf-3b09-b435-ae30b2f48c9e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "fd6a1f58-9299-46c9-82a2-3fd653b0e6a8",
+                  "number": "11",
+                  "title": "Chaque seconde",
+                  "length": 229000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR84S0200043"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "general alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "3fbcb259-229b-4311-bcc6-5f1110318543",
+      "score": 85,
+      "artist-credit-id": "61e3533e-2d94-39e5-bedf-a6b8029a9955",
+      "title": "Chaque seconde (2023 remaster)",
+      "length": 227893,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kyo",
+          "artist": {
+            "id": "c5d581b7-3b8b-414b-92ae-8f8ed6198901",
+            "name": "Kyo",
+            "sort-name": "Kyo",
+            "disambiguation": "French pop-rock band"
+          }
+        }
+      ],
+      "first-release-date": "2023-11-17",
+      "releases": [
+        {
+          "id": "c9621264-605b-4e08-aad6-685fc1d3df5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Le Chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "date": "2023-11-17",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2023-11-17",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "209afcfe-79d9-3725-8688-3d4fd0817a56",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f5f2fe45-ae2c-4e90-ba2a-bc54209e7717",
+                  "number": "5",
+                  "title": "Chaque seconde (2023 remaster)",
+                  "length": 227893
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "0a489edf-352b-435d-ba02-55139d8c7ff2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Le chemin - 20 ans",
+          "status": "Official",
+          "release-group": {
+            "id": "2e3e11ea-82b5-3d90-b3a0-8be809b409c3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Le Chemin",
+            "primary-type": "Album"
+          },
+          "track-count": 27,
+          "media": [
+            {
+              "id": "14d30862-05a9-3595-9cf4-16afcd6096d6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "be5aaa0a-0e19-48f4-81fd-f954b0f48f53",
+                  "number": "5",
+                  "title": "Chaque seconde (2023 remaster)",
+                  "length": 227893
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ082300120"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "created": "2026-05-18T07:11:59.937Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e4958a6b-8359-4c4f-af82-74ecc2b921a9",
+      "score": 100,
+      "artist-credit-id": "c0287a57-65ca-454a-b2fa-866175892505",
+      "title": "Bergsommer",
+      "length": 205706,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Dominik Plangger",
+          "artist": {
+            "id": "59596c1d-8670-4e55-99b0-22764164e290",
+            "name": "Dominik Plangger",
+            "sort-name": "Plangger, Dominik"
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "419a9054-6e8a-401b-a535-67fcb8968f94",
+          "count": 1,
+          "title": "ansichtshalber",
+          "release-group": {
+            "id": "1c03cc0c-a466-4d7e-8397-2997bc04db4e",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "ansichtshalber",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "5ddf132a-aff5-3006-b62d-23acc7b4a24f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e4831ca7-d90f-40a6-a6d7-425f43d4388b",
+                  "number": "3",
+                  "title": "Bergsommer",
+                  "length": 205706
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

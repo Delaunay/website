@@ -1,0 +1,68 @@
+{
+  "created": "2026-05-18T05:52:40.223Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e4767995-7c21-49df-b949-04f0900c09bf",
+      "score": 100,
+      "artist-credit-id": "02739213-d386-3dc9-8eb5-2843689253ca",
+      "title": "Arise",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "vandermeer",
+          "artist": {
+            "id": "2dc277c4-5845-4f39-b617-ea6dcedb8729",
+            "name": "Vandermeer",
+            "sort-name": "Vandermeer"
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "36ea9781-61ed-4314-9c28-77a39e813e48",
+          "count": 1,
+          "title": "panique automatique",
+          "release-group": {
+            "id": "c5c3a36c-b230-4830-b2b5-b165606fc2b2",
+            "title": "panique automatique"
+          },
+          "date": "2019",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f52b479d-f6b3-3ef6-a92f-87f4b6c1a7f9",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b85a80a4-2807-4864-b67c-1274530ef5cc",
+                  "number": "A4",
+                  "title": "Arise"
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

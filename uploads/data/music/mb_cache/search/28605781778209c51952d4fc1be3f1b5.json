@@ -1,0 +1,517 @@
+{
+  "created": "2026-05-18T06:56:43.865Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cd83b3e3-deec-457d-9888-59faf30574d3",
+      "score": 100,
+      "artist-credit-id": "2e2ae27e-aacc-3bb4-bdaa-2c5de17e4257",
+      "title": "1993",
+      "length": 192000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wincent Weiss",
+          "artist": {
+            "id": "ae82eb39-d6b2-4578-a293-219906d0c200",
+            "name": "Wincent Weiss",
+            "sort-name": "Weiss, Wincent"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "de18b003-8ac0-43a5-a7ba-a2fb5d4bef28",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Herzber\u00fchrt: Deutsche Poeten 4",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9911f006-6e98-4cf7-939d-3c95c8eb2ae6",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Herzber\u00fchrt: Deutsche Poeten 4",
+            "primary-type": "Album"
+          },
+          "date": "2019-06-07",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-06-07",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 44,
+          "media": [
+            {
+              "id": "b2589f79-0466-35de-a1a3-99e4838306b8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "372b7aa9-910b-436c-a988-577682c90dd9",
+                  "number": "6",
+                  "title": "1993",
+                  "length": 192000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "930a3d94-d6d0-4b9a-bc4f-3ab686403cc4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limitierte deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2020-03-20",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2020-03-20",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "05b2aac0-0934-3080-9e0c-26b57769c60c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a2fb9b0d-24ef-470b-a0ea-4203c8eaaabf",
+                  "number": "14",
+                  "title": "1993",
+                  "length": 192000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "d70740c1-b527-4a60-8298-2758b608f5a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "Fanbox",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "4691389c-25d3-3b6c-8f8f-28cb688bbb8d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3c8665b8-fd26-4f6b-a75f-07e024f33df6",
+                  "number": "12",
+                  "title": "1993",
+                  "length": 192000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "c4d00111-6f5f-4b31-bc67-fbff8aa623c5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "4e14ca40-d439-3e9d-bd3a-c57e366156c4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3a10d38f-bb43-4403-a270-bace99f2fc98",
+                  "number": "12",
+                  "title": "1993",
+                  "length": 192149
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "1cc8f080-8700-4151-acf0-a22c0d0899ae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limited deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "2f2f7596-7809-3f1a-8912-3ae8d7668832",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b18c58e9-1ada-4a43-a26e-0e4f1814d3d5",
+                  "number": "12",
+                  "title": "1993",
+                  "length": 192000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "b1fed192-8b12-42cc-9e0a-cb45ab286591",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "60840344-4543-3e11-bf82-63d119ade31d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "401932bb-d6ef-4c0d-b0fd-d619eb03979b",
+                  "number": "12",
+                  "title": "1993",
+                  "length": 192000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71807112"
+      ]
+    },
+    {
+      "id": "6a9982f0-e3d3-43eb-83d4-aeb4c8a6dfb0",
+      "score": 94,
+      "artist-credit-id": "2e2ae27e-aacc-3bb4-bdaa-2c5de17e4257",
+      "title": "1993 (live)",
+      "length": 232000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wincent Weiss",
+          "artist": {
+            "id": "ae82eb39-d6b2-4578-a293-219906d0c200",
+            "name": "Wincent Weiss",
+            "sort-name": "Weiss, Wincent"
+          }
+        }
+      ],
+      "first-release-date": "2020-03-20",
+      "releases": [
+        {
+          "id": "930a3d94-d6d0-4b9a-bc4f-3ab686403cc4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limitierte deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2020-03-20",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2020-03-20",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "d2b893fc-8d3c-3e60-959d-d44b47579006",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a467a9c9-f95a-43e0-935f-751f4082db8e",
+                  "number": "6",
+                  "title": "1993 (live)",
+                  "length": 232000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9935b357-6297-402f-9e7c-ab69ece8142e",
+      "score": 94,
+      "artist-credit-id": "2e2ae27e-aacc-3bb4-bdaa-2c5de17e4257",
+      "title": "1993 (instrumental)",
+      "length": 192000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wincent Weiss",
+          "artist": {
+            "id": "ae82eb39-d6b2-4578-a293-219906d0c200",
+            "name": "Wincent Weiss",
+            "sort-name": "Weiss, Wincent"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "d70740c1-b527-4a60-8298-2758b608f5a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "Fanbox",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "0d7f8545-08d4-36a5-9aa4-127ce68b0559",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a291ae09-b7df-4759-a03e-2037fd4ca844",
+                  "number": "12",
+                  "title": "1993 (instrumental)",
+                  "length": 192000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "1cc8f080-8700-4151-acf0-a22c0d0899ae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limited deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "223aca67-a47b-318f-ab04-6a0ea37e7dea",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "79d12f3b-efe7-442c-a47d-490641a5010e",
+                  "number": "12",
+                  "title": "1993 (instrumental)",
+                  "length": 192000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71900860"
+      ]
+    }
+  ]
+}

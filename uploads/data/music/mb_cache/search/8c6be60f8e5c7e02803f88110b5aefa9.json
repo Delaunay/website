@@ -1,0 +1,127 @@
+{
+  "created": "2026-05-18T08:06:51.225Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1ddd5a16-c090-4ae3-8980-7fe89b6317de",
+      "score": 100,
+      "artist-credit-id": "6bce2e9e-57be-3d19-97d7-fd7e2d0fb248",
+      "title": "The Charm",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Protoje",
+          "artist": {
+            "id": "eb9ad275-dc6b-4d00-9dea-e60b02313a72",
+            "name": "Protoje",
+            "sort-name": "Protoje",
+            "disambiguation": "Jamaican musican, reggae",
+            "aliases": [
+              {
+                "sort-name": "Prot\u00e9g\u00e9",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Prot\u00e9g\u00e9",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Oje Ollivierre",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Oje Ollivierre",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ollivierre, Oje Ken",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Oje Ken Ollivierre",
+                "locale": "en_JM",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Jah9, Protoje ft.",
+                "name": "Protoje ft. Jah9",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "718461dd-bc17-422b-ae7c-13c73d6f02b0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "6bce2e9e-57be-3d19-97d7-fd7e2d0fb248",
+          "count": 1,
+          "title": "Third Time's the Charm",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Protoje",
+              "artist": {
+                "id": "eb9ad275-dc6b-4d00-9dea-e60b02313a72",
+                "name": "Protoje",
+                "sort-name": "Protoje",
+                "disambiguation": "Jamaican musican, reggae"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f7b6874d-c5a4-4d27-8951-037328eb134b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Third Time's the Charm",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "4c1c021e-6843-34a8-8a08-f45b30cec00f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "502f3560-9e3f-48a4-8c04-9e25354247ce",
+                  "number": "1",
+                  "title": "The Charm"
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

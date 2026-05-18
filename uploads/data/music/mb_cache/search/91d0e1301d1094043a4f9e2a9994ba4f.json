@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T07:03:55.016Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "bbf9333a-884f-4cfe-a35a-ff2c9d24b5fa",
+      "score": 100,
+      "artist-credit-id": "47b63585-f3fb-49b7-a9fa-2da4cf9853ab",
+      "title": "Nowhere Man",
+      "length": 260680,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kings of Mercia",
+          "artist": {
+            "id": "fee28d37-7a9c-4fe8-b755-fea36613cea8",
+            "name": "Kings of Mercia",
+            "sort-name": "Kings of Mercia"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "fc364ca6-2bf7-4a4e-9ed0-1197e760e4bc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Kings of Mercia",
+          "status": "Official",
+          "release-group": {
+            "id": "b903dc6d-6edf-4fff-8cca-4e1aecee2346",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kings of Mercia",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "bf6cf602-e125-361a-8c86-c315817faf12",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f138352e-c214-434e-b55f-415363b3bb13",
+                  "number": "7",
+                  "title": "Nowhere Man",
+                  "length": 260680
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

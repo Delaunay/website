@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T06:31:24.406Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "204361e5-5855-4d5e-a816-6c8449680063",
+      "score": 100,
+      "artist-credit-id": "51b87d10-8ded-40e2-9557-3648d3377b75",
+      "title": "C20-25",
+      "length": 365854,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Lindenberg Support",
+          "artist": {
+            "id": "9ee6b790-638e-48d2-80c3-b24682e49c0b",
+            "name": "Lindenberg Support",
+            "sort-name": "Lindenberg Support"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "87c85f35-5799-4a96-8cd5-7dd33b40807b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Ode To Gallantry",
+          "status": "Official",
+          "release-group": {
+            "id": "c51931b8-a154-4af5-9013-d334039898e4",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Ode To Gallantry",
+            "primary-type": "EP"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "0d44a67d-0ba3-3222-a65b-3c20e5136285",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e6cceba0-32f3-403c-967d-757196857db6",
+                  "number": "1",
+                  "title": "C20-25",
+                  "length": 365854
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

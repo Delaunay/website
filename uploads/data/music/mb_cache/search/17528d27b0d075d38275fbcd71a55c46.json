@@ -1,0 +1,78 @@
+{
+  "created": "2026-05-18T08:08:01.056Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "6b3e678b-6673-47eb-a37a-12b93de0bf58",
+      "score": 100,
+      "artist-credit-id": "5b8e0ab3-025c-354d-b5ef-7e36f15e8f17",
+      "title": "(That's When) You Should've Called",
+      "length": 197947,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Phonosonics",
+          "artist": {
+            "id": "8a7606a8-4412-4b6d-b18f-ce2a9ad874a7",
+            "name": "Phonosonics",
+            "sort-name": "Phonosonics"
+          }
+        }
+      ],
+      "first-release-date": "2021-11-04",
+      "releases": [
+        {
+          "id": "c69bd167-0cdb-44d8-b2a3-8632ca2ccdba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "New Again",
+          "status": "Official",
+          "release-group": {
+            "id": "aa519ad9-3ffc-428e-bde6-b44f8fa70ede",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "New Again",
+            "primary-type": "Album"
+          },
+          "date": "2021-11-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7c73e2e1-b6f4-3565-a8fb-2b0d9d7e438b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "28c8bdbc-b219-415e-8b65-7a6995d49552",
+                  "number": "5",
+                  "title": "(That's When) You Should've Called",
+                  "length": 197947
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "SE5XG2143556"
+      ]
+    }
+  ]
+}

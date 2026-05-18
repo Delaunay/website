@@ -1,0 +1,155 @@
+{
+  "created": "2026-05-18T07:13:09.917Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cac993ab-86e7-4f8a-9975-e13460e041d5",
+      "score": 100,
+      "artist-credit-id": "d5e74b32-1cb1-343b-ac2c-0e0d36fa5190",
+      "title": "Vielleicht",
+      "length": 210000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kaffkiez",
+          "artist": {
+            "id": "e0d27097-0383-46d1-ac10-73b60a69d7fa",
+            "name": "Kaffkiez",
+            "sort-name": "Kaffkiez",
+            "disambiguation": "Indie Rock"
+          }
+        }
+      ],
+      "first-release-date": "2022-02-25",
+      "releases": [
+        {
+          "id": "a631d95a-74ef-4c3c-8222-4148fa60e869",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "cf58a5be-37ea-3573-9aa7-783f1240b2d7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "69ae46cb-188b-422c-b18d-1c7bb52dd920",
+                  "number": "6",
+                  "title": "Vielleicht",
+                  "length": 210000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "4fa84ff5-64a4-4fe0-a145-1d93c9788c2b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Vielleicht",
+          "status": "Official",
+          "release-group": {
+            "id": "02209cc7-2567-457c-8145-b2fd87ed576f",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Vielleicht",
+            "primary-type": "Single"
+          },
+          "date": "2022-02-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-02-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "e7ada39a-b354-3d3c-b03d-f247aad751ca",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "6b85a018-213b-472f-a49f-23d081d17d99",
+                  "number": "1",
+                  "title": "Vielleicht",
+                  "length": 210000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9441a1cf-9476-4e2a-a315-65a926bc53c3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Alles auf Anfang",
+          "status": "Official",
+          "release-group": {
+            "id": "a722e357-8064-4816-993b-e010bad1d002",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alles auf Anfang",
+            "primary-type": "Album"
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "eecc145c-dae6-3896-bb32-695f7be828a7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bbae3cc1-e368-4782-bd70-d858d547b35c",
+                  "number": "6",
+                  "title": "Vielleicht",
+                  "length": 210000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

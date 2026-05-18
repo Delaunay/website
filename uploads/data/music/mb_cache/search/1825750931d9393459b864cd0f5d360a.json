@@ -1,0 +1,4484 @@
+{
+  "created": "2026-05-18T05:34:56.461Z",
+  "count": 16,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "68ac0cff-d32c-486f-a7b1-77afb345e3d7",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich and Famous",
+      "length": 184000,
+      "disambiguation": "live, The Howard Stern Show, New York, NY, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-12-16",
+      "releases": [
+        {
+          "id": "b338b26a-8654-4ccf-9849-094b08984147",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "The Howard Stern Show: Musical Memories",
+          "status": "Bootleg",
+          "disambiguation": "live; WIZN 106.7 FM ('The Wizard'), Burlington, Vermont, USA",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b6201f27-ff49-4e7f-964d-cfb70061f331",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "The Howard Stern Show: Musical Memories",
+            "primary-type": "Broadcast",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-12-16",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-12-16",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 45,
+          "media": [
+            {
+              "id": "e3aeedb5-f9fa-338d-b93b-b0af92c19089",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f0de5b33-b169-44f9-a2bd-9ffcc352e1ab",
+                  "number": "14",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 184000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "8a439cab-9225-4c52-bda6-7d954d3ae086",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Howard Stern: The Ultimate Live Music Collection",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1489460a-191b-45a8-bad7-c57349f048dc",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Howard Stern: The Ultimate Live Music Collection",
+            "primary-type": "Broadcast",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-10-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-10-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 209,
+          "media": [
+            {
+              "id": "48670bd5-2e52-39f3-95dd-9dfd3f23f31b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "10a023fa-0181-478f-8469-db8c91f3adf4",
+                  "number": "44",
+                  "title": "Lifestyles of Rich and Famous",
+                  "length": 184000
+                }
+              ],
+              "track-count": 209,
+              "track-offset": 43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f0f0492-ecb6-4a08-8150-475abc755b2a",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich and Famous",
+      "length": 234000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003",
+      "releases": [
+        {
+          "id": "82bf8c65-0a6e-40ef-86a9-23bf5dc6ca96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "9f54368d-fa6e-3f4f-b697-f8b4d92557f9",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "7bf0bbaa-1e81-4b3a-9bec-60a8d4b9c3be",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 234000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f42101fc-10e1-43ea-a92d-5bb5e4daddce",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich & Famous",
+      "disambiguation": "live, 2003-10-25: 1st Mariner Arena, Baltimore, MD, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "99e443e1-7f4f-4da6-b343-504ba3634ba6",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Bootlegs",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8994a5df-80c4-46b0-b2d0-b44f39893712",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bootlegs",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e91bc8e2-83de-33de-b11a-1530e1467e69",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f93249c2-c381-414e-8f7d-4a0d475069fc",
+                  "number": "12",
+                  "title": "Lifestyles of the Rich & Famous"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "pop punk"
+        }
+      ]
+    },
+    {
+      "id": "5fa17424-1738-46ac-8d8b-b6c000d20be2",
+      "score": 100,
+      "artist-credit-id": "db5aba3e-510d-39b7-8e9e-92cccc2a2568",
+      "title": "Lifestyles of the Rich & Famous",
+      "length": 235000,
+      "disambiguation": "live, 2008-08-14: Apple Store Sainte-Catherine, Montreal, QC, Canada",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "95695676-369f-4f65-abd9-4f69cc42b8e9",
+            "name": "The Madden Brothers",
+            "sort-name": "Madden Brothers, The",
+            "aliases": [
+              {
+                "sort-name": "Good Charlotte",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Good Charlotte",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-09-29",
+      "releases": [
+        {
+          "id": "55d741e2-a793-4c40-826e-b033a4ffdd88",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "db5aba3e-510d-39b7-8e9e-92cccc2a2568",
+          "count": 1,
+          "title": "iTunes Live from Montreal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "95695676-369f-4f65-abd9-4f69cc42b8e9",
+                "name": "The Madden Brothers",
+                "sort-name": "Madden Brothers, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fbb91c93-e1f5-4530-9d01-361bcb948a83",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "iTunes Live from Montreal",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009-09-29",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2009-09-29",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "846c0a46-6ed6-3bc9-b0c1-48f7fb3ffe89",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9041b5ef-8fb3-3b7f-a61b-5dba6d93ef74",
+                  "number": "8",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 235000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf50d471-c748-4cd8-80ab-37f7f71efd35",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich and Famous",
+      "length": 202893,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-03-04",
+      "releases": [
+        {
+          "id": "eb49256a-573c-41ec-82c2-cb2b798f6067",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Anthem",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6208746d-2eca-3090-9419-330802144dd8",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Anthem",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-04",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2003-03-04",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "e9af0b51-b3f4-3328-899d-10801d6575e1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "092e986c-b613-3c61-8d1b-a90e87aa8825",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 202893
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "03d7ae8d-4195-45ee-96f7-eb16b7f23027",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Girls and Boys",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1b66fb4c-4159-3661-bc97-a3470671bf72",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Girls and Boys",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "b538618c-1381-3005-bf5e-700dc1fc0744",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c40cc245-d518-3f6c-86c1-ce6ae0daf2e9",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich and Famous (acoustic version)",
+                  "length": 205160
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "pop punk"
+        }
+      ]
+    },
+    {
+      "id": "d843320d-b5c1-4e9e-91cd-367eda1503ea",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich and Famous",
+      "length": 193760,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-11-26",
+      "releases": [
+        {
+          "id": "7fe7dbb8-8591-4541-9bdd-7b0ee76ed26c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Y-100: Sonic Sessions, Volume 6",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "80eb854d-5b57-3f8d-a4bf-770567cd04f8",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Y-100: Sonic Sessions, Volume 6",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2002-11-26",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-11-26",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "23fa189f-3f60-3b56-b64a-cc8fd273ebdd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4efba7bc-0d77-30a0-84ea-49819bd13d71",
+                  "number": "7",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 193760
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6e10706a-e74d-422a-b4e4-aa2b4cfd74ea",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich & Famous",
+      "length": 190333,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-11-29",
+      "releases": [
+        {
+          "id": "720c6659-5387-4c03-a5a5-80ae1ae12b98",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Nascar: Fast Lane",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7cfac4c-23c5-48d5-927f-bd2ca4151ab7",
+            "title": "Nascar: Fast Lane"
+          },
+          "date": "2005-11-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "dadc2330-12ed-44c8-be28-ff2cf23ef3b7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "47d69679-9ddc-4ec5-80ed-2c98736c0d9d",
+                  "number": "2",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190333
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6469f31b-4b6a-4b53-81ab-ee8042ff2f90",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich & Famous",
+      "length": 202000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-10-01",
+      "releases": [
+        {
+          "id": "7dfca1ab-1eae-47c4-9645-b08ae42e76c4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "60479d88-ae44-379c-91c8-5d736c4634d8",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "4cd80c46-a1e4-4e28-adf1-874d73ae7850",
+                  "number": "16",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 202000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "451e324b-769c-4668-b985-372eb1d538a5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "2cc1d032-dda3-3ff5-ae01-aa3a9058c3a4",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "1292a452-6c61-47d0-b090-c93a035f3988",
+                  "number": "5",
+                  "title": "Lifestyles of the Rich & Famous (video version)"
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "ed6f615a-3c5e-3b9f-b298-102bf65e4c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2003-02-17",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "58db748f-6eea-3f5f-ab1d-7e8ed4176c02",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "15eabf60-bf6e-4014-a0f3-ad9295aa67a4",
+                  "number": "15",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 202000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14d8dba2-f733-4343-a7fd-f8862bbcf74d",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich & Famous",
+      "length": 190466,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-08",
+      "releases": [
+        {
+          "id": "e9c470f9-4d98-499c-a91d-96b3cfbe8ae7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2005-06-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2005-06-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "33e39471-0d75-3d77-837b-8745a358c30d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "516fca00-a154-44c0-97df-aaded420bd51",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190453
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "7b0a4209-0591-4dac-8eef-7181cf9e6de9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Pop Explosion",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b5535798-7538-493f-90e5-e9afe4fbb78a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pop Explosion",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 80,
+          "media": [
+            {
+              "id": "602583f2-433c-3fa3-bebb-b8a8dc42ee2a",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "670e1d45-3369-4199-ad49-632d0562cf82",
+                  "number": "11",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 188333
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "4ada5fdc-b7ed-444f-8bab-3e0bd52ceed2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 6,
+          "title": "Rock 100",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e276bc16-f172-410a-a2d8-b0f8dcdeaf91",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rock 100",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-09-04",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2008-09-04",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "0c42ed64-5a89-3c63-9eb2-9666848cc52b",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5bf8685e-e98f-443c-bd03-6e573716fa22",
+                  "number": "5",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "62b0e609-001c-412b-8c9f-9a781667f214",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Teenage Dirtbag: The Pop Punk Album Disc 1",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d0c4d31c-a70e-4d62-86f2-2bac678b9bb1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Teenage Dirtbag: The Pop Punk Album",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "698ba291-0aae-3f04-96f5-230be4697f10",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0ec62fa6-6b03-47e8-9aa6-ade139083e7a",
+                  "number": "2",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 190160
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "707379bb-a844-44fe-86f3-dc962930e4c2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "MTV Rocks: Pop Punk vs. The World",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c33e7143-9ad7-4a8a-a4db-788b1257e2ad",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "MTV Rocks: Pop Punk vs. The World",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018-01-19",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2018-01-19",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 54,
+          "media": [
+            {
+              "id": "c0533515-9796-3e51-b5d3-3bf33b2e712a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "10c0147b-0470-4fe2-b04c-405b20fe721e",
+                  "number": "6",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189266
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "b5c3b854-09e0-49ab-8192-88ea8b9a8e66",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Hit Explosion 2003, Volume 4",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "967b140e-4eab-46a7-b185-21ed685e4997",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hit Explosion 2003, Volume 4",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-04",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2003-04",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "3e4ee09d-5712-3109-a316-63d64b535460",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "479ea964-4292-3099-8827-e6212451aeaa",
+                  "number": "18",
+                  "title": "Lifestyle of the Rich and Famous",
+                  "length": 189186
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "8d9f8093-f7a7-4407-a598-1617589b6b19",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Teenage Dirtbags 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "112bfdc8-af64-4866-b27a-dae27a30b8df",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Teenage Dirtbags 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-08-18",
+          "country": "IE",
+          "release-events": [
+            {
+              "date": "2014-08-18",
+              "area": {
+                "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+                "name": "Ireland",
+                "sort-name": "Ireland",
+                "iso-3166-1-codes": [
+                  "IE"
+                ]
+              }
+            },
+            {
+              "date": "2014-08-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "b986460e-7067-305a-af42-a975cfb82642",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2bf13dbd-7bc3-4d73-92d5-c693e3a95441",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "c1f507ee-2d98-4938-a887-6b65b1d13ed5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Pure\u2026 2000s Party",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c49b50da-ba58-4d93-bab7-d34fd195b357",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pure\u2026 2000s Party",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 64,
+          "media": [
+            {
+              "id": "020b2706-2710-3d97-ac5c-0b3edbe8a4bf",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7f14c35c-18d6-43d9-8f27-2f18f22ab070",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189200
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "df771335-10c3-4257-b898-26c7c108e6c7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Now Millennium 2002\u20132003",
+          "status": "Official",
+          "disambiguation": "special edition (with booklet)",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dc510ff3-8e8c-4d2a-b1ff-5368fde51f9b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now Millennium 2002\u20132003",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2023-09-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2023-09-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 84,
+          "media": [
+            {
+              "id": "d8af2366-7344-3303-b4a2-bdf46b011cbd",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0ddbafa8-52d6-41fc-ad54-9d8478818142",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189640
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "b5a521c1-1f1b-45f1-b5bb-e0a383ab9e7f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2003",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c857fddf-6a14-33ad-b74b-f6e1157d5cab",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c489ff8a-e30f-4990-873a-6006d787a308",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "a7fdcaa2-bc2b-441b-8442-d5d9b275bb76",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Now Millennium 2002\u20132003",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dc510ff3-8e8c-4d2a-b1ff-5368fde51f9b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now Millennium 2002\u20132003",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2023-09-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2023-09-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 84,
+          "media": [
+            {
+              "id": "c8031218-c098-3b81-a522-a1d0cfb9fb73",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e8b1c681-473f-45b2-a961-4117b7da601e",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189640
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "7dfca1ab-1eae-47c4-9645-b08ae42e76c4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "60479d88-ae44-379c-91c8-5d736c4634d8",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "611ae41e-5a16-4565-b81f-4410963f33d9",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f301e2d1-ceb7-463d-9e89-63a11eaaf739",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c0ceb-deb6-4e93-a511-08e963ce763a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "3a87d896-8a23-3414-b01e-502deeab8f7c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8f056fd9-d185-4feb-b4f6-fde5178e8dce",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190226
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "e38e76a2-9eae-3436-8055-c05e6dc85f36",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "48432136-4339-3895-88b4-d98a64558837",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2111a9c1-abcd-35b4-84a3-fdad150870a3",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "ae9ea1c2-bf2a-4b54-83db-1e089fa4f9e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2003-02-05",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-02-05",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "ae96eb70-2b86-348e-a2b2-0ac8aeb503b0",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "e11d4038-0ef3-4035-9487-cb9be8965944",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "4a3fdcf3-f1ba-4dea-9277-06d60005fd37",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "The Best Bands\u2026 Ever! 2004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fc0a98ba-ead1-39ea-83c2-fc91102eb560",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best Bands\u2026 Ever! 2004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-10-27",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-10-27",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "113d9100-b99f-3ab5-881c-e0e31f0343d5",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6aad63c5-4dc9-3e2b-882f-353939f522f8",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "c1684dff-dc95-419c-a107-fa6f40bdf70a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Pure\u2026 Hard Rock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0f35a1a7-54ec-48b4-b27a-d97e8ea9fec0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pure\u2026 Hard Rock",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-06-17",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2011-06-17",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 68,
+          "media": [
+            {
+              "id": "0bb49d3f-7697-3344-8354-b6753b30ad3a",
+              "position": 4,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b1b4680a-0cde-4299-b3aa-2b3aa6ab866c",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191093
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "c916a219-8ec3-410e-8dd1-84a724038b04",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 3,
+          "title": "Teenage Dirtbag: The Pop Punk Album",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d0c4d31c-a70e-4d62-86f2-2bac678b9bb1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Teenage Dirtbag: The Pop Punk Album",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 50,
+          "media": [
+            {
+              "id": "616f49b9-a269-3b7a-9354-ed2aa835e3af",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "289176e9-9ae9-458c-a22d-46a3c2e1e1d8",
+                  "number": "2",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 190226
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "11445b5d-3d13-413a-89b6-6ab75284d63b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fd4a82fa-59b2-374e-850c-085ba3d4b929",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "6d2b03cc-c2d7-4a43-bd35-4bb9cc7984ae",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e5ed46f9-b052-4df0-9bfd-38639f1cb92b",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Radioactivity Volume 02-10",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e018079f-6bac-42f6-85b7-224d88ee6e04",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Radioactivity Volume 02-10",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "0e87d9b7-a42c-3ae2-8165-b1f1fd21e807",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bc24968e-75fc-4e2c-8459-cc56b9e39694",
+                  "number": "2",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 188000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "2daba841-1032-4121-b00a-e86507893589",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Rock Sound",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d5259b79-a226-3328-bd50-f603ebe10c4b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Rock Sound",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "e2300d17-e9c8-3fd6-ad19-69e85d69ad1b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "50234742-f355-320a-a7d1-62f74764aafd",
+                  "number": "1",
+                  "title": "Lifestyle of the Rich and Famous",
+                  "length": 189533
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4e192da8-892b-42bc-80c7-251924afd3fc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c0ceb-deb6-4e93-a511-08e963ce763a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011-01-31",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2011-01-31",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "7935ce00-1344-3358-acea-0f92cda5fbd6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f025beea-73d6-4cb1-abe8-82dd59b665c9",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190226
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "fc0ea501-c70c-48cc-adf3-6ae3c521df0f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Greatest Hits",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c0ceb-deb6-4e93-a511-08e963ce763a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-11-05",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2010-11-05",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "ec765d98-5add-3682-89bd-9770a2e845dd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4fb897a6-8ce4-31dd-a13c-a35f520fc1ae",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190226
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "451e324b-769c-4668-b985-372eb1d538a5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "2cc1d032-dda3-3ff5-ae01-aa3a9058c3a4",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "ca44e2de-cfba-4de1-97bd-5ce4988a6774",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich & Famous (album version)",
+                  "length": 191600
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "920fc473-3e93-4818-848d-99a951e805e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-04",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2002-10-04",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7dd2f26f-4341-3c22-8b8f-b8cc8a2dbd8a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "01b6a8cf-c0e1-4cc2-9c05-4c4dcff30e83",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "a52cf959-236b-4f39-9e6e-af017f2f24fc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "30 Stars: 00s",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c1edd19d-6bf9-4f5a-aaf0-fb2f322b6d17",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "30 Stars: 00s",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-06-05",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015-06-05",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "51590f9f-83f7-3394-8cb3-63bf2a2b4d2a",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ecba5f99-5db6-4088-a465-955b3b51c67c",
+                  "number": "11",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 191000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "82bf8c65-0a6e-40ef-86a9-23bf5dc6ca96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "9f54368d-fa6e-3f4f-b697-f8b4d92557f9",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "82db6639-713f-4c40-8da4-a7172f74b1e8",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 193653
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "73f2ac84-86b9-496c-b62e-26af74995431",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "100 Essential Tracks: Millennium Hits",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0f413dc2-d1e2-4910-82f7-b8ebda9ac18f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Essential Tracks: Millennium Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-03-15",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2010-03-15",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "28f1f298-75e6-31b1-b870-fde717a0e7ab",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ed5a88be-3957-3870-8ee7-1de219894005",
+                  "number": "14",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "fb0ff65c-7403-408f-bf47-1f06c7a48234",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "The Newbreed",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "734e32d7-009f-3ad2-800f-9e0f450d84f7",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Newbreed",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-06-07",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2004-06-07",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "69dc978c-f230-3faa-887e-2e508c4c0bee",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3ed01d83-3112-3144-ba7a-f100c07c4efe",
+                  "number": "7",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "5943b41a-c858-4d1c-93d6-35199b0efe4c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Ultimate Rock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "591ee08d-4ad8-4445-a860-6deef34a5a7b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ultimate Rock",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-09-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015-09-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 72,
+          "media": [
+            {
+              "id": "107494f7-aa54-3f11-af65-2c3314980d8e",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5f4a754a-31f3-4748-8117-2026f0667a21",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190866
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "7f0b8263-817b-4c8a-a55b-ae0aa9d61ce5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Ultimate...2000s",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "439cf669-c130-40d7-b3df-757d5a49df4f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ultimate...2000s",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2016-10-21",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2016-10-21",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 74,
+          "media": [
+            {
+              "id": "b9ee9ca3-fae5-3c06-984a-9346b24658f1",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "84d3a1b4-2dea-47f7-8df5-148f96572724",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190880
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "cd71487e-f88a-447f-a2f8-766abd3ccab5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Laut",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "052548a4-9837-49b4-9f14-6882e0cf593b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Laut",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-07-03",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015-07-03",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "2df95b72-94ea-3202-9bb1-ff329b4a077f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dd24ec18-c5bd-4914-802d-d36cfd4450ee",
+                  "number": "11",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190987
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "8cae7022-3eff-4f86-bef9-9d1a4cb0778a",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Greatest Hits",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c0ceb-deb6-4e93-a511-08e963ce763a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "b02786f2-4bb4-3005-8f55-1c6af5b0940f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "99ed37db-8129-439b-8794-c13a897c3c39",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190226
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "70f939d0-cbe3-4797-b8cd-9469cbbf89f1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2004-06-07",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004-06-07",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2003-01-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2002",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "9cc422f6-ecbe-3601-aec5-e589eb807e03",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "0a6771bc-b788-3dc1-936d-eaf59c27f01f",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "5723cdf8-30f7-39e8-a922-942518e0686c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2005-02-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-02-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "47969df3-5789-3e98-b647-5b971fde4818",
+              "position": 1,
+              "format": "DualDisc",
+              "track": [
+                {
+                  "id": "4093a42d-cdeb-3dde-8612-a837404bbae7",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "133ad4c7-cd80-4a13-ae14-e3af2b8d23a3",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Promo Only: Modern Rock Radio, September 2002",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8e4968ee-5d12-3541-8848-bd31ffb7f2e8",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Promo Only: Modern Rock Radio, September 2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "f103c372-f860-3bce-9d48-f0ac7947a72e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6a896de5-4cda-35eb-af8b-cc0380dd587c",
+                  "number": "14",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 188533
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "8debc36b-5399-4438-86e4-1dbd4190853a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "The Red Room, Volume 1",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5ddbd5b2-3dc3-4993-9a3b-f0d5ffb1c2d2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Red Room, Volume 1",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c8271f30-9ec8-3e4c-89ea-ef891683f860",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eaeeb394-8b2f-3504-b29d-0fc37ef106e8",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189280
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6bd16bf7-7380-4a90-8f85-99a443bb5d43",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Today's Superstars",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0688311f-cdc0-4974-aaba-c5fd5803d2cf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Today's Superstars",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "927f3381-9856-3ab7-8da4-54e799847d65",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "938292a0-f649-355b-a115-cbd44284c099",
+                  "number": "2",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190093
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4b0c92a2-dda4-469f-bc01-439cd3db0eb9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "M!LF, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8c258b06-ade6-4889-8bee-9ae9f18af64e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "M!LF, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "ce140a17-6315-3194-97e2-83996ea02acc",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4bbf0606-a5e1-3d85-81ab-2528b95cef93",
+                  "number": "19",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "ab5a4567-a3c2-4a95-b1fd-fa886179f9e2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003-02-03",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-02-03",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "62804738-28ad-3869-a698-a83017f294d3",
+              "position": 1,
+              "track": [
+                {
+                  "id": "64185cba-2325-3ada-80ee-e3cc314c5528",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 193653
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "33f077e0-8a7e-4024-a695-194bcaf0f6de",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2002",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "5cc049e3-4208-3163-9922-f474cb46bc10",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1660ca5d-5813-39cf-acfd-446454c0b635",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191160
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d16ebeec-12f3-40a5-85fb-48ff88021d7a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Un maxx' 2 bruit",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2073790d-c6a0-4a3a-8f30-467958e4e0b6",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Un maxx' 2 bruit",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-04",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-04",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "11a08ae5-6be1-306a-b096-29eb79ac78f2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d35407dd-ec52-3d39-a038-afc262ffc465",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191533
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "16f7f7ef-31bd-45b9-8a51-ca27e37a6475",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "92f737ab-c039-3537-8088-2cac192a0d88",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "48ce0349-c2a1-3148-a62a-059ad770ae0a",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191600
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f134de2d-3ba2-4a0b-921d-17b151214119",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "So Fresh: The Hits of Summer 2003 Plus the Biggest Hits of 2002",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "95f1854d-1642-3778-9b76-938f5ca0ad36",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "So Fresh: The Hits of Summer 2003 Plus the Biggest Hits of 2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "ea38bfb1-448e-3328-b5fb-c6052eec2a39",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "18670f58-97da-38e5-adf9-696b5d84e0d7",
+                  "number": "9",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 191000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "67d8761a-3ac9-41a7-bc36-5a269978674e",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Promo Only: Mainstream Radio, November 2002",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4e48dd65-f7b1-38d8-8b2b-c5e6606000ad",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Promo Only: Mainstream Radio, November 2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-10",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-10",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "2530d963-5715-39a4-a33d-a3a84527c1e3",
+              "position": 1,
+              "track": [
+                {
+                  "id": "4144a20b-8a2d-3c12-8269-6fae2c371517",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 189986
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "38287291-391d-3fa9-b977-a94ae06401a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-02",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2002-10-02",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2002-10-02",
+              "area": {
+                "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+                "name": "New Zealand",
+                "sort-name": "New Zealand",
+                "iso-3166-1-codes": [
+                  "NZ"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a97c4aa3-8ed0-3d9e-8a8a-8eb4a83f5c8c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a0dd85fd-fa73-3384-8d3d-601073bda905",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1e299415-55ef-466a-b096-5b71d158e06c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "28a952af-eb66-31cb-86ad-8b1cd3ebb977",
+              "position": 1,
+              "track": [
+                {
+                  "id": "ed01fadd-98d9-3c4d-9508-565186df1805",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 194960
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "86d6429a-adfe-4aa8-8a4b-0aafe269b150",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Teenage Dirtbags 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "112bfdc8-af64-4866-b27a-dae27a30b8df",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Teenage Dirtbags 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-08-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014-08-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "09388201-8c65-397d-91b1-568d846dd1f9",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3ec4e7d9-722d-4919-b016-626a8e9c4213",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich & Famous"
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "650070eb-2a70-48a2-b0b4-2182c3b94eb3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 4,
+          "title": "Pure\u2026 2000s Party",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c49b50da-ba58-4d93-bab7-d34fd195b357",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pure\u2026 2000s Party",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-08-29",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2014-08-29",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 64,
+          "media": [
+            {
+              "id": "67aed4a2-f38a-32c5-bc74-293cb072d875",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a55b7bd7-313a-4f92-a978-bf378573140c",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 189000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "4a03ff9c-68d9-44fa-beb7-e52940c86334",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "disambiguation": "BMG club edition",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6c719874-9016-3025-b125-f29fe8ccc01f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5ff7c712-79c9-4042-b2d8-be241ab34243",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "cd91a5f7-d572-4ec2-a234-e978b1051cd1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "Lifestyles of the Rich and Famous",
+          "status": "Official",
+          "disambiguation": "cd 1",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ccf44c51-3456-3832-874a-d0b6c82f022a",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Lifestyles of the Rich and Famous",
+            "primary-type": "Single"
+          },
+          "date": "2003-02-03",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-02-03",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "cb66da6f-75b8-3530-bd1d-66b9a0ccc5fa",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a55c2a98-2abe-37d6-87f7-5feb59cec247",
+                  "number": "1",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 193653
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ed6f615a-3c5e-3b9f-b298-102bf65e4c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+          "count": 1,
+          "title": "The Young and the Hopeless",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Good Charlotte",
+              "artist": {
+                "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+                "name": "Good Charlotte",
+                "sort-name": "Good Charlotte"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9662dfdf-ddd2-342c-aaff-2665b6e4d93f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Young and the Hopeless",
+            "primary-type": "Album"
+          },
+          "date": "2002-10-01",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2002-10-01",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2003-02-17",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "58db748f-6eea-3f5f-ab1d-7e8ed4176c02",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "217a38d5-3b78-3a33-bd04-edc7a8f33e5f",
+                  "number": "3",
+                  "title": "Lifestyles of the Rich & Famous",
+                  "length": 190466
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USSM10209828",
+        "USSM10210275"
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "emo"
+        },
+        {
+          "count": 1,
+          "name": "post-grunge"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": 4,
+          "name": "pop punk"
+        },
+        {
+          "count": 1,
+          "name": "punk-pop"
+        },
+        {
+          "count": 1,
+          "name": "ska-punk"
+        },
+        {
+          "count": 1,
+          "name": "alternative punk"
+        },
+        {
+          "count": 0,
+          "name": "exercise"
+        },
+        {
+          "count": 1,
+          "name": "punk revival"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 0,
+          "name": "third wave ska revival"
+        }
+      ]
+    },
+    {
+      "id": "1d41caa0-0762-4979-80ff-c429219659b3",
+      "score": 100,
+      "artist-credit-id": "d3e4bc28-cb33-3a1a-8be0-e6298c37753b",
+      "title": "Lifestyles of the Rich and Famous",
+      "length": 180506,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Good Charlotte",
+          "artist": {
+            "id": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+            "name": "Good Charlotte",
+            "sort-name": "Good Charlotte",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30c3\u30c9\u30fb\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-12-13",
+      "releases": [
+        {
+          "id": "e50a304c-4d9f-4ed6-b719-5b529076b9d8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "New Music Live From The Panel",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "129ed6c7-eec2-360c-bf50-9af879cc0c0c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "New Music Live From The Panel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004-12-13",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2004-12-13",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "5e808168-535a-346e-afeb-8de491c18fab",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6c365b2a-df83-3999-89f6-24c017d8d5e5",
+                  "number": "4",
+                  "title": "Lifestyles of the Rich and Famous",
+                  "length": 180506
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

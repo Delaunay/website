@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T07:39:39.974Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3f18c605-db50-43f5-9adc-c3745ebaf6cb",
+      "score": 100,
+      "artist-credit-id": "990014c0-01f6-3d8d-a3e6-41a1a2788d35",
+      "title": "paris france l\u00e9a",
+      "length": 201000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Garden with lips",
+          "artist": {
+            "id": "70f7c76d-c408-4d82-a712-2b99440d2fcb",
+            "name": "Garden with lips",
+            "sort-name": "Garden with lips"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-26",
+      "releases": [
+        {
+          "id": "1f6c4ae7-811a-4bcd-bdb8-b0a8f628b20d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Pelissandre",
+          "status": "Official",
+          "release-group": {
+            "id": "4c819402-86e2-4a56-993b-142d29bd1b1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pelissandre",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-26",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-26",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "91937f7f-5275-31ca-b9ae-854411cf5a38",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "30f18262-4e2f-4950-a52f-3d00ca30206e",
+                  "number": "3",
+                  "title": "paris france l\u00e9a",
+                  "length": 201000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

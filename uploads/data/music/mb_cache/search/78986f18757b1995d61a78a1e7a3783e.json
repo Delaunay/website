@@ -1,0 +1,1713 @@
+{
+  "created": "2026-05-18T05:36:21.062Z",
+  "count": 49,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "63975687-5bed-4e2d-af16-f7bcbccc374f",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "length": 150933,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-11-01",
+      "releases": [
+        {
+          "id": "5dccfb05-63db-4d36-8378-71879bc5ffd3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 2,
+          "title": "La L\u00e9gende",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a407f123-7532-337f-b12e-2939e6543030",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La L\u00e9gende",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1996-11-01",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1996-11-01",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "8a23fe39-bd4c-3d19-b457-e8112ef94579",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ba819b9a-9fe1-3e69-a4a3-2f9438587110",
+                  "number": "3",
+                  "title": "Non, je ne regrette rien",
+                  "length": 150933
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "26627f8f-a16c-4f88-8513-acbe8efcd0a1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 3,
+          "title": "50 succ\u00e8s essentiels",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a4ff2ae3-c1a3-4eb6-9245-b3dbee0bd312",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "50 succ\u00e8s essentiels",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 51,
+          "media": [
+            {
+              "id": "4b0060d6-ebc9-3ebe-88a7-611d29f13274",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "684de1c3-b875-4738-ab69-8921ac13eda4",
+                  "number": "13",
+                  "title": "Non, je ne regrette rien",
+                  "length": 153000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bf11cfdf-13b7-415a-a037-5b36e415a886",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "length": 155866,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996",
+      "releases": [
+        {
+          "id": "70d6c1db-d34b-449e-9a2e-822098e83a32",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 3,
+          "title": "La Belle Histoire d\u2019amour",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f894e699-a200-46cc-831c-5abbbd333469",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La Belle Histoire d\u2019amour",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1996",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "50a88b12-1067-39bf-9781-7e71b5a0d7bd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bb73dcf7-2f91-3655-8a7d-365aad81480e",
+                  "number": "1",
+                  "title": "Non, je ne regrette rien",
+                  "length": 155866
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8fc57138-9069-49e0-b035-560016aaabb2",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non je ne regrette rien",
+      "length": 181000,
+      "disambiguation": "live, 1962: Olympia, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1993",
+      "releases": [
+        {
+          "id": "caf3ec10-01c9-462d-af89-8ecd3602a776",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "\u00c0 l'Olympia 1962",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe91c5ba-aa3f-4e44-996c-151e5ed4de57",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "\u00c0 l'Olympia 1962",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "1993",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "1993",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "78104279-03a2-3820-9e9f-5bbdd27d4cef",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bbdeb65b-22ef-4b84-bf89-514280ff9396",
+                  "number": "10",
+                  "title": "Non je ne regrette rien",
+                  "length": 181533
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "f8fd7451-265b-4641-8549-2ff8cf836d81",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "\u00c0 l'Olympia 1962",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe91c5ba-aa3f-4e44-996c-151e5ed4de57",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "\u00c0 l'Olympia 1962",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-03-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-03-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "84c574c9-c68a-3665-8c2c-89c6950145c8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "82e983f2-ac47-466c-929e-00eaa9342641",
+                  "number": "9",
+                  "title": "Non je ne regrette rien",
+                  "length": 181000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e9352c9-35a3-4b83-a333-af7ecfaa2e41",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "1f190890-b209-4c5c-8498-fa52141b7892",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Sophisticated Ladies, Volume 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6a014853-c35b-4ecb-b659-b5447bd79f06",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sophisticated Ladies, Volume 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "5a567dc4-c904-3e5e-9b09-9cbba2ee2364",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d71b692e-7b7b-44a2-8750-94dfe50966dd",
+                  "number": "15",
+                  "title": "Non je ne regrette rien"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05a774fd-4d5c-45e8-bc69-dad4abef9678",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non je ne regrette rien",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011",
+      "releases": [
+        {
+          "id": "07582e89-0556-477b-bfc2-0e1e471ae031",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Les Plus Belles Chansons fran\u00e7aises",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5bccfaf4-f91c-4786-8dee-da0e3f91e211",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Les Plus Belles Chansons fran\u00e7aises",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2011",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2011",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "4011b1e2-19e6-327b-81a8-3fb67963285f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b50781aa-43f8-4efb-9b86-7ff92075704c",
+                  "number": "1",
+                  "title": "Non je ne regrette rien"
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2190ca18-d468-485e-9612-fe17472f9368",
+      "score": 100,
+      "artist-credit-id": "d20ddf12-1ad2-345e-9ea8-6a17d754107c",
+      "title": "Non, je ne regrette rien",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Edith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1991",
+      "releases": [
+        {
+          "id": "922091b2-0e9d-4f6f-9463-3e01b1b635b5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "De hits uit Frankrijk",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8b6f65a1-8be5-46e9-aec4-8a23cfe63227",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "De hits uit Frankrijk",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1991",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1991",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "b9a05898-d823-3169-82b0-eaa71713c7d5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "39891c8f-ddc0-4663-8bb7-754b5f517414",
+                  "number": "7",
+                  "title": "Non, je ne regrette rien"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d6de42a2-05dc-4bef-a3c3-d44ccaab57a3",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non je ne regrette rien",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2014",
+      "releases": [
+        {
+          "id": "203c7131-2022-4ec4-91b5-d5b42c501f12",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 2,
+          "title": "2 CD Essentials",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "948a0a48-7dd7-4860-a6e7-85ebdf0597b1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2 CD Essentials",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2014",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "eb1d83bc-863c-35de-8dcd-8c195a6af9c0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e42a9113-fb87-4076-ab09-387ebd201963",
+                  "number": "1",
+                  "title": "Non je ne regrette rien"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f18871f-2256-4f20-a6d5-1eae6ffd9dfb",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "length": 166933,
+      "disambiguation": "live, 1958: Olympia, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1989",
+      "releases": [
+        {
+          "id": "16612339-7133-4ab2-99aa-41e8adf6f131",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "The Very Best of \u00c9dith Piaf",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cbadcb61-204f-33b5-b7ad-896428210f43",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Legendary \u00c9dith Piaf",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1997",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1997",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "d227d842-9cb1-3b9c-b55f-fd55a2204576",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3dcbb06b-ca6d-4b7c-900b-a8dd37006876",
+                  "number": "2",
+                  "title": "Non, je ne regrette rien",
+                  "length": 166933
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "86949cd1-d588-4934-a64e-156c1d933b2f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "La Vie en rose",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b07f1546-69a0-487b-929e-1b2b00cdfe77",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La Vie en rose",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 33,
+          "media": [
+            {
+              "id": "3c732cf2-fa90-3107-9ba8-53e4f367e179",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "80a1b6fc-da7e-47bc-87ba-0aa76c299fed",
+                  "number": "33",
+                  "title": "Non, je ne regrette rien (Live Musicorama \u00e0 l\u2019Olympia, 1958) \u2013 2023 Remaster",
+                  "length": 168000
+                }
+              ],
+              "track-count": 33,
+              "track-offset": 32
+            }
+          ]
+        },
+        {
+          "id": "5b3dff0c-5fae-46df-a19a-24f8b7abb476",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "The Legendary \u00c9dith Piaf",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cbadcb61-204f-33b5-b7ad-896428210f43",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Legendary \u00c9dith Piaf",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1989",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "4041c2bc-3fb5-3337-a9e1-6fb481d2db29",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "faf88cb8-3775-3980-a924-1506bcd7de83",
+                  "number": "2",
+                  "title": "Non, je ne regrette rien",
+                  "length": 166933
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "8e30722f-ab32-4279-9b66-82478d8ba2f8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 1,
+          "title": "The Legendary \u00c9dith Piaf",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cbadcb61-204f-33b5-b7ad-896428210f43",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Legendary \u00c9dith Piaf",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1989",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1989",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "43cab515-12d2-33c7-a52f-e7aab2b7d8bf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bd7c9c32-9690-4deb-b561-1f32f5f54a98",
+                  "number": "2",
+                  "title": "Non, je ne regrette rien",
+                  "length": 166933
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aac2d460-1b34-489d-9b9a-68b794496081",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "length": 144213,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015",
+      "releases": [
+        {
+          "id": "57ea3275-1989-449a-b175-113b76e1f096",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 2,
+          "title": "The Album",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bbf6b16c-86d6-4798-8b70-cb43623660e0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Album",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "1c98a704-6897-4e4a-8e2e-b54821acffc0",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "40685daf-aeb0-4726-9b71-ff968fb7a173",
+                  "number": "19",
+                  "title": "Non, je ne regrette rien",
+                  "length": 144213
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d280de2f-275c-464c-b44a-275fa50aca47",
+      "score": 100,
+      "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+      "title": "Non, je ne regrette rien",
+      "length": 155626,
+      "disambiguation": "live",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "\u00c9dith Piaf",
+          "artist": {
+            "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+            "name": "\u00c9dith Piaf",
+            "sort-name": "Piaf, \u00c9dith",
+            "aliases": [
+              {
+                "sort-name": "Piaf",
+                "name": "Piaf",
+                "locale": "en",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Gassion, \u00c9dith Giovanna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "\u00c9dith Giovanna Gassion",
+                "locale": "fr",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Idith Piaf",
+                "name": "Idith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edith Piaf",
+                "name": "Edith Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Edit Piaf",
+                "name": "Edit Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "La M\u00f4me Piaf",
+                "name": "La M\u00f4me Piaf",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "0eb626fd-882c-4872-932b-6b4146cec480",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7744b13c-be9d-3faf-b5bb-d926db3062f3",
+          "count": 2,
+          "title": "Piaf en concert",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "\u00c9dith Piaf",
+              "artist": {
+                "id": "4f8ef4a3-40fa-46b5-8773-97686a8424f4",
+                "name": "\u00c9dith Piaf",
+                "sort-name": "Piaf, \u00c9dith"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c107c363-feb2-488d-a541-52d598780105",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Piaf en concert",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 29,
+          "media": [
+            {
+              "id": "9c848c31-82d2-32cb-a180-ff6a95965fbb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c9dda25f-0bfa-448e-9870-259c09070a45",
+                  "number": "8",
+                  "title": "Non, je ne regrette rien",
+                  "length": 155626
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

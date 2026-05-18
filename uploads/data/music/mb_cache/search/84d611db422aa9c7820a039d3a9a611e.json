@@ -1,0 +1,223 @@
+{
+  "created": "2026-05-18T05:29:10.860Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7febf9e7-8a1d-494a-8b4a-987221ab1b95",
+      "score": 100,
+      "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+      "title": "C\u2019est belle une fille",
+      "length": 307133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Fran\u00e7ois P\u00e9russe",
+          "artist": {
+            "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+            "name": "Fran\u00e7ois P\u00e9russe",
+            "sort-name": "P\u00e9russe, Fran\u00e7ois",
+            "aliases": [
+              {
+                "sort-name": "Francois Perusse",
+                "name": "Francois Perusse",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-11-06",
+      "releases": [
+        {
+          "id": "d132cbab-572c-4d8d-9ef9-0bf241207fb0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L\u2019Album du peuple, Tome 5: La Poursuite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b84e3224-55ca-383f-80b7-f171bca36ce7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 5: La Poursuite",
+            "primary-type": "Album"
+          },
+          "date": "1996-11-06",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-11-06",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "719ca19a-2c79-3e52-bd28-6e1ffbd6c401",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eb9aaf67-1439-31b0-b6aa-83a149e36f0f",
+                  "number": "8",
+                  "title": "C\u2019est belle une fille",
+                  "length": 307133
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "56c4b494-5386-4b0d-8062-782daf581738",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L'album du peuple, Tome 5: La poursuite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b84e3224-55ca-383f-80b7-f171bca36ce7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 5: La Poursuite",
+            "primary-type": "Album"
+          },
+          "date": "1996-11-06",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-11-06",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "cec5d361-ab87-3f17-93cd-7440192bc2e3",
+              "position": 1,
+              "format": "Cassette",
+              "track": [
+                {
+                  "id": "7359f1d5-1fc1-4444-af9a-2858736846fd",
+                  "number": "B3",
+                  "title": "C'est belle une fille",
+                  "length": 307133
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "4837e8a9-d560-4039-ae35-5fb8141915af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "51ddc39e-dcd3-3235-ac6d-647c19df921a",
+          "count": 1,
+          "title": "L'album du peuple, Tome 5: La poursuite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Fran\u00e7ois P\u00e9russe",
+              "artist": {
+                "id": "d0fd975c-76c2-4c84-97f1-3fb7c25e6a68",
+                "name": "Fran\u00e7ois P\u00e9russe",
+                "sort-name": "P\u00e9russe, Fran\u00e7ois"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b84e3224-55ca-383f-80b7-f171bca36ce7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "L\u2019Album du peuple, Tome 5: La Poursuite",
+            "primary-type": "Album"
+          },
+          "date": "1996-11-06",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-11-06",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "203c0558-6a7c-3585-b993-680542a25ca0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1521f0a3-803f-453a-a568-a0c66c836aa4",
+                  "number": "8",
+                  "title": "C'est belle une fille",
+                  "length": 307133
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "chanson"
+        },
+        {
+          "count": 1,
+          "name": "song"
+        }
+      ]
+    }
+  ]
+}

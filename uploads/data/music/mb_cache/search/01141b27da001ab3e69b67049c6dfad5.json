@@ -1,0 +1,4347 @@
+{
+  "created": "2026-05-18T06:35:54.402Z",
+  "count": 8,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ae8871e2-11f7-4e41-94b9-1ee3fc75e9e0",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Thorn Within",
+      "length": 322933,
+      "disambiguation": "bootleg shortned version",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "2ed76b0e-49f9-41c2-b4ae-94fb768f09f4",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "The Best Ballads",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dedb420e-6586-4695-afcb-31566222ced9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best Ballads",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2005",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "9a87f963-ff0a-4a0a-89bf-1fc3482482b3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4d45dd96-35c1-4409-892e-f73dc4471927",
+                  "number": "3",
+                  "title": "Thorn Within",
+                  "length": 322933
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "2fdbdd5d-fd22-4cdf-b689-e56bb8f76228",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Best Ballads",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d4b6ff9a-0e99-386c-84c5-ec41e4514a93",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best Ballads",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "a0a44901-810a-3c28-b94f-68f273af2590",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e9e42c7d-a7ba-4643-ad47-ca29d977ace5",
+                  "number": "3",
+                  "title": "Thorn Within",
+                  "length": 322933
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a298d743-fdd2-44c0-8067-a4493f129bbd",
+      "score": 100,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Thorn Within",
+      "length": 351600,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "1996-05-04",
+      "releases": [
+        {
+          "id": "362d3e68-1850-449f-b4c1-982b0610a057",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a7dec3d6-cce9-4cfa-a7cb-9c23ca7534bc",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "7d934f2d-623c-4c16-8edd-b075ccbf8c78",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "a97917b4-aadd-4d7a-8338-511fe3ea6a0c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4e45ba7-919c-4a2d-ad4d-e795b563381c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fd999735-08a6-446c-b8fe-d51eff3d12ad",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351575
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d3d7fc33-2557-32ec-abae-bf77ab8baa57",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "6d9c5397-36c3-4a46-b0b1-48e6f3ea5e41",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "85dc38cb-e852-47f2-bbb3-f5ff4c56c78d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC Germany pressing",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "108bf970-d3e7-3e15-967e-5786f9ce4d97",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "351108ec-acbe-4371-8639-a69833de7578",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "93c83186-bb6a-4b28-b84c-271cd96db16f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8c4adcef-6f5f-4be1-9dd1-48528a3044bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f4de6c5e-ef24-4007-bc2a-fc718f065b53",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "9b2b2a3b-9883-45ea-abfb-99438448cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "Remastered",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "03f9e146-40ee-42db-aa28-12318bbc2633",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ef5b1fab-a56a-4c89-9448-dd181a2084e7",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351667
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "71662684-f90e-4ea7-a572-724a7ec70400",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "646f97a6-5468-449a-a7eb-29016f38c197",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "65e09e55-c900-4b29-ad40-d999bed3424f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d6a7058d-6467-40b8-bfa1-8b5af72f2f25",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "59522f2a-8a75-4382-965c-9426705fef7a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7a914357-46ab-4a1c-89b8-6ef0cf1fd386",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "aec18986-822b-48c2-88f8-54ba00ff1d1d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b64ae1a2-5bd4-4df0-8aad-5b1f82539bd0",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "04b02d4c-c8a0-38f7-965c-e5725a8dbc8b",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "03dc7c6c-af65-41b3-a6e0-341453789a01",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "1b7fd7f7-4632-4d07-adf6-3140694364ef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC UK pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "fc621538-7c3d-38bc-8c23-54ea19626f35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "14cf80c8-bfa4-47e8-a062-f45c14189fa8",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "caf9aec5-d1e4-4d23-a6ff-5600a2a95c06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "cd952b6d-7ca5-3416-825a-9700a1fbe930",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "14e65ab8-944c-44cd-a662-e959615734fb",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351667
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "f2a03d39-d44b-4c21-b26c-b10a221a0e07",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2014-08-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-08-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "2a02c1c9-cec9-3410-a1b6-162c1412d6ac",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ea5f5226-dcbf-490a-84b0-0ae7235d8443",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "b962af25-6981-4f97-aa6f-eab25306addc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c0a8602f-42df-3678-bab3-22987067dd9e",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "51b72390-504c-4b96-ae5e-e799e6f068fb",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "b3a25ab9-fc70-4e0c-b2fc-928c293631b0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "BG",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+                "name": "Bulgaria",
+                "sort-name": "Bulgaria",
+                "iso-3166-1-codes": [
+                  "BG"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "0bbe4d0c-6b35-38a3-b531-e652cf0b0457",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3235fb4e-9b6c-48ec-8141-3802d960f287",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "1e3b03b3-4485-4d08-beb4-83ac73aee32c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition, reissue",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2023-04-14",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2023-04-14",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3c43f054-c8ec-3502-87ec-69c99a01a98c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5a9e2e64-a41a-4f1c-95cc-4ab583eccb93",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "da87cbd8-c2ed-411a-ba8c-1a335a10010a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "The Metallica Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5b2a6048-030a-4e04-b2f5-eaf02000725f",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Metallica Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009-04-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-04-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 163,
+          "media": [
+            {
+              "id": "f8614b9e-29a8-35c4-883c-2136ef80cb97",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "96424b59-e940-4abb-ae52-680814e4815b",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "41fa7ef7-20f5-44cb-bcef-8dbb5cf957e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f2553e72-e734-3287-b791-680529269d62",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f05a7b84-ed84-465c-89c7-63228b7b3ac3",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "771eab04-c4c5-4a22-9b4d-4c11f1960938",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AR",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+                "name": "Argentina",
+                "sort-name": "Argentina",
+                "iso-3166-1-codes": [
+                  "AR"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "051ad4bc-0a64-321a-8372-0dee8ead6d5f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2e54ad46-6dd5-4225-8e9e-4c1eab2f5af0",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "36a26c7d-b372-4b26-aae8-8003b7e71502",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 33,
+          "media": [
+            {
+              "id": "258fb242-8c3e-3475-a642-8a01bbf854e1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "88f8f802-9ad6-486e-9b6c-553eb5fcbd44",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e1cd6a26-0875-4352-8af0-196972716ac7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1a0f0152-a481-30ac-a37b-aeb276a243c9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ee092342-c97e-39a6-8e1d-36fa869106b2",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "d08247fc-25b6-3570-a794-bed0735a8f86",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "3568b7be-6abc-3bd3-beae-fa10bd98f5f4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ca33cfd8-8a7f-3892-8416-2bd484e9f7e4",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "5c4d63a9-065f-4abf-a6d6-9d520985361e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2008-09-12",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-09-12",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "1c50e305-0328-304b-901c-0f624932e05a",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "8136a317-3af6-426f-9b25-9a14d1aea7fe",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "909a0c16-4f75-47c3-84b1-000869a3844a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010-09-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2010-09-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "55a82266-9500-33b1-ba3e-7d2db5eae29c",
+              "position": 1,
+              "format": "SHM-CD",
+              "track": [
+                {
+                  "id": "2d96161c-6f78-35b1-9d60-b6c0e9924856",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "579d642d-6dbd-4e1f-8ee8-0b7497b48303",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-05-04",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996-05-04",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "82751a48-d3df-3b3b-8d99-0911d817f2c5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "26f222c6-6569-477c-ac2c-bacdb22cee62",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "08b278ec-b23e-46d5-9d75-37992e841ef6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "6e135eb7-1cf6-3467-ba06-3d95f74eb2f7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ac8a3450-bfc5-42f9-a2ff-418744edef4f",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "de69cdb0-4127-4338-ad92-6fb94f852f7e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "8d974fdf-cb9c-3853-9ba1-fb366fbd3a35",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5c8a473c-4d06-4d3a-97f3-7d7f78b958a7",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "14afa94a-13b2-4d45-a4c2-121394b680ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/MCPS on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "81b8eb20-b73b-3031-ac48-5998b94f7a72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "532e6e41-8a7b-4e19-bdcc-ac41fd04e148",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351600
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "2b6cf64a-403b-418f-9a17-70ad8ffac525",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 4,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e45d95e3-3bf1-3cf9-bfa5-99374dcaea26",
+              "position": 4,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "13399e2a-478c-41f7-83e7-8baeb5e72b67",
+                  "number": "G1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ae9f2ce4-ee58-4a73-93d4-b8a424fa6610",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "f3b10e22-f67b-35c0-b5a3-c6342cbf8d72",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70d2daed-07a2-4b1a-a8d8-3bacbf4bda06",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "56c8bbc8-a9fa-4fd7-ae1d-d3d1eac18c6b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a4148366-0482-382b-96b2-f7d2ece0aac4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e0f58044-2907-4517-a0b7-89c2978a9953",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351666
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "c488e108-c0cd-3117-af76-373a7c71b96c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "PMDC France pressing, BIEM/STEMRA on disc",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-03",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "1996-06-03",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c1667308-5e04-35ba-924b-361c9c69c4b1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "638d61fd-8d5f-3a0a-8a94-a365c09c5e5f",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 353573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "aae56d3f-d7b4-4620-9c69-df6f9332801a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2013",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2013",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2013",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a19d6baf-3cc1-37b9-94fc-e8e3693bc9e4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "917f76ef-11bf-43ec-bdbf-49fad2740bb6",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351667
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "1333f3c2-3061-451b-8908-2e8ed0c18599",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "77034b56-5e8d-3d7e-9f83-a89945d70737",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "cb3bc059-bbb5-40a1-b3d9-9bad4ede9cb8",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "cf04a91d-fb9d-430f-88f5-4b919fd5aa34",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Slashes, Crashes & Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "56109f4a-0fb7-433a-bde9-aebf4e3fdccc",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Slashes, Crashes & Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "93185927-0759-3bc7-bb13-3eb8c70f9fa8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e764b00c-4a20-3d4b-b3cb-b5099b739b7f",
+                  "number": "7",
+                  "title": "Thorn Within",
+                  "length": 313000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "d0edc24b-f201-3076-b015-e54401239a8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-01",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "1996-06-01",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "862cbaa4-2fa8-3de8-9840-3c4f346ed8b9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70d3a408-39d2-303e-abb5-f8360867457b",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351400
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e233c4ef-783f-3d1d-b024-dafd9076325b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2003-11-06",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2003-11-06",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "79d0282e-e2a0-3e44-9127-9cd63e8d8f7c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1bde018a-7803-3295-b93c-b324e8cd9591",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351600
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6304ebcd-39c1-476f-bca4-6679bb0aa9d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "197e6f1d-e9d1-3619-b74a-c0f2d3f8e465",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8e33abc7-10fc-3b26-8fe7-7c7df957196c",
+                  "number": "11",
+                  "title": "Thorn Within",
+                  "length": 353746
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "98f69ea0-66e0-4ab4-beea-dd90d1fdc5b7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 2,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "1996",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "65c84608-d647-35f0-9963-4b29add17171",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "c3120e51-bfaa-3ec3-bb23-44447d02e544",
+                  "number": "D1",
+                  "title": "Thorn Within",
+                  "length": 351000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "0b277314-7ce2-3793-a1bc-a9d1be3ecc13",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "1996-06-04",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "1996-06-04",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "87767774-97be-39d0-ac20-495ce6538742",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "97cd326c-ad3f-347a-b3bc-484e489cf3f5",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351600
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "6e077ca1-ed82-4499-81e3-0cc0c19e13d9",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 1,
+          "title": "Load",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2016",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "7e96105b-50a1-377b-821a-4dbac6bb94df",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9e1dc1c6-8054-43aa-875a-0ee55b7c4534",
+                  "number": "12",
+                  "title": "Thorn Within",
+                  "length": 351600
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400012",
+        "QMKHM1900286",
+        "USEVI9692312",
+        "USEV19692312",
+        "GBAMC9600018"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 6,
+          "name": "alternative rock"
+        },
+        {
+          "count": 8,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "thrash metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 3,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "speed metal"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "1944ca0b-e582-4afc-b239-a8826d41e2dd",
+      "score": 92,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "Thorn Within (Guilty) (\"Thorn Within\" vocal idea)",
+      "length": 346322,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "d6c9ba98-6281-3eb6-8d86-dfd7f871e6b2",
+              "position": 9,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "77c52b90-9277-4806-89f6-5b0c22d4b7c6",
+                  "number": "5",
+                  "title": "Thorn Within (Guilty) (\"Thorn Within\" vocal idea)",
+                  "length": 346320
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "16db5912-dfc9-4f24-be48-7a2ecc154f0f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2ad17ab7-1a6e-4017-aeaf-6be3277cf76b",
+                  "number": "5",
+                  "title": "Thorn Within (Guilty) (\u201cThorn Within\u201d vocal idea)",
+                  "length": 346322
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "8cc3f647-71af-4c92-afc0-d166e7eab26f",
+              "position": 4,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "86a0d1b9-7562-4989-890e-c16c6745b5c4",
+                  "number": "5",
+                  "title": "Thorn Within (Guilty) (\u201cThorn Within\u201d vocal idea)",
+                  "length": 346322
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400067"
+      ]
+    },
+    {
+      "id": "5a6462fc-4369-4470-83d6-6c5bd892f5bd",
+      "score": 84,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "NC-17 (\"Thorn Within\" riff)",
+      "length": 57245,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c288b003-d66f-4f27-8f4f-e6bd9ddfb12e",
+                  "number": "16",
+                  "title": "NC-17 (\"Thorn Within\" riff)",
+                  "length": 57240
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "6d0686b9-7bc2-4004-a366-3e88580a710c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered, expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "c48f50f1-316d-4df0-bce7-cb798fa02290",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bca56f07-38ab-45eb-a900-9ba10875dc0a",
+                  "number": "12",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d Riff)",
+                  "length": 57253
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f1a11435-b3d4-4313-ae2b-0121e75e37d2",
+                  "number": "16",
+                  "title": "NC\u201017 - \u201cThorn Within\u201d Riff",
+                  "length": 57245
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "f32b8a45-eeb7-4b4a-a0e3-6b5298557f3b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 3,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered \u2013 3\u2010CD expanded edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "77364746-4bfb-434d-8a25-12d0166bb78c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e80d8d20-0d61-4cfb-bcaf-070894d28e2a",
+                  "number": "12",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d Riff)",
+                  "length": 57253
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ad6fe55c-3a83-4177-89ff-e37086595b69",
+                  "number": "16",
+                  "title": "NC\u201017 - \u201cThorn Within\u201d Riff",
+                  "length": 57245
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400049"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "e7a0a5d3-1878-41dc-96b6-2fef2681d5cd",
+      "score": 84,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "NC-17 (\"Thorn Within\" demo)",
+      "length": 382086,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f8d417ce-41d2-47d5-8be6-7130afee2b65",
+                  "number": "24",
+                  "title": "NC-17 (\"Thorn Within\" demo)",
+                  "length": 382080
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 23
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "587b5ba8-4ab7-42aa-a154-f331f0e8e67c",
+                  "number": "24",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d demo)",
+                  "length": 382086
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 23
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9c8f9ede-fdc7-4314-b076-218ab78ef01f",
+                  "number": "24",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d demo)",
+                  "length": 382086
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 23
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400057"
+      ]
+    },
+    {
+      "id": "8b0322c2-7eea-4281-9fba-fac3c01bce68",
+      "score": 79,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "NC-17 (\"Thorn Within\" take 18)",
+      "length": 351423,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "deec9c1a-c00c-3a2c-af3e-682be88fb2e1",
+              "position": 10,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6c5fe006-259b-4a8f-9c93-56fcee997a2b",
+                  "number": "2",
+                  "title": "NC-17 (\"Thorn Within\" take 18)",
+                  "length": 351426
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e51b58e5-4d2c-49ac-ab50-1cdcf9b31ee1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "48ebda3e-6ec6-46bb-9403-53d2fe5663da",
+                  "number": "2",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d take 18)",
+                  "length": 351423
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "ed486ab9-db3c-471e-8957-1c9d73bdf6c1",
+              "position": 5,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e1f84340-ed4c-4a58-92ee-f17dc5e29acd",
+                  "number": "2",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d take 18)",
+                  "length": 351423
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400076"
+      ]
+    },
+    {
+      "id": "a270c307-9684-4454-bd43-8e307805c47d",
+      "score": 79,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "NC-17 (\"Thorn Within\" riff II)",
+      "length": 29963,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "f4c6a68e-211c-304d-8c99-df88e532eba1",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "442f35cd-b2c4-48d4-9f98-47e730508c01",
+                  "number": "17",
+                  "title": "NC-17 (\"Thorn Within\" riff II)",
+                  "length": 29960
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "e9169050-94fe-4bd1-9cd9-29cc1ff50a20",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9c607141-3bc7-4235-ae74-7635f858559c",
+                  "number": "17",
+                  "title": "NC\u201017 - \u201cThorn Within\u201d Riff II",
+                  "length": 29963
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "1669184e-0740-4a72-94f5-82940d88d5a2",
+              "position": 3,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d1b0f2da-2be6-499e-a17e-178b574a4e4e",
+                  "number": "17",
+                  "title": "NC\u201017 - \u201cThorn Within\u201d Riff II",
+                  "length": 29963
+                }
+              ],
+              "track-count": 29,
+              "track-offset": 16
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400050"
+      ]
+    },
+    {
+      "id": "deda89e1-41da-407b-90ef-e099ea4d3dbf",
+      "score": 71,
+      "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+      "title": "NC-17 (\"Thorn Within\" scratch vocal rough mix)",
+      "length": 356573,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Metallica",
+          "artist": {
+            "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+            "name": "Metallica",
+            "sort-name": "Metallica",
+            "aliases": [
+              {
+                "sort-name": "\u30e1\u30bf\u30ea\u30ab",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e1\u30bf\u30ea\u30ab",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metalica",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Metalica",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\uba54\ud0c8\ub9ac\uce74",
+                "name": "\uba54\ud0c8\ub9ac\uce74",
+                "locale": "ko_KR",
+                "type": null,
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Metallica",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Metallica",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-13",
+      "releases": [
+        {
+          "id": "cf44b49a-a071-4576-b64c-621e95f7c838",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 26,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "track-count": 324,
+          "media": [
+            {
+              "id": "336bcd3d-38f3-3bff-8a46-45740878d536",
+              "position": 11,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "97715b24-fb0d-4214-ae3e-64b4ed40cea1",
+                  "number": "9",
+                  "title": "NC-17 (\"Thorn Within\" scratch vocal rough mix)",
+                  "length": 356573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "9ceae930-b6e0-4424-bb1e-efae7b21e4a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "61d0a1e4-18ae-49d7-859e-2c06030ce473",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "664dc2b9-cfa7-41ea-9b6e-828de5c257f1",
+                  "number": "9",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d Scratch vocal rough mix)",
+                  "length": 356573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "256ae632-c8bb-480c-8d7d-cd3c61436584",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7403167d-416b-3dee-96c6-4725d8c3eed3",
+          "count": 16,
+          "title": "Load",
+          "status": "Official",
+          "disambiguation": "remastered deluxe box set",
+          "artist-credit": [
+            {
+              "name": "Metallica",
+              "artist": {
+                "id": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+                "name": "Metallica",
+                "sort-name": "Metallica"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e389b7df-862d-3d91-a612-acca150f6e71",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Load",
+            "primary-type": "Album"
+          },
+          "date": "2025-06-13",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "3906cf32-00a7-32df-93cc-4710c5f5a542",
+                "name": "Puerto Rico",
+                "sort-name": "Puerto Rico",
+                "iso-3166-1-codes": [
+                  "PR"
+                ]
+              }
+            },
+            {
+              "date": "2025-06-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 233,
+          "media": [
+            {
+              "id": "339e64b9-c5ad-47b9-b4ff-9dc1c19b34da",
+              "position": 6,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "adffb8bc-ba58-445a-ba99-ecf30221cb89",
+                  "number": "9",
+                  "title": "NC\u201017 (\u201cThorn Within\u201d Scratch vocal rough mix)",
+                  "length": 356573
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMKHM2400096"
+      ]
+    }
+  ]
+}

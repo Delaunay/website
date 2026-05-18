@@ -1,0 +1,104 @@
+{
+  "created": "2026-05-18T06:11:08.799Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "393b24ce-e89a-4da7-9251-353c724732f1",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "United States of Eurasia Collateral Damage",
+      "length": 347813,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "24e10ca5-cec7-4fdb-9a84-85472243426f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Triple J: Hottest 100 of 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c40d814e-b6e8-44fc-b9da-c45aeaef0b32",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Triple J: Hottest 100 of 2009",
+            "primary-type": "Broadcast"
+          },
+          "track-count": 100,
+          "media": [
+            {
+              "id": "f67c43bb-0705-32a5-a646-f3a0ee4517bc",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "05b26cbd-8600-4e49-87cd-041028b5e69c",
+                  "number": "84",
+                  "title": "United States of Eurasia Collateral Damage",
+                  "length": 347813
+                }
+              ],
+              "track-count": 100,
+              "track-offset": 83
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "created": "2026-05-18T08:09:20.798Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ab8a4619-84ca-4f79-822a-e7c10e6195d2",
+      "score": 100,
+      "artist-credit-id": "29c120e1-887d-3ca6-8c87-ad21e1dbe3ae",
+      "title": "The Golden Rule",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Teacha Dee",
+          "artist": {
+            "id": "825eb1a6-6915-457b-ab27-0c67cbb6a74e",
+            "name": "Teacha Dee",
+            "sort-name": "Teacha Dee",
+            "disambiguation": "Jamaican reggae singer Damion Warren",
+            "aliases": [
+              {
+                "sort-name": "Warren, Damion Darrel",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Damion Darrel Warren",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021",
+      "releases": [
+        {
+          "id": "76d56e1d-d079-4cb3-8b8d-81259b2fecac",
+          "artist-credit-id": "29c120e1-887d-3ca6-8c87-ad21e1dbe3ae",
+          "count": 1,
+          "title": "Time Machine",
+          "artist-credit": [
+            {
+              "name": "Teacha Dee",
+              "artist": {
+                "id": "825eb1a6-6915-457b-ab27-0c67cbb6a74e",
+                "name": "Teacha Dee",
+                "sort-name": "Teacha Dee",
+                "disambiguation": "Jamaican reggae singer Damion Warren"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "55e09fa3-16d0-4cd5-a60d-98f1115bf625",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Time Machine",
+            "primary-type": "Album"
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "5341aa1b-d9fa-3e56-ae21-9d5b43affbc9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "a7ea37ae-2f20-4b5b-a8da-f352c14b2a9e",
+                  "number": "5",
+                  "title": "The Golden Rule"
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

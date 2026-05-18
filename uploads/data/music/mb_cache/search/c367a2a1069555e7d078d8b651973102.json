@@ -1,0 +1,127 @@
+{
+  "created": "2026-05-18T07:39:53.021Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3f483964-282c-4fdd-99f4-da3873caee33",
+      "score": 100,
+      "artist-credit-id": "9adf4fe1-d365-31f3-aa1a-ab9e3ce8423c",
+      "title": "Havana (Live In Concert / 2021)",
+      "length": 167012,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Kidz Bop Kids",
+          "artist": {
+            "id": "31c0df3c-2d23-41d3-a772-ec3cfc3cc625",
+            "name": "Kidz Bop",
+            "sort-name": "Kidz Bop",
+            "disambiguation": "US cover group",
+            "aliases": [
+              {
+                "sort-name": "Kids for Kids",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Kids for Kids",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Kids Bop",
+                "name": "Kids Bop",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Kidz Bop Kids",
+                "name": "Kidz Bop Kids",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-06-11",
+      "releases": [
+        {
+          "id": "fc091290-ff7f-4dba-b771-f805cb71884f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "39b0a918-978c-34ac-b5ba-54a3edf2ce44",
+          "count": 1,
+          "title": "KIDZ BOP Live In Concert",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Kidz Bop",
+              "artist": {
+                "id": "31c0df3c-2d23-41d3-a772-ec3cfc3cc625",
+                "name": "Kidz Bop",
+                "sort-name": "Kidz Bop",
+                "disambiguation": "US cover group"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "adabb0fe-8abe-4a28-877e-cb69f512fc71",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "KIDZ BOP Live In Concert",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2021-06-11",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-06-11",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "d29955a6-6ab1-3e91-8184-2f9bf185f610",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2788f20c-fca0-4926-890d-32f24db243df",
+                  "number": "9",
+                  "title": "Havana (Live In Concert / 2021)",
+                  "length": 167012
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USAB02101659"
+      ]
+    }
+  ]
+}

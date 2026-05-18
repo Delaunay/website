@@ -1,0 +1,933 @@
+{
+  "created": "2026-05-18T07:38:36.495Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "bb62e4c4-904f-4825-afc6-1b626f0ca9fc",
+      "score": 100,
+      "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+      "title": "Over It",
+      "length": 227000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bullet for My Valentine",
+          "artist": {
+            "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+            "name": "Bullet for My Valentine",
+            "sort-name": "Bullet for My Valentine",
+            "aliases": [
+              {
+                "sort-name": "Bullet For My Valintine",
+                "name": "Bullet For My Valintine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bullet for My Vallentine",
+                "name": "Bullet for My Vallentine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "BfMV",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "BfMV",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-04-02",
+      "releases": [
+        {
+          "id": "cf95ae8a-2b6d-497c-8922-763dd3243d7c",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "7635eb38-16c4-404c-97b7-18b3fcdf7741",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cc3fa309-b872-4097-b556-66e4a45393c6",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "89323e9d-4764-4e6b-aad7-f992f9135edf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "12ffad48-901d-3c31-b607-1e58ae0e55e1",
+              "position": 1,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "39f1e96c-0f60-4880-8c0c-e33a3cc396d2",
+                  "number": "A2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b60faa8e-9604-4e26-aae4-5b13a3b82de5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "digital deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "72396262-a65f-3c4f-abcf-cc3cf85bd9b2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dea232d9-1f99-4e08-bdf9-6cb92354c73b",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "79d8eb77-4bfd-4ac5-bedb-6144410f1d5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4b1c3096-432f-39dd-bc6d-89dde2b098f1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "199bdafa-22ad-4bcf-a42b-c49acf1115dc",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227866
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4fecb866-9b21-40ae-8ed2-2a8ccf8d8c93",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "bb98c93f-bc36-3043-beb9-0dd69de20086",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "09803d25-d1f4-4ef7-909a-97b1c6a959a1",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227866
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0676a0b4-4cfc-4d52-98bd-2f965c8d0c8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "f4ab5f2d-224a-3ec6-bdee-bf5ba5eb1fe1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "adff4147-fe55-4ad5-b5ed-95eed7bd8903",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b52eb365-b28f-468f-ab50-7cb199791fe4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "Target Exclusive",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "90886d0f-ce30-31f9-a4b5-b6f17c3fc6a7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7e3b0682-7950-4a52-8a68-158f7e5a7768",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "3e53883d-7243-4c74-a88e-bea83f0d2a84",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2018",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "078383bd-de41-3d4a-8747-020e3b53684f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a58a3f2a-1ccd-42d1-ba94-1c9709abf7b4",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227866
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "383ffac6-88fd-41d7-89d2-79e9ec846ea5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "2b0c2089-7d0e-394d-9ae1-8d38eecaefae",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9dd87c36-4723-4a4f-ad0b-08a296213509",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "8a6362f7-36a8-4b08-895d-4bef2b0c8753",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Gravity",
+          "status": "Official",
+          "disambiguation": "Mastered for iTunes",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f80e5c8-3e0b-4809-8faa-7c78a964508b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gravity",
+            "primary-type": "Album"
+          },
+          "date": "2018-06-29",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018-06-29",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8a3197ce-061f-339b-8b5e-fb87f794d3b4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8521e428-f503-4494-856a-58ad5bf75694",
+                  "number": "2",
+                  "title": "Over It",
+                  "length": 227864
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d42a8f77-ffa8-4d6a-9d8d-481d8c6eb4e9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 1,
+          "title": "Over It",
+          "status": "Official",
+          "disambiguation": "mastered for iTunes",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6068c8db-89ed-4e52-8d16-86c8a68479cb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Over It",
+            "primary-type": "Single"
+          },
+          "date": "2018-04-02",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2018-04-02",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2018-04-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "66226902-c931-32a1-9b0f-0ba9ef17cea5",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bd604728-b6a9-4088-a7c3-b9a147d7f756",
+                  "number": "1",
+                  "title": "Over It",
+                  "length": 227000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71800990"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "metalcore"
+        }
+      ]
+    },
+    {
+      "id": "8e07c5d0-2a13-4c9b-8678-3e643d7bd3a4",
+      "score": 100,
+      "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+      "title": "Over It",
+      "length": 261000,
+      "disambiguation": "live, 2018-08-??: Summer Sonic 2018, Japan",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bullet for My Valentine",
+          "artist": {
+            "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+            "name": "Bullet for My Valentine",
+            "sort-name": "Bullet for My Valentine",
+            "aliases": [
+              {
+                "sort-name": "Bullet For My Valintine",
+                "name": "Bullet For My Valintine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bullet for My Vallentine",
+                "name": "Bullet for My Vallentine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "BfMV",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "BfMV",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-05",
+      "releases": [
+        {
+          "id": "88cecd8b-22ec-44e8-81c4-467212ca2d8d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+          "count": 2,
+          "title": "Bullet for My Valentine",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Bullet for My Valentine",
+              "artist": {
+                "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+                "name": "Bullet for My Valentine",
+                "sort-name": "Bullet for My Valentine"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "aad96520-2ffa-44b5-b311-24e61f55c794",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bullet for My Valentine",
+            "primary-type": "Album"
+          },
+          "date": "2021-11-05",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2021-11-05",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "32463375-fff1-3269-a80c-40a1130cbd4f",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "24721d27-4633-4b2c-b85b-5de8e7f58c6c",
+                  "number": "2",
+                  "title": "Over It (live from Summer Sonic 2018)",
+                  "length": 261000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBUM71901155"
+      ]
+    },
+    {
+      "id": "38386f8a-217c-4d16-86b5-9d3aabdf3480",
+      "score": 100,
+      "artist-credit-id": "e6b736eb-ce56-3d5c-863a-8154855c6171",
+      "title": "Over It",
+      "length": 224104,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Bullet for My Valentine",
+          "artist": {
+            "id": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+            "name": "Bullet for My Valentine",
+            "sort-name": "Bullet for My Valentine",
+            "aliases": [
+              {
+                "sort-name": "Bullet For My Valintine",
+                "name": "Bullet For My Valintine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bullet for My Vallentine",
+                "name": "Bullet for My Vallentine",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "BfMV",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "BfMV",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018",
+      "releases": [
+        {
+          "id": "fa480a06-955f-4919-b383-74502985b925",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Promo Only: Modern Rock Radio, June 2018",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "17ba635c-d7ef-4b7d-aad2-92e116cf9718",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Promo Only: Modern Rock Radio, June 2018",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2018",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2018",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "2e110f7a-3e03-329e-a5e5-8b2052a140b3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b8d3cc2b-32fb-497b-aa98-1c055f8dd8e2",
+                  "number": "19",
+                  "title": "Over It",
+                  "length": 224104
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

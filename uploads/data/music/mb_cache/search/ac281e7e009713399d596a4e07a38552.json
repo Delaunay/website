@@ -1,0 +1,74 @@
+{
+  "created": "2026-05-18T08:06:17.476Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "4db69f78-6911-4f7f-8c0a-69e3181bd8b5",
+      "score": 100,
+      "artist-credit-id": "a5022363-35a0-3a66-bf2b-080a4b660eae",
+      "title": "Reggae Ambassada",
+      "length": 187022,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Queen Omega",
+          "artist": {
+            "id": "8636578b-9eeb-4bc5-844f-6816890d230c",
+            "name": "Queen Omega",
+            "sort-name": "Queen Omega"
+          }
+        }
+      ],
+      "first-release-date": "2012-05-01",
+      "releases": [
+        {
+          "id": "7053705c-e3c6-4fe4-829d-966e8949f1eb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Together We Aspire, Together We Achieve",
+          "status": "Official",
+          "release-group": {
+            "id": "f011a284-18fd-4c60-8a1b-773fede0de8b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Together We Aspire, Together We Achieve",
+            "primary-type": "Album"
+          },
+          "date": "2012-05-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012-05-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 7,
+          "media": [
+            {
+              "id": "12d2e0d1-8cc0-3e25-a68c-de64968500f9",
+              "position": 1,
+              "track": [
+                {
+                  "id": "681f24c3-667d-4cbe-9d96-68578bf977ad",
+                  "number": "4",
+                  "title": "Reggae Ambassada",
+                  "length": 187022
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

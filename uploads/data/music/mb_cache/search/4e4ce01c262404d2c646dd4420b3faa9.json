@@ -1,0 +1,107 @@
+{
+  "created": "2026-05-18T05:35:34.806Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "65f7ab33-ef00-498c-99ae-c414ff6d7462",
+      "score": 100,
+      "artist-credit-id": "f1fbcd8e-78ed-49f9-b6b4-981adcc47a8c",
+      "title": "Am I Wrong",
+      "disambiguation": "part of \u201cHit Mania Estate 2014\u201d DJ\u2010mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Nico & Vinz (Envy)",
+          "artist": {
+            "id": "f8e8de78-2131-4e96-8829-ba3614f48a48",
+            "name": "Nico & Vinz",
+            "sort-name": "Nico & Vinz",
+            "disambiguation": "fka Envy",
+            "aliases": [
+              {
+                "sort-name": "Envy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Envy",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "2010",
+                "end-date": "2014-01"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2014-07-15",
+      "releases": [
+        {
+          "id": "d14878c5-3973-478d-a00c-07848bca6821",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Hit Mania estate 2014",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3dec1bb6-dfc4-48d1-91aa-7d0af90fa206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hit Mania estate 2014",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "DJ-mix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+            ]
+          },
+          "date": "2014-07-15",
+          "country": "IT",
+          "release-events": [
+            {
+              "date": "2014-07-15",
+              "area": {
+                "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+                "name": "Italy",
+                "sort-name": "Italy",
+                "iso-3166-1-codes": [
+                  "IT"
+                ]
+              }
+            }
+          ],
+          "track-count": 47,
+          "media": [
+            {
+              "id": "130e4fcf-adc1-4891-89b4-a99a1be7ef9b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "596c66d2-75c3-41e8-83df-4e2949a683c2",
+                  "number": "23",
+                  "title": "Am I Wrong"
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 22
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

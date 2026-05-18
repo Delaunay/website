@@ -1,0 +1,60 @@
+{
+  "created": "2026-05-18T06:56:12.899Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "67419fae-8f99-4cda-9471-09b4ce304567",
+      "score": 100,
+      "artist-credit-id": "c24a666e-55bf-3861-bbfb-cb28038648d4",
+      "title": "J'ai su",
+      "length": 182146,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ana\u00efs Delva",
+          "artist": {
+            "id": "46601861-004d-4217-99cd-6e7c25b9060c",
+            "name": "Ana\u00efs Delva",
+            "sort-name": "Delva, Ana\u00efs"
+          }
+        }
+      ],
+      "first-release-date": "2019-05-10",
+      "releases": [
+        {
+          "id": "f79b7899-52f3-4d3b-ad87-3778fa0fe504",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Obsidienne",
+          "status": "Official",
+          "release-group": {
+            "id": "ec529d61-6337-4bcd-bd59-3623dda63e13",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Obsidienne",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "9ec21369-8a7e-397a-a276-4a7d1227b330",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d53a93d3-d1d6-4ec5-b6a2-9db72ca3c6e5",
+                  "number": "1",
+                  "title": "J'ai su",
+                  "length": 182146
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

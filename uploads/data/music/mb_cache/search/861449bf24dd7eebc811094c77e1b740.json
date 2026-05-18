@@ -1,0 +1,1785 @@
+{
+  "created": "2026-05-18T06:07:01.063Z",
+  "count": 4,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "113a37f1-8a33-44a5-90ec-4f06b3d8ed19",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last Night on Earth",
+      "length": 236533,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-04",
+      "releases": [
+        {
+          "id": "0a208e51-b48a-4b4c-8c12-88c32e3f19b8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 8,
+          "title": "The Studio Albums 1990 - 2009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "51a8e59f-2325-4773-81f9-bd7af33ad189",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Studio Albums 1990-2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-27",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2012-08-27",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 125,
+          "media": [
+            {
+              "id": "ce2ae32a-7f20-4539-bd6a-e7f1a5faa9ce",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "07263793-aaaa-4169-b3eb-d302890edc27",
+                  "number": "7",
+                  "title": "Last Night on Earth"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "6ac85abe-4458-407c-9945-8b37cb0c3425",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "The Green Day Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a006535d-95ed-4ba2-b709-f7bdb65ceade",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Green Day Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 173,
+          "media": [
+            {
+              "id": "62c7cb87-6b53-313b-b5f5-2872dea6c460",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8b14d26c-7dce-40c6-8c0d-5c0e3c04e6e5",
+                  "number": "138",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 173,
+              "track-offset": 137
+            }
+          ]
+        },
+        {
+          "id": "943f5800-9ccc-4611-9ae4-ccb56f851eb6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-04",
+          "country": "ZA",
+          "release-events": [
+            {
+              "date": "2009-04",
+              "area": {
+                "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+                "name": "South Africa",
+                "sort-name": "South Africa",
+                "iso-3166-1-codes": [
+                  "ZA"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "b96e10e5-8f11-3d3a-8bbc-8d384015c370",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e3de4884-c915-4adb-8d38-8608c4b2ada5",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 237000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "29fd1127-9d54-4140-936f-fc963d4e6a76",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "The Green Day Collection",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a006535d-95ed-4ba2-b709-f7bdb65ceade",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Green Day Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-10-07",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2016-10-07",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            },
+            {
+              "date": "2016-10-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 127,
+          "media": [
+            {
+              "id": "ad1dade7-b78f-3f25-806b-68ceb01c2490",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bffdad43-2864-42af-8516-35b26e9f89b2",
+                  "number": "79",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 127,
+              "track-offset": 78
+            }
+          ]
+        },
+        {
+          "id": "fe39f1a3-b828-370c-9308-e96fd208d483",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "4dfd79f6-3f81-358b-b96b-48f3482f09c2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5466e27d-0d0b-354c-9ef6-e2f18144db9e",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "1048f99b-97c9-4738-97d2-ace223278c3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "7280f6ca-cc10-3264-9e39-3021b15c2211",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9e66566b-423e-4e35-a804-6276c2f0fd6a",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "82e4fe3d-f338-4e68-9186-f1bf6f91a0a8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "bf13855f-79fc-3689-8faa-2adc3889b20f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "95160b36-4cb7-4220-a030-b5b2244d0456",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "e6f3e5a9-cdc0-451b-bf30-4430eff5cfcc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "disambiguation": "deluxe edition",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "340e158f-36f1-3969-8ca9-17c710f6ba96",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "84304624-490f-32b7-9781-01b0fdd5314e",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "89efa553-2c2c-4826-b880-e61457399c8b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 8,
+          "title": "The Studio Albums 1990\u20132009",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "51a8e59f-2325-4773-81f9-bd7af33ad189",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Studio Albums 1990-2009",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-27",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2012-08-27",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 125,
+          "media": [
+            {
+              "id": "d5a40226-4668-31c6-a6a3-d99552c0ab3d",
+              "position": 8,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ff0f5f3b-e763-4acf-aaf2-db21b894d2d9",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "72800544-3d3b-4edd-aa47-333fbc1cb60c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c556bab7-ff96-3938-8bd6-5666c1455603",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "596baff7-a96b-31df-bea3-8ac27187a894",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "4a5b6eb9-9cf2-46b3-818a-58b3555a3ce5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "9626e93f-6d9a-3481-b4c9-d25bb8cff1c6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "317ce6ae-e3fe-453b-b9c7-df4eba141aee",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "7ba74e72-715e-4f5d-b968-0ab5e999fa04",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown / American Idiot",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e3130e53-fbfc-4e76-9dc4-c554225ec887",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown / American Idiot",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-08-13",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2012-08-13",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "b21edb70-0c5a-3ac9-9c68-f57ac16b4b11",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "43da89f7-0745-4994-8fba-d034d59e4630",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "8489fe0e-ceee-32ec-b46f-c791322037e5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "7c87763e-5c84-3bf7-abcf-e292f71ce8bd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "408ee0b2-7a87-35ce-8986-595ef0b0361d",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "73073de8-e725-3a49-8e79-35dd5ef29b98",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "e0fe5f84-7611-3306-a306-4d35ee75a8d4",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4f2bcda2-52b6-3bd8-9df7-bebd44228d27",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "113801de-cddc-40c5-99b7-766476e11e0d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "543394b9-129a-3129-aae2-680ab3015254",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1a264bfa-604c-37a3-b9d7-8b2a3554bd45",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "5b0f89f9-3742-41ae-abd5-b177509683ff",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "disambiguation": "Target exclusive",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "b7486188-7bc8-3e5d-a995-8aebc4d1e147",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fd19fa3e-d63d-3160-8666-b9cdb5c15253",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 237000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b266af07-7453-4e02-aa7a-c9d00369ec5d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "5b6ef2b6-8774-35ea-96a6-e1bf52af18b3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b0bc5109-0a99-4d99-b2a8-1ce22b14ac7a",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236000
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "4f34d486-2fef-4180-919f-d7781ca36719",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 2,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "d4497140-1644-3755-9d29-72434923f888",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "f0136d1f-a660-4dae-9f33-0e89eb4d4fc4",
+                  "number": "B2",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "47e1be6d-1f50-44e7-99d4-1d4a590e601a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-12",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2009-05-12",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "d2991566-7792-3e40-a4d1-8a7810b8b28d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b58985ca-49db-4ed9-971b-cc75942eee90",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "9d6d1e4c-bc3b-4a8e-82bc-5ea5ef36bc02",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "21st Century Breakdown",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "37608ff2-3168-3e7c-a77e-04a4b7300c1b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "21st Century Breakdown",
+            "primary-type": "Album"
+          },
+          "date": "2009-05-15",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2009-05-15",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "189ea93f-2806-3663-ac7f-b1e9cb147ba6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fa2c4c61-eb42-3137-9052-241c207b5237",
+                  "number": "7",
+                  "title": "Last Night on Earth",
+                  "length": 236533
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USRE11200292",
+        "USRE10900670"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "punk-pop"
+        },
+        {
+          "count": 1,
+          "name": "punk revival"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "26755231-8f3b-4994-b296-4af440eb2532",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last Night on Earth",
+      "length": 237000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "dede48c1-290d-4e8f-9426-0004b485aef4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Classic Cuts, Volume 161: First Dance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "79deff1c-87b7-46f1-913d-90f736143787",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Classic Cuts, Volume 161: First Dance",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 30,
+          "media": [
+            {
+              "id": "37b33d9c-02d0-3ad0-85d7-05548c2f6dd9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "942aa398-d77c-4f07-adf8-35f67c05dc86",
+                  "number": "6",
+                  "title": "Last Night on Earth",
+                  "length": 237000
+                }
+              ],
+              "track-count": 30,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61e593b2-670b-43b2-b1a1-2d7f2e22bdb0",
+      "score": 100,
+      "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+      "title": "Last Night on Earth",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-07-08",
+      "releases": [
+        {
+          "id": "c300b23c-f1a1-4ddf-8d59-f3c8cb6dc1c6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "e38688be-e23f-39e3-9217-284a32fafcc5",
+          "count": 1,
+          "title": "American Idiot: The Original Broadway Cast Recording",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Green Day",
+              "artist": {
+                "id": "084308bd-1654-436f-ba03-df6697104e19",
+                "name": "Green Day",
+                "sort-name": "Green Day"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a73dad3a-401b-4aac-aded-9a1fde315a5f",
+            "type-id": "22a628ad-c082-3c4f-b1b6-d41665107b88",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "American Idiot: The Original Broadway Cast Recording",
+            "disambiguation": "2010 original Broadway cast",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2012-07-08",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2012-07-08",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "a39deea5-5661-3ab0-9e80-481cced77672",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a95f6a1b-e924-4464-bce1-5afb1af0a8db",
+                  "number": "10",
+                  "title": "Last Night on Earth"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "94a65a36-2f95-4599-81d0-3b0174175fc6",
+      "score": 85,
+      "artist-credit-id": "14ebe538-00f0-47c6-9269-cb828ed414a4",
+      "title": "Last Night on Earth",
+      "disambiguation": "live, 2025-01-30: Kia Forum, Inglewood, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Green Day",
+          "artist": {
+            "id": "084308bd-1654-436f-ba03-df6697104e19",
+            "name": "Green Day",
+            "sort-name": "Green Day",
+            "aliases": [
+              {
+                "sort-name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b0\u30ea\u30fc\u30f3\u30fb\u30c7\u30a4",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Greenday",
+                "name": "Greenday",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Billie Eilish",
+          "artist": {
+            "id": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+            "name": "Billie Eilish",
+            "sort-name": "Eilish, Billie",
+            "aliases": [
+              {
+                "sort-name": "O\u2019Connell, Billie Eilish Pirate Baird",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Billie Eilish Pirate Baird O\u2019Connell",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "O\u2019Konel, Bili Aili\u0161 Pirat Beird",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bili Aili\u0161 Pirat Beird O\u2019Konel",
+                "locale": "lt",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Aili\u0161, Bili",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bili Aili\u0161",
+                "locale": "lt",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billija Aili\u0161a",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billija Aili\u0161a",
+                "locale": "lv",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\ube4c\ub9ac \uc544\uc77c\ub9ac\uc2dc",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\ube4c\ub9ac \uc544\uc77c\ub9ac\uc2dc",
+                "locale": "ko",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u1794\u17ca\u17b8\u179b\u179b\u17b8 \u17a2\u17c3\u179b\u17b8\u179f",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u1794\u17ca\u17b8\u179b\u179b\u17b8 \u17a2\u17c3\u179b\u17b8\u179f",
+                "locale": "km",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0411\u0438\u043b\u043b\u0438 \u0410\u0439\u043b\u0438\u0448",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0411\u0438\u043b\u043b\u0438 \u0410\u0439\u043b\u0438\u0448",
+                "locale": "kk",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u10d1\u10d8\u10da\u10d8 \u10d0\u10d8\u10da\u10d8\u10e8\u10d8",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u10d1\u10d8\u10da\u10d8 \u10d0\u10d8\u10da\u10d8\u10e8\u10d8",
+                "locale": "ka",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0532\u056b\u056c\u056c\u056b \u0531\u0575\u056c\u056b\u0577",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0532\u056b\u056c\u056c\u056b \u0531\u0575\u056c\u056b\u0577",
+                "locale": "hy",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u092c\u093f\u0932\u0940 \u090f\u0932\u0940\u0936",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u092c\u093f\u0932\u0940 \u090f\u0932\u0940\u0936",
+                "locale": "hi",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u05d1\u05d9\u05dc\u05d9 \u05d0\u05d9\u05d9\u05dc\u05d9\u05e9",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u05d1\u05d9\u05dc\u05d9 \u05d0\u05d9\u05d9\u05dc\u05d9\u05e9",
+                "locale": "he",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0628\u06cc\u0644\u064a \u0622\u06cc\u0644\u064a\u0634",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0628\u06cc\u0644\u064a \u0622\u06cc\u0644\u064a\u0634",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0628\u06cc\u0644\u06cc \u0622\u06cc\u0644\u06cc\u0634",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0628\u06cc\u0644\u06cc \u0622\u06cc\u0644\u06cc\u0634",
+                "locale": "fa",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u039c\u03c0\u03af\u03bb\u03bb\u03b9 \u0386\u03b9\u03bb\u03b9\u03c2",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u039c\u03c0\u03af\u03bb\u03bb\u03b9 \u0386\u03b9\u03bb\u03b9\u03c2",
+                "locale": "el",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0628\u06cc\u06b5\u06cc_\u0626\u0627\u06cc\u06b5\u0634",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0628\u06cc\u06b5\u06cc_\u0626\u0627\u06cc\u06b5\u0634",
+                "locale": "ckb",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u09ac\u09bf\u09b2\u09bf \u0986\u0987\u09b2\u09bf\u09b6",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u09ac\u09bf\u09b2\u09bf \u0986\u0987\u09b2\u09bf\u09b6",
+                "locale": "bn",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0411\u0438\u043b\u0438 \u0415\u0439\u043b\u0438\u0448",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0411\u0438\u043b\u0438 \u0415\u0439\u043b\u0438\u0448",
+                "locale": "bg",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0411\u0456\u043b\u0456 \u0410\u0439\u043b\u0456\u0448",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0411\u0456\u043b\u0456 \u0410\u0439\u043b\u0456\u0448",
+                "locale": "be",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billi Ayli\u015f",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billi Ayli\u015f",
+                "locale": "az",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u0628\u064a\u0644\u064a \u0625\u064a\u0644\u064a\u0634",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u0628\u064a\u0644\u064a \u0625\u064a\u0644\u064a\u0634",
+                "locale": "ar",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u6bd4\u8389\u827e\u8389\u4ec0",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u6bd4\u8389\u827e\u8389\u4ec0",
+                "locale": "zh",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30d3\u30ea\u30fc\u30fb\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30d3\u30ea\u30fc\u30fb\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "O\u2019Connell, Billie",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billie O\u2019Connell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Eilish O\u2019Connell, Billie",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billie Eilish O\u2019Connell",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Bil Cutie",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Bil Cutie",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "2019-09-27",
+                "end-date": "2019-09-27"
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-02-02",
+      "releases": [
+        {
+          "id": "edbf0781-ef14-41d8-9776-8aa04e56b1da",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "2025\u201001\u201030: FireAid",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a6e00ec2-2636-416b-ac17-871fb1e5df4d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2025\u201001\u201030: FireAid",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2025-02-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-02-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 116,
+          "media": [
+            {
+              "id": "382cd674-59d0-3f18-acac-d6a9343cffdb",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "89837e60-0743-4c80-abb0-86c6b56ee873",
+                  "number": "1",
+                  "title": "Last Night on Earth"
+                }
+              ],
+              "track-count": 116,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

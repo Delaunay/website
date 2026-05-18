@@ -1,0 +1,486 @@
+{
+  "created": "2026-05-18T05:50:42.785Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "07eb9552-e2bc-4807-94e3-6e60888992fc",
+      "score": 100,
+      "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+      "title": "Deutschland (RMX by Richard Z. Kruspe)",
+      "length": 345836,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Rammstein",
+          "artist": {
+            "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+            "name": "Rammstein",
+            "sort-name": "Rammstein",
+            "aliases": [
+              {
+                "sort-name": "Tempelprayers",
+                "name": "Tempelprayers",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30e9\u30e0\u30b7\u30e5\u30bf\u30a4\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramstein",
+                "name": "Ramstein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rammstien",
+                "name": "Rammstien",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ramms+ein",
+                "name": "Ramms+ein",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-03-28",
+      "releases": [
+        {
+          "id": "f7dff809-1695-4404-a276-34047d12f674",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 33,
+          "title": "XXXIII",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "377b8aec-71b8-4b87-b2a6-88c04da7d063",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "XXXIII",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2025-11-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2025-11-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 66,
+          "media": [
+            {
+              "id": "43de54cf-1dd5-496b-96e9-01c320b5ee72",
+              "position": 26,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "7e2711c6-4787-4d46-890c-daddecdb58b3",
+                  "number": "Z2",
+                  "title": "Deutschland (remix by Richard Z. Kruspe)"
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "e77f0a65-37e4-488f-9166-ccd4d27001a0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "[Rammstein]",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e4d39d2e-9420-4007-881a-9b5bc23944e0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "[Rammstein]",
+            "disambiguation": "officially untitled, but commonly referred to as Rammstein",
+            "primary-type": "Album"
+          },
+          "date": "2019",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "a8cd9135-eb21-31a0-8979-8482d3d034b3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4728b29f-ec78-41e9-87dd-f596f084adbc",
+                  "number": "12",
+                  "title": "Deutschland (remix by Richard Z. Kruspe)",
+                  "length": 346173
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "4fe09d48-0dbd-49f7-b01b-25238b266613",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Remixes",
+          "status": "Official",
+          "disambiguation": "updated, 85 tracks",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "32b23567-38d3-4e14-829d-66f48f9ca0ec",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Remixes",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 85,
+          "media": [
+            {
+              "id": "121ffd8e-6146-3a73-b59e-32032c314546",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e92f9a65-ac34-4bb3-a338-e8c19162bd43",
+                  "number": "73",
+                  "title": "Deutschland (RMX by Richard Z. Kruspe)",
+                  "length": 346253
+                }
+              ],
+              "track-count": 85,
+              "track-offset": 72
+            }
+          ]
+        },
+        {
+          "id": "ddf3a737-4945-4a08-b948-1209c32a8cae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Deutschland",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7652e80-2fef-4131-8fe9-6049c5960ced",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Deutschland",
+            "primary-type": "Single"
+          },
+          "date": "2019-04-12",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-04-12",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "2629576c-b425-3e0c-b4e9-6ea173232f10",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8eeb784c-3fb3-47b2-90ff-bf94d062b82e",
+                  "number": "2",
+                  "title": "Deutschland (RMX by Richard Z. Kruspe)",
+                  "length": 345000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "a8bc8606-e0e8-4834-9bdf-7966f4c44d6c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Deutschland",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7652e80-2fef-4131-8fe9-6049c5960ced",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Deutschland",
+            "primary-type": "Single"
+          },
+          "date": "2019-04-12",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-04-12",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "316d655e-67b1-30e5-b1a8-f88346f5e4a3",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "8d9c0e4a-22ba-41a2-972f-774c67103789",
+                  "number": "B",
+                  "title": "Deutschland (RMX by Richard Z. Kruspe)",
+                  "length": 345000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "14985b06-839e-4792-a968-51eef0f124f1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Deutschland",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7652e80-2fef-4131-8fe9-6049c5960ced",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Deutschland",
+            "primary-type": "Single"
+          },
+          "date": "2019-03-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "a2d99de5-5f9d-34fb-85ff-4724cb3ab7a6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "012dd613-5c94-473e-a0cf-aed4b6ccfd76",
+                  "number": "2",
+                  "title": "Deutschland (RMX by Richard Z. Kruspe)",
+                  "length": 346000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4069f541-e9f1-4434-9700-833a61d663ce",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "77aaa3c7-3058-30ce-a19c-0da48eb6799e",
+          "count": 1,
+          "title": "Deutschland (RMX by Richard Z. Kruspe)",
+          "status": "Official",
+          "disambiguation": "Mastered for iTunes",
+          "artist-credit": [
+            {
+              "name": "Rammstein",
+              "artist": {
+                "id": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+                "name": "Rammstein",
+                "sort-name": "Rammstein"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a7652e80-2fef-4131-8fe9-6049c5960ced",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Deutschland",
+            "primary-type": "Single"
+          },
+          "date": "2019-03-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "9bccfdb1-67f0-3010-a9b5-d546f588805a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fee2d3ac-8398-4b74-a2a2-5bbffab6dded",
+                  "number": "1",
+                  "title": "Deutschland (RMX by Richard Z. Kruspe)",
+                  "length": 345836
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71900977"
+      ]
+    }
+  ]
+}

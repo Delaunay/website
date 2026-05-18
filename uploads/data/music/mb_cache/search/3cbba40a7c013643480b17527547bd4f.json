@@ -1,0 +1,121 @@
+{
+  "created": "2026-05-18T06:28:57.154Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f01269fa-2e89-410d-b037-836bd5f23885",
+      "score": 100,
+      "artist-credit-id": "570cffe3-52b4-48ba-a2ae-997d0af055c2",
+      "title": "Sandman",
+      "length": 182698,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Eric Copeland",
+          "artist": {
+            "id": "f83bf497-fb87-4b6f-9949-56bdbcc09e09",
+            "name": "Eric Copeland",
+            "sort-name": "Copeland, Eric",
+            "disambiguation": "member of Black Dice"
+          }
+        },
+        {
+          "name": "Josh Diamond",
+          "artist": {
+            "id": "f3d40c24-18e3-483a-adf4-756d0074814d",
+            "name": "Josh Diamond",
+            "sort-name": "Josh Diamond",
+            "aliases": [
+              {
+                "sort-name": "Deutsch, Joshua Alden",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Joshua Alden Deutsch",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "e30c088f-0f53-4657-8d54-aa63de091a1e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "570cffe3-52b4-48ba-a2ae-997d0af055c2",
+          "count": 1,
+          "title": "Riders On The Storm",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "Eric Copeland",
+              "artist": {
+                "id": "f83bf497-fb87-4b6f-9949-56bdbcc09e09",
+                "name": "Eric Copeland",
+                "sort-name": "Copeland, Eric",
+                "disambiguation": "member of Black Dice"
+              }
+            },
+            {
+              "name": "Josh Diamond",
+              "artist": {
+                "id": "f3d40c24-18e3-483a-adf4-756d0074814d",
+                "name": "Josh Diamond",
+                "sort-name": "Josh Diamond"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e1117e27-df81-495e-ae9d-e783ed2b2573",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Riders On The Storm",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "133b314a-fe54-3a0c-b001-7688c93ef2ac",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "34172813-4c02-4950-a988-d1f2da3d11e1",
+                  "number": "8",
+                  "title": "Sandman",
+                  "length": 182698
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "USJLE2208708"
+      ]
+    }
+  ]
+}

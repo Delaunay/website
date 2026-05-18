@@ -1,0 +1,94 @@
+{
+  "created": "2026-05-18T07:48:19.035Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "476604fd-40eb-4daf-92ce-f0d777db4fad",
+      "score": 100,
+      "artist-credit-id": "6d7650d8-1547-302a-965b-b759da78fd71",
+      "title": "This Is Love",
+      "length": 112935,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Darko",
+          "artist": {
+            "id": "e07c6ae3-4722-4be3-b036-49dd1a0c6bf5",
+            "name": "Darko",
+            "sort-name": "Darko",
+            "disambiguation": "UK fast melodic hardcore"
+          }
+        }
+      ],
+      "first-release-date": "2017-10-19",
+      "releases": [
+        {
+          "id": "bb79b5e5-ce3a-47e2-b670-d0052e27fb40",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Manchester Punk Festival Vol. 15",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d31f3bfa-a23b-4a5c-982f-461e11bec3f9",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Manchester Punk Festival Vol. 15",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017-10-19",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2017-10-19",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "7b590795-712a-3dc0-ae5c-e19d1240537f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a2f6ee83-c106-4f15-8af0-875c0d589782",
+                  "number": "11",
+                  "title": "This Is Love",
+                  "length": 112935
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

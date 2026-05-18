@@ -1,0 +1,1468 @@
+{
+  "created": "2026-05-18T06:11:48.533Z",
+  "count": 64,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1cba5c4e-2a4a-44de-aaad-fa9a3021543d",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 268000,
+      "disambiguation": "live, 2001-10-28/29: Le Zenith, Paris, France",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-06-26",
+      "releases": [
+        {
+          "id": "42492303-3c59-4564-8f1c-aa0a6a68ca6b",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "hullabaloo",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9334b1d6-1604-35f1-bd99-484deb70af1b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo Soundtrack",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 24,
+          "media": [
+            {
+              "id": "adf7e123-ae64-3635-9c03-99bb754ce007",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9166b45b-df76-4e48-ba09-8be355c1529b",
+                  "number": "4",
+                  "title": "Sunburn",
+                  "length": 268000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "0c0a8786-9462-4665-99c1-4ce60c5c4b51",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Hullabaloo Soundtrack",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9334b1d6-1604-35f1-bd99-484deb70af1b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo Soundtrack",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-06-26",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2002-06-26",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "0ba68023-caf6-397f-bbeb-3d1c1d226aa8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6b9f17f8-b485-432b-995e-421c25f469c4",
+                  "number": "4",
+                  "title": "Sunburn",
+                  "length": 239000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "07054cf8-31ec-4e41-9106-67aa45ea086b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Hullabaloo Soundtrack",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9334b1d6-1604-35f1-bd99-484deb70af1b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo Soundtrack",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-07-01",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2002-07-01",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "72788870-17c8-31aa-96b2-346117fa3706",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aa4d3a9f-e8fc-41d5-a2a2-a20ea1bb6656",
+                  "number": "4",
+                  "title": "Sunburn",
+                  "length": 268000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "5b274092-fd2a-402a-ba4c-9d6badb02da9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Hullabaloo Soundtrack",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9334b1d6-1604-35f1-bd99-484deb70af1b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo Soundtrack",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-04-09",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2008-04-09",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "7915ab8e-1c71-35e5-b07b-55961cf87645",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fd105b04-8e19-395c-b1bd-a162cd1aa073",
+                  "number": "4",
+                  "title": "Sunburn",
+                  "length": 268000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23c3adae-0dd3-454c-bf22-76804a3275c6",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 245706,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "872a3380-08e3-46ce-8f02-1a0a8c71b76f",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live in Vienna",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8ebf62af-0e38-3b7b-a997-69e3a368e357",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Vienna",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "f4e76cea-a712-3dde-86eb-990a3412327f",
+              "position": 1,
+              "track": [
+                {
+                  "id": "f3a8aaa8-fdb0-32fe-b0df-f1f9bf1029a3",
+                  "number": "12",
+                  "title": "Sunburn",
+                  "length": 245706
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ada8b644-2b8f-45b4-a284-4b6c54671a58",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 229426,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "7f0e9421-c139-4c57-ba6c-2367155b0d42",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Inspirations, Part II",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a2007fa4-1a73-3c49-bfce-64de8f3d8fa5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspirations, Part II",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "b7cea837-5f6c-3ce4-aed8-98c433e775ee",
+              "position": 1,
+              "track": [
+                {
+                  "id": "c3777188-220b-3bfb-8f1f-1bcc649d7185",
+                  "number": "16",
+                  "title": "Sunburn",
+                  "length": 229426
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "d01c9d4c-1275-4b24-ba1e-f48586856f21",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 242640,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001",
+      "releases": [
+        {
+          "id": "a9863c65-f335-484e-8e00-735cb376bf85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Hullabaloo: Live at Le Zenith, Paris",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "724f5e3d-59c2-4872-b469-0a17bff246c6",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hullabaloo: Live at Le Zenith, Paris",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "9791c77d-adc6-3b24-97f4-7ae7d092d914",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "2aa53c7b-6958-36bd-8a7b-71dce6f1159e",
+                  "number": "5",
+                  "title": "Sunburn",
+                  "length": 242640
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "01490ff1-26f2-4181-ac87-e95c11a0c8b7",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 227946,
+      "disambiguation": "live: London Astoria, 157 Charing Cross Road, London, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2000",
+      "releases": [
+        {
+          "id": "60292cb4-4373-4b4e-9a3a-8942a64f1c9c",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "A Bunch of Fives",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "669ffc13-6e5a-3e90-a065-076e360ad040",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "A Bunch of Fives",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2000",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2000",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "36b912e4-ecee-390e-9a0a-9e5067e92174",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "bb725bc4-fe90-364b-b54f-a16a81374654",
+                  "number": "5",
+                  "title": "Sunburn (live)",
+                  "length": 227946
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eda5d05b-d532-4fb6-9040-b306db5d0b99",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 331000,
+      "disambiguation": "live, 2004-06-27: Glastonbury Festival, Worthy Farm, Pilton, UK",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-12-12",
+      "releases": [
+        {
+          "id": "c2f11aa7-9150-31e6-a372-873301835fe4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-11",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-07-11",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "463bf7f2-318f-3ac6-82a7-81a613e9a8c8",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "9384d811-cfb2-3a9c-a320-03d57920aecb",
+                  "number": "7",
+                  "title": "Sunburn",
+                  "length": 331000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "c39ffae1-9dfd-40d2-b401-387635d4834a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Absolution Tour",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e88f8926-75fe-359a-bf8f-6792bca771f1",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Absolution Tour",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-12-12",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005-12-12",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c3a87181-74c2-3c36-a0d8-b947e25209e3",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "901271c5-9f37-38a0-b1f4-9788d80bdaa9",
+                  "number": "7",
+                  "title": "Sunburn",
+                  "length": 331000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        }
+      ]
+    },
+    {
+      "id": "4f143bb1-ad69-497a-abaf-8b8555aeb3ad",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 285000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "e47f2d91-d865-49a9-afd4-ce4c34047674",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Kangaroo Blues",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e5457111-0945-4d0a-9c2a-180683ec6482",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Kangaroo Blues",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "97e0ff3e-e7d3-31af-8312-9037873b8191",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7038fadf-091a-46a1-8b2b-efcbb2d819a3",
+                  "number": "5",
+                  "title": "Sunburn"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "fb770a1f-682f-42fe-8c55-917e4b642bed",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2004-01-24: Big Day Out: Sydney Showground, Sydney, NSW, Australia",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "20e6dcc1-eab2-3ae0-8ca1-1b9c0a42b7f7",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-01-24: Big Day Out: Sydney Showground, Sydney, NSW, Australia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "aa63efd9-43ea-3ffb-b974-99ba09642f08",
+              "position": 1,
+              "track": [
+                {
+                  "id": "53487330-660d-38ae-967b-4b1463cd9c04",
+                  "number": "5",
+                  "title": "Sunburn",
+                  "length": 285000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "97004a29-7413-4c41-8889-1109c3d31231",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 235466,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-02-05",
+      "releases": [
+        {
+          "id": "b21bfa61-ae7b-48c0-a8f9-adf14f1067c0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "H\u00f6rsturz, Vol. 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a456ca6d-a266-3fac-bf37-415e3fc66192",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "H\u00f6rsturz, Vol. 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-02-05",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-02-05",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "e58099ab-9259-398e-9068-9d5213faa370",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f6bf0a33-c906-3aca-a02e-33da6ac96c3d",
+                  "number": "19",
+                  "title": "Sunburn",
+                  "length": 235466
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa04e27f-0001-4dab-bf43-aea6ea3336e5",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-02-18",
+      "releases": [
+        {
+          "id": "2ea9fc7f-a58c-4b93-8452-8db9ef8aac25",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2013-02-18: Shepherds Bush Empire, London",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f0f57448-c925-454a-b4bc-d32565a9796d",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2013-02-18: Shepherds Bush Empire, London",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2013-02-18",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-02-18",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e8563512-f3e9-31e2-9ddf-20273c3b9694",
+              "position": 1,
+              "track": [
+                {
+                  "id": "daf19461-ed09-4552-b5dd-f20080739322",
+                  "number": "10",
+                  "title": "Sunburn"
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53ee27e3-2d14-41bd-8471-14f16619ba9b",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Sunburn",
+      "length": 267800,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2024",
+      "releases": [
+        {
+          "id": "a4c5f596-a18c-4bcb-930c-321edb9e4a09",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Live at Earls Court",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "555058ec-93a8-4f21-a0bd-22e62059c0fc",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Earls Court",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2024",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c9cba045-6dda-3cf7-a447-a19592cf92ef",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "073422f5-fd62-497a-81d5-876c7154d5c2",
+                  "number": "10",
+                  "title": "Sunburn",
+                  "length": 267800
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

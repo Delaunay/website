@@ -1,0 +1,721 @@
+{
+  "created": "2026-05-18T07:28:18.006Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "8ffe9ab9-ec9d-4ff9-8e1a-e023d4c6217b",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Go Now",
+      "length": 222000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-11-01",
+      "releases": [
+        {
+          "id": "55ef28a5-2d37-4786-a2cd-90479703c940",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Under Cover",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "5b1d50e8-8a6f-3232-886c-5491f8fe14b4",
+              "position": 2,
+              "format": "DualDisc (DVD-Video side)",
+              "track": [
+                {
+                  "id": "487041f0-76a0-4652-92f0-54b8924db9c0",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a7f41ea4-601a-4186-83d7-861739350a54",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Under Cover",
+          "status": "Official",
+          "disambiguation": "DualDisc",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "ef927f8a-d467-3486-8e8a-46efe681d871",
+              "position": 2,
+              "format": "DualDisc",
+              "track": [
+                {
+                  "id": "ec5e5da0-b2e1-434d-ade3-175b01617095",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "096ca3f7-7da5-41ea-ac18-4c918650969b",
+      "score": 100,
+      "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+      "title": "Go Now",
+      "length": 222226,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ozzy Osbourne",
+          "artist": {
+            "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+            "name": "Ozzy Osbourne",
+            "sort-name": "Osbourne, Ozzy",
+            "aliases": [
+              {
+                "sort-name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30aa\u30b8\u30fc\u30fb\u30aa\u30ba\u30dc\u30fc\u30f3",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, John Michael",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "John Michael Osbourne",
+                "locale": "en",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": "1948-12-03",
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ozzy Osbourne",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Osbourne, Ozzy",
+                "name": "Osbourne, Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozbourne",
+                "name": "Ozzy Ozbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Ozborne",
+                "name": "Ozzy Ozborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy Osborne",
+                "name": "Ozzy Osborne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "John Osbourne",
+                "name": "John Osbourne",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Ozzy",
+                "name": "Ozzy",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-11-01",
+      "releases": [
+        {
+          "id": "1f9dd34f-6c17-47f1-9056-e334dd39a9a3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Under Cover",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "172b3a8e-e44d-3209-a43e-fae28a174386",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c103af25-3f91-3a6b-86f9-ceab839e055e",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222280
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "ce4c1ec8-2a09-457b-bb4b-8c2113435d85",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Under Cover",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "20c8d0c2-4619-345e-8650-6528bffe7224",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9dba5f71-7c5d-434b-9ea2-be2960b11b5b",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222280
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "55ef28a5-2d37-4786-a2cd-90479703c940",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Under Cover",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-11-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "a821b710-aae9-3791-9f54-6fa7a90ed6f8",
+              "position": 1,
+              "format": "DualDisc (CD side)",
+              "track": [
+                {
+                  "id": "654a6dfe-58f4-4458-b2c1-62490f110a33",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222226
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a7f41ea4-601a-4186-83d7-861739350a54",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 2,
+          "title": "Under Cover",
+          "status": "Official",
+          "disambiguation": "DualDisc",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "0428909e-a2cb-37c0-a147-23164fe2a1ad",
+              "position": 1,
+              "format": "DualDisc",
+              "track": [
+                {
+                  "id": "0ca9e885-968c-4e16-b47b-e4712a19c81b",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222226
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "d2b0e029-da50-4ba8-8cfd-d1d4ec004f6b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Under Cover",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005-11-16",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2005-11-16",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e79dc887-f26e-32de-85cf-ad37b1fd717e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "82c9e02e-2207-4d4b-8c68-3a10cc07fffc",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222226
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a2dbff4f-998d-45fd-8ba0-41508059890b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3709e5b8-bbc2-3441-9edb-67e667a5cd43",
+          "count": 1,
+          "title": "Under Cover",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ozzy Osbourne",
+              "artist": {
+                "id": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+                "name": "Ozzy Osbourne",
+                "sort-name": "Osbourne, Ozzy"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9a958cbd-3b86-3d6e-bf4b-07323602c734",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Under Cover",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "4a67d8cf-2c19-31f4-bc39-3562ef8b1e69",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4e6d0239-833a-306c-ac7e-e2556343661c",
+                  "number": "4",
+                  "title": "Go Now",
+                  "length": 222226
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 5,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 4,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "album rock"
+        },
+        {
+          "count": 1,
+          "name": "neo-classical metal"
+        },
+        {
+          "count": 1,
+          "name": "british metal"
+        },
+        {
+          "count": 1,
+          "name": "pop-metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "created": "2026-05-18T06:30:24.558Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "4c3724a2-7c86-419e-8ee7-84b3e1af0154",
+      "score": 100,
+      "artist-credit-id": "10944828-ec7b-35fa-b082-b6c50b86bb44",
+      "title": "V O",
+      "length": 148000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Deathprod",
+          "artist": {
+            "id": "84b8d693-3136-40d7-aa4b-540c9edb503e",
+            "name": "Deathprod",
+            "sort-name": "Deathprod"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-08",
+      "releases": [
+        {
+          "id": "27191cdc-0353-45b3-a3ae-a4a48284611f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Sow Your Gold In The White Foliated Earth",
+          "status": "Official",
+          "release-group": {
+            "id": "d371e04e-7288-4ae9-94f6-408fc1b118b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sow Your Gold In The White Foliated Earth",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "15360c82-3b98-4c27-9b70-a17c7188bc8b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c807be6b-258c-49a0-97b2-016834a91e41",
+                  "number": "5",
+                  "title": "V O",
+                  "length": 148000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "24063009-02be-48a8-8ba9-bec07a38143e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Sow Your Gold In The White Foliated Earth",
+          "status": "Official",
+          "release-group": {
+            "id": "d371e04e-7288-4ae9-94f6-408fc1b118b3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sow Your Gold In The White Foliated Earth",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-08",
+          "country": "NO",
+          "release-events": [
+            {
+              "date": "2022-09-08",
+              "area": {
+                "id": "6743d351-6f37-3049-9724-5041161fff4d",
+                "name": "Norway",
+                "sort-name": "Norway",
+                "iso-3166-1-codes": [
+                  "NO"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "a0869957-95a5-3c9c-ac84-8d6db6f555bf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a55fa048-84bb-4512-95fa-c05c5834f174",
+                  "number": "5",
+                  "title": "V O",
+                  "length": 148000
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

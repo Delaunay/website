@@ -1,0 +1,142 @@
+{
+  "created": "2026-05-18T08:05:41.691Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e485deeb-7322-4130-a26b-c3072dd19535",
+      "score": 100,
+      "artist-credit-id": "ac8a63d8-e204-3b4c-860b-596b82088b96",
+      "title": "Celebration",
+      "length": 285186,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Era",
+          "artist": {
+            "id": "881c5eec-ab10-4523-98cc-0abf43900065",
+            "name": "Era",
+            "sort-name": "Era",
+            "disambiguation": "French new age project"
+          }
+        }
+      ],
+      "first-release-date": "2000",
+      "releases": [
+        {
+          "id": "8f76ca7a-b43e-402c-a14f-acf23f9a1789",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 1,
+          "title": "Magic Spirit",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "6fa59bf9-6a73-35c0-a6fd-3d24f079c650",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Magic Spirit",
+            "primary-type": "Album"
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "de430b9a-eb10-3eaf-b6a2-51472bc9347e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dc09848c-ed89-391c-9bbc-2533e4ccb657",
+                  "number": "5",
+                  "title": "Celebration",
+                  "length": 285186
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "new age"
+        }
+      ]
+    },
+    {
+      "id": "35ef1b77-d1d9-4660-bc87-a427cb174f07",
+      "score": 100,
+      "artist-credit-id": "ac8a63d8-e204-3b4c-860b-596b82088b96",
+      "title": "Celebration",
+      "length": 285000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Era",
+          "artist": {
+            "id": "881c5eec-ab10-4523-98cc-0abf43900065",
+            "name": "Era",
+            "sort-name": "Era",
+            "disambiguation": "French new age project"
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "ae8950bc-1140-48f0-a57c-e9662df1f782",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "count": 2,
+          "title": "Greatest Hits: Come Into My World",
+          "status": "Bootleg",
+          "release-group": {
+            "id": "3593925f-5c0e-4eb9-b302-1801fad805de",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits: Come Into My World",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "e69942ce-f249-3af6-a8b2-f30bee353483",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "10653380-3d12-3002-bb6f-b4f9c94c5ff5",
+                  "number": "15",
+                  "title": "Celebration",
+                  "length": 285000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

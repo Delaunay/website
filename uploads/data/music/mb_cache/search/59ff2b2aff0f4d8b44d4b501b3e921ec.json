@@ -1,0 +1,209 @@
+{
+  "created": "2026-05-18T07:41:06.096Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d1c0e7ad-f980-46e6-85e1-2e7813aef92a",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "Feather My Bed",
+      "length": 97000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1973",
+      "releases": [
+        {
+          "id": "8a096da5-9279-4b0c-83f5-7c2d7df530ce",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Let It Ride",
+          "status": "Official",
+          "release-group": {
+            "id": "0617c4a5-d67e-4e71-be04-e6a6b027168b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Let It Ride",
+            "primary-type": "Album"
+          },
+          "date": "1973",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1973",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "82b8002c-1e8b-3663-8933-bb703fae1638",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "cb07d490-7272-45d8-961a-6fe0aed1bc65",
+                  "number": "B4",
+                  "title": "Feather My Bed",
+                  "length": 97000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "af4dd34b-3ef8-4e8b-9c8e-f3f6ce3c7257",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+          "status": "Official",
+          "release-group": {
+            "id": "9afb8692-befa-44c7-82df-1b48ba1e9cf2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2017",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "e938b9a9-7853-3dd1-ac2d-1f07decdd562",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c537dc60-7f9c-472e-b382-22b222997637",
+                  "number": "9",
+                  "title": "Feather My Bed"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 8
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "0a90eb39-171f-4773-9a38-7c14b8ec9c87",
+      "score": 94,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "B Feather My Bed",
+      "length": 97000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1974",
+      "releases": [
+        {
+          "id": "53c81576-88d0-4f43-a8f4-ab3d803ba7fe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "It's Not Easy",
+          "status": "Official",
+          "release-group": {
+            "id": "1c9d4383-f4d2-4129-b23c-991c2dbd9246",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "It's Not Easy",
+            "primary-type": "Single"
+          },
+          "date": "1974",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "1974",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "7ef4e650-4a0c-3d69-8cb6-b7bfdcfd2708",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "9870d4f5-3b58-4b8f-be3a-125be99f7611",
+                  "number": "B",
+                  "title": "Feather My Bed",
+                  "length": 97000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

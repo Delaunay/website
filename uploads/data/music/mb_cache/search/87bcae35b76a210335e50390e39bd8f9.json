@@ -1,0 +1,948 @@
+{
+  "created": "2026-05-18T06:32:58.966Z",
+  "count": 17,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "481b650f-eeed-4c2e-8cc9-330241b00ef3",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 355000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "4b3f6c85-94cc-4487-9691-b56849b5dda0",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 2,
+          "title": "Sawdust",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "69d02e5c-215e-3ddb-ab24-d85a52085fbb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sawdust",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007",
+          "country": "CN",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+                "name": "China",
+                "sort-name": "China",
+                "iso-3166-1-codes": [
+                  "CN"
+                ]
+              }
+            }
+          ],
+          "track-count": 42,
+          "media": [
+            {
+              "id": "34870485-e58f-3621-ac44-d1ab1fb4b8b0",
+              "position": 2,
+              "format": "SACD",
+              "track": [
+                {
+                  "id": "58c14e4a-c033-451d-8e5e-ac249a2c813c",
+                  "number": "7",
+                  "title": "On Top",
+                  "length": 355000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "88d33a1f-d19c-41ee-8be4-f73461e4cc60",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 257201,
+      "disambiguation": "live, 2005-06-24: Live at Glastonbury Festival, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "205e0192-ab82-42dd-aa6a-e39d142e4388",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2005-06-24: Live at Glastonbury Festival, UK",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5952dd28-5e86-4cb0-9786-184f0ea47872",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2005-06-24: Live at Glastonbury Festival, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "385c3763-454a-39d8-8823-2b66f59ee3cd",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ddec079a-2081-4746-923d-a58fbe5e3597",
+                  "number": "3",
+                  "title": "On Top",
+                  "length": 257201
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4589480-93be-4c92-bc3d-50737e52fadd",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 236640,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005-01-31",
+      "releases": [
+        {
+          "id": "e529d391-0f34-4209-b1e4-40e68602277a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2004-12-18: Triple J: Live at the Wireless: Enmore Theatre, Sydney, Australia",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2e7d394c-b072-49a6-8285-f695072b0675",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-12-18: Live at Enmore Theatre, Sydney, Australia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2005-01-31",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2005-01-31",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a893b164-6514-35b7-8da2-418d192ad8ab",
+              "position": 1,
+              "track": [
+                {
+                  "id": "93bd5f03-7ce3-34a9-8353-f9191a9fb30e",
+                  "number": "2",
+                  "title": "On Top",
+                  "length": 236640
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8149316d-d8ed-4ecb-a6bd-e3ad9fd89d86",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "disambiguation": "live, 2004-11-06: Columbia Club, Berlin, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "1af5cdb3-46a2-4b23-98fe-110b3acafe54",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2004-11-06: Columbia Club, Berlin, Germany",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "90f11b69-37ca-317a-9e86-7e8b9ebaa969",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-11-06: Columbia Club, Berlin, Germany",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "10211bfa-5f12-3f7b-87f7-c61eac0cd09a",
+              "position": 1,
+              "track": [
+                {
+                  "id": "7e878404-e0a8-31cf-a236-b8a4f468400c",
+                  "number": "3",
+                  "title": "On Top"
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "80f523d4-0f9c-4ae0-b027-eb5d6c8d0e66",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 281133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "0dc076e9-2e52-46b3-8496-b24a34e702db",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2003-11-22: Live at The Welsh Club, Cardiff, Wales",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8828339e-49b0-4cfb-96e9-7d0490622c9a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2003-11-22: Live at The Welsh Club, Cardiff, Wales",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 7,
+          "media": [
+            {
+              "id": "f008cfaf-33fe-3dec-b5a7-a5db71ceeabf",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a80c9f2a-c3f6-4dd5-b889-6f7d16206504",
+                  "number": "2",
+                  "title": "On Top",
+                  "length": 281133
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d7467ef5-b4b6-407a-8aee-82b7f5e18791",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 289645,
+      "disambiguation": "live, 2007-05-06: Montreal, Quebec, Canada",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "c1e9c1b0-11ed-40bd-87eb-d3d5072594ba",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2007-05-06: Montreal, Quebec, Canada",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e91d70b0-4145-4be6-9a36-4da618917af8",
+            "title": "2007-05-06: Montreal, Quebec, Canada",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 24,
+          "media": [
+            {
+              "id": "43a5eb77-341a-3d11-ad6a-54f5fc3061d4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2b7a0d18-b1bb-4bd6-93d9-07a79548cdf0",
+                  "number": "12",
+                  "title": "On Top",
+                  "length": 289645
+                }
+              ],
+              "track-count": 24,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18c78957-706a-4eee-80ad-314ff6cdccc9",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 263493,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "2cd84a23-67da-49b1-9e89-cec8b71f6c5b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2005-02-25: Arena, Vienna, Austria",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ba3d659-8019-4e5a-a8f9-09c0c0bbb5fd",
+            "title": "2005-02-25: Arena, Vienna, Austria",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "f52998fc-7ff9-38e7-b946-c0935ff4e6be",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "05db6d3b-7916-46e3-8350-2ee36bcb46a9",
+                  "number": "12",
+                  "title": "On Top",
+                  "length": 263493
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40f906e4-3625-4561-8bd7-b5fe553119ad",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 261882,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "3b532209-1ca8-45a2-9d04-49520da43c50",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "Hot Fuss (Demo)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "344efff9-a593-46a8-877e-7f16d005e162",
+            "title": "Hot Fuss (Demo)",
+            "secondary-types": [
+              "Demo"
+            ],
+            "secondary-type-ids": [
+              "81598169-0d6c-3bce-b4be-866fa658eda3"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "e2dc757a-b9b2-3b1d-8138-7b27f78fc2fe",
+              "position": 1,
+              "track": [
+                {
+                  "id": "b5d19ab9-221f-473f-ad43-ecdec7140365",
+                  "number": "7",
+                  "title": "On Top",
+                  "length": 261882
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31d3c2af-81af-4ac1-92e3-6c9bdc1cd7a3",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 259000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003",
+      "releases": [
+        {
+          "id": "7837cc29-fbb7-4ad8-9886-da2e137f7c36",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "3-Song Demo",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5fde173b-6aff-40ca-860c-efd687a82e74",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "3-Song Demo",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Demo"
+            ],
+            "secondary-type-ids": [
+              "81598169-0d6c-3bce-b4be-866fa658eda3"
+            ]
+          },
+          "track-count": 3,
+          "media": [
+            {
+              "id": "c4cfa26a-4411-3625-ba1f-1b658404eb7c",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "30c9aef7-edf9-453b-a140-033fc17762fc",
+                  "number": "1",
+                  "title": "On Top",
+                  "length": 259000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d04eadc-cafd-4abc-b167-b08c9bcdfdc4",
+      "score": 100,
+      "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+      "title": "On Top",
+      "length": 273766,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Killers",
+          "artist": {
+            "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+            "name": "The Killers",
+            "sort-name": "Killers, The",
+            "disambiguation": "American rock band",
+            "aliases": [
+              {
+                "sort-name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30b6\u30fb\u30ad\u30e9\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Killers, The",
+                "name": "Killers, The",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "a0c77ebd-6cd1-4699-9489-1b6049de9f31",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "85d3442f-18b9-3ae3-9860-907dc22e7d8d",
+          "count": 1,
+          "title": "2007-06-23: Live at Glastonbury Festival, UK",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "The Killers",
+              "artist": {
+                "id": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+                "name": "The Killers",
+                "sort-name": "Killers, The",
+                "disambiguation": "American rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ecdadcdf-5b8b-4ec0-8caa-209ac9d5f66f",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2007-06-23: Live at Glastonbury Festival, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "2611603a-f43c-36b8-93b4-7a2e06ea746c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b8f0845a-8286-47a9-b814-1f96bfcbfca6",
+                  "number": "11",
+                  "title": "On Top",
+                  "length": 273766
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

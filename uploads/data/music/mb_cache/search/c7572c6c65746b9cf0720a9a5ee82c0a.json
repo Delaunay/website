@@ -1,0 +1,2030 @@
+{
+  "created": "2026-05-18T06:10:39.579Z",
+  "count": 46,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "df0c04d8-fd52-421c-8e80-9d7c729c33bf",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 241520,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-09-28",
+      "releases": [
+        {
+          "id": "1e193f99-ee33-40b7-8e61-974ff4f4d1a4",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Absolution: Australian Live Bonus Disc",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6f151223-f3a3-3e57-810f-598f7897006c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Absolution",
+            "primary-type": "Album"
+          },
+          "date": "2004",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "58fec132-1ebd-3101-8ba5-027ad79221f7",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "0dd8e864-fe7d-4a78-9f36-611bafd75150",
+                  "number": "5",
+                  "title": "Bliss",
+                  "length": 244000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "1dad9b13-1f02-33f6-815e-7fb2e6af17ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Absolution",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6f151223-f3a3-3e57-810f-598f7897006c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Absolution",
+            "primary-type": "Album"
+          },
+          "date": "2003-09-28",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2003-09-28",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "ab36a913-8c30-3eaa-bc9c-7aadd6032a1d",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "99f12464-1344-3e24-915f-1d1a27da657a",
+                  "number": "5",
+                  "title": "Bliss",
+                  "length": 241520
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "3bd066ab-3871-4fc3-8319-f6efd167b6c8",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 258960,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "872a3380-08e3-46ce-8f02-1a0a8c71b76f",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live in Vienna",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8ebf62af-0e38-3b7b-a997-69e3a368e357",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Vienna",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "f4e76cea-a712-3dde-86eb-990a3412327f",
+              "position": 1,
+              "track": [
+                {
+                  "id": "b5eb4774-7697-3750-8204-1004cd6c256b",
+                  "number": "14",
+                  "title": "Bliss",
+                  "length": 258960
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f153d9ab-1aa0-4c60-b138-c6cfc096bdf6",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 503000,
+      "disambiguation": "live, 2007-03-12: International Forum, Tokyo, Japan",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d1861eeb-2dea-461d-b3cd-60ab8bf4aeca",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2007\u201003\u201012: International Forum, Tokyo, Japan",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dc16f835-6e6b-40d5-9fe8-f6066715fd5a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2007\u201003\u201012: International Forum, Tokyo, Japan",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "27d645d0-0f0c-31ab-a9ae-f91fcf6bdde8",
+              "position": 1,
+              "track": [
+                {
+                  "id": "5a05ce3a-6015-31d2-bee8-a31b052e5db2",
+                  "number": "16",
+                  "title": "Bliss",
+                  "length": 503000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4939a607-42e9-429f-b5e2-901dd9f1e056",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 241546,
+      "disambiguation": "live, 2004-06-09: Superbock Superrock Festival, Lisbon, Portugal",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "0ba224f5-5987-4f66-bc45-1f3397491d5d",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2004-06-09: Superbock Superrock Festival, Lisbon, Portugal",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7226ca11-2d39-3701-90fe-84b13f4bcfb4",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-06-09: Superbock Superrock Festival, Lisbon, Portugal",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "f324824f-6e12-3135-b843-133cfe3a2fcb",
+              "position": 1,
+              "track": [
+                {
+                  "id": "acd3ebb4-e17f-3b0e-81cd-805aabd0fe17",
+                  "number": "9",
+                  "title": "Bliss",
+                  "length": 241546
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17b26918-6719-43da-97e1-4cac1ca58110",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 328960,
+      "disambiguation": "live, 2011-08-28: Reading Festival, Reading, England",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-02-20",
+      "releases": [
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "479333b7-cd59-3d8d-a9e0-041418000878",
+              "position": 13,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "35903717-5a59-44af-a88a-249c1aaa86ff",
+                  "number": "2",
+                  "title": "Bliss",
+                  "length": 328960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "defc01ee-e073-4d77-b340-a42fe8e32624",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Origin of Muse",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 114,
+          "media": [
+            {
+              "id": "8af8f68e-81ec-3e81-bd79-b11245e2e0ad",
+              "position": 9,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5193fd19-2710-4d2b-bfa0-c2d9e143757b",
+                  "number": "2",
+                  "title": "Bliss",
+                  "length": 328960
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "f6150ef2-14ab-406f-bc90-dea96225d492",
+          "status-id": "6a3772de-4605-4132-993d-aa315cd19b4b",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Live at Reading Festival 2011",
+          "status": "Withdrawn",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "41aad66e-abf0-41d5-ad50-1047f51826a7",
+            "type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "primary-type-id": "3b2e49e1-2875-37b8-9fa9-1f7cf3f49900",
+            "title": "Live at Reading Festival 2011",
+            "primary-type": "Broadcast",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2016-02-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2016-02-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "5881464b-ab7e-3ab8-916c-696912b1d9ca",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "17411bc6-da34-4702-b4e0-8dacb3b2572a",
+                  "number": "2",
+                  "title": "Bliss",
+                  "length": 321000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "390392e5-3a02-496d-ae64-36ace73cae79",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 228022,
+      "disambiguation": "radio edit",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-10-15",
+      "releases": [
+        {
+          "id": "975d8728-e4d9-4d1e-bd03-1382e51d3642",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Crossing All Over! Volume 14",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "132e4afe-df75-3856-8af6-901c14fe28e0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Crossing All Over! Volume 14",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-10-15",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001-10-15",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "83b393e4-8d7c-33a1-975c-f2915babf75a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0df3cb73-2b3e-3f22-a0d7-cddbc357b69a",
+                  "number": "11",
+                  "title": "Bliss",
+                  "length": 227893
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "c782710c-cf52-4494-9ac6-f22f69b362ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Lords of the Boards 2002",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b4282d50-4d0e-40e2-9bcb-6fd67d1db62c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lords of the Boards 2002",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "25ae5cb9-ddbe-396e-845f-e6c4d975f9bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "748144a1-315b-42e8-b6aa-3799b3de5646",
+                  "number": "10",
+                  "title": "Bliss",
+                  "length": 228022
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "427c19f9-a14f-476b-84aa-cfe7291bad7c",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "5ebda4a3-0327-331b-8340-6e945cf48756",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4bde52ef-9a64-4e30-af30-06690fdf2322",
+                  "number": "1",
+                  "title": "Bliss (radio edit)",
+                  "length": 229000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5f9f8569-36a5-4223-b50d-9a2b38f00e78",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "7e8f9e64-1911-346b-8702-7da9b7e2432a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bf4a3981-aa46-39b8-a2a7-037b0a1f7223",
+                  "number": "1",
+                  "title": "Bliss (radio edit)",
+                  "length": 229000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBCVT0100039"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "95f58069-8556-44d2-bfc1-89b189972644",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "disambiguation": "live, 2004\u201012\u201020: Earl\u2019s Court, London, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004-12-20",
+      "releases": [
+        {
+          "id": "adf815ed-ceda-4724-bee2-13a5bb0b9298",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2004\u201012\u201020: Earl\u2019s Court, London, UK",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4b197de2-f0ae-3b93-aa85-0303fe856186",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004\u201012\u201020: Earl\u2019s Court, London, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "50532eac-8d6a-36ec-a0d9-cc0a7bdf10ee",
+              "position": 1,
+              "track": [
+                {
+                  "id": "34b4973f-da13-31ad-817a-2716956ea348",
+                  "number": "16",
+                  "title": "Bliss"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9a5589a-04be-4129-a7ac-c14df873bb67",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 232000,
+      "disambiguation": "live, 2004-05-08: EndSession 95, 1077 The End, Seattle, WA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "131dfa48-3b1c-471e-bd68-21871332a7c0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2004-05-08: EndSession 95, 1077 The End, Seattle, WA, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a48e9625-9f94-3a50-943f-9dd86bafbf48",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2004-05-08: EndSession 95, 1077 The End, Seattle, WA, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 7,
+          "media": [
+            {
+              "id": "9d89808a-16fe-314b-ac8d-cb57e9e92ef7",
+              "position": 1,
+              "track": [
+                {
+                  "id": "15eed793-57f8-330f-8caa-7bb6d3f97623",
+                  "number": "5",
+                  "title": "Bliss",
+                  "length": 232000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1e6a2d6-a746-47f0-9612-e291c2343426",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 333574,
+      "disambiguation": "2002-05-20: Pinkpop Festival, Landgraaf, The Netherlands",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "881cc69e-e71e-4664-b5ea-0f7ef6951e07",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Micro Cuts on Stage",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6d288f8a-7df2-3caf-973a-67262a989f02",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Micro Cuts on Stage",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "9d804e0c-c396-3b79-aceb-af2af3ca9fb1",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dd1e6ac4-7a4c-3ca4-9472-b171aa3c1a62",
+                  "number": "17",
+                  "title": "Bliss",
+                  "length": 333574
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 16
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "a3c7f655-ff2d-4e6b-8dcb-cfe8411c9c97",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Bliss",
+      "length": 277666,
+      "disambiguation": "single version",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001-08-20",
+      "releases": [
+        {
+          "id": "5f8c22d1-029b-4117-8ed6-85f5016eac87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Symmetry Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "39e4ec88-13e8-40b7-b574-f00a51660689",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Symmetry Box",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 28,
+          "media": [
+            {
+              "id": "cea14f0b-6a50-3020-b6c7-c2a8c1f9fd7d",
+              "position": 6,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d1d732c9-9be8-455e-8a72-4fb52ebe212c",
+                  "number": "1",
+                  "title": "Bliss"
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5f8c22d1-029b-4117-8ed6-85f5016eac87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Symmetry Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "39e4ec88-13e8-40b7-b574-f00a51660689",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Symmetry Box",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 28,
+          "media": [
+            {
+              "id": "91cafbe9-f01e-370b-b182-3192d5bbf475",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "020b804f-c6e1-4b84-859b-044ae97e0e33",
+                  "number": "1",
+                  "title": "Bliss"
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "22c218e4-304d-461f-a159-38f57d01662b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "disambiguation": "CD 1",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "725ad1c7-9354-3587-9b07-a226c0aecb9d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "69907233-7e11-4597-8cf8-19a69357941b",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 277666
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "de779fe9-668c-4c47-b69f-caff0b8e6e52",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "disambiguation": "CD 2",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "5401a454-e551-32ad-87af-daa659ad1fa5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3d59e62e-e642-37e1-a609-e0d9efef4263",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 277666
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "ae760d8f-0b46-4b8e-a6fd-a80c49294500",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "disambiguation": "CD 1",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001-08-20",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-08-20",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "012f5d61-7f5d-3f67-8e62-f5d4c310c577",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4a9163a7-5c3a-3980-aaca-f634c80d5979",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 277666
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d2b47a03-9e6c-4098-b4fc-2e3c82dc1447",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001-08-20",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-08-20",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "114f2780-7238-3949-8942-848b2c8cebaa",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "34403884-f8b4-4e62-b2cc-437bd3a3b13f",
+                  "number": "A",
+                  "title": "Bliss",
+                  "length": 277666
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9981a3b9-1feb-4312-af76-f782c84e814d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "disambiguation": "CD 2",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001-08-20",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-08-20",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "86b9231e-4c87-36c3-a710-e5c0722bb07a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "232cbcba-8314-4603-8dce-834de9ca0fbd",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 277666
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "4414423e-153b-449f-9901-b208d01eaf70",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 3,
+          "title": "Hyper Music",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cd970bfe-592f-3926-b2c3-09a927b7b422",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Hyper Music",
+            "disambiguation": "3\u2010in\u20101 set comprising singles \u201cHyper Music\u201d / \u201cBliss\u201d / \u201cNew Born\u201d",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-11-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2001-11-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "baa1e382-75e8-3c77-ae16-957a8563b980",
+              "position": 2,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "b2853a11-4719-3852-a250-0b0f3ed4a337",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 276960
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5d7cbb19-3d28-422d-877c-c47e3cb68afd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Bliss",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01c4937b-1b83-3396-b808-f42dc8f5c50b",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Bliss",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "0e3f462b-49f4-3890-9022-84ae43c94234",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "06728ce0-7fc6-3084-9d4a-6f1a8458888e",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 276786
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "9ca2a195-bdc0-4caa-ac8d-d486d154b10e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "De Afrekening 26",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "24048fab-d174-3041-82c9-25560f28d1d0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "De Afrekening 26",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2001-11-30",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2001-11-30",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "89b7aeee-f303-3d72-9e38-9ec40c457f67",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a6b17578-7e37-3220-8661-394eecf99b11",
+                  "number": "1",
+                  "title": "Bliss",
+                  "length": 273960
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

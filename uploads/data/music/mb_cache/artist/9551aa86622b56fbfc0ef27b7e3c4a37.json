@@ -1,0 +1,277 @@
+{
+  "sort-name": "Brutus",
+  "tags": [
+    {
+      "count": 1,
+      "name": "rock"
+    }
+  ],
+  "life-span": {
+    "begin": "1966",
+    "end": null,
+    "ended": false
+  },
+  "gender-id": null,
+  "isnis": [],
+  "relations": [
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "sort-name": "Ko\u0161a\u0159, V\u00e1clav",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "V\u00e1clav Ko\u0161a\u0159",
+        "country": "CZ",
+        "disambiguation": "",
+        "id": "0fb3af86-3e73-4cd6-824a-0cd362e3711a"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1998",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "ended": false,
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "name": "Michal Cerman",
+        "type": "Person",
+        "id": "995aafff-a2e6-46f3-aa8e-4e3b4c29bc18",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cerman, Michal"
+      },
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Pavel Fi\u0161ar",
+        "id": "f60d145a-a346-4195-8f8f-d48dbe1fe3ec",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fi\u0161ar, Pavel"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "direction": "backward",
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Galovi\u00e8, Ivan",
+        "disambiguation": "",
+        "country": null,
+        "name": "Ivan Galovi\u00e8",
+        "type": "Person",
+        "id": "9d1e1298-688f-4881-aa85-692fdbf771ea"
+      },
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Hasal, Vladim\u00edr",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "378e0213-60a1-41b4-ba5e-a045270fdf9a",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Vladim\u00edr Hasal"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "artist": {
+        "sort-name": "Kup\u010d\u00edk, Vojt\u011bch",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "72544bb7-784e-4c52-aee3-d024be40fc57",
+        "disambiguation": "",
+        "country": "CZ",
+        "type": "Person",
+        "name": "Vojt\u011bch Kup\u010d\u00edk"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "direction": "backward",
+      "artist": {
+        "id": "927cf64f-da92-4513-bece-56eefe913c9e",
+        "type": "Person",
+        "name": "Tom\u00e1\u0161 Li\u0161ka",
+        "country": "CZ",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Li\u0161ka, Tom\u00e1\u0161"
+      },
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "id": "4e7673ba-8220-470e-9d59-4d8785f9f095",
+        "country": null,
+        "disambiguation": "",
+        "name": "Jan \"\u00c8en\u00eck\" Monhart",
+        "type": "Person",
+        "sort-name": "Monhart, Jan \"\u00c8en\u00eck\"",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "end": null,
+      "artist": {
+        "id": "28fd6d79-2bbb-41e2-990d-7595b07f5ce2",
+        "type": "Person",
+        "name": "S\u00e1\u0161a Pleska",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Pleska, S\u00e1\u0161a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "sort-name": "\u0160lajchrt, Zbyn\u00eck",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "name": "Zbyn\u00eck \u0160lajchrt",
+        "type": "Person",
+        "id": "4f34fd14-c2b8-4eb0-851f-c01208d8ee21"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    }
+  ],
+  "id": "2229d04c-ce92-4024-94d2-e005b2aa3f60",
+  "disambiguation": "Czech rock band",
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "area": {
+    "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+    "name": "Czechia",
+    "type": null,
+    "iso-3166-1-codes": [
+      "CZ"
+    ],
+    "disambiguation": "",
+    "type-id": null,
+    "sort-name": "Czechia"
+  },
+  "end-area": null,
+  "gender": null,
+  "genres": [
+    {
+      "disambiguation": "",
+      "name": "rock",
+      "count": 1,
+      "id": "0e3fc579-2d24-4f20-9dae-736e1ec78798"
+    }
+  ],
+  "country": "CZ",
+  "begin-area": null,
+  "name": "Brutus",
+  "type": "Group"
+}

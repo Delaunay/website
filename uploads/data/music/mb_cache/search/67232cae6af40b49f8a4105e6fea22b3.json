@@ -1,0 +1,389 @@
+{
+  "created": "2026-05-18T06:56:19.449Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "4939b23d-2da1-4a7c-9f97-827b876a1340",
+      "score": 100,
+      "artist-credit-id": "2e2ae27e-aacc-3bb4-bdaa-2c5de17e4257",
+      "title": "Zeichen",
+      "length": 197000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wincent Weiss",
+          "artist": {
+            "id": "ae82eb39-d6b2-4578-a293-219906d0c200",
+            "name": "Wincent Weiss",
+            "sort-name": "Weiss, Wincent"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "930a3d94-d6d0-4b9a-bc4f-3ab686403cc4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limitierte deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2020-03-20",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2020-03-20",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "05b2aac0-0934-3080-9e0c-26b57769c60c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aeeea36d-a8d4-49ec-abc6-7ec9bef06e6b",
+                  "number": "7",
+                  "title": "Zeichen",
+                  "length": 197000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "d70740c1-b527-4a60-8298-2758b608f5a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "Fanbox",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "4691389c-25d3-3b6c-8f8f-28cb688bbb8d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ad57f925-37b8-4898-83ee-961123c1c0a4",
+                  "number": "5",
+                  "title": "Zeichen",
+                  "length": 197000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "c4d00111-6f5f-4b31-bc67-fbff8aa623c5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "4e14ca40-d439-3e9d-bd3a-c57e366156c4",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "24971ca0-8cb8-4c60-9633-7cd2f55c11df",
+                  "number": "5",
+                  "title": "Zeichen",
+                  "length": 197816
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "1cc8f080-8700-4151-acf0-a22c0d0899ae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limited deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "2f2f7596-7809-3f1a-8912-3ae8d7668832",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a1b472c5-8366-4a23-8325-3c70cdceb810",
+                  "number": "5",
+                  "title": "Zeichen",
+                  "length": 197000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "b1fed192-8b12-42cc-9e0a-cb45ab286591",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "60840344-4543-3e11-bf82-63d119ade31d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e3206170-546f-4c62-ba6a-a07fccbf452b",
+                  "number": "5",
+                  "title": "Zeichen",
+                  "length": 197000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71807105"
+      ]
+    },
+    {
+      "id": "c5a58e3e-b6db-4572-98e9-173892528f9a",
+      "score": 94,
+      "artist-credit-id": "2e2ae27e-aacc-3bb4-bdaa-2c5de17e4257",
+      "title": "Zeichen (instrumental)",
+      "length": 197000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wincent Weiss",
+          "artist": {
+            "id": "ae82eb39-d6b2-4578-a293-219906d0c200",
+            "name": "Wincent Weiss",
+            "sort-name": "Weiss, Wincent"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "d70740c1-b527-4a60-8298-2758b608f5a9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "Fanbox",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "0d7f8545-08d4-36a5-9aa4-127ce68b0559",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b8cffdb7-1b7c-40b6-8fa4-8bcc21000d8f",
+                  "number": "5",
+                  "title": "Zeichen (instrumental)",
+                  "length": 197000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "1cc8f080-8700-4151-acf0-a22c0d0899ae",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Irgendwie anders",
+          "status": "Official",
+          "disambiguation": "limited deluxe edition",
+          "release-group": {
+            "id": "fd73c2da-49eb-4d6d-8d1c-0678f731e0c2",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Irgendwie anders",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "223aca67-a47b-318f-ab04-6a0ea37e7dea",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70609b6d-e332-42bc-84a4-26e4a23d89eb",
+                  "number": "5",
+                  "title": "Zeichen (instrumental)",
+                  "length": 197000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEUM71900853"
+      ]
+    }
+  ]
+}

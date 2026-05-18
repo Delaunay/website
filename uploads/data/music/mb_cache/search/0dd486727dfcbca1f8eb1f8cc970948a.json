@@ -1,0 +1,2266 @@
+{
+  "created": "2026-05-18T06:10:26.265Z",
+  "count": 6,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "aa0a3d7d-6f24-47ce-9809-ff58cea0a7bf",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin",
+      "length": 211133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-06-28",
+      "releases": [
+        {
+          "id": "ef15394f-279c-4805-bde8-05fe04dcac2c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2020",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2020",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "50c22863-0687-3ef2-87d0-923208ff501c",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "1369d505-0248-444e-8a8c-92e8f4cd1189",
+                  "number": "B1",
+                  "title": "Assassin",
+                  "length": 211000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "43954b40-3585-4738-890f-cecdceb318e1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Guitar Hero: World Tour",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "cf7a757f-d061-4ac5-bdfe-4d32f7d3f553",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Guitar Hero: World Tour",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "Soundtrack"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "22a628ad-c082-3c4f-b1b6-d41665107b88"
+            ]
+          },
+          "date": "2008-10-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-10-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2008-11-21",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 86,
+          "media": [
+            {
+              "id": "f0ae7a27-f44b-3fcd-8d9f-a28329edeb38",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "78f7e080-641b-34cd-85df-5c48f213b9f7",
+                  "number": "52",
+                  "title": "Assassin",
+                  "length": 211000
+                }
+              ],
+              "track-count": 86,
+              "track-offset": 51
+            }
+          ]
+        },
+        {
+          "id": "86523bad-c525-3752-9f75-4ec10b8e5ae7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-06-28",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-06-28",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "03337180-becf-3c1e-8c69-372c6897c067",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "24a4d96f-c4e6-389d-b8c0-3ef184b237f5",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "77945c15-aded-4d77-8676-f7604dc55079",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "b312a5c9-b97d-3bae-88b5-d61132885c3e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "74a2a3cb-e431-4175-aaf6-314292248e19",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 210000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "4082595a-091b-4d35-addb-f1fa766f488f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-11",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2006-07-11",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c5dbc4a0-64a4-3712-9640-a2899a0fd113",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1bfb9bfb-220e-4f21-a631-c57df2161a01",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "cf7c0153-6bf0-4dc6-a299-7d57b1667471",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Bootleg",
+          "disambiguation": "Brickwallhater remaster",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "29aa4269-6ebf-3ba6-902e-30870c28e71e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8e4986e2-a235-4dab-aa1f-044f10566556",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "fbce7c21-10cd-49b9-aa4a-782efc1225a7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "disambiguation": "Limited Tour Edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            },
+            {
+              "date": "2007",
+              "area": {
+                "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+                "name": "New Zealand",
+                "sort-name": "New Zealand",
+                "iso-3166-1-codes": [
+                  "NZ"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "64d176c5-61ba-3216-919d-8c5debba1fbf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a5beec38-0a54-4251-8496-0fcc588fa582",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "cf652568-a391-4963-84e1-f8971be8fe21",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "9acf4cd6-04be-3e7e-a0cb-e1edb0a0c00f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "12ff8e94-8a3a-45b5-8919-8fb47df25d60",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b880cea1-974d-4166-8537-e562ea71e100",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006",
+          "country": "MX",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+                "name": "Mexico",
+                "sort-name": "Mexico",
+                "iso-3166-1-codes": [
+                  "MX"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "a9344961-1981-3df5-8c01-f65a97486678",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7a8e9b7d-37b6-330b-8b16-defc49dee8e7",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b028a467-7e10-4166-9c2a-5cd0fd12b327",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-08",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2006-07-08",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "4fc0abab-f6bb-32f7-b759-700ef5a97716",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6cbad80-79b8-3e79-95ec-6d47ba90dd2b",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "c2f11aa7-9150-31e6-a372-873301835fe4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-11",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-07-11",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 30,
+          "media": [
+            {
+              "id": "85c6eef0-e360-33b0-bfbf-bb64eace5046",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e1d6f20e-c68f-36b5-80c3-91cd3a959b92",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "7e531946-18f2-329d-9bd5-f24ff484fd40",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2006-07-03",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "0f6806d6-febb-32f5-89da-78e781dd5afc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "addeacf3-1897-34ed-af00-f28b9e86ce66",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "fe0bf96c-a56d-45e8-9c0f-6785022ef998",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-06-30",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2006-06-30",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b4f738ce-2416-3698-b14f-905ed271d098",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ded41cbd-ab6f-4465-a548-2d7ac832c2f3",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b41dcd61-a605-4415-be7e-d8ff303d5818",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "disambiguation": "limited tour edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2007-02-10",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-02-10",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2007-02-10",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2007-02-10",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "e65ca20e-6da2-32a2-8f95-cdc69942ef4f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a85c220-4db7-4d6e-889a-81bbc60991a6",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "2b91931d-477d-31c7-8938-b965e97a0d88",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-03",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2006-07-03",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "30287d35-f740-365e-8520-3b64a1fbe385",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "76dfe442-9a0e-3e6d-9cb2-27d75909884f",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "f1458768-777e-4d46-96eb-2d0e6d8cbaa0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-06-28",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-06-28",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "8e7205ab-4bf8-3d4b-866c-0526c9eae45c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "90984786-6159-3d99-a41e-88e05ce9390a",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "d6f0fc07-f36e-3384-be9a-efb770c3f3d5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2007-02-21",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2007-02-21",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "6a5deb1a-affb-3038-a42b-30c5f1e796cf",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ecedc02b-a48d-3124-a8d8-5d7110f458c9",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "aefcf53b-5980-463b-b03d-a6c8da6a9432",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "disambiguation": "updated 09 version",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2009-03-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-03-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "29ee3a3f-d4b2-3a34-8e2c-cd1a1d2e2039",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "68d84224-9853-312c-9518-25f88c4e98f3",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "c3609171-00ec-3ccc-b34f-12901c3889c0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-07-11",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2006-07-11",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "208c154d-6088-30d5-b758-af7c8574f796",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5bad5b51-7938-34e6-b25d-656a9b845770",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "b06c3767-685c-3ad0-93a3-e38895601aa9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006-09-18",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2006-09-18",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            },
+            {
+              "date": "2006-06-30",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2006-07-03",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "357bd4b4-600f-3670-9445-965d0da20444",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8e07c630-67af-3022-9887-6c1ffd00e49e",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "9ec684cf-7529-300f-b6c4-6c56086dfe93",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2009-08-18",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2009-08-18",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "440f313e-c88e-317c-a896-2931c378e9ad",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "4491665d-9b47-3189-bf99-522110af10ad",
+                  "number": "B1",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "4d4aba40-ebe9-439b-b6ae-6bc1f466c6cd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Official",
+          "disambiguation": "24bit/96kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2015-09-15",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2015-09-15",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            },
+            {
+              "date": "2015-08-28",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            },
+            {
+              "date": "2015",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "23722b1a-bc9c-3f48-95d6-942c9866cbe0",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "5483bd8a-dfc3-469c-bc8f-c6438007cc33",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211133
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "3eb1c841-e01d-42a6-961a-66ced843335a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d406fd5c-b45a-491e-927b-e5a1b7089679",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "6c09f65e-9530-308d-bca3-382883226603",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "264985c1-6e34-3f2f-8835-d306460b497d",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 213000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT0500597"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 5,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "punk"
+        },
+        {
+          "count": 0,
+          "name": "britannique"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 2,
+          "name": "alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "5774486b-9734-4383-91cc-63e7cae96549",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin",
+      "length": 388000,
+      "disambiguation": "live, 2007-03-12: International Forum, Tokyo, Japan",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "d1861eeb-2dea-461d-b3cd-60ab8bf4aeca",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2007\u201003\u201012: International Forum, Tokyo, Japan",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dc16f835-6e6b-40d5-9fe8-f6066715fd5a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2007\u201003\u201012: International Forum, Tokyo, Japan",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 23,
+          "media": [
+            {
+              "id": "27d645d0-0f0c-31ab-a9ae-f91fcf6bdde8",
+              "position": 1,
+              "track": [
+                {
+                  "id": "ad40aed2-003d-3dbe-a712-3e7b2e6ae843",
+                  "number": "5",
+                  "title": "Assassin",
+                  "length": 388000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fc35e68-0583-4ec7-a5ab-0e6b09aa5bad",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin",
+      "disambiguation": "live, 2006-06-28: Shepherds Bush, London, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "aae73aec-1083-4bb4-ad2b-7abe657db943",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "2006-06-28: Shepherds Bush, London, UK",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5ff454fe-4df1-3132-b359-0cf39842c6ac",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006\u201006\u201028: Shepherd\u2019s Bush Empire, London, UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 17,
+          "media": [
+            {
+              "id": "8b46b6c7-7604-38ba-ba88-f17359dceb49",
+              "position": 1,
+              "track": [
+                {
+                  "id": "eccb5afc-d7aa-45c5-ae4d-5e705918817a",
+                  "number": "14",
+                  "title": "Assassin"
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46db70f0-5a33-484f-bc2c-e304cfbd8be2",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin",
+      "length": 211000,
+      "disambiguation": "instrumental",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "49609c80-fa25-46af-a0f3-a3f63ebd41cb",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations",
+          "status": "Bootleg",
+          "disambiguation": "instrumental",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "45cc6b1d-0637-3ba5-ae13-9ff540a289ba",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "41b37918-aad0-407d-82d5-b3cf2f483358",
+                  "number": "7",
+                  "title": "Assassin",
+                  "length": 211000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        }
+      ]
+    },
+    {
+      "id": "c7311f5b-3eb6-4501-91a3-ee7ee2cb4ca4",
+      "score": 92,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin (instrumental)",
+      "length": 211133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "411a2a31-769a-433e-a4f9-81de253cd231",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes & Revelations (instrumental)",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "af2e8e23-e9c3-4e67-8ad8-66387c5898fd",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations",
+            "primary-type": "Album"
+          },
+          "date": "2006",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "371ebadf-6e84-3733-ae29-a20d3be422f9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e5ddd575-7f38-4db9-bfca-f3bdd4d5b38b",
+                  "number": "7",
+                  "title": "Assassin (instrumental)",
+                  "length": 211133
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        }
+      ]
+    },
+    {
+      "id": "4fab00fc-0a8c-4566-b41f-51c91476741b",
+      "score": 79,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Assassin (Grand Omega Bosses edit)",
+      "length": 318906,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-11-27",
+      "releases": [
+        {
+          "id": "ae6ec6e9-a1dd-4108-b05f-2fbae0ce9db9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Knights of Cydonia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1681f067-4134-3fbc-ad7a-0cc572b113fb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Knights of Cydonia",
+            "primary-type": "Single"
+          },
+          "track-count": 5,
+          "media": [
+            {
+              "id": "56aa732d-f8bd-3fde-8c1b-00a9a412f608",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "dfc48507-0d6f-48d1-ac1b-935dc00e1249",
+                  "number": "5",
+                  "title": "Assassin (Grand Omega Bosses edit)",
+                  "length": 318906
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "ab18008a-fb3b-4da4-b104-8d64e2f01e8f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Knights of Cydonia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1681f067-4134-3fbc-ad7a-0cc572b113fb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Knights of Cydonia",
+            "primary-type": "Single"
+          },
+          "date": "2009-05-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2009-05-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "7d014821-7bb6-3adf-9fc8-753039d2e332",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "639da137-a6fe-4465-9f47-569dd6a5b0cc",
+                  "number": "4",
+                  "title": "Assassin (Grand Omega Bosses edit)",
+                  "length": 318906
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "0e3e10e3-cd51-48c4-aa7a-fbfd098eeadf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Knights of Cydonia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1681f067-4134-3fbc-ad7a-0cc572b113fb",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Knights of Cydonia",
+            "primary-type": "Single"
+          },
+          "date": "2006-11-27",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-11-27",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "26a7da82-acee-3826-8260-866f0161a19f",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "2b7c6e83-5220-3b0e-8a32-457e694d0dbd",
+                  "number": "B",
+                  "title": "Assassin (Grand Omega Bosses edit)",
+                  "length": 319000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "08e88700-ab2e-46f1-9a4b-3ee28cfb9670",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Black Holes and Revelations Remixed",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7d42c0d4-b218-48a8-a184-2c6e6b4a1bb5",
+            "type-id": "0c60f497-ff81-3818-befd-abfc84a4858b",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Black Holes and Revelations Remixed",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Remix"
+            ],
+            "secondary-type-ids": [
+              "0c60f497-ff81-3818-befd-abfc84a4858b"
+            ]
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "0cc4f6f6-0344-3343-b7b2-a93d1407bfa0",
+              "position": 1,
+              "track": [
+                {
+                  "id": "dfad666b-18b6-3dbe-8407-e856c133bf48",
+                  "number": "7",
+                  "title": "Assassin (Grand Omega Bosses edit)",
+                  "length": 319000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT0600943"
+      ]
+    }
+  ]
+}

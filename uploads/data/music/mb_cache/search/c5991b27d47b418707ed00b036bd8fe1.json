@@ -1,0 +1,75 @@
+{
+  "created": "2026-05-18T07:41:35.658Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "45e6c9eb-ed61-4700-abe5-d6a515bfa7c4",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "Less Than The Best",
+      "length": 190000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1977",
+      "releases": [
+        {
+          "id": "9107d79b-848a-4be8-a913-f5bef286071e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Road To Tomorrow",
+          "status": "Official",
+          "release-group": {
+            "id": "fe2fad74-489d-44e9-afaf-be593c5b909b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Road To Tomorrow",
+            "primary-type": "Album"
+          },
+          "date": "1977",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1977",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "b0c0e05d-fc04-343f-8382-645124664f0e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "b52ad926-eea8-4788-82a6-7d602d285e3b",
+                  "number": "A2",
+                  "title": "Less Than The Best",
+                  "length": 190000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

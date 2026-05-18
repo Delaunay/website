@@ -1,0 +1,76 @@
+{
+  "created": "2026-05-18T06:23:10.073Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ab386096-baab-4303-abb9-b83d736707fd",
+      "score": 100,
+      "artist-credit-id": "e73f53cd-f0f3-3846-8df4-411926300faa",
+      "title": "Soundclash Style",
+      "length": 208850,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Moresounds",
+          "artist": {
+            "id": "3bc572f8-5faf-4a78-8966-9faeecc39e78",
+            "name": "Moresounds",
+            "sort-name": "Moresounds",
+            "disambiguation": "Parisian beatsmith"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "ad232561-f79a-401a-a515-959210265730",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Roll G in Dub",
+          "status": "Official",
+          "release-group": {
+            "id": "9b9f528b-582c-403c-8966-044b8e31ae2f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Roll G in Dub",
+            "primary-type": "Album"
+          },
+          "date": "2022-09-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2022-09-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "e7024c36-cd4e-38ea-897d-bb6ee34f1b18",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "bb1c6abd-597a-4ce6-9824-3c872f475d82",
+                  "number": "5",
+                  "title": "Soundclash Style",
+                  "length": 208850
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

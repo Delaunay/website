@@ -1,0 +1,601 @@
+{
+  "created": "2026-05-18T05:45:43.842Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "8cfca5cc-a636-466f-a53e-e173c04a8ad1",
+      "score": 100,
+      "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+      "title": "Bad for Good",
+      "length": 242133,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Scorpions",
+          "artist": {
+            "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+            "name": "Scorpions",
+            "sort-name": "Scorpions",
+            "disambiguation": "German rock band",
+            "aliases": [
+              {
+                "sort-name": "Hunters, The",
+                "name": "The Hunters",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Rasselbande, The",
+                "name": "The Rasselbande",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30b5\u30bd\u30ea",
+                "name": "\u30b5\u30bd\u30ea",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "The Scorpions",
+                "name": "The Scorpions",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-03-28",
+      "releases": [
+        {
+          "id": "722e9e56-d7f2-4a6e-a2bc-7fae4eb1d034",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 1,
+          "title": "Bad for Good: The Very Best of Scorpions",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3040e1b5-7d86-39ae-8a16-c37304e9b532",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bad for Good: The Very Best of Scorpions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "a5a7157f-f24b-3531-9d98-34d4d58f35d5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e8e5cf50-e33b-4fbe-9d36-54dc12254a6b",
+                  "number": "18",
+                  "title": "Bad for Good",
+                  "length": 242133
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "63a2c73e-9a13-48cd-bee9-c2b8f716083c",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 2,
+          "title": "Taken B-Side",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c338a04f-b971-4e50-8648-2b759088009c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Taken B-Side",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 38,
+          "media": [
+            {
+              "id": "10eedb11-18c5-3c8b-af90-e64201c742ad",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b7d68352-5dab-4fcd-89c5-0022c501c4ed",
+                  "number": "4",
+                  "title": "Bad for Good",
+                  "length": 244000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "a3fe1a5b-90ae-4891-8d6c-467d5e19393a",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 1,
+          "title": "Bad for Good: The Very Best of Scorpions",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3040e1b5-7d86-39ae-8a16-c37304e9b532",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bad for Good: The Very Best of Scorpions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-04-20",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-04-20",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "356c41dd-8fa8-3ee8-93c0-70d442176ab6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1c659472-b35c-4b57-9af7-2208c8d20fd3",
+                  "number": "18",
+                  "title": "Bad for Good",
+                  "length": 242133
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "9365441a-250d-47dd-9714-f4989cdc9b04",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 2,
+          "title": "Taken B-Side",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c338a04f-b971-4e50-8648-2b759088009c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Taken B-Side",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "9c2fac93-fb9b-3bee-b472-05ead90f43b1",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a83569df-4fbb-3662-9558-bee4e1aca810",
+                  "number": "4",
+                  "title": "Bad for Good",
+                  "length": 244000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "27048761-77f7-4599-98d6-bf9074902816",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 3,
+          "title": "Box of Scorpions",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "564fdb9b-c532-3ec1-8d24-e2e43987e492",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Box of Scorpions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-05-31",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004-05-31",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 51,
+          "media": [
+            {
+              "id": "d9bc8a6d-b6f8-3705-a980-f2a95243ba17",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "72429c35-1d7f-3f93-a1d5-85bc48d76c46",
+                  "number": "16",
+                  "title": "Bad for Good",
+                  "length": 243374
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "3324a346-6d2d-48fd-b268-053bcad9f6ac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 1,
+          "title": "Bad for Good: The Very Best of Scorpions",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3040e1b5-7d86-39ae-8a16-c37304e9b532",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bad for Good: The Very Best of Scorpions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002-03-28",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002-03-28",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "d7032b21-22a9-3fcc-a61f-af5aeb13353c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "69e83acd-755d-421a-b8df-3301da473433",
+                  "number": "18",
+                  "title": "Bad for Good",
+                  "length": 242133
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "f0e817cc-18f1-491e-bc56-82178321aae1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 2,
+          "title": "Icon 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d8359d10-a8c8-40c6-8d2c-77738ed1b2e1",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Icon 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010-11-02",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010-11-02",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 24,
+          "media": [
+            {
+              "id": "1e871e58-134c-3bc3-ad4a-b5498db922f3",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2ed29799-f8d3-3586-ab6c-08bb24485fd7",
+                  "number": "6",
+                  "title": "Bad for Good",
+                  "length": 242573
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "ab3ff597-96bb-4a4a-b1f9-21986b32d043",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "a7214ea1-4a20-346f-9d17-fbe178c7bce8",
+          "count": 1,
+          "title": "Bad for Good: The Very Best of Scorpions",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Scorpions",
+              "artist": {
+                "id": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+                "name": "Scorpions",
+                "sort-name": "Scorpions",
+                "disambiguation": "German rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3040e1b5-7d86-39ae-8a16-c37304e9b532",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bad for Good: The Very Best of Scorpions",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2002",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "98643d39-317a-3504-8210-c140c398a60a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a6c0f788-cebb-3489-a806-6f06748720bf",
+                  "number": "18",
+                  "title": "Bad for Good",
+                  "length": 242133
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DET710200001"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "album rock"
+        },
+        {
+          "count": 1,
+          "name": "arena rock"
+        },
+        {
+          "count": 1,
+          "name": "pop-metal"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "created": "2026-05-18T07:48:43.791Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "db6017e2-4c1b-42e2-bb2a-1c6960acc540",
+      "score": 100,
+      "artist-credit-id": "6d7650d8-1547-302a-965b-b759da78fd71",
+      "title": "Seaward",
+      "length": 124000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Darko",
+          "artist": {
+            "id": "e07c6ae3-4722-4be3-b036-49dd1a0c6bf5",
+            "name": "Darko",
+            "sort-name": "Darko",
+            "disambiguation": "UK fast melodic hardcore"
+          }
+        }
+      ],
+      "first-release-date": "2014-09-08",
+      "releases": [
+        {
+          "id": "bf45535f-e662-41bc-9da2-853171fe4ece",
+          "count": 1,
+          "title": "Sea of Trees",
+          "release-group": {
+            "id": "23b24254-d47e-4378-a9c7-7b45353a8b8d",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Sea of Trees",
+            "primary-type": "EP"
+          },
+          "date": "2014-09-08",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2014-09-08",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "1d17c5f7-47df-39a2-bb80-ed50398278d8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "65b7992d-9edb-4d25-9238-aba8328fd4c3",
+                  "number": "6",
+                  "title": "Seaward",
+                  "length": 124000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "decb3e34-fbdf-4e9d-b8f1-c63b1752ed9a",
+      "score": 100,
+      "artist-credit-id": "6d7650d8-1547-302a-965b-b759da78fd71",
+      "title": "Seaward",
+      "length": 127320,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Darko",
+          "artist": {
+            "id": "e07c6ae3-4722-4be3-b036-49dd1a0c6bf5",
+            "name": "Darko",
+            "sort-name": "Darko",
+            "disambiguation": "UK fast melodic hardcore"
+          }
+        }
+      ],
+      "first-release-date": "2015-12-01",
+      "releases": [
+        {
+          "id": "c6f65d1e-dfb9-4742-ac72-8d80195e5a29",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Manchester Punk Festival Vol. 5",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9b04eea6-1d9d-47ff-97ce-380f8a4a830d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Manchester Punk Festival Vol. 5",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2015-12-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-12-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "a48b1b1d-78a4-349a-b4cc-8068082f7e10",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f1f9dab-7be8-4c05-9bb4-dc36f79205ea",
+                  "number": "1",
+                  "title": "Seaward",
+                  "length": 127320
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

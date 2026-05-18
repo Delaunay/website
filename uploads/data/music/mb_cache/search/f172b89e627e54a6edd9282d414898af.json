@@ -1,0 +1,111 @@
+{
+  "created": "2026-05-18T05:47:38.105Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "403a73f0-6a85-4666-93d7-06ad7ffb0bf6",
+      "score": 100,
+      "artist-credit-id": "1745f05a-242e-437a-b4ea-39e19c05ba72",
+      "title": "X",
+      "length": 66733,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Coughy",
+          "artist": {
+            "id": "eb707b03-d5c4-4d13-84c4-60c6c112cd8a",
+            "name": "Coughy",
+            "sort-name": "Coughy"
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "264e3748-b93b-4d7a-bfd6-a9866ebb1238",
+          "count": 1,
+          "title": "Ocean Hug",
+          "release-group": {
+            "id": "b42af2d9-4790-4210-8641-8a736be1bacf",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ocean Hug",
+            "primary-type": "Album"
+          },
+          "track-count": 20,
+          "media": [
+            {
+              "id": "711d14ec-7575-4f53-a6a3-2e1ed45b0e17",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1ff1a961-4e56-453e-8984-5e1f1698a7a5",
+                  "number": "15",
+                  "title": "X",
+                  "length": 66733
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8de5ecf0-f309-423c-9890-6dd93bbe9fe6",
+      "score": 100,
+      "artist-credit-id": "1745f05a-242e-437a-b4ea-39e19c05ba72",
+      "title": "X\u00b2",
+      "length": 84217,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Coughy",
+          "artist": {
+            "id": "eb707b03-d5c4-4d13-84c4-60c6c112cd8a",
+            "name": "Coughy",
+            "sort-name": "Coughy"
+          }
+        }
+      ],
+      "first-release-date": "2019",
+      "releases": [
+        {
+          "id": "b8c070c7-f36d-4a76-9a2a-85233ddd7b06",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "X\u00b2",
+          "status": "Official",
+          "release-group": {
+            "id": "d5310862-530e-4fc0-a9ed-1db7f6a9a457",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "X\u00b2",
+            "primary-type": "Single"
+          },
+          "track-count": 1,
+          "media": [
+            {
+              "id": "90b97b07-ece4-3e2a-899e-3ffc20d6255a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8b6913dd-cdbe-4324-ad53-c1b68e0d3b50",
+                  "number": "1",
+                  "title": "X\u00b2",
+                  "length": 84217
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

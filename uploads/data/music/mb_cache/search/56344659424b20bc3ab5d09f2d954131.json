@@ -1,0 +1,94 @@
+{
+  "created": "2026-05-18T08:14:51.701Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "bc0414c9-331d-4bb1-a2a7-ef8f1c1d7d78",
+      "score": 100,
+      "artist-credit-id": "d9c620ef-54c4-372a-908a-2e32755c62d6",
+      "title": "Summer Nights (radio edit)",
+      "length": 224000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Soundstream",
+          "artist": {
+            "id": "a7ae8da7-77a6-4b65-ae50-0d8adf69f6ab",
+            "name": "Soundstream",
+            "sort-name": "soundstream",
+            "disambiguation": "Ukrainian Eurodance Band"
+          }
+        }
+      ],
+      "first-release-date": "2019-01-07",
+      "releases": [
+        {
+          "id": "974f523d-6ac0-4bda-b382-93a0e79dbd0a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "50 Chart Hits of 2019: The Winter Workout Album",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "24bbe720-2295-4fa6-8479-327e42b1b859",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "50 Chart Hits of 2019: The Winter Workout Album",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-01-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2019-01-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "53b539e0-0802-35ce-88dc-89189e44b664",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "0a8e027a-11e3-40d4-95d2-df84e33b96cc",
+                  "number": "35",
+                  "title": "Summer Nights (radio edit)",
+                  "length": 224000
+                }
+              ],
+              "track-count": 50,
+              "track-offset": 34
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

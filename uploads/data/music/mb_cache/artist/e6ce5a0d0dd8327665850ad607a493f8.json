@@ -1,0 +1,48 @@
+{
+  "isnis": [],
+  "tags": [],
+  "begin-area": null,
+  "ipis": [],
+  "gender-id": null,
+  "type": "Group",
+  "genres": [],
+  "name": "Baked Beans",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": null
+  },
+  "country": null,
+  "end-area": null,
+  "relations": [
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "artist": {
+        "country": null,
+        "name": "Joel Reyes",
+        "id": "637dc97a-e462-47cb-aa7c-86772356bb7d",
+        "sort-name": "Reyes, Joel",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "type": "member of band"
+    }
+  ],
+  "sort-name": "Baked Beans",
+  "disambiguation": "Spanish rock band",
+  "id": "e3dd572a-070d-40d5-8d2b-2f153f400a97",
+  "area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender": null
+}

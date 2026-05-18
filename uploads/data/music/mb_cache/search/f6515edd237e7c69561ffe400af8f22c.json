@@ -1,0 +1,789 @@
+{
+  "created": "2026-05-18T07:19:16.687Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "48b476a4-6e7c-4c6d-bb98-e4c21467f35d",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Radical",
+      "length": 232066,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002-04-16",
+      "releases": [
+        {
+          "id": "e7d8c5a5-3657-499f-a642-3c0ebbbe148f",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "Wasting The Dawn / Paris Kills",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e953afd9-eecf-42da-9619-8631675f6bfa",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Wasting The Dawn / Paris Kills",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 27,
+          "media": [
+            {
+              "id": "e49966d7-da7a-35bb-8b4f-7450b407df5c",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "440d8837-f045-41fd-99d3-c71d80e5c848",
+                  "number": "5",
+                  "title": "Radical"
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "80f70658-2074-4471-b1ab-11562a783cc0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Paris Kills",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "74639a7e-198c-3982-80c2-05c6e95ebbeb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris Kills",
+            "primary-type": "Album"
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "20d27f0a-5f63-3e37-8a63-b0a93f97e90c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aaf76946-52b6-3832-8451-9a979943effb",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 232066
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "31a610d8-c8d2-4b41-920f-a4551a3e9173",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Paris Kills",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "74639a7e-198c-3982-80c2-05c6e95ebbeb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris Kills",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "0bf1da16-d1f8-3201-bc34-a709692d03aa",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ce049ee6-ba69-3212-8d3d-afe996c0965e",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 231946
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "cd4e12f0-21eb-4a89-8883-8ee73aa84f6c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Paris Kills",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "74639a7e-198c-3982-80c2-05c6e95ebbeb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris Kills",
+            "primary-type": "Album"
+          },
+          "date": "2002",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2002",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "f67bc6aa-117f-3e27-86f8-a8b0d4183a48",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "19ecfbd8-a430-3f30-aaee-87f6f34a6caa",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 231946
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "9b65428f-deec-4a6a-8b87-6b79a083ab8a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Paris Kills",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "74639a7e-198c-3982-80c2-05c6e95ebbeb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris Kills",
+            "primary-type": "Album"
+          },
+          "date": "2002-04-16",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2002-04-16",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "004733ff-1401-3b0a-9775-7c46386ee32b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a37c5e90-692d-3bd1-a4e0-0e78e313135c",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 232066
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "bb04972e-d8d3-47ef-ad02-277c45574537",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Paris Kills",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "74639a7e-198c-3982-80c2-05c6e95ebbeb",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Paris Kills",
+            "primary-type": "Album"
+          },
+          "date": "2005-07-08",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2005-07-08",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "2d80088e-f68b-3614-b527-bb28854f468a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f2cd0285-131b-4b55-8253-ae2bb90e493b",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 232066
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "6b3d103b-4b70-4f97-9385-ae83835e2cc2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "d2bfa68e-1c29-3a1c-8e13-2bbeef810b4b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "be65405d-d17c-4514-bb74-8491a35dce71",
+                  "number": "8",
+                  "title": "Radical",
+                  "length": 234693
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "97d5bb98-f863-4121-837f-a4a70788aa63",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 2,
+          "title": "The Best of Helsinki Vampires",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b889fa5-5d2c-4510-8813-c3a73c47ac59",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Best of Helsinki Vampires",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-11-01",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2013-11-01",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 28,
+          "media": [
+            {
+              "id": "2eb4b7e1-9dd6-3126-84fc-eaea4c5d18f3",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1173cca7-37e8-44f0-bd0e-276ef3fa9658",
+                  "number": "8",
+                  "title": "Radical",
+                  "length": 235786
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIUNG0200029"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "gothic"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 2,
+          "name": "gothic rock"
+        },
+        {
+          "count": 1,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        }
+      ]
+    },
+    {
+      "id": "3e1e4d75-7592-47a3-86ba-5fc7214ef769",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Radical",
+      "length": 236000,
+      "disambiguation": "live, 2002-11: Tavastia, Helsinki, Finland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-09-26",
+      "releases": [
+        {
+          "id": "51d58cb4-4b89-4b13-883c-353c8ebc2b62",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Helsinki Vampires: Live at Tavastia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4d535ae8-6b72-36c2-8364-7a70339928b3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Helsinki Vampires: Live at Tavastia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2003-09-26",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003-09-26",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "3b25e468-f5cb-3947-af74-083c6429e9c0",
+              "position": 1,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "ab15ef48-256f-32f1-8871-7de9e7d2b5fb",
+                  "number": "10",
+                  "title": "Radical",
+                  "length": 236000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "78724037-8200-3d3b-97a6-c97d9cd9ba47",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Helsinki Vampires: Live at Tavastia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4d535ae8-6b72-36c2-8364-7a70339928b3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Helsinki Vampires: Live at Tavastia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004-08-02",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004-08-02",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "ef84190e-695a-330d-9e0a-bd027dd1bb83",
+              "position": 1,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "c2f4ad4d-1601-36ab-b733-552cb2f80ab1",
+                  "number": "10",
+                  "title": "Radical",
+                  "length": 236000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2e9059d8-31c1-4bc4-8d61-bb5b559a60d8",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Radical",
+      "length": 231946,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-11-12",
+      "releases": [
+        {
+          "id": "08fe8d80-e244-4a5a-a8e8-3414a7640127",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 3,
+          "title": "Goth 'n' Roll",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "db6b23c3-352b-3df3-b8b6-2008293b1d42",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Goth 'n' Roll",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-11-12",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2008-11-12",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 43,
+          "media": [
+            {
+              "id": "0cfc2ff5-59d2-33c9-9402-08cb3b533225",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2a0e283a-e6c2-32e0-87b2-6a9fd5ddf047",
+                  "number": "5",
+                  "title": "Radical",
+                  "length": 231946
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

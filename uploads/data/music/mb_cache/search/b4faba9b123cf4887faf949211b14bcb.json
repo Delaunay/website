@@ -1,0 +1,373 @@
+{
+  "created": "2026-05-18T06:16:33.371Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "02784584-2b35-482f-af3b-90344ae2d41c",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Little Lion",
+      "length": 219746,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-10-01",
+      "releases": [
+        {
+          "id": "65e6b5a1-b551-44c5-98c7-7699941e7aa7",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Shine",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3d364bcb-5a05-3028-8f30-16fe99110161",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Shine",
+            "primary-type": "Album"
+          },
+          "date": "2007-10-05",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2007-10-05",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "18d5656b-ebd1-413c-9a9e-fc6c939c1ca0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "589903f4-b055-47e0-8a37-5f61984ba1c4",
+                  "number": "7",
+                  "title": "Little Lion",
+                  "length": 219746
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "f87fc61f-d92d-4ee9-bd04-880f3b513317",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Shine",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3d364bcb-5a05-3028-8f30-16fe99110161",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Shine",
+            "primary-type": "Album"
+          },
+          "date": "2007-10-01",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2007-10-01",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "a1eab604-5e14-3c82-8df3-4fd6534dc326",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "66c5fdf6-fcab-3901-a049-68c0a40a2227",
+                  "number": "7",
+                  "title": "Little Lion",
+                  "length": 219746
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "a0e60d5c-7657-3fc2-be70-f97955df102a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Shine",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3d364bcb-5a05-3028-8f30-16fe99110161",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Shine",
+            "primary-type": "Album"
+          },
+          "date": "2010-01-19",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2010-01-19",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "d709d7e8-ac4c-3011-8412-cd04a6791bd2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7ac83338-dd85-3fbd-a068-e1bd7241a150",
+                  "number": "7",
+                  "title": "Little Lion",
+                  "length": 219746
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ATE610800010"
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "chillout"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "nu jazz"
+        },
+        {
+          "count": 1,
+          "name": "future jazz"
+        },
+        {
+          "count": 1,
+          "name": "broken beat"
+        },
+        {
+          "count": 1,
+          "name": "electro swing"
+        },
+        {
+          "count": 1,
+          "name": "parov stelar"
+        },
+        {
+          "count": 1,
+          "name": "metro downtempo"
+        }
+      ]
+    },
+    {
+      "id": "3811ac65-6d2f-40be-aaab-303e8561732f",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Little Lion",
+      "length": 217000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-10-05",
+      "releases": [
+        {
+          "id": "afbcc7a4-3deb-4008-bbdf-6996c755ee99",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Shine",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3d364bcb-5a05-3028-8f30-16fe99110161",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Shine",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c10ba4ad-0da5-305d-8ab0-959dea1a71ad",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "2461a4ef-f369-437e-8dd0-8427e8a1c517",
+                  "number": "7",
+                  "title": "Little Lion",
+                  "length": 217000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

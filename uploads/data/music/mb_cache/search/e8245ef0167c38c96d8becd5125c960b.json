@@ -1,0 +1,60 @@
+{
+  "created": "2026-05-18T06:14:35.502Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "2bccbc7f-954e-47fe-ba42-f6c6b8a2a18c",
+      "score": 100,
+      "artist-credit-id": "4fde44ba-fd4f-3db4-91e9-1d14a19b35f7",
+      "title": "Good Day to Die",
+      "length": 390000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Skelator",
+          "artist": {
+            "id": "12615370-e03c-4814-881a-080416ee9b24",
+            "name": "Skelator",
+            "sort-name": "Skelator"
+          }
+        }
+      ],
+      "first-release-date": "2022-09-23",
+      "releases": [
+        {
+          "id": "6534b38f-809c-47a2-96a9-8fc8ec1aa70b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Blood Empire",
+          "status": "Official",
+          "release-group": {
+            "id": "805e6fa0-f243-4689-aa9a-0fdf1ae1204d",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Blood Empire",
+            "primary-type": "EP"
+          },
+          "track-count": 4,
+          "media": [
+            {
+              "id": "e896c839-fd6a-3313-8fbc-7b0afe1c440a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fa89849e-9fb4-4a0b-8b8b-55ceb580a372",
+                  "number": "2",
+                  "title": "Good Day to Die",
+                  "length": 390000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

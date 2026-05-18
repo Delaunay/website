@@ -1,0 +1,610 @@
+{
+  "created": "2026-05-18T06:41:54.504Z",
+  "count": 5,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "75ec7fce-ea58-46bb-8544-1aada4f86a9f",
+      "score": 100,
+      "artist-credit-id": "8625d5bf-1a12-3055-8ee4-63a298812320",
+      "title": "House by the Cemetery",
+      "length": 200240,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wednesday 13",
+          "artist": {
+            "id": "f4d306f3-e82b-4186-9cca-4e8806db21f8",
+            "name": "Wednesday 13",
+            "sort-name": "Wednesday 13",
+            "disambiguation": "the band; do not use for songwriting credits!"
+          }
+        }
+      ],
+      "first-release-date": "2005-04-12",
+      "releases": [
+        {
+          "id": "76d93e1b-c3a0-48dd-93aa-1dcad3dbd854",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Transylvania 90210: Songs Of Death, Dying, And The Dead",
+          "status": "Official",
+          "release-group": {
+            "id": "6a07dab9-46cf-388f-8b3e-aa3447afeee8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+            "primary-type": "Album"
+          },
+          "date": "2005-04-12",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2005-04-12",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "db0ad354-64a4-3c17-b1d1-64cdfff1a2cc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "681bce40-01ad-42d9-922e-e3f1cde4b1ae",
+                  "number": "5",
+                  "title": "House by the Cemetery",
+                  "length": 200240
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "52208c93-ac83-4fa0-b9e7-1b9fba06cbe3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Bad Things",
+          "status": "Official",
+          "release-group": {
+            "id": "085f1204-da35-4b77-9be0-c561de047c52",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Bad Things",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2020-03-13",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2020-03-13",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "fd00ec8c-826b-334e-bcac-a5f72ad4d0aa",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "32a3ef6c-3424-4859-b74c-978ebf1dcf7c",
+                  "number": "11",
+                  "title": "House By the Cemetary",
+                  "length": 200000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "7eec44fd-8f09-45b6-aca4-841c80ec5eed",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+          "status": "Official",
+          "release-group": {
+            "id": "6a07dab9-46cf-388f-8b3e-aa3447afeee8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+            "primary-type": "Album"
+          },
+          "date": "2005-04-13",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-04-13",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "384a3acb-afe1-3c51-9bb7-962abe1b412b",
+              "position": 1,
+              "track": [
+                {
+                  "id": "9daa6b3c-fb0d-3e1a-a9c0-cb67dad6e9be",
+                  "number": "5",
+                  "title": "House by the Cemetery",
+                  "length": 200240
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "188b7679-4143-3a4a-b360-5ca601799555",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+          "status": "Official",
+          "release-group": {
+            "id": "6a07dab9-46cf-388f-8b3e-aa3447afeee8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "4413fbb6-5dae-397c-bfd8-6691a6e18489",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "dc18e7b0-a4d2-3900-a02f-a48d0e4d871f",
+                  "number": "5",
+                  "title": "House by the Cemetery",
+                  "length": 200240
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "aeb1bf60-6640-3c7e-be20-251f3fd45c4b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+          "status": "Official",
+          "release-group": {
+            "id": "6a07dab9-46cf-388f-8b3e-aa3447afeee8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "da683098-72a0-3890-a5d9-40e8151090ec",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a14a7b62-fc1e-3674-bc50-d636100b3829",
+                  "number": "5",
+                  "title": "House by the Cemetery",
+                  "length": 200240
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "b8b39808-f836-456a-b0b2-2b61ea8cb69e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+          "status": "Official",
+          "release-group": {
+            "id": "6a07dab9-46cf-388f-8b3e-aa3447afeee8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Transylvania 90210: Songs of Death, Dying and the Dead",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "520585d1-371e-3e49-88fb-7e21d0c4d4ec",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a367b60-70f2-4ba4-85a1-5e6fbab03f55",
+                  "number": "5",
+                  "title": "House by the Cemetery",
+                  "length": 200240
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cee207ae-7362-4626-871a-bd78139f72fb",
+      "score": 100,
+      "artist-credit-id": "8625d5bf-1a12-3055-8ee4-63a298812320",
+      "title": "House By The Cemetery",
+      "length": 98000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wednesday 13",
+          "artist": {
+            "id": "f4d306f3-e82b-4186-9cca-4e8806db21f8",
+            "name": "Wednesday 13",
+            "sort-name": "Wednesday 13",
+            "disambiguation": "the band; do not use for songwriting credits!"
+          }
+        }
+      ],
+      "first-release-date": "2014-07-07",
+      "releases": [
+        {
+          "id": "0a9dd72f-449e-48e9-8033-a3ffe99f8886",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 4,
+          "title": "Dead Meat: 10 Years of Blood, Feathers & Lipstick",
+          "status": "Official",
+          "release-group": {
+            "id": "38ce1aaf-aca7-4f45-96d7-b69c83781ea9",
+            "title": "Dead Meat: 10 Years of Blood, Feathers & Lipstick",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-07-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-07-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 84,
+          "media": [
+            {
+              "id": "e959aa6a-ec50-3e05-b3cf-66e274dc0fab",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "51f897b7-9261-4b18-9376-83557fb419f6",
+                  "number": "5",
+                  "title": "House By The Cemetery",
+                  "length": 98000
+                }
+              ],
+              "track-count": 28,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7cf85238-6a33-417e-8669-2e978f4922d4",
+      "score": 100,
+      "artist-credit-id": "8625d5bf-1a12-3055-8ee4-63a298812320",
+      "title": "House by the Cemetery",
+      "length": 185320,
+      "disambiguation": "live, 2008-07-18: Crocodile Rock, Allentown, PA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wednesday 13",
+          "artist": {
+            "id": "f4d306f3-e82b-4186-9cca-4e8806db21f8",
+            "name": "Wednesday 13",
+            "sort-name": "Wednesday 13",
+            "disambiguation": "the band; do not use for songwriting credits!"
+          }
+        }
+      ],
+      "first-release-date": "2008-10-21",
+      "releases": [
+        {
+          "id": "2b9591ae-219e-44b7-8e5c-48af8b94cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "F**k It We\u2019ll Do It Live",
+          "status": "Official",
+          "release-group": {
+            "id": "030f820e-588c-3a78-ad48-d304d4fafe2b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "F**k It We\u2019ll Do It Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-10-21",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-10-21",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "aee278b2-db6e-35f7-8b13-dd123b13803b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab033fd1-e408-3699-9ced-3415240bb4c8",
+                  "number": "10",
+                  "title": "House by the Cemetery",
+                  "length": 185320
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc7efbe5-5e0b-4845-9ddf-e99f1588f2ab",
+      "score": 100,
+      "artist-credit-id": "8625d5bf-1a12-3055-8ee4-63a298812320",
+      "title": "House by the Cemetery",
+      "disambiguation": "live, 2008-07-18: Crocodile Rock, Allentown, PA, USA",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Wednesday 13",
+          "artist": {
+            "id": "f4d306f3-e82b-4186-9cca-4e8806db21f8",
+            "name": "Wednesday 13",
+            "sort-name": "Wednesday 13",
+            "disambiguation": "the band; do not use for songwriting credits!"
+          }
+        }
+      ],
+      "first-release-date": "2008-10-21",
+      "releases": [
+        {
+          "id": "2b9591ae-219e-44b7-8e5c-48af8b94cc91",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "F**k It We\u2019ll Do It Live",
+          "status": "Official",
+          "release-group": {
+            "id": "030f820e-588c-3a78-ad48-d304d4fafe2b",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "F**k It We\u2019ll Do It Live",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-10-21",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2008-10-21",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "6cb6aa3a-8392-37f5-8ac9-ecdd94a88c4a",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "033a1936-173e-4b0f-91c2-5ecd35ad2ca8",
+                  "number": "10",
+                  "title": "House by the Cemetery"
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b1f56740-c0c4-4cc5-ab37-689cff8dcb99",
+      "score": 90,
+      "artist-credit-id": "8625d5bf-1a12-3055-8ee4-63a298812320",
+      "title": "House By The Cemetery - Live",
+      "length": 187000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Wednesday 13",
+          "artist": {
+            "id": "f4d306f3-e82b-4186-9cca-4e8806db21f8",
+            "name": "Wednesday 13",
+            "sort-name": "Wednesday 13",
+            "disambiguation": "the band; do not use for songwriting credits!"
+          }
+        }
+      ],
+      "first-release-date": "2014-07-07",
+      "releases": [
+        {
+          "id": "0a9dd72f-449e-48e9-8033-a3ffe99f8886",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 4,
+          "title": "Dead Meat: 10 Years of Blood, Feathers & Lipstick",
+          "status": "Official",
+          "release-group": {
+            "id": "38ce1aaf-aca7-4f45-96d7-b69c83781ea9",
+            "title": "Dead Meat: 10 Years of Blood, Feathers & Lipstick",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-07-07",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-07-07",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 84,
+          "media": [
+            {
+              "id": "85370ede-82eb-3133-8d95-457baf7d7eb6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a6f09d74-da90-460d-a2cb-b39d1f994a2c",
+                  "number": "15",
+                  "title": "House By The Cemetery - Live",
+                  "length": 187000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

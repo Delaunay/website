@@ -1,0 +1,578 @@
+{
+  "created": "2026-05-18T06:15:35.173Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "0191319c-169b-49d3-9349-e7fbce159b5e",
+      "score": 100,
+      "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+      "title": "Blind Alley",
+      "length": 242000,
+      "disambiguation": "part of \u201cSupperclub: Seduction\u201d DJ-mix",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "9749a684-0bff-44ac-bf77-bf1a2ff933f6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Supperclub: Seduction",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c26bfd5d-4242-403a-9a78-40a800ddee13",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Supperclub: Seduction",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation",
+              "DJ-mix"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+              "0d47f47a-3fe5-3d69-ac9d-d566c23968bf"
+            ]
+          },
+          "date": "2010",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "06107b65-7e3f-3737-9b51-d1e59e9cebc8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a2096b98-f154-39fb-b693-3976fa400009",
+                  "number": "9",
+                  "title": "Blind Alley",
+                  "length": 242000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9628f648-c6c6-49ab-bc90-58ade0b6f6ab",
+      "score": 74,
+      "artist-credit-id": "771ba06d-2ade-3017-94eb-105780937634",
+      "title": "Blind Alley",
+      "length": 292000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "joinphrase": " & ",
+          "name": "Sax Max",
+          "artist": {
+            "id": "de81ba2e-b369-4b3c-83c3-2c4a3f047e85",
+            "name": "Max the Sax",
+            "sort-name": "Max the Sax",
+            "disambiguation": "Markus Ecklmayr"
+          }
+        },
+        {
+          "name": "Lylit",
+          "artist": {
+            "id": "876fc35f-21dc-4620-b5d3-170880dd4228",
+            "name": "Lylit",
+            "sort-name": "Lylit",
+            "disambiguation": "Austrian soul/hip-hop singer",
+            "aliases": [
+              {
+                "sort-name": "Klampfer, Eva",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Eva Klampfer",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lylith",
+                "name": "Lylith",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lilith",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lilith",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-05",
+      "releases": [
+        {
+          "id": "33bd3401-091a-4118-9366-95958924c5bb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Libella Swing",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ed351085-4812-35ca-8bdb-f51ed4277c78",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Libella Swing",
+            "primary-type": "EP"
+          },
+          "date": "2008-10-13",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-10-13",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "3838490e-5388-3c7c-adaf-f252e7dbc237",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "05c4b0cb-9687-322a-b7b4-53a724eac37e",
+                  "number": "4",
+                  "title": "Blind Alley",
+                  "length": 292000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "862e0da1-1197-4487-87b0-32b126d2d822",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Single Collection 2",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "250a3554-0b7f-4a35-b70b-fea249a44b5c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Single Collection 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-05",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2008-05",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "e1753bde-903b-3517-b275-54bd770285db",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bd51fe99-8981-31ba-91f8-0b26e234e245",
+                  "number": "9",
+                  "title": "Blind Alley",
+                  "length": 295013
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "d7c03296-13a0-4cc3-9779-0cac4ce67465",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Libella Swing",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ed351085-4812-35ca-8bdb-f51ed4277c78",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Libella Swing",
+            "primary-type": "EP"
+          },
+          "date": "2008-09-08",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-09-08",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "09633898-bf5d-3ae1-9d26-6f932eacf9a8",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "ad9388f9-9121-30cc-b23c-5effa2a69531",
+                  "number": "B2",
+                  "title": "Blind Alley (feat. Sax Max & Lylit)",
+                  "length": 292000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        }
+      ]
+    },
+    {
+      "id": "1dbe12e6-592b-4a8b-a2b2-0634c75094a1",
+      "score": 61,
+      "artist-credit-id": "771ba06d-2ade-3017-94eb-105780937634",
+      "title": "Blind Alley (late night version)",
+      "length": 306000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Parov Stelar",
+          "artist": {
+            "id": "fe1a873d-2000-4789-a895-4187fe756203",
+            "name": "Parov Stelar",
+            "sort-name": "Stelar, Parov",
+            "disambiguation": "Marcus F\u00fcreder",
+            "aliases": [
+              {
+                "sort-name": "Parov Stellar",
+                "name": "Parov Stellar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Parov Stealar",
+                "name": "Parov Stealar",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Stelar, Parov & the Band",
+                "name": "Parov Stelar & the Band",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "joinphrase": " & ",
+          "name": "Sax Max",
+          "artist": {
+            "id": "de81ba2e-b369-4b3c-83c3-2c4a3f047e85",
+            "name": "Max the Sax",
+            "sort-name": "Max the Sax",
+            "disambiguation": "Markus Ecklmayr"
+          }
+        },
+        {
+          "name": "Lylit",
+          "artist": {
+            "id": "876fc35f-21dc-4620-b5d3-170880dd4228",
+            "name": "Lylit",
+            "sort-name": "Lylit",
+            "disambiguation": "Austrian soul/hip-hop singer",
+            "aliases": [
+              {
+                "sort-name": "Klampfer, Eva",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Eva Klampfer",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lylith",
+                "name": "Lylith",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Lilith",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Lilith",
+                "locale": null,
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-10-13",
+      "releases": [
+        {
+          "id": "33bd3401-091a-4118-9366-95958924c5bb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "731b9bac-f6e1-3004-bc31-ef8ec2c5603f",
+          "count": 1,
+          "title": "Libella Swing",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Parov Stelar",
+              "artist": {
+                "id": "fe1a873d-2000-4789-a895-4187fe756203",
+                "name": "Parov Stelar",
+                "sort-name": "Stelar, Parov",
+                "disambiguation": "Marcus F\u00fcreder"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ed351085-4812-35ca-8bdb-f51ed4277c78",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Libella Swing",
+            "primary-type": "EP"
+          },
+          "date": "2008-10-13",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-10-13",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "3838490e-5388-3c7c-adaf-f252e7dbc237",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "1391c4f4-c3d6-3a51-82e8-7b2079a3e535",
+                  "number": "5",
+                  "title": "Blind Alley (Late Night version)",
+                  "length": 306000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "created": "2026-05-18T08:12:13.387Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "968e6585-c7f8-4be2-a768-c3c11e423629",
+      "score": 100,
+      "artist-credit-id": "907ba9c8-519c-4ff4-958f-4df454086038",
+      "title": "Wrong Love",
+      "length": 181333,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Alawn",
+          "artist": {
+            "id": "2aedea79-840f-405f-95b6-4b8110120335",
+            "name": "Alawn",
+            "sort-name": "Alawn",
+            "aliases": [
+              {
+                "sort-name": "Harold Philippon",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Harold Philippon",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Harold Fran\u00e7ois Henri Philippon",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Harold Fran\u00e7ois Henri Philippon",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Dyson",
+          "artist": {
+            "id": "cdecffd0-a7dc-465f-904f-218fed92fdf6",
+            "name": "DYSON",
+            "sort-name": "DYSON",
+            "disambiguation": "feat. artist from \u201cFeel Like Home\u201d"
+          }
+        }
+      ],
+      "first-release-date": "2019-08-16",
+      "releases": [
+        {
+          "id": "13afd663-4021-4229-ac91-1e7912505920",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "97df852d-a01a-4999-bb24-89c574a58a55",
+          "count": 1,
+          "title": "Gold",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Alawn",
+              "artist": {
+                "id": "2aedea79-840f-405f-95b6-4b8110120335",
+                "name": "Alawn",
+                "sort-name": "Alawn"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "939cbe73-f79f-4e1e-9433-c9999a503754",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Gold",
+            "primary-type": "EP"
+          },
+          "track-count": 5,
+          "media": [
+            {
+              "id": "9582524d-fce0-45dd-bfc1-5c7ea032ee38",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3b23612c-b005-46bd-82f3-95f3dbbdea85",
+                  "number": "2",
+                  "title": "Wrong Love",
+                  "length": 181333
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "UKGB31600105"
+      ]
+    }
+  ]
+}

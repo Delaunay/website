@@ -1,0 +1,255 @@
+{
+  "created": "2026-05-18T05:23:21.849Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "710cfeef-2fb8-4a3b-ba85-dd48eb925dc3",
+      "score": 100,
+      "artist-credit-id": "c4c8cff1-f5bb-36f4-8bc4-94276a300afe",
+      "title": "Les filles adorent",
+      "length": 180320,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "PZK",
+          "artist": {
+            "id": "de900610-04d4-4151-bfb2-0b23414021f9",
+            "name": "PZK",
+            "sort-name": "PZK"
+          }
+        }
+      ],
+      "first-release-date": "2009-10-19",
+      "releases": [
+        {
+          "id": "c95b9db9-ac8c-4fc0-9461-3759091d38be",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "NRJ Dance",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "50f56b8c-f2ba-4fad-8a54-66dbbb064d55",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "NRJ Dance",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2009",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "ebe9d46d-8558-3ea0-94e1-64bd000d1969",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "aec31568-5c88-4020-b0e7-cedb96a6ed41",
+                  "number": "17",
+                  "title": "Les Filles Adorent",
+                  "length": 180320
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 16
+            }
+          ]
+        },
+        {
+          "id": "71840fd6-7598-47bd-a8b0-509c5d87348b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "PZK",
+          "status": "Official",
+          "release-group": {
+            "id": "c77dd050-6ec1-41ca-b2f8-55873d419617",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "PZK",
+            "primary-type": "Album"
+          },
+          "date": "2009-10-19",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009-10-19",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "41b8ecd8-ff76-3eb9-a996-c0b3dc224987",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c6be90dc-9875-37f4-bb5f-b931386fced3",
+                  "number": "1",
+                  "title": "Les filles adorent",
+                  "length": 182000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "b04ba563-56af-4ee9-8f5d-c905b5810870",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "100 Tubes Dance 2010",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "34d93c7c-fe0c-4990-a862-8bbd16851eaf",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Tubes Dance 2010",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "0add73c5-c655-3fd5-b084-92646bc046af",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c62d7dc9-fe43-3df8-b246-67d9543a7c63",
+                  "number": "5",
+                  "title": "Les Filles adorent",
+                  "length": 180000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 4
+            }
+          ]
+        },
+        {
+          "id": "4b01d062-f0ba-4e17-934a-c800779b2234",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Les filles adorent / Comme \u00e7a : Les Deux Tubes des PZK)",
+          "status": "Official",
+          "release-group": {
+            "id": "fbf56e16-4883-4cb4-b7d9-37a9d1c21c21",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Les filles adorent / Comme \u00e7a",
+            "primary-type": "Single"
+          },
+          "date": "2009",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "9305da56-8850-3898-8dca-16462f66e03d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eebc162a-fdfa-435a-9899-cce0aeb151fb",
+                  "number": "2",
+                  "title": "Les filles adorent",
+                  "length": 182000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FRZ040900237"
+      ]
+    }
+  ]
+}

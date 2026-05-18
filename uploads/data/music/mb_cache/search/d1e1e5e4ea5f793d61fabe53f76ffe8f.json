@@ -1,0 +1,141 @@
+{
+  "created": "2026-05-18T07:41:18.120Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "2b7a0aea-2b48-45ad-b68d-16dceb6d7757",
+      "score": 100,
+      "artist-credit-id": "fa0d5eb4-142b-32ae-9b30-1a7cbbcc921e",
+      "title": "Different Ways",
+      "length": 192000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Chi Coltrane",
+          "artist": {
+            "id": "4461d433-262e-4a43-a73d-24c4eb19a249",
+            "name": "Chi Coltrane",
+            "sort-name": "Coltrane, Chi"
+          }
+        }
+      ],
+      "first-release-date": "1973",
+      "releases": [
+        {
+          "id": "8a096da5-9279-4b0c-83f5-7c2d7df530ce",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Let It Ride",
+          "status": "Official",
+          "release-group": {
+            "id": "0617c4a5-d67e-4e71-be04-e6a6b027168b",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Let It Ride",
+            "primary-type": "Album"
+          },
+          "date": "1973",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "1973",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "82b8002c-1e8b-3663-8933-bb703fae1638",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "bf7ca30d-fbbd-4e7a-85e8-4460a6be1f25",
+                  "number": "A4",
+                  "title": "Different Ways",
+                  "length": 192000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "af4dd34b-3ef8-4e8b-9c8e-f3f6ce3c7257",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+          "status": "Official",
+          "release-group": {
+            "id": "9afb8692-befa-44c7-82df-1b48ba1e9cf2",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Chi Coltrane / Let It Ride / Silk & Steel",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2017",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2017",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 29,
+          "media": [
+            {
+              "id": "e938b9a9-7853-3dd1-ac2d-1f07decdd562",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "075f2933-b6b0-48e6-96b6-8ac86c7f6c80",
+                  "number": "4",
+                  "title": "Different Ways"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 3
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "name": "Aaron Copland",
+  "isnis": [
+    "0000000120961237"
+  ],
+  "id": "aad3af83-5b59-4b86-a569-1a8409149b09",
+  "genres": [
+    {
+      "disambiguation": "",
+      "id": "6ed4e4d1-9a97-4e2c-b8df-083754f154f4",
+      "name": "classical",
+      "count": 5
+    },
+    {
+      "count": 1,
+      "disambiguation": "",
+      "id": "a190bb32-e0a7-4c56-b142-5cf9cfcfa713",
+      "name": "contemporary classical"
+    },
+    {
+      "disambiguation": "",
+      "id": "e328c306-8e35-46d2-93c3-623412ec7c13",
+      "name": "modern classical",
+      "count": 1
+    }
+  ],
+  "tags": [
+    {
+      "count": 1,
+      "name": "20th century"
+    },
+    {
+      "count": 2,
+      "name": "american"
+    },
+    {
+      "name": "american composer",
+      "count": 1
+    },
+    {
+      "count": 5,
+      "name": "classical"
+    },
+    {
+      "name": "composer",
+      "count": 4
+    },
+    {
+      "count": 1,
+      "name": "contemporary classical"
+    },
+    {
+      "count": 1,
+      "name": "modern classical"
+    },
+    {
+      "name": "soundtrack",
+      "count": 1
+    },
+    {
+      "count": 1,
+      "name": "to clean up"
+    }
+  ],
+  "disambiguation": "composer",
+  "begin-area": {
+    "disambiguation": "",
+    "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+    "sort-name": "Brooklyn",
+    "name": "Brooklyn",
+    "type": null,
+    "type-id": null
+  },
+  "end-area": {
+    "disambiguation": "",
+    "name": "Peekskill",
+    "type": null,
+    "sort-name": "Peekskill",
+    "id": "f37085b4-fd9b-4f69-9d2e-88da0cadf776",
+    "type-id": null
+  },
+  "sort-name": "Copland, Aaron",
+  "life-span": {
+    "end": "1990-12-02",
+    "begin": "1900-11-14",
+    "ended": true
+  },
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "type": "Person",
+  "country": "US",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "gender": "Male",
+  "relations": [
+    {
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "type-id": null,
+        "country": null,
+        "id": "6c79f3fa-fd07-4af8-ae74-e2658d50a364",
+        "type": null,
+        "name": "Harold Clurman",
+        "sort-name": "Clurman, Harold",
+        "disambiguation": ""
+      },
+      "type": "collaboration",
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "ended": false,
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Young Composers' Group",
+        "disambiguation": "",
+        "id": "756379b5-8367-4dc6-8357-70f769355dd3",
+        "name": "Young Composers' Group",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US"
+      },
+      "type": "member of band"
+    },
+    {
+      "direction": "forward",
+      "begin": "1942",
+      "ended": true,
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CU",
+        "type": "Person",
+        "name": "Harold Gramatges",
+        "id": "6e664ea1-8f00-416a-ae54-b14e692b29b8",
+        "disambiguation": "Cuban composer",
+        "sort-name": "Gramatges, Harold"
+      },
+      "type": "teacher"
+    },
+    {
+      "end": "1950",
+      "ended": true,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "teacher",
+      "artist": {
+        "disambiguation": "American composer",
+        "sort-name": "Druckman, Jacob",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Jacob Druckman",
+        "id": "7b6c5330-a903-4854-9292-de16accc2556"
+      },
+      "begin": "1949",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": "1957",
+      "attribute-values": {},
+      "ended": true,
+      "target-type": "artist",
+      "source-credit": "",
+      "type": "teacher",
+      "artist": {
+        "disambiguation": "composer",
+        "sort-name": "Kurtz, Eugene",
+        "name": "Eugene Kurtz",
+        "type": "Person",
+        "id": "2ad05b03-24bb-4358-81b2-1af98dde79d4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "begin": "1957",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "Peruvian composer",
+        "sort-name": "Garrido\u2010Lecca, Celso",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "PE",
+        "type": "Person",
+        "name": "Celso Garrido\u2010Lecca",
+        "id": "17d1aac6-6ce6-46a6-bf13-3311b42e2dc9"
+      },
+      "type": "teacher",
+      "begin": "1964",
+      "direction": "forward"
+    },
+    {
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Boulanger, Nadia",
+        "disambiguation": "French composer",
+        "type": "Person",
+        "name": "Nadia Boulanger",
+        "id": "b84d7c94-d171-4257-a57a-48dc5425323b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FR"
+      },
+      "type": "teacher",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Parris, Robert",
+        "disambiguation": "American composer",
+        "type": "Person",
+        "name": "Robert Parris",
+        "id": "9d191124-0236-4829-a1ab-d5cb1be500c9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "type": "teacher",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "type": "teacher",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CU",
+        "id": "b346ec7c-1d98-4bd9-bf36-75751e01ef61",
+        "type": "Person",
+        "name": "Juli\u00e1n Orb\u00f3n",
+        "sort-name": "Orb\u00f3n, Juli\u00e1n",
+        "disambiguation": "Cuban composer"
+      },
+      "source-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "direction": "forward",
+      "begin": null,
+      "artist": {
+        "disambiguation": "American composer",
+        "sort-name": "Zupko, Ramon",
+        "id": "3f7180dd-8904-43be-b473-b12d09c83b78",
+        "name": "Ramon Zupko",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "type": "teacher",
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attributes": [
+        "composition"
+      ],
+      "attribute-ids": {
+        "composition": "8509dad6-d315-48b4-8e3e-7f7e57f509e5"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "type": "teacher",
+      "artist": {
+        "sort-name": "Kechley, Gerald",
+        "disambiguation": "American composer",
+        "id": "a1e6a26f-42cd-47cd-bed0-9ac6257f2f5a",
+        "name": "Gerald Kechley",
+        "type": "Person",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "type": "Person",
+        "name": "John Verrall",
+        "id": "1752d41a-4db8-44c9-bd1a-f3ed4a6a059b",
+        "disambiguation": "American composer",
+        "sort-name": "Verrall, John"
+      },
+      "type": "teacher",
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "country": "MA",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fc11241f-c3c0-4114-8081-b7542852c87e",
+        "type": "Person",
+        "name": "Paul Bowles",
+        "disambiguation": "Morocco-based American composer and writer",
+        "sort-name": "Bowles, Paul"
+      },
+      "type": "teacher",
+      "target-type": "artist",
+      "source-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type": "teacher",
+      "artist": {
+        "disambiguation": "Canadian-American composer",
+        "sort-name": "Brant, Henry",
+        "id": "ceaecbb3-3c40-4186-a1ac-ede9525f68be",
+        "name": "Henry Brant",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "disambiguation": "French pianist and composer",
+        "sort-name": "Philipp, Isidor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FR",
+        "id": "61a5fdf1-b559-4d6b-a7cf-f937b1983e21",
+        "name": "Isidor Philipp",
+        "type": "Person"
+      },
+      "type": "teacher",
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "attribute-values": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "begin": null,
+      "direction": "backward",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "name": "George Frederick Boyle",
+        "id": "d2096fac-edc9-4b0e-adc5-5c6b665f3ea4",
+        "country": "AU",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Boyle, George Frederick"
+      },
+      "type": "teacher",
+      "end": null,
+      "ended": true,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "artist": {
+        "disambiguation": "American composer",
+        "sort-name": "Korte, Karl",
+        "name": "Karl Korte",
+        "type": "Person",
+        "id": "a0486dbf-34c6-4689-943d-d55a3443e614",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "type": "teacher",
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "source-credit": "",
+      "type": "teacher",
+      "artist": {
+        "name": "Einar Englund",
+        "type": "Person",
+        "id": "34a53c8c-0a7a-4a2e-9bdc-277a9f0f7dfa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FI",
+        "sort-name": "Englund, Einar",
+        "disambiguation": "Finnish composer and pianist"
+      },
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "ended": true,
+      "end": null,
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "end": null,
+      "ended": true,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "artist": {
+        "id": "55b87abd-fd36-4f8e-8342-d2622c545efc",
+        "type": "Person",
+        "name": "Samuel Adler",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Adler, Samuel",
+        "disambiguation": "German-American composer and conductor"
+      },
+      "type": "teacher",
+      "source-credit": "",
+      "target-type": "artist",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "artist": {
+        "disambiguation": "composer",
+        "sort-name": "Rautavaara, Einojuhani",
+        "type": "Person",
+        "name": "Einojuhani Rautavaara",
+        "id": "bb94bbf5-b2b3-4a5a-bcab-7ba8b60cccea",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FI"
+      },
+      "type": "teacher",
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Strouse, Charles",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Charles Strouse",
+        "id": "52eb3f6f-9601-4690-a336-536688082652"
+      },
+      "type": "teacher",
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "id": "bc5efa94-a038-49bf-839b-4dabbe907b35",
+        "type": "Person",
+        "name": "Leonardo Balada",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "ES",
+        "disambiguation": "",
+        "sort-name": "Balada, Leonardo"
+      },
+      "type": "teacher",
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "type": "teacher",
+      "artist": {
+        "name": "Osvaldo Lacerda",
+        "type": "Person",
+        "id": "0fe6396c-bb0e-4c8a-934d-114bb84263dc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BR",
+        "sort-name": "Lacerda, Osvaldo",
+        "disambiguation": "Brazilian composer"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "ended": true,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "type": "teacher",
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Rapoport, Eda",
+        "name": "Eda Rapoport",
+        "type": "Person",
+        "id": "beda54bb-1d27-43df-b668-3217fd6afcf7",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "ended": true,
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "type": "teacher",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "type": "Person",
+        "name": "Halim El\u2010Dabh",
+        "id": "8de929b2-8ea8-4885-a5c3-5b4db755b3be",
+        "disambiguation": "Egyptian-American electronic music pioneer",
+        "sort-name": "El\u2010Dabh, Halim"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "American composer",
+        "sort-name": "Schelle, Michael",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "id": "7d86aa32-e44c-4fbc-b4a2-55a3d35de0fb",
+        "type": "Person",
+        "name": "Michael Schelle"
+      },
+      "type": "teacher",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": true,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michael Horvit",
+        "type": "Person",
+        "id": "cc1618ae-1a61-47f2-b7f8-071798bd8d78",
+        "sort-name": "Horvit, Michael",
+        "disambiguation": ""
+      },
+      "type": "teacher",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "end": null,
+      "ended": true,
+      "attribute-values": {},
+      "type": "teacher",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "id": "264e5908-1df8-43e0-8a53-84c4dd817f30",
+        "type": "Person",
+        "name": "Robert Bernat",
+        "disambiguation": "American composer",
+        "sort-name": "Bernat, Robert"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "type": "teacher",
+      "artist": {
+        "sort-name": "Farberman, Harold",
+        "disambiguation": "conductor and composer",
+        "id": "685c5d94-6c16-4dcf-a8de-a8f5d4af627e",
+        "type": "Person",
+        "name": "Harold Farberman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US"
+      },
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "ended": true,
+      "end": null
+    },
+    {
+      "end": null,
+      "ended": true,
+      "attribute-values": {},
+      "attributes": [
+        "composition"
+      ],
+      "attribute-ids": {
+        "composition": "8509dad6-d315-48b4-8e3e-7f7e57f509e5"
+      },
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-type": "artist",
+      "source-credit": "",
+      "type": "teacher",
+      "artist": {
+        "id": "a394be46-cdf9-4fb5-8215-ff4c52bc736c",
+        "name": "Martin Boykan",
+        "type": "Person",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Boykan, Martin",
+        "disambiguation": "American composer"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attribute-credits": {}
+    },
+    {
+      "end": null,
+      "ended": true,
+      "attribute-values": {},
+      "attributes": [],
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "target-type": "artist",
+      "source-credit": "",
+      "type": "teacher",
+      "artist": {
+        "sort-name": "Wittgenstein, Victor",
+        "disambiguation": "US pianist",
+        "id": "4ad2bb8e-f94b-4b64-b958-11cdb44d1c94",
+        "type": "Person",
+        "name": "Victor Wittgenstein",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": null,
+      "direction": "backward"
+    }
+  ],
+  "area": {
+    "disambiguation": "",
+    "sort-name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "name": "United States",
+    "type": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type-id": null
+  },
+  "ipis": []
+}

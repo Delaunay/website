@@ -1,0 +1,98 @@
+{
+  "created": "2026-05-18T05:33:53.345Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9a7bcad4-320e-4890-a261-18f92a26a986",
+      "score": 100,
+      "artist-credit-id": "350483fc-92d2-3cce-b021-e307c9a79a96",
+      "title": "I Want Brooklyn Back",
+      "length": 68000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The White Panda",
+          "artist": {
+            "id": "899ecb73-4a66-426c-a602-49e2f1223172",
+            "name": "White Panda",
+            "sort-name": "White Panda",
+            "aliases": [
+              {
+                "sort-name": "White Panda",
+                "name": "White Panda",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-03-01",
+      "releases": [
+        {
+          "id": "e3a4f52d-a657-4a14-82b8-bfad664532ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "350483fc-92d2-3cce-b021-e307c9a79a96",
+          "count": 1,
+          "title": "Pandamonium",
+          "status": "Official",
+          "disambiguation": "separated tracks",
+          "artist-credit": [
+            {
+              "name": "The White Panda",
+              "artist": {
+                "id": "899ecb73-4a66-426c-a602-49e2f1223172",
+                "name": "White Panda",
+                "sort-name": "White Panda"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9763f6be-f4f9-47ef-b717-292dfb95bf94",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Pandamonium",
+            "primary-type": "Album"
+          },
+          "date": "2011-03-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-03-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "0e8fbfd3-b8a8-3f39-aa8e-4ec999f25f64",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9a89b6bc-1c96-471b-abcd-23933c963ac5",
+                  "number": "17",
+                  "title": "I Want Brooklyn Back",
+                  "length": 68000
+                }
+              ],
+              "track-count": 40,
+              "track-offset": 16
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

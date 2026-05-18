@@ -1,0 +1,528 @@
+{
+  "created": "2026-05-18T05:49:17.241Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d469237e-cfd6-4200-9583-057b07510d25",
+      "score": 100,
+      "artist-credit-id": "b34399d9-650a-3800-b3e3-b1b24847a99f",
+      "title": "Cemetery",
+      "length": 235813,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Brutus",
+          "artist": {
+            "id": "90b8f9f7-dfda-409c-a9dc-391bd0de6d8a",
+            "name": "Brutus",
+            "sort-name": "Brutus",
+            "disambiguation": "Belgian post\u2010hardcore trio"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "242c149b-8f99-4e9c-b5e4-d8206fe496b5",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "SLAM Ausgabe 103",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "90dc1d5c-ddae-4966-9096-05e5e7525e77",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "SLAM Ausgabe 103",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-05",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2019-05",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "a86eea8a-39c5-433d-b30c-40cd66825d42",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1f1ef759-5e2e-4db9-9b73-71611d05d86c",
+                  "number": "14",
+                  "title": "Cemetery",
+                  "length": 235813
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        },
+        {
+          "id": "c963a7a6-4b35-4ea8-b5b8-f6fdc764c6a3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Nest",
+          "status": "Official",
+          "release-group": {
+            "id": "ee0e72fb-277a-40db-8a8d-c6e752a41eec",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nest",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "c364be3b-4676-309e-9ffd-3c152a7ea9ca",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e0065b0f-54f0-449e-bf09-8c77ed91e9ae",
+                  "number": "3",
+                  "title": "Cemetery",
+                  "length": 236000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "5bd94ee7-a9b8-43f0-a925-c0b10b810427",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Nest",
+          "status": "Official",
+          "release-group": {
+            "id": "ee0e72fb-277a-40db-8a8d-c6e752a41eec",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nest",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            },
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "bfb4d21f-ac5f-38f5-ab2a-3cadd95289f6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a97bc26a-ac72-4cde-940d-e904d60fefa8",
+                  "number": "3",
+                  "title": "Cemetery",
+                  "length": 236000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "2c4cbc27-839e-4cbc-833c-60c5e0e39130",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Nest",
+          "status": "Official",
+          "release-group": {
+            "id": "ee0e72fb-277a-40db-8a8d-c6e752a41eec",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nest",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "03d3b323-d5e8-33b7-872d-90885e7b8d8f",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "dc2d7002-cd26-4c5f-b94a-8945b2d6f3a8",
+                  "number": "A3",
+                  "title": "Cemetery",
+                  "length": 235000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "bfe9840a-9b63-4a48-a8a9-9a1aa60ce086",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "VISIONS: All Areas, Volume 216",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "607c3e43-e6dc-4591-80cf-1b690fd05484",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "VISIONS: All Areas, Volume 216",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-03",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "05fcac47-c35b-3a56-bec2-adac3b306991",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1f24b8ce-8963-4c55-af4b-2aa9a84f3c01",
+                  "number": "2",
+                  "title": "Cemetery",
+                  "length": 237706
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "956e7e33-34ad-45de-b62f-50a87f0a9972",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Nest",
+          "status": "Official",
+          "release-group": {
+            "id": "ee0e72fb-277a-40db-8a8d-c6e752a41eec",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Nest",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "b33675a3-7074-30ce-b4be-4605a6ccc867",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8f1352a9-1a66-4479-a070-8c58172fcfad",
+                  "number": "3",
+                  "title": "Cemetery",
+                  "length": 235000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBJSG1830003"
+      ]
+    },
+    {
+      "id": "3704d038-b472-4e9d-aa98-3c3b6abce7b5",
+      "score": 100,
+      "artist-credit-id": "b34399d9-650a-3800-b3e3-b1b24847a99f",
+      "title": "Cemetery",
+      "length": 241188,
+      "disambiguation": "live, 2019-05-29: Handelsbeurs, Ghent, Belgium",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Brutus",
+          "artist": {
+            "id": "90b8f9f7-dfda-409c-a9dc-391bd0de6d8a",
+            "name": "Brutus",
+            "sort-name": "Brutus",
+            "disambiguation": "Belgian post\u2010hardcore trio"
+          }
+        }
+      ],
+      "first-release-date": "2020-10-23",
+      "releases": [
+        {
+          "id": "705732a9-4dc0-4c83-b07b-89f9ee011353",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Live in Ghent",
+          "status": "Official",
+          "release-group": {
+            "id": "3787bf51-65ea-4f84-bfaa-047808331b7e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Ghent",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 13,
+          "media": [
+            {
+              "id": "cab2e7f7-da82-4cf4-92ce-eb2e69bd76c8",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ff09353d-f7b0-468f-86d4-f6ea05896cc9",
+                  "number": "2",
+                  "title": "Cemetery",
+                  "length": 241188
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "ac93c3e3-f85a-4324-887b-f45380ef78be",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 2,
+          "title": "Live in Ghent",
+          "status": "Official",
+          "release-group": {
+            "id": "3787bf51-65ea-4f84-bfaa-047808331b7e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Ghent",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2020-10-23",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2020-10-23",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "28ef8742-c513-32b7-9980-8849be86817e",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "f769fb0d-6410-4e29-bdf2-6da4eb16e525",
+                  "number": "A2",
+                  "title": "Cemetery",
+                  "length": 241000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0454bc4f-957d-4510-a2e0-cd93551d00b2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Live in Ghent",
+          "status": "Official",
+          "release-group": {
+            "id": "3787bf51-65ea-4f84-bfaa-047808331b7e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live in Ghent",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2020-10-23",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2020-10-23",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "e597d7b8-6d31-3525-aac0-0e3e5bc23b7b",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "61983ab4-f700-422d-90eb-8664c8aa951a",
+                  "number": "2",
+                  "title": "Cemetery",
+                  "length": 241188
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

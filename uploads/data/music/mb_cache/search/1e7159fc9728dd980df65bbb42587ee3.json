@@ -1,0 +1,125 @@
+{
+  "created": "2026-05-18T05:55:07.024Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "826fce12-1d7c-495c-b1c0-4b3aad596fd7",
+      "score": 100,
+      "artist-credit-id": "1cd7bd26-a608-3f8a-8b8c-7b471e5dd5c4",
+      "title": "No One Is Illegal",
+      "length": 217628,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Russkaja",
+          "artist": {
+            "id": "ada5f7ba-30da-4527-a4b0-e9b9989b6642",
+            "name": "Russkaja",
+            "sort-name": "Russkaja"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "085e1af7-a308-45c4-8acf-49e9b76a9674",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "No One Is Illegal",
+          "status": "Official",
+          "release-group": {
+            "id": "f12045a3-c9b5-4fad-b37c-7542d9036834",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "No One Is Illegal",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "8e14c35f-a7ea-3d5c-b1bc-2ae510858e5d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9edf4c1b-1ef5-440b-83fe-e887a7a879f4",
+                  "number": "3",
+                  "title": "No One Is Illegal",
+                  "length": 217628
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "b8a7c93b-9d48-41d5-bc85-5c3bb466abab",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "No One Is Illegal",
+          "status": "Official",
+          "release-group": {
+            "id": "f12045a3-c9b5-4fad-b37c-7542d9036834",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "No One Is Illegal",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "161d3ac1-f89e-3319-b2a6-7a4638a4bc0d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d2ae2563-c96d-4c69-abf1-c97bba854670",
+                  "number": "3",
+                  "title": "No One Is Illegal",
+                  "length": 218000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEQR41701101"
+      ]
+    }
+  ]
+}

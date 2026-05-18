@@ -1,0 +1,175 @@
+{
+  "created": "2026-05-18T05:50:12.808Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7e6b4f70-5fb2-40ea-8a04-9f26930ad150",
+      "score": 100,
+      "artist-credit-id": "fe9b3b56-3f92-38ce-9635-5cbc3619dd81",
+      "title": "Dornr\u00f6schen",
+      "length": 261839,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Krayenzeit",
+          "artist": {
+            "id": "e22ab945-9b9f-4f9b-9e29-f1883e999c58",
+            "name": "Krayenzeit",
+            "sort-name": "Krayenzeit"
+          }
+        }
+      ],
+      "first-release-date": "2019-03-29",
+      "releases": [
+        {
+          "id": "dc1b026a-ba19-4a09-8c13-1e4794b4023e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Saitent\u00e4nzer",
+          "status": "Official",
+          "release-group": {
+            "id": "9c0fc6f6-5f95-4c41-9653-af0354d602d9",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Saitent\u00e4nzer",
+            "primary-type": "Album"
+          },
+          "date": "2019-03-29",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-03-29",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "50d78a31-f5e9-3d7e-a0e6-4e79b8ef7e57",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6af84ede-78f2-428c-a68c-5be6f585f65a",
+                  "number": "10",
+                  "title": "Dornr\u00f6schen",
+                  "length": 261839
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0b6d7aaa-a32f-411b-be26-7f00a5a227af",
+      "score": 73,
+      "artist-credit-id": "1103e75e-72da-34fa-be55-e482f05d35fb",
+      "title": "Dornr\u00f6schen (Piano Version)",
+      "length": 282000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Krayenzeit",
+          "artist": {
+            "id": "e22ab945-9b9f-4f9b-9e29-f1883e999c58",
+            "name": "Krayenzeit",
+            "sort-name": "Krayenzeit"
+          }
+        },
+        {
+          "name": "MajorVoice",
+          "artist": {
+            "id": "fdcfed92-ac9a-4828-950f-4f05d328736a",
+            "name": "MajorVoice",
+            "sort-name": "MajorVoice",
+            "aliases": [
+              {
+                "sort-name": "Major Voice",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Major Voice",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-08-16",
+      "releases": [
+        {
+          "id": "2dde1851-0040-4314-9a5a-f36022026d2e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "fe9b3b56-3f92-38ce-9635-5cbc3619dd81",
+          "count": 1,
+          "title": "W.I.R - Wir, Ihr, Rock 'n Folk",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Krayenzeit",
+              "artist": {
+                "id": "e22ab945-9b9f-4f9b-9e29-f1883e999c58",
+                "name": "Krayenzeit",
+                "sort-name": "Krayenzeit"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "7938fbd0-4502-48d4-ac34-5eb208022ed5",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "W.I.R - Wir, Ihr, Rock 'n Folk",
+            "primary-type": "Album"
+          },
+          "date": "2019-08-16",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2019-08-16",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "34a310ef-2888-3630-a555-5345901ea074",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7b1c7680-647e-4d61-a537-6382ee8085d5",
+                  "number": "7",
+                  "title": "Dornr\u00f6schen (Piano Version)",
+                  "length": 282000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

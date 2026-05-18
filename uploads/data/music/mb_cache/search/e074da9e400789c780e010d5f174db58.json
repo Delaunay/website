@@ -1,0 +1,1419 @@
+{
+  "created": "2026-05-18T06:51:06.927Z",
+  "count": 17,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "feffde63-46a0-41c2-9d01-1e5937332b40",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 179000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007",
+      "releases": [
+        {
+          "id": "9fac5169-7352-4a64-be1b-1732c5903d5a",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "2007-01-25: Rexall Place, Edmonton, AB, Canada",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d800bf83-be16-45fc-8f21-9976f53c0b76",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2007-01-25: Rexall Place, Edmonton, AB, Canada",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "5782d21c-d2d7-32b4-b9df-86063c0dcbf8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "93909640-273f-3721-9f77-f4781588c6f1",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 179000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7d2b6f1-34eb-4765-bc9f-6d351c26b98a",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 237000,
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-23",
+      "releases": [
+        {
+          "id": "b7a564ce-dfc3-4bad-95fa-1533ac5949e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 3,
+          "title": "Billy Talent 666 Live Deluxe Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2007",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "161fcc63-7798-31ff-a4b9-7177629d75dc",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "3c6c44e7-a8fa-4859-8840-61a7582f7a18",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 237000
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4631a17e-c16e-4086-818a-6abea009525c",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 160659,
+      "disambiguation": "live, 2006-06-17: MTV Campus Invasion, Ziegelwiese, Halle, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "6fef2cc9-de4c-40a9-bc42-ca48f9144622",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "Live at Campus Invasion Halle",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c31dab73-f1d0-4a58-9d05-b6b4e29e1dbc",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live at Campus Invasion Halle",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 10,
+          "media": [
+            {
+              "id": "e8df6875-18da-37e6-a387-62bdaf2298cf",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "b5a2be56-5c46-47c1-a641-d53b91e3f605",
+                  "number": "5",
+                  "title": "The Ex",
+                  "length": 160659
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a59e1bcf-e343-4cc2-8b3d-7d088adee29a",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 175000,
+      "disambiguation": "Music video",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bf119748-861b-4e14-93d7-c6344b8b3aed",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 160040,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-23",
+      "releases": [
+        {
+          "id": "b7807119-9f04-43d1-a27c-c63fb84116b2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "666 Live",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 19,
+          "media": [
+            {
+              "id": "ae64728b-d144-3219-b097-5abc37b554a1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f72463e5-d2ed-4979-a481-886f33fb9856",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 160040
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "b7a564ce-dfc3-4bad-95fa-1533ac5949e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 3,
+          "title": "Billy Talent 666 Live Deluxe Edition",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-23",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-23",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2007",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 50,
+          "media": [
+            {
+              "id": "3d01c311-5e50-39d6-a45f-fe7f400b9e9c",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e8b7090a-f40f-4307-b39c-e0506730f99b",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 160040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "480c0d3f-5cd7-403e-9e23-090283fce918",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 17,
+          "media": [
+            {
+              "id": "f9916847-4213-32db-be27-db1d081b8ac5",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "5c2b9603-83e4-3b4b-97bf-0fbdb8b6b61b",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 160040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "c49d3013-b3e8-4240-8f40-5fe548e5f2bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "5f1e494c-72a2-3cd4-8b1e-babddcc2435e",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0871eaa4-6a11-324b-8785-a9d54ab42a15",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 160040
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "405de8e2-a55c-414e-a18b-56d8a0b999b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "65967f3b-28f5-3476-848d-edcd6713ddab",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "340a6cc7-e366-46b8-8991-f29ee81e7a5d",
+                  "number": "8",
+                  "title": "The Ex",
+                  "length": 160040
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 7
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "CAW110702954"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "emo"
+        }
+      ]
+    },
+    {
+      "id": "ef794173-57cd-4ea6-b718-72a500eb25c6",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 166000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006",
+      "releases": [
+        {
+          "id": "89a01f63-1ac5-48e5-93ea-cb202daf41da",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "2006-07-29: Warped Tour: Comerica Park, Detroit, MI, USA",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ff8e27e6-2555-4f2d-a43a-341422f3bc02",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "2006-07-29: Warped Tour: Comerica Park, Detroit, MI, USA",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2006",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "b4be7790-d2fc-3811-9635-5fca9110a25a",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c3e66eeb-fe6c-34e8-91f4-68d131cafb5a",
+                  "number": "6",
+                  "title": "The Ex",
+                  "length": 166000
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18b1c2cc-7f7a-4934-8396-5c2812563e83",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 161000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2002",
+      "releases": [
+        {
+          "id": "c772258e-14a7-479e-93f8-34f51d989cdd",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "[Industry Demo]",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5e2eac5b-482b-34ce-863c-7432fe9e3c66",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "[Industry Demo]",
+            "primary-type": "EP",
+            "secondary-types": [
+              "Demo"
+            ],
+            "secondary-type-ids": [
+              "81598169-0d6c-3bce-b4be-866fa658eda3"
+            ]
+          },
+          "track-count": 6,
+          "media": [
+            {
+              "id": "39c5963c-0aba-30e3-8323-c18b7e4e886f",
+              "position": 1,
+              "track": [
+                {
+                  "id": "395582fa-5c03-3f44-9162-49b5af727b4d",
+                  "number": "3",
+                  "title": "The Ex",
+                  "length": 161000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa25f2f4-8c94-489c-9ae4-3b4ba3fe716d",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "c249dd20-7c34-46a3-b733-61e09e8190be",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 1,
+          "title": "Try Honesty (live at Breakout)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe13fe9e-b19a-3fd1-924e-500a8e62ed86",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Try Honesty (live at Breakout)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "df8f4307-0a54-349d-8a3a-501f4c065898",
+              "position": 1,
+              "track": [
+                {
+                  "id": "fe3b2104-a701-3aaa-aac6-04a372e6faa0",
+                  "number": "2",
+                  "title": "The Ex"
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5af10638-3b8d-4f4f-97e9-494b3a45f894",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "length": 204000,
+      "disambiguation": "live, 2006-09-16: Manchester Academy, Manchester, UK",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2006-09-16",
+      "releases": [
+        {
+          "id": "3f7cb725-72e3-499c-ae4f-a55b06326d6f",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "Live From The UK Sept./2006 - 16:09:06 Manchester Academy",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "271b9398-5f37-4dad-97aa-8ee46af5727e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006-09-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-09-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "53ce06e5-4624-3638-ad5e-7c8e82968e22",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "14686923-94e5-46bf-a2b3-a087d6f7a924",
+                  "number": "7",
+                  "title": "The Ex",
+                  "length": 204000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "270ee019-614a-4d41-af03-2f1da67cb62c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "271b9398-5f37-4dad-97aa-8ee46af5727e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live From the UK Sept./2006: 16:09:06: Manchester, Manchester Academy",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2006-09-16",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2006-09-16",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "75bd3525-e121-3a3f-bf65-732161fd720f",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "103007cf-fe12-3bcc-b523-11ffd1164bb7",
+                  "number": "7",
+                  "title": "The Ex"
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    },
+    {
+      "id": "d14d8500-ac9e-4ba3-bd3d-70fb00558517",
+      "score": 100,
+      "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+      "title": "The Ex",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "Billy Talent",
+          "artist": {
+            "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+            "name": "Billy Talent",
+            "sort-name": "Billy Talent",
+            "disambiguation": "Canadian punk rock band",
+            "aliases": [
+              {
+                "sort-name": "Pezz",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Pezz",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Billy Talent",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Billy Talent",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": "1999",
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11-27",
+      "releases": [
+        {
+          "id": "405de8e2-a55c-414e-a18b-56d8a0b999b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "42245b09-e363-3ae8-9856-0372f0dd6073",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "e8584a48-f0b4-4abd-9ab7-9dcbe1106f6c",
+                  "number": "8",
+                  "title": "The Ex"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        },
+        {
+          "id": "c49d3013-b3e8-4240-8f40-5fe548e5f2bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "c39e0385-9159-36d9-8837-0677a47bd671",
+          "count": 2,
+          "title": "666",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Billy Talent",
+              "artist": {
+                "id": "fd429857-5ace-4609-ae54-1502c3bdac11",
+                "name": "Billy Talent",
+                "sort-name": "Billy Talent",
+                "disambiguation": "Canadian punk rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "728f55c5-6c52-3416-9fa4-3abd12055394",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "666",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2007-11-27",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2007-11-27",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "ee9f367b-3d11-35dd-8c86-eba5c928ceda",
+              "position": 1,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "15c2f4b2-c452-4aef-9959-600b89beb863",
+                  "number": "8",
+                  "title": "The Ex"
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

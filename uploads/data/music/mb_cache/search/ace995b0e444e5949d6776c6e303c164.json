@@ -1,0 +1,643 @@
+{
+  "created": "2026-05-18T06:58:57.460Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cc13687b-ed3e-4bdf-8fad-3c37e381494b",
+      "score": 100,
+      "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+      "title": "Jalousie",
+      "length": 225707,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ang\u00e8le",
+          "artist": {
+            "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+            "name": "Ang\u00e8le",
+            "sort-name": "Ang\u00e8le",
+            "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken",
+            "aliases": [
+              {
+                "sort-name": "Van Laeken, Ang\u00e8le",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Ang\u00e8le Van Laeken",
+                "locale": "nl_BE",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Angele",
+                "name": "Angele",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tjamag, Angele",
+                "name": "Angele Tjamag",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-10-05",
+      "releases": [
+        {
+          "id": "0ac60aa1-33bc-41ff-b15d-cc15dc7cb5ee",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol",
+          "status": "Official",
+          "disambiguation": "24-Bit 44.1 kHz",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2018-10-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-10-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9816d6b6-9817-3aaf-952c-b144b2d1d5a2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8e857f2e-36d9-4efc-9003-53c266a9516c",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225707
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "953bf0de-9da4-486a-b4b2-521bb64d5a3e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2018-10-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-10-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6768c162-c765-3d0e-82b4-c10f2980ac8e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "047124ba-8a6d-400a-b877-8346456aeff3",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225707
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e7558989-5881-45b0-ba49-51af1d63a3f1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 2,
+          "title": "Brol La Suite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2019-11-07",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-11-07",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "ea8d145e-baf6-33c7-b411-45d1402f6f84",
+              "position": 2,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "79529f33-d1c2-479a-9694-bedf2d95b5e9",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225706
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "d61eac66-bab8-4ad4-94cf-76d0c8889dc7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol La Suite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2019",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2019",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "c00d1b87-f5f9-350a-99e9-3f1a91b77e2e",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "22faef1e-3654-4622-aff2-4e27ebc26386",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225706
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1a6b912a-624d-42d1-af96-8ca9d3d5a1d0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol La Suite",
+          "status": "Official",
+          "disambiguation": "Les Victoires de la Musique 2020",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2020-02-07",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2020-02-07",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "d05c63a0-9b94-39ab-948c-aff28dae68c6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a0b6e8a6-1ae1-4891-88b2-1a386a2df993",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225706
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "6ccb8099-1462-4a77-aaec-660f65926097",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol, la suite",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2019-11-08",
+          "country": "BE",
+          "release-events": [
+            {
+              "date": "2019-11-08",
+              "area": {
+                "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+                "name": "Belgium",
+                "sort-name": "Belgium",
+                "iso-3166-1-codes": [
+                  "BE"
+                ]
+              }
+            },
+            {
+              "date": "2019-11-08",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "21101b15-1635-3aaf-a453-97ccb9543605",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "90ca309e-6fb7-442b-9d40-ef480d382165",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 226000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "1e47c1ae-d291-42e1-8864-ff001e2335af",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "d1bea010-7085-34ba-b864-ca3d6e2cc369",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4f8bcba0-3d4f-45aa-a61b-f55b7dc0f69c",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225707
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e1dd3378-8660-4bde-8a82-e883b9492155",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Brol",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f5c122fd-4d97-4948-9f03-6515bd2ec667",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Brol",
+            "primary-type": "Album"
+          },
+          "date": "2018-10-05",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2018-10-05",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "3004306f-e951-3de0-a7b7-dc71488fadda",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "40846154-4006-443d-b75d-6720d0d80e85",
+                  "number": "3",
+                  "title": "Jalousie",
+                  "length": 225707
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "BE8HB1800007"
+      ]
+    },
+    {
+      "id": "d2dffc63-3a1e-4658-af54-0609f34a7721",
+      "score": 100,
+      "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+      "title": "Jalousie",
+      "length": 225706,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Ang\u00e8le",
+          "artist": {
+            "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+            "name": "Ang\u00e8le",
+            "sort-name": "Ang\u00e8le",
+            "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken",
+            "aliases": [
+              {
+                "sort-name": "Van Laeken, Ang\u00e8le",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Ang\u00e8le Van Laeken",
+                "locale": "nl_BE",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Angele",
+                "name": "Angele",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Tjamag, Angele",
+                "name": "Angele Tjamag",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-09-20",
+      "releases": [
+        {
+          "id": "c35ed12f-2fe7-4e69-93fc-d2e0b8a6dae0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "ed889a79-805c-3b3f-bcf3-48d257fed76c",
+          "count": 1,
+          "title": "Jalousie",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Ang\u00e8le",
+              "artist": {
+                "id": "dcd4701d-64ec-443d-bfbf-73fc87c44bd6",
+                "name": "Ang\u00e8le",
+                "sort-name": "Ang\u00e8le",
+                "disambiguation": "Belgian female singer, Ang\u00e8le Van Laeken"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "742fe5d1-5b2f-49c4-a989-be049f187d6f",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Jalousie",
+            "primary-type": "Single"
+          },
+          "date": "2018-09-20",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2018-09-20",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "230acd13-6bff-4726-86db-e2fc5e1cc291",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e666b5e2-629a-4e71-b72b-9c4a6b0cf8aa",
+                  "number": "1",
+                  "title": "Jalousie",
+                  "length": 225706
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

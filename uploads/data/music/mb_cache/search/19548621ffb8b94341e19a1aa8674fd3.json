@@ -1,0 +1,183 @@
+{
+  "created": "2026-05-18T07:02:05.294Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3e720ed6-c7ef-4f5e-a782-de81a1a59763",
+      "score": 100,
+      "artist-credit-id": "f45f8fdc-9448-30e3-947c-0488a7a332a6",
+      "title": "Observation galen",
+      "length": 109000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cosmic Overdose",
+          "artist": {
+            "id": "c1916e25-8cc0-4fb5-9ae3-5c07acea9b92",
+            "name": "Cosmic Overdose",
+            "sort-name": "Cosmic Overdose",
+            "disambiguation": "Swedish group, renamed to \u201cTwice a Man\u201d"
+          }
+        }
+      ],
+      "first-release-date": "1980",
+      "releases": [
+        {
+          "id": "34a44cf7-eac5-4af5-8e6d-6d9a4a10460c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Observation galen",
+          "status": "Official",
+          "release-group": {
+            "id": "54f38f94-496d-4cff-8e48-b0987e4ff3e6",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Observation galen",
+            "primary-type": "Single"
+          },
+          "date": "1980",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1980",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "bc1c749d-d4e7-360b-a947-8b191dc836d4",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "7e212ee0-990d-3233-90b6-5a59866c029b",
+                  "number": "A",
+                  "title": "Observation galen",
+                  "length": 109000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    },
+    {
+      "id": "0158b26f-f8e2-46b6-9cf5-2ae061f8030b",
+      "score": 100,
+      "artist-credit-id": "f45f8fdc-9448-30e3-947c-0488a7a332a6",
+      "title": "Observation galen",
+      "length": 111426,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Cosmic Overdose",
+          "artist": {
+            "id": "c1916e25-8cc0-4fb5-9ae3-5c07acea9b92",
+            "name": "Cosmic Overdose",
+            "sort-name": "Cosmic Overdose",
+            "disambiguation": "Swedish group, renamed to \u201cTwice a Man\u201d"
+          }
+        }
+      ],
+      "first-release-date": "1993-08-13",
+      "releases": [
+        {
+          "id": "84fa476b-c74d-4474-8ee9-6d72223f7db5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Ny v\u00e5g 78-82",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e0ded2f4-2698-3412-9c82-2fc1910400ed",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Ny v\u00e5g 78-82",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "1993-08-13",
+          "country": "SE",
+          "release-events": [
+            {
+              "date": "1993-08-13",
+              "area": {
+                "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+                "name": "Sweden",
+                "sort-name": "Sweden",
+                "iso-3166-1-codes": [
+                  "SE"
+                ]
+              }
+            }
+          ],
+          "track-count": 49,
+          "media": [
+            {
+              "id": "5238fdd3-b5c5-3bed-98c9-4f8c0c4f1581",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2c5d5c81-7894-319c-9ebc-0053049e44a5",
+                  "number": "23",
+                  "title": "Observation galen",
+                  "length": 111426
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 22
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        }
+      ]
+    }
+  ]
+}

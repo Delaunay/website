@@ -1,0 +1,444 @@
+{
+  "created": "2026-05-18T07:20:42.370Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "a4323a26-877e-44d5-8365-decd7ecc13d5",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Jet Fighter Plane",
+      "length": 244000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-04-20",
+      "releases": [
+        {
+          "id": "9fc9e4f3-66bd-4564-b171-322640682fb8",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Maximum Metal, Volume 217",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2db73e55-3b93-47b0-99b0-a9689e26ddc3",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Maximum Metal, Volume 217",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-04-20",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2016-04-20",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            },
+            {
+              "date": "2016-04-20",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            },
+            {
+              "date": "2016-04-20",
+              "area": {
+                "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+                "name": "Switzerland",
+                "sort-name": "Switzerland",
+                "iso-3166-1-codes": [
+                  "CH"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "58f21961-a56d-45ee-b5c5-9b48a37e7da0",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "508be857-c358-425b-acd6-872e31fcfb42",
+                  "number": "7",
+                  "title": "Jet Fighter Plane",
+                  "length": 246933
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "f4fcba92-4040-4af1-b899-eba20e0700dc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Universal Monsters",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ab941641-9052-43cd-93d3-543541a78f65",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Universal Monsters",
+            "primary-type": "Album"
+          },
+          "date": "2016-04-22",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2016-04-22",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "605bd983-4b36-3822-810e-7a3ce44665ea",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2ba1f27b-189a-44d5-b749-5897648c7723",
+                  "number": "2",
+                  "title": "Jet Fighter Plane",
+                  "length": 244000
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        }
+      ]
+    },
+    {
+      "id": "eec17645-20a7-4c9b-93bb-6eeccb78fdd4",
+      "score": 100,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Jet Fighter Plane",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-03-25",
+      "releases": [
+        {
+          "id": "afc1c74f-43fa-43fb-8c78-c9d74a50f559",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Monsters of Metal, Vol. 10",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1edbcd4e-355d-4ca4-a39f-dc74843ae8d4",
+            "title": "Monsters of Metal, Vol. 10",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016-03-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2016-03-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 81,
+          "media": [
+            {
+              "id": "96c7523f-4102-40dd-afb4-91b5b410c0e4",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "dfe8cd99-7783-4734-9baf-c02e540bf78d",
+                  "number": "26",
+                  "title": "Jet Fighter Plane"
+                }
+              ],
+              "track-count": 38,
+              "track-offset": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24b6e569-a212-4231-ab12-8439a6fdb6bc",
+      "score": 83,
+      "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+      "title": "Jet Fighter Plane (Gothic Dance Mix)",
+      "length": 349040,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The 69 Eyes",
+          "artist": {
+            "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+            "name": "The 69 Eyes",
+            "sort-name": "69 Eyes, The",
+            "aliases": [
+              {
+                "sort-name": "69 Eyes",
+                "name": "69 Eyes",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-03-18",
+      "releases": [
+        {
+          "id": "351f3074-702b-4ca5-a7fa-1acca09bf284",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Jet Fighter Plane / Dolce Vita",
+          "status": "Promotion",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8bf72681-499d-4e44-b996-c19ff5a63af1",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Jet Fighter Plane / Dolce Vita",
+            "primary-type": "EP"
+          },
+          "date": "2016-03-18",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2016-03-18",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "1d0b4abb-f786-3fb4-8fab-9b4ef798789b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a8a10826-513b-4bfb-8928-82b91af57e6c",
+                  "number": "1",
+                  "title": "Jet Fighter Plane (Gothic Dance Mix)",
+                  "length": 349040
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "50f692b8-f00d-4739-bacb-8f0b25f6f2b2",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "b9297b87-3ba3-3426-946d-7e7fd7e553d5",
+          "count": 1,
+          "title": "Jet Fighter Plane / Dolce Vita",
+          "status": "Promotion",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "The 69 Eyes",
+              "artist": {
+                "id": "ba1384a7-8b0e-4ea6-bf0c-f1ec17a06d14",
+                "name": "The 69 Eyes",
+                "sort-name": "69 Eyes, The"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8bf72681-499d-4e44-b996-c19ff5a63af1",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Jet Fighter Plane / Dolce Vita",
+            "primary-type": "EP"
+          },
+          "date": "2016-03-18",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2016-03-18",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "dc207df2-28dd-3e3b-8b18-8267db151b00",
+              "position": 1,
+              "format": "7\" Vinyl",
+              "track": [
+                {
+                  "id": "c6ac6f37-cdb5-4ea3-ba4a-b12fecb05d62",
+                  "number": "1",
+                  "title": "Jet Fighter Plane (Gothic Dance Mix)",
+                  "length": 349040
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

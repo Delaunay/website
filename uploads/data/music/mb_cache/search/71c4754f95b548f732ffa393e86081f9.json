@@ -1,0 +1,1083 @@
+{
+  "created": "2026-05-18T06:11:57.011Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "9e2b2771-339a-4b21-9471-5b55bb705120",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Spiral Static",
+      "length": 285000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2000-03-01",
+      "releases": [
+        {
+          "id": "6bfae325-47bb-47ea-94dc-59dc556e8439",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Do We Need This: B\u2010Sides & Rarities (1998\u20132007)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fa789537-5c5e-46bd-a1de-e03397a6318d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Do We Need This: B\u2010Sides & Rarities (1998\u20132007)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-12-07",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2007-12-07",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "71444558-1dab-31d2-8b4e-d92cf6481346",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "33cdbf4f-bb90-3119-a2e8-2a07919e0020",
+                  "number": "19",
+                  "title": "Spiral Static",
+                  "length": 286000
+                }
+              ],
+              "track-count": 25,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "6ed521a4-94eb-4295-809f-cffd5bf6e90b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Showbiz",
+          "status": "Official",
+          "disambiguation": "24bit/96kHz",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a842d860-a023-3a71-ad2e-a3a94cffabd7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Showbiz",
+            "primary-type": "Album"
+          },
+          "date": "2015-09-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015-09-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "666831cd-e88e-3cda-9dc1-62d8e8a70095",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "021770b6-7939-496a-97a0-65fc3a591086",
+                  "number": "13",
+                  "title": "Spiral Static",
+                  "length": 285000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "4b812512-5dc1-4f61-9104-7d3289390395",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Showbiz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a842d860-a023-3a71-ad2e-a3a94cffabd7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Showbiz",
+            "primary-type": "Album"
+          },
+          "date": "2000-03-01",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2000-03-01",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "1970782f-5d48-3731-a060-8bf9d5b0f40a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a2f5d9c5-2d5d-33f7-ad11-c078688a1e0f",
+                  "number": "10",
+                  "title": "Spiral Static",
+                  "length": 284066
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "defc01ee-e073-4d77-b340-a42fe8e32624",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Origin of Muse",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 114,
+          "media": [
+            {
+              "id": "3554ff48-760d-37ce-8276-4843ea5ff197",
+              "position": 3,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "08d9e66c-315a-4c4c-aaa5-13e0acf49f4f",
+                  "number": "10",
+                  "title": "Spiral Static",
+                  "length": 284000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "c4b20798-1451-47fa-8b15-44dba68de8cf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Showbiz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a842d860-a023-3a71-ad2e-a3a94cffabd7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Showbiz",
+            "primary-type": "Album"
+          },
+          "date": "2010-04-27",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-04-27",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "4877f17c-b421-3a83-9a21-a778d9f4e626",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a6911993-b4f5-4e43-859e-a5520d6ae40e",
+                  "number": "13",
+                  "title": "Spiral Static",
+                  "length": 283863
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "6fbabc13-9f6d-412e-b7b2-8399e7f93fc5",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Showbiz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a842d860-a023-3a71-ad2e-a3a94cffabd7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Showbiz",
+            "primary-type": "Album"
+          },
+          "date": "2015",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2015",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "54b6a931-5264-3646-86d3-113b55f945f9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "06b950f3-d8fc-4244-af2a-f994ec824bd6",
+                  "number": "13",
+                  "title": "Spiral Static",
+                  "length": 285229
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "1a94f48e-8a6c-34ed-a466-29ee3262a164",
+              "position": 7,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "13a3a7c8-c2b9-49e8-8d58-1abecf174dd6",
+                  "number": "10",
+                  "title": "Spiral Static",
+                  "length": 285893
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "1533e59c-80e7-4ea8-91fc-c7facc0586f2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 13,
+          "title": "Origin of Muse",
+          "status": "Official",
+          "disambiguation": "limited edition",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "6b193a09-0374-4800-9091-637ce9640206",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Origin of Muse",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2019-12-06",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2019-12-06",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 139,
+          "media": [
+            {
+              "id": "122eb6f7-14cb-31ce-930e-b73b04353817",
+              "position": 2,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "10eb3a50-d218-4fc7-ac25-935c16496a40",
+                  "number": "C3",
+                  "title": "Spiral Static",
+                  "length": 284000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "39fcb694-1e19-46de-9831-d0585a1bae84",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Plug In Baby",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f4584169-7028-3ddd-afdf-f28810bb2515",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Plug In Baby",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "c12ac92e-981b-3964-bbe8-fa489b69ba50",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "f505dad6-b41b-42fa-b8c1-bf17864482c7",
+                  "number": "2",
+                  "title": "Spiral Static",
+                  "length": 286626
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d47507b1-4487-4160-b076-b07fbdbf0afb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Plug In Baby",
+          "status": "Official",
+          "disambiguation": "Part 2",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f4584169-7028-3ddd-afdf-f28810bb2515",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Plug In Baby",
+            "primary-type": "Single"
+          },
+          "date": "2001-03-05",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2001-03-05",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "c34e70af-d9da-3161-92ce-511d86979b69",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7d74031a-eee7-342a-9673-6e1c1d5e10d4",
+                  "number": "2",
+                  "title": "Spiral Static",
+                  "length": 286626
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "3d44912d-0460-3b49-a707-3fe9c3b90630",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Showbiz",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a842d860-a023-3a71-ad2e-a3a94cffabd7",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Showbiz",
+            "primary-type": "Album"
+          },
+          "date": "2006-08-02",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-08-02",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "b29bad85-5050-3d0e-bf62-e14ee0fc1e68",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a7b372c2-fa6b-3e76-85f3-7c0902bac290",
+                  "number": "10",
+                  "title": "Spiral Static",
+                  "length": 284066
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "587b9a24-77cc-41f3-b193-bb2afac69b11",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Inspirations, Part I",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5f807239-4ee8-306c-bef1-78fa9b92f048",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Inspirations, Part I",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "324a3f16-adae-3544-9f18-5924b9bf7b23",
+              "position": 1,
+              "track": [
+                {
+                  "id": "addc7f67-d0c2-35a7-b758-3b3a60837e00",
+                  "number": "1",
+                  "title": "Spiral Static",
+                  "length": 286000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "5f8c22d1-029b-4117-8ed6-85f5016eac87",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 9,
+          "title": "Symmetry Box",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "39e4ec88-13e8-40b7-b574-f00a51660689",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Symmetry Box",
+            "primary-type": "Single",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 28,
+          "media": [
+            {
+              "id": "4b6a0c35-a641-3721-aa12-3930dcee81e8",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "553a05ce-06f7-4201-8130-fff267122053",
+                  "number": "2",
+                  "title": "Spiral Static"
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "GBAHT1500319",
+        "GBCVT0000001",
+        "GBAHT1700048"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "e5d58f6a-1d3d-4156-b7ff-890f022e8d84",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Spiral Static",
+      "length": 288013,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2001",
+      "releases": [
+        {
+          "id": "6b930a53-8982-4111-ab41-bfd45afc0708",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 1,
+          "title": "Plug In Baby",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f4584169-7028-3ddd-afdf-f28810bb2515",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Plug In Baby",
+            "primary-type": "Single"
+          },
+          "date": "2001",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2001",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "0eb7cea4-4c54-37ac-86c0-8cce1d49ffc9",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "353ff8c7-f1a4-3964-a894-14556eed6118",
+                  "number": "4",
+                  "title": "Spiral Static",
+                  "length": 288013
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fca61db0-1f98-415c-aeb2-865f04be4ed3",
+      "score": 100,
+      "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+      "title": "Spiral Static",
+      "length": 287000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Muse",
+          "artist": {
+            "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+            "name": "Muse",
+            "sort-name": "Muse",
+            "disambiguation": "UK rock band",
+            "aliases": [
+              {
+                "sort-name": "Rocket Baby Dolls",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Rocket Baby Dolls",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": null,
+                "begin-date": "1996-01",
+                "end-date": "1998"
+              },
+              {
+                "sort-name": "Muse",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Muse",
+                "locale": "en",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "\u30df\u30e5\u30fc\u30ba",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "\u30df\u30e5\u30fc\u30ba",
+                "locale": "ja",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "22ab9eb9-4099-4062-8fd2-f20099db153b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "841fa710-5ff2-3f25-9cb4-ca0e2e25bea9",
+          "count": 2,
+          "title": "B\u2010Sides & Rarities",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Muse",
+              "artist": {
+                "id": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+                "name": "Muse",
+                "sort-name": "Muse",
+                "disambiguation": "UK rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2ef2c91a-99ba-4e10-a74b-088d7bc14b23",
+            "type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "primary-type-id": "4fc3be2b-de1e-396b-a933-beb8f1607a22",
+            "title": "B\u2010Sides & Rarities",
+            "primary-type": "Other",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "e3a4954b-e02e-3c89-a205-ead518298037",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "71160045-4ac7-4a27-b615-21b500a2b226",
+                  "number": "2",
+                  "title": "Spiral Static",
+                  "length": 287000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

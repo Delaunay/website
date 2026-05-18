@@ -1,0 +1,4835 @@
+{
+  "created": "2026-05-18T07:14:20.130Z",
+  "count": 23,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "dc351cfc-6985-4482-bdfe-3d2893e1735c",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 218826,
+      "disambiguation": "radio edit",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-03-17",
+      "releases": [
+        {
+          "id": "ae3b3d97-c751-4428-a72c-9a4b2ae30abf",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Aurinkoista suomipoppia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3ef0cf67-02cc-4587-94f3-d2485b71b330",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Aurinkoista suomipoppia",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "a660f4d7-59d3-3e26-8a2f-22dcc170836a",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "de249ea2-b773-4761-9cc9-78e0c850422f",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 217000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "39a7c3e3-c2e8-4a58-aee3-c3993508e8f3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "gotv: be part of it, Vol 01",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b3796e7a-ee45-4ace-8568-4655a6d8cd6b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "gotv: be part of it, Vol 01",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-03-24",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2004-03-24",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "7ccac170-0745-3280-9fc0-80662870b8c5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "11bfef5e-dc19-3f1e-9c53-6cd1ea4e2d0f",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 218000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "1fb742c5-9297-41da-b2ec-6ebfe35346d7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Just the Best, Vol. 44",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f964884b-9a64-363f-8e2e-6320c5cd2b1e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Just the Best, Vol. 44",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-04-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-04-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 40,
+          "media": [
+            {
+              "id": "5274b7fb-1929-3270-a4f6-e6a97efa0b3d",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9dd47c87-8086-33f2-8234-e4f7a6987dde",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 217933
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "d86e211c-14f9-4041-b7e2-c232f2d0d991",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "0dade769-267b-3e82-a52c-e10cdb4204b2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c1159ff7-938c-472f-9e65-79b3e30b3284",
+                  "number": "1",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 219386
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "eff70cd3-8f7b-4ce5-a755-b0dd2b7cc049",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "XX",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0618b153-c91a-4e42-a488-586187aea76d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "XX: Two Decades of Love Metal",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-10-26",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-10-26",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e02d7df5-ce66-37e7-8dee-6ed8ed4b9e6b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0f2f6564-63a9-4a63-bb01-11cb0f86c826",
+                  "number": "6",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 218826
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "fc7ec97a-4abf-43a3-9721-50b9c618f3e3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "XX - Two Decades of Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0618b153-c91a-4e42-a488-586187aea76d",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "XX: Two Decades of Love Metal",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-10-26",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2012-10-26",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "c5ff41dc-c9e8-3dc2-bfaf-1a635f25b0c1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "fcf5d1df-a774-38ed-a3d6-16f4459edbc4",
+                  "number": "6",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 218000
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "7b3eec3c-d69d-4da8-8238-7cd0c4515627",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Best of Pop 2003",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "44866d74-f8ac-4124-8f10-783ab90ff3a0",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Best of Pop 2003",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-11-21",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-11-21",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "fa2e9b77-d798-3b86-9ed8-74934561f8cc",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "266a84ee-88a6-3a28-b327-e7f26fb7aee0",
+                  "number": "16",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 218693
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "f3bcc203-c0d6-4a59-b5e2-ceb14552d530",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "6b4d3151-f3bc-331f-908d-2ec0c9ff519b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "fb72306b-aefa-3ef7-b7bb-6f4f245f31e0",
+                  "number": "1",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 220773
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "52fa17b6-9f6a-41a4-b36e-d07d0343bf49",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Orkus Presents: The Best of 2003",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "12019077-176d-384b-ae16-caef418d8446",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Orkus Presents: The Best of 2003",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-12-08",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-12-08",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "78cb6343-1de6-3d64-8174-cc71316ac9fb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4df239ca-757c-3632-ae9b-10286c996c3b",
+                  "number": "9",
+                  "title": "Funeral of Hearts (radio edit)",
+                  "length": 219133
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "d9eed0f9-4d7d-42c2-838f-259edfb7e107",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Alternative Moments IV",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "686a5a95-726b-38d3-a756-506a5925c889",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alternative Moments IV",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-08-25",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-08-25",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "ae24789b-a2d6-3222-b9f9-2ed71ad70026",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7d59b8b8-05e1-3631-aedc-6ca76a31d822",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 218266
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "c303b510-054f-4d08-9de2-3c135c2bc6d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "204772f6-2efa-3ec7-940f-17ebf2c7e4f5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8cfa9732-b26d-3ead-b742-84e63dfc44f6",
+                  "number": "1",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 219386
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "c2c74dce-0f7b-433b-9b90-948c86be4f7a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "abe5bd97-6a9e-30a9-b7da-92ae915f4236",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8a963bfc-213e-3c4b-b7fd-48e6a38c980b",
+                  "number": "1",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 219000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "e78e6c5c-de1b-3000-9966-d52d3fe5afba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-24",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2003-03-24",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "579d62ea-8be8-30c3-a557-8b17823d041f",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "badd9446-4c4e-3572-ac7d-6021b45d2894",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 221453
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "5779d311-248d-3631-885b-a7f889a809e8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "378dee02-504d-3f91-bc21-0ad7e291c4ba",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "c280afe0-9659-3a96-a7c3-fb557b73d127",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 221453
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0d1e5b7b-d0f3-4d39-88d6-02059a77a265",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "9e9ee886-6af9-3f7e-8137-e7119c03b7a8",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "5f696a1c-1214-31dc-b56b-3a4838a0821b",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (radio edit)",
+                  "length": 221453
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "62e9d127-b8f7-48e5-9de3-8633f12f8cb3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "100 Hits: Drivetime Anthems",
+          "status": "Official",
+          "disambiguation": "2016 edition",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1300e773-70e6-492b-ae74-dcd153b2b37e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Hits: Drivetime Anthems",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2016",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2016",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "7ffcfa2d-76af-3f5a-b478-ddd6ed66b3b3",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "52a607cd-e8c6-4ae1-b4f4-9af8b6b47c10",
+                  "number": "19",
+                  "title": "The Funeral of Hearts",
+                  "length": 219240
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "47aa0814-10a4-4a7f-b8c3-69065da3eef6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "c11890bf-3c34-36c2-8177-229371bffe90",
+              "position": 1,
+              "track": [
+                {
+                  "id": "c8d03e32-6d8d-3e68-8b29-437d4b1389ca",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 218066
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "a1ad9835-172a-4792-9e38-c3f796c55a01",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "716c554d-fa94-3aad-a6f8-5c86cf512f87",
+              "position": 1,
+              "track": [
+                {
+                  "id": "13878f86-d4ad-37b4-872c-d022767aadb1",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 218000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0f8258c2-ab71-4b27-bcf5-ebb72f318889",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "100 Hits: Drivetime Anthems",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1300e773-70e6-492b-ae74-dcd153b2b37e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Hits: Drivetime Anthems",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2013-10-28",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2013-10-28",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "8935dcbb-72db-3d5d-8d43-cffdbf995a9a",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "481ff0db-6b1c-42d4-a1e5-d1c9169e241e",
+                  "number": "19",
+                  "title": "The Funeral of Hearts",
+                  "length": 218066
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "DEC760300175"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        }
+      ]
+    },
+    {
+      "id": "8cb523fa-b69f-4bb9-a221-737edc5a9c93",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 307773,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2004",
+      "releases": [
+        {
+          "id": "2fba052d-d935-4ff2-86be-19dd9a98d18e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "When Death Is In Love With Me",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ba678e44-c916-4bdc-9a30-09d18f4e5f77",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "When Death Is In Love With Me",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2004",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "f2fcdde6-51e0-3004-8126-4d271ff951bb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8344fd1a-7984-4032-8326-f41ba811e357",
+                  "number": "15",
+                  "title": "The Funeral of Hearts",
+                  "length": 307773
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 14
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c245d31d-8a62-47ac-b21b-86d6455837e4",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 270242,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2024-10-25",
+      "releases": [
+        {
+          "id": "11b99efd-5a29-4d96-a244-deb98951639c",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "When Love & Death Embrace: The Best Of Him 1997-2003",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d642a896-5688-47d9-a7e2-d9f346d5d2cb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "When Love & Death Embrace: The Best Of Him 1997-2003",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2024-10-25",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2024-10-25",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "0ab86106-a689-3713-b68f-2932472c5d77",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "bc259175-ba9b-40cc-998c-d39192949fbe",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270242
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a1b5018-11d2-4e9e-899f-d9b6ede9f6f8",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-04-29",
+      "releases": [
+        {
+          "id": "690f4c1a-b7d6-4bb1-b42f-167a196c4f55",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Digital Versatile Doom: Live At The Orpheum Theatre XXXVII A.S.",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "505cf297-b047-3683-ba06-f8a27498631e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-04-29",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2008-04-29",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "00feca65-5a0b-3829-8393-508ab39a82f6",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c0289826-9681-4d75-ba82-fab17ddb8b81",
+                  "number": "16",
+                  "title": "The Funeral of Hearts"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8495f411-04f6-4d25-ac1e-7024723801fe",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 285632,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003",
+      "releases": [
+        {
+          "id": "150bfcfe-858a-4ad5-9224-8a13970274a4",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Live Metal",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8bc403a7-bff2-4441-8ed9-b12b30c5b4ca",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live Metal",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "89ad1367-5b2c-307e-9ac0-6fd4b8aa1bfb",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "569008f2-3563-4572-83fa-aca2bbb47d94",
+                  "number": "8",
+                  "title": "The Funeral of Hearts",
+                  "length": 285632
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ebc09025-7938-45a3-a18e-6333c212f27e",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-04-29",
+      "releases": [
+        {
+          "id": "690f4c1a-b7d6-4bb1-b42f-167a196c4f55",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Digital Versatile Doom: Live At The Orpheum Theatre XXXVII A.S.",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "505cf297-b047-3683-ba06-f8a27498631e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-04-29",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2008-04-29",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 38,
+          "media": [
+            {
+              "id": "013bbba8-ccdb-3357-bad2-58dfee8d5362",
+              "position": 2,
+              "format": "DVD",
+              "track": [
+                {
+                  "id": "75815429-7d62-43c9-bf2c-52cf0e07fb0a",
+                  "number": "18",
+                  "title": "The Funeral of Hearts"
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "744d2931-ff74-4a6d-9e6b-22c5c6ba86d1",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 270226,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2003-03-17",
+      "releases": [
+        {
+          "id": "d36fd7b9-9d1d-4c76-ac8f-f52a92a122a4",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Love Metal",
+          "status": "Official",
+          "disambiguation": "Deluxe Re-Mastered",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2014-12-15",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2014-12-15",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "6555229d-bb43-49ce-89b3-7775a00bc8c1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "88075487-0305-4167-aea1-9dffd70274a6",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0a3f7156-44ef-430a-87e1-3d0d7c7ea4b1",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2006-02-22",
+          "country": "JP",
+          "release-events": [
+            {
+              "date": "2006-02-22",
+              "area": {
+                "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                "name": "Japan",
+                "sort-name": "Japan",
+                "iso-3166-1-codes": [
+                  "JP"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "0dadc420-686c-463d-9eb1-5ac0227e368f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "da2ce7bb-20ac-4bea-b920-40e9af67b847",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c2c74dce-0f7b-433b-9b90-948c86be4f7a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "abe5bd97-6a9e-30a9-b7da-92ae915f4236",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9fc8e78e-4728-36e1-a869-8078602d002f",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (album version)",
+                  "length": 271000
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "4c33188a-e000-4bfb-810d-f2b22d4ef835",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 5,
+          "title": "100 Hits: Total Rock",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "26bd6802-f69b-4299-89fe-cfc87b5b0990",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "100 Hits: Total Rock",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-10-06",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2014-10-06",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 100,
+          "media": [
+            {
+              "id": "b2f8d6be-351b-3ca1-835b-f9d35f9579de",
+              "position": 5,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9fc8dd17-7c42-4819-b65c-a0a0e83b6642",
+                  "number": "10",
+                  "title": "The Funeral of Hearts",
+                  "length": 269146
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "1ac86995-cef4-4e5a-9b0e-d9bd57d6606d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "7 vidas",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dd793e00-e373-38b0-bf2a-22fb653225bd",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "7 vidas",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "ES",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+                "name": "Spain",
+                "sort-name": "Spain",
+                "iso-3166-1-codes": [
+                  "ES"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "19844812-5042-3dd2-b375-d5412b62b2fa",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c02fc99f-1533-3b07-9438-e1441b118efa",
+                  "number": "16",
+                  "title": "The Funeral of Hearts",
+                  "length": 269000
+                }
+              ],
+              "track-count": 23,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "9eebd995-c159-46dd-aac1-beb2d3d8d818",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Hit 40 UK",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "913c55c3-0026-36b1-9372-a0166f73e47e",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hit 40 UK",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 40,
+          "media": [
+            {
+              "id": "bce1b823-177d-3240-be1a-56819f8b6cda",
+              "position": 1,
+              "track": [
+                {
+                  "id": "3cb5968c-1fa0-3dc8-9a69-0d1d75a933fa",
+                  "number": "18",
+                  "title": "The Funeral of Hearts",
+                  "length": 269240
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 17
+            }
+          ]
+        },
+        {
+          "id": "f5fc495c-5416-44a8-9aa3-b849df196e14",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Greatest Hits",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "dbdae601-3f34-4f35-8723-3f4f904b3c56",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Greatest Hits",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "b1fdc5b2-18c8-3810-869c-81d42d0ce7fd",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "a43c6955-0489-4944-8def-aadd68e0760a",
+                  "number": "9",
+                  "title": "The Funeral of Hearts",
+                  "length": 268000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "42229d2c-4a35-4b1c-a5df-ac2a5a848c39",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Alternative Collection",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3ff9ac92-d2ba-30c4-8fa4-2eaf7d74db09",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Alternative Collection",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "6e5a8d2c-739c-39f1-b68b-b8f3be86aa04",
+              "position": 1,
+              "track": [
+                {
+                  "id": "a18b34cb-6461-3312-b36c-0e13f771789b",
+                  "number": "1",
+                  "title": "The Funeral of Hearts",
+                  "length": 274320
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "265a0472-a944-434c-b80b-ff7bf417ae79",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 6,
+          "title": "Lashes to Ashes, Lust to Dust: A Vinyl Retrospective \u201996\u2010\u201903",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "30bebd95-e867-4df7-a1e5-353c15efed60",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lashes to Ashes, Lust to Dust: A Vinyl Retrospective \u201996\u2010\u201903",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-12-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-12-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 126,
+          "media": [
+            {
+              "id": "1c4a21fb-0b6c-33b3-8ea4-4611c1770ad7",
+              "position": 6,
+              "format": "USB Flash Drive",
+              "track": [
+                {
+                  "id": "8c0c6975-9385-4721-b066-9cf9eddd9425",
+                  "number": "62",
+                  "title": "The Funeral of Hearts",
+                  "length": 270000
+                }
+              ],
+              "track-count": 80,
+              "track-offset": 61
+            }
+          ]
+        },
+        {
+          "id": "1e83b6d2-dc34-4183-99b6-45242dce3409",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d2205a27-780c-40c5-924c-cd46014ca686",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Love Metal",
+            "primary-type": "EP"
+          },
+          "date": "2003-04-15",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2003-04-15",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "5111c334-ee3d-3fcf-9cb7-60971f990c4e",
+              "position": 1,
+              "format": "CD-R",
+              "track": [
+                {
+                  "id": "227f0a12-ae8f-431f-923f-b41c240a0f85",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270000
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "265a0472-a944-434c-b80b-ff7bf417ae79",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 6,
+          "title": "Lashes to Ashes, Lust to Dust: A Vinyl Retrospective \u201996\u2010\u201903",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "30bebd95-e867-4df7-a1e5-353c15efed60",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Lashes to Ashes, Lust to Dust: A Vinyl Retrospective \u201996\u2010\u201903",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2014-12-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-12-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 126,
+          "media": [
+            {
+              "id": "f261b7e9-897a-3846-b029-34fd02c9dfd3",
+              "position": 5,
+              "format": "Vinyl",
+              "track": [
+                {
+                  "id": "b5611e22-160d-47b6-a093-9ca67231a1c8",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b1c234be-6d0d-4294-9923-a300680e9c96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Gothic Love",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a22ee724-ad3b-34c1-8002-a13bc8e07d2b",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Gothic Love",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "f6aa1eb5-f10e-34cc-9663-2af8c22e0a59",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3780aeb9-9a61-326a-b005-2eec702443ed",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 273160
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "863fa4a2-14ee-4fa6-a8f8-28d10d94e339",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "track-count": 18,
+          "media": [
+            {
+              "id": "e8dff4a6-cd34-36b8-ae72-4cbca860734f",
+              "position": 1,
+              "track": [
+                {
+                  "id": "2a3db3d6-7006-3329-9119-6cfa4c47c538",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 272320
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d86a24b2-e97f-45b0-8fa2-cd4a386c5645",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Schattenreich, Volume 1",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "babae1d5-bb03-3fd3-a8b3-481a5c67162c",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Schattenreich, Volume 1",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2003-10-27",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-10-27",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 34,
+          "media": [
+            {
+              "id": "2790d798-31d2-3d4c-a39c-a9f873728997",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cfb11d11-98ad-32e3-ba20-a02280b7e6f4",
+                  "number": "19",
+                  "title": "The Funeral of Hearts",
+                  "length": 268000
+                }
+              ],
+              "track-count": 19,
+              "track-offset": 18
+            }
+          ]
+        },
+        {
+          "id": "e6c521f1-b91d-49d1-ba06-9ff83969e73a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "51ad8845-38d1-33e3-93c4-8f11ddc574ac",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "11eb939b-611b-350a-8443-830be37e6346",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "1619d11f-6fbe-33b5-ad56-84bb790c6aef",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-04-20",
+          "country": "CA",
+          "release-events": [
+            {
+              "date": "2004-04-20",
+              "area": {
+                "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+                "name": "Canada",
+                "sort-name": "Canada",
+                "iso-3166-1-codes": [
+                  "CA"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "8e64b3bd-c26d-39dc-bea1-78bcb693a06c",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "46003072-c160-328b-bdd4-38d4e162d8cb",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 270240
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "f8b716c6-ef5b-4e59-91b3-2acb903c44b2",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+          "status": "Official",
+          "disambiguation": "Limited Edition",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-03-15",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2004-03-15",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "ac6a48fe-fd60-3901-90d9-ac37848bb66e",
+              "position": 1,
+              "format": "Enhanced CD",
+              "track": [
+                {
+                  "id": "2efb871e-8da5-395b-ba78-42f7b49f6085",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 270240
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "60bfa8bc-acdb-408e-969b-3ee188b78cad",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No: Greatest Hits 1997\u20132004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-03-15",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2004-03-15",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "7fedc2e1-876d-38ab-9c91-59bcba100dfe",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f83ed09e-bb25-489b-8c3e-f6c6f769a398",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 270240
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "a1eac332-1fee-49fe-a449-df3c680cdb15",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2004",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "42088a58-decc-3098-b212-605adfda5264",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "acd2160a-f4d1-463c-8771-a87f2a21e6ff",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 269000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "5d3ca666-dd13-4869-945e-e0ce22e3e7bd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No: Greatest Hits 1997\u20132004",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "b6947c80-3d20-3560-adc7-f5c4b8b7a960",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a22e4651-a1e4-4b9c-86af-77f89ec4727f",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 270240
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "00ac24fd-d5e3-481d-b5cc-ae4b6e4a83a0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "And Love Said No",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 16,
+          "media": [
+            {
+              "id": "3308f473-56f0-38f5-906b-6748de571d2d",
+              "position": 1,
+              "track": [
+                {
+                  "id": "f101f319-dfb8-3692-9b5f-5cd3276a174c",
+                  "number": "4",
+                  "title": "The Funeral of Hearts",
+                  "length": 271226
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "6960fc71-07e6-41d8-992f-6249bba9d085",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "track-count": 22,
+          "media": [
+            {
+              "id": "f106ffe9-482a-33c7-870c-96fb8c5ae07f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d14c7f87-98c9-4dea-8561-2d63ac49eb01",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 270240
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "da22a6e7-b2ee-4e28-8208-4ff8b2bb0767",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2014-12-23",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2014-12-23",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 19,
+          "media": [
+            {
+              "id": "25011c94-f5fa-3d5f-810f-2ebfa4065bad",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e842a03b-79a7-4b4f-99bb-54396904150d",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "04084dd5-e790-4089-b2b8-558e681f7727",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "2c8c0da9-44fa-3ade-b8ba-9bd5c166123b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "728cf18d-f06b-43dd-b9c2-bc778951c4be",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "b1f6acbf-9067-3411-baa1-d01602b0bf96",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "fda431b0-6f93-3f16-9715-e89fd804699f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "9efab367-8c51-30c9-9b19-14566cc22048",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "f39e5a03-8474-4c6d-8f41-4e0a9889111d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "609ea31f-c9ce-3ad0-90fd-2f090a82caca",
+              "position": 1,
+              "track": [
+                {
+                  "id": "273736b2-78d0-3ba9-b5b5-2c0b28f2c1fb",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c0cca12a-3b4e-3167-9e1f-b859cf2abc9b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "7b0a05ae-dca2-30a4-8a89-cc918d16ea67",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "83a03c4e-0647-3be6-abf5-ce5eadba0309",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c20b25d3-70b2-3fb0-b4e5-5026bf1e618e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "KR",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+                "name": "South Korea",
+                "sort-name": "South Korea",
+                "iso-3166-1-codes": [
+                  "KR"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "de923b33-4bd7-3ba3-86cf-76c75946457d",
+              "position": 1,
+              "track": [
+                {
+                  "id": "7e6f7a5c-6d2f-392e-91f5-b76bf4b1b21d",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "2f75314c-b5d8-3bde-b4ce-7fb1e29faa19",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "bf5b5c2b-00df-33c4-9d93-b705ed310530",
+              "position": 1,
+              "track": [
+                {
+                  "id": "20ca611b-1163-3c21-b07e-965fb023208e",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "74f7b58a-d4dc-3533-9ae3-37ed03f6061d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2005-02-01",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005-02-01",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "fd942356-ee56-3757-af59-6f06d72b95de",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "604b5707-6901-389f-aeed-3de87f322ea3",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0d1e5b7b-d0f3-4d39-88d6-02059a77a265",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "9e9ee886-6af9-3f7e-8137-e7119c03b7a8",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "ed3fe8f8-a2ef-3e3f-bdeb-2f2c571dbcd3",
+                  "number": "3",
+                  "title": "The Funeral of Hearts",
+                  "length": 273826
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "5779d311-248d-3631-885b-a7f889a809e8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "378dee02-504d-3f91-bc21-0ad7e291c4ba",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "35549f24-da60-3589-9632-84b904afc90c",
+                  "number": "3",
+                  "title": "The Funeral of Hearts",
+                  "length": 273826
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e78e6c5c-de1b-3000-9966-d52d3fe5afba",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-24",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2003-03-24",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "579d62ea-8be8-30c3-a557-8b17823d041f",
+              "position": 1,
+              "format": "Mixed Mode CD",
+              "track": [
+                {
+                  "id": "6b00014c-7e77-34e4-9796-5bda99c503d4",
+                  "number": "3",
+                  "title": "The Funeral of Hearts",
+                  "length": 273826
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "c67e58fa-e962-44ca-a6e9-c55f6d036337",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "track-count": 11,
+          "media": [
+            {
+              "id": "d62f1b0a-86cb-3e93-81c3-42eecb93ebd6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d60359c1-9787-4f94-b1f5-bd3299c7a95f",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270226
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "c303b510-054f-4d08-9de2-3c135c2bc6d3",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 6,
+          "media": [
+            {
+              "id": "204772f6-2efa-3ec7-940f-17ebf2c7e4f5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "07be8bab-0f41-39b1-9ee9-3b9b028aabab",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (album version)",
+                  "length": 271773
+                }
+              ],
+              "track-count": 6,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "0ac577b8-4196-477a-8f05-3981b509e723",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "And Love Said No... 1997\u20132004",
+          "status": "Official",
+          "disambiguation": "Special Edition",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e21fdee7-b1ff-3417-bbad-9246de30f726",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "And Love Said No: The Greatest Hits 1997\u20132004",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2004-03-15",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2004-03-15",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 23,
+          "media": [
+            {
+              "id": "1e431280-8ac5-38da-949a-f82c696ddfac",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4e50452f-0493-3b9f-86fd-0ac6d6f41d8b",
+                  "number": "7",
+                  "title": "The Funeral of Hearts",
+                  "length": 268626
+                }
+              ],
+              "track-count": 17,
+              "track-offset": 6
+            }
+          ]
+        },
+        {
+          "id": "205acc77-454d-49cd-9464-75f9dd559f7d",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Love Metal",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "75b68d24-94b4-3cbf-85b4-b0105cec4c1c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Love Metal",
+            "primary-type": "Album"
+          },
+          "date": "2003-04-14",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-04-14",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 11,
+          "media": [
+            {
+              "id": "8d11e6cc-a94c-3199-aa60-9c5bb2e8c218",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "2540f8ac-1d61-499c-9f10-1b1539f5a80c",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 270200
+                }
+              ],
+              "track-count": 11,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "d86e211c-14f9-4041-b7e2-c232f2d0d991",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "The Funeral of Hearts",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6469d27-ff90-474b-a250-53520ddc432c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "The Funeral of Hearts",
+            "primary-type": "Single"
+          },
+          "date": "2003-03-17",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2003-03-17",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "0dade769-267b-3e82-a52c-e10cdb4204b2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "96e689b5-0e7c-4ed9-bdf3-e68fb83d3b19",
+                  "number": "2",
+                  "title": "The Funeral of Hearts (album version)",
+                  "length": 271773
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FIBAR0300005"
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "goth"
+        },
+        {
+          "count": 2,
+          "name": "gothic rock"
+        },
+        {
+          "count": 2,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "pop/rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock/alternative pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "51bba879-e93a-46ce-b633-7c961de55c88",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 283173,
+      "disambiguation": "live, 2007-11: Orpheum Theatre, Los Angeles, CA, USA",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008-04-28",
+      "releases": [
+        {
+          "id": "d30ef6e8-6863-4a4b-8b6a-6775d3543674",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "505cf297-b047-3683-ba06-f8a27498631e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-04-29",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2008-04-29",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "a4dcd829-da86-39a4-9bbb-94ba640ffb28",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1d194b60-2e55-3f02-9b17-88e272895708",
+                  "number": "16",
+                  "title": "The Funeral of Hearts",
+                  "length": 283173
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "98ac2c67-4818-43d2-a992-0ebefb4627ab",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Digital Versatile Doom: Live at the Orpheum Theater XXXVII A.S.",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "505cf297-b047-3683-ba06-f8a27498631e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Digital Versatile Doom: Live at the Orpheum Theatre XXXVII A.S.",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2008-04-28",
+          "country": "FI",
+          "release-events": [
+            {
+              "date": "2008-04-28",
+              "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "iso-3166-1-codes": [
+                  "FI"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "3491512f-a2bd-3e48-adba-46e7c778d2da",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a83f3f6a-0d2d-47ec-9c99-cf817793eb86",
+                  "number": "17",
+                  "title": "The Funeral of Hearts (live)",
+                  "length": 283173
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 16
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "gothic"
+        },
+        {
+          "count": 2,
+          "name": "gothic rock"
+        },
+        {
+          "count": 2,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "fe1cad18-709c-4180-a96e-5a44e54e180a",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 296000,
+      "disambiguation": "live: Finnvox Studios, Helsinki",
+      "video": true,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-04-26",
+      "releases": [
+        {
+          "id": "ed032521-c1f9-4083-8bfd-443b07c38999",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Tears on Tape",
+          "status": "Official",
+          "disambiguation": "limited deluxe edition",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8edeb6b8-7f0a-4695-b24a-6b91d82150e8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tears on Tape",
+            "primary-type": "Album"
+          },
+          "date": "2013-04-26",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2013-04-26",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "6dfb1864-e719-3b8f-aad5-a4b89b56f333",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "e3b08426-e7b4-4e08-a43c-40b7a20d0f17",
+                  "number": "6",
+                  "title": "The Funeral of Hearts",
+                  "length": 296000
+                }
+              ],
+              "track-count": 7,
+              "track-offset": 5
+            }
+          ]
+        },
+        {
+          "id": "c436c912-6655-49c0-997e-19f79f4660f7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 2,
+          "title": "Tears on Tape",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8edeb6b8-7f0a-4695-b24a-6b91d82150e8",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Tears on Tape",
+            "primary-type": "Album"
+          },
+          "date": "2013-04-30",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2013-04-30",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 18,
+          "media": [
+            {
+              "id": "f9bdabf2-0a5f-3f17-9b09-4fe6e5ba2da6",
+              "position": 2,
+              "format": "DVD-Video",
+              "track": [
+                {
+                  "id": "ee038f42-cf0b-45c0-9ef7-bcbd3620eecf",
+                  "number": "5",
+                  "title": "The Funeral of Hearts",
+                  "length": 298000
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4bdad4e5-6120-4f78-a6e0-523ee8d1c35e",
+      "score": 100,
+      "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+      "title": "The Funeral of Hearts",
+      "length": 287000,
+      "disambiguation": "studio live 2012: Finnvox Studios, Finland",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "HIM",
+          "artist": {
+            "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+            "name": "HIM",
+            "sort-name": "HIM",
+            "disambiguation": "Finnish rock band",
+            "aliases": [
+              {
+                "sort-name": "HER",
+                "name": "HER",
+                "locale": "en_US",
+                "type": null,
+                "primary": null,
+                "begin-date": "2002",
+                "end-date": "2003"
+              },
+              {
+                "sort-name": "His Infernal Majesty",
+                "name": "His Infernal Majesty",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M.",
+                "name": "H.I.M.",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "HIM (His Infernal Majesty)",
+                "name": "HIM (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "H.I.M. (His Infernal Majesty)",
+                "name": "H.I.M. (His Infernal Majesty)",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-10-18",
+      "releases": [
+        {
+          "id": "c7555f8b-8923-495b-b861-83cfc6fc4cdf",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "3b68a574-c331-3f16-8ffb-d1376ec7a765",
+          "count": 1,
+          "title": "Live in Hel. EP",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "HIM",
+              "artist": {
+                "id": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+                "name": "HIM",
+                "sort-name": "HIM",
+                "disambiguation": "Finnish rock band"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "77762476-e177-41a5-a7b0-5633a09239e8",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Live in Hel. EP",
+            "primary-type": "EP"
+          },
+          "date": "2012-10-18",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2012-10-18",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 2,
+          "media": [
+            {
+              "id": "cb88f095-5ef4-3053-b966-5c38d53d2a26",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "0399e7ad-fcaf-34d2-8c25-a158ae4f095b",
+                  "number": "2",
+                  "title": "The Funeral of Hearts",
+                  "length": 287000
+                }
+              ],
+              "track-count": 2,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "goth rock"
+        },
+        {
+          "count": 1,
+          "name": "rock/goth rock"
+        }
+      ]
+    }
+  ]
+}
