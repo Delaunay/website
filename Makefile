@@ -53,6 +53,10 @@ update-services: deploy-dev
 kill-flask:
 	@pgrep -f "[u]vicorn okaasan.server.run:entry" | xargs -r kill && echo "okaasan server killed" || echo "no okaasan server running"
 
+kill:
+	@pgrep -f "[u]vicorn okaasan.server.run:entry" | xargs -r kill && echo "okaasan server killed" || echo "no okaasan server running"
+	@pgrep -f "[c]vlc.*--intf dummy" | xargs -r kill && echo "VLC processes killed" || echo "no VLC processes running"
+
 flask-logs:
 	sudo journalctl -u okasan-flask.service -f
 

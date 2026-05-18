@@ -179,6 +179,18 @@ Or inline: `<Box bg="var(--card-bg)" borderColor="var(--border-color)">`.
 
 ---
 
+## Caching policy
+
+**Always cache 3rd-party API responses to disk.** External calls (Jikan, Kitsu, TMDB, etc.) must be persisted in `cache/` so that:
+
+- Repeated imports or server restarts don't re-fetch the same data.
+- Rate limits are respected without needing to throttle on every run.
+- The app stays responsive even if the external service is slow or down.
+
+Use `cache_folder()` from `recipes/okaasan/server/paths.py` for the storage path. JSON is the preferred format for cached API responses.
+
+---
+
 ## Common pitfalls
 
 1. **404 on GitHub Pages for recipes** — Static JSON missing: rebuild with `OKAASAN_DATA` pointing at repo with `database.db`; verify `static_build/api/recipes.json` exists; CI must not install stale PyPI `okaasan`.
