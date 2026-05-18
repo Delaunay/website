@@ -128,6 +128,57 @@ When adding a **new read-only GET endpoint** needed on GitHub Pages:
 
 ---
 
+## Frontend theming
+
+The app supports **light and dark mode** via CSS custom properties defined in `recipes/okaasan/ui/src/theme.css`. The `.dark` class on `<html>` activates the dark palette (toggled by `next-themes`).
+
+**Rule:** Never hardcode colors like `bg="blue.50"` or `borderColor="gray.200"` in components. Always use the CSS variables so both modes work.
+
+### Core tokens (use these in components)
+
+| Token | Purpose |
+|-------|---------|
+| `var(--card-bg)` | Card / elevated surface background |
+| `var(--card-bg-raised)` | Higher-contrast card (modals, popovers) |
+| `var(--surface-muted)` | Subtle background (empty states, placeholders) |
+| `var(--input-bg)` | Input field background |
+| `var(--border-color)` | Default border for cards, inputs, dividers |
+| `var(--panel-border)` | Slightly stronger border for panels |
+| `var(--muted-text)` | Secondary / helper text |
+| `var(--empty-text)` | Placeholder / empty state text |
+| `var(--heading-color)` | Section headings |
+| `var(--hover-bg)` | Hover state background |
+| `var(--selected-bg)` | Active/selected item background |
+| `var(--icon-color)` | Icon accent color (links, actions) |
+
+### Colored panels (semantic variants)
+
+For colored highlight boxes, use the `--panel-{color}-*` family (`blue`, `orange`, `purple`, `teal`, `red`, `green`):
+
+```
+bg="var(--panel-blue-bg)"
+borderColor="var(--panel-blue-border)"
+color="var(--panel-blue-text)"
+```
+
+### Exceptions
+
+- Chakra `colorPalette` on `<Badge>`, `<Button>` is fine — these adapt automatically.
+- Semantic colors for data viz (rating bars, status indicators) can use Chakra palette tokens like `green.400` since they're intentionally vivid in both modes.
+- The `VegaPlot` component auto-applies dark theme from `vega-themes` when `colorMode === 'dark'`.
+
+### Pattern in components
+
+```tsx
+const cardBg = 'var(--card-bg)';
+const border = 'var(--border-color)';
+const mutedText = 'var(--muted-text)';
+```
+
+Or inline: `<Box bg="var(--card-bg)" borderColor="var(--border-color)">`.
+
+---
+
 ## Common pitfalls
 
 1. **404 on GitHub Pages for recipes** — Static JSON missing: rebuild with `OKAASAN_DATA` pointing at repo with `database.db`; verify `static_build/api/recipes.json` exists; CI must not install stale PyPI `okaasan`.
