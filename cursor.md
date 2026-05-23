@@ -39,9 +39,32 @@ Read this file before changing the frontend, backend, static build, or deploymen
 
 ---
 
-### 2. Production server (dynamic, single process)
+### 2. NAS deployment (live, systemd + nginx)
 
-**Use when:** running the app on a machine with live data (NAS, VPS, systemd).
+**This is the actual running setup on the NAS.** Two systemd services behind nginx on port **8081**:
+
+| Service | Unit | What it runs | Port |
+|---------|------|-------------|------|
+| API | `okasan-flask.service` | `uvicorn okaasan.server.run:entry --reload` with `FLASK_STATIC=/home/setepenre/work/website` | 5001 |
+| UI | `okasan-vite.service` | `npm run dev` in `recipes/okaasan/ui` (Vite dev server with HMR) | 3000 |
+
+Nginx on `:8081` proxies `/api` → `:5001` and everything else → `:3000`.
+
+Both services auto-restart. Manage with:
+```bash
+make update-services   # reinstall + restart both
+sudo systemctl restart okasan.target   # restart both
+make flask-logs        # tail API logs
+make vite-logs         # tail UI logs
+```
+
+**The frontend is NOT a static production build** — it's a live Vite dev server. Source changes are picked up immediately via HMR. The `recipes/okaasan/server/static/` folder is unused in this setup.
+
+Access: `http://192.168.2.157:8081/recipes#/...` (HashRouter).
+
+### 3. Production server (dynamic, single process)
+
+**Use when:** bundled deploy without Vite dev server (VPS, Docker, etc.).
 
 - `make back-prod` or uvicorn on port 8081.
 - UI is the **bundled** build in `recipes/okaasan/server/static/` (built with `VITE_API_URL=` empty and `VITE_BASE_PATH=/` — see `recipes/Makefile`).
@@ -226,6 +249,44 @@ OKAASAN_DATA=$(pwd) okaasan static --output ./static_build --base_path /website/
 make make-migration   # autogenerate alembic revision
 make update-db        # apply pending migrations
 ```
+
+## Adding a new sidebar section (full stack)
+
+To add a new top-level section (e.g. "News", "Fitness"):
+
+### Server
+
+1. Create `recipes/okaasan/server/<section>/` with:
+   - `__init__.py` — `from .routes import router; __all__ = ["router"]`
+   - `models.py` — SQLAlchemy models using `from ..models.common import Base`
+   - `routes.py` — `router = APIRouter(prefix="/<section>", tags=["<section>"])`
+2. Register in `server.py`:
+   - Import: `from .<section> import router as <section>_router`
+   - Include: `app.include_router(<section>_router)`
+   - If there's a background task, start it in the startup block (see podcast refresher pattern).
+3. Register models in `alembic/alembic/env.py`:
+   - Add `from okaasan.server.<section>.models import *  # noqa: F401,F403`
+
+### Frontend
+
+4. Create `recipes/okaasan/ui/src/components/<section>/<Section>Overview.tsx`
+5. Add sidebar entry in `ui/src/layout/Layout.tsx` → `getStaticSidebarSections()`:
+   ```ts
+   {
+     title: 'Section Title',
+     href: '/<section>',
+     isSelected: (location: Location) => location.pathname.startsWith('/<section>'),
+     items: [
+       { name: 'Sub-page', href: '/<section>-subpage' },
+     ],
+   },
+   ```
+6. Wire in `ui/src/App.tsx`:
+   - Import the overview component
+   - Add `if (section.href === '/<section>')` in the `sidebarSections.map` block
+   - Add `<Route>` entries for any sub-pages
+
+---
 
 ## Alembic autogenerate
 

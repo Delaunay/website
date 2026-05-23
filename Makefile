@@ -75,6 +75,9 @@ install-garmin-udev:
 	sudo udevadm trigger
 	@echo "Garmin USB auto-import rule installed. Plug in your watch to test."
 
+
+# ---- Garmin udev ----
+
 check-garmin-udev:
 	@echo "=== Rule file ==="
 	@test -f /etc/udev/rules.d/99-garmin.rules && echo "OK: rule installed" || echo "MISSING: run 'make install-garmin-udev'"
