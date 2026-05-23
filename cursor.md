@@ -137,6 +137,41 @@ When adding a **new read-only GET endpoint** needed on GitHub Pages:
 2. Re-run `okaasan static`.
 3. Ensure the UI uses `recipeAPI.request()` (or `requestStatic` path) so static mode picks up `*.json`.
 
+## Static-mode section visibility
+
+Not all sections are available in the static build. Visibility is controlled at three levels:
+
+### 1. Hardcoded in `Layout.tsx`
+
+`STATIC_HIDDEN_SECTIONS` and `STATIC_HIDDEN_HREFS` hide sections and sub-items that can never work without a live backend:
+
+| Constant | Values |
+|----------|--------|
+| `STATIC_HIDDEN_SECTIONS` | Settings (only — all other sections are configurable via sidebar settings) |
+| `STATIC_HIDDEN_HREFS` | Settings sub-pages, shows/music discover & schedule, torrents |
+
+### 2. Sidebar config (`/sidebar` endpoint, `@expose()`d)
+
+The `GET /sidebar` endpoint returns `hidden`, `static_hidden`, and `configured_media` fields. These come from the user's sidebar settings (`uploads/data/_config/_sidebar.json`) and auto-detection of configured media folders.
+
+- **`hidden`**: sections the user chose to hide everywhere.
+- **`static_hidden`**: sections the user chose to hide only in static mode.
+- **`configured_media`**: media sections (Shows, Music, Books, etc.) that have folders/API keys configured. Unconfigured media sections are auto-hidden.
+
+### 3. Runtime filtering
+
+- **Sidebar** (`Layout.tsx` → `visibleSections` memo): Fetches `/sidebar` config on mount and combines all three levels of filtering.
+- **Static Home** (`Home.tsx` → `StaticHome`): Fetches `/sidebar` config on mount and only shows cards for visible, configured sections.
+- **Route setup** (`App.tsx` → `getRouteSections()`): Applies hardcoded filtering only (levels 1). Routes for all sections still exist so React Router can handle them; the sidebar and home page handle the rest at render time.
+
+### Adding a new section to static mode
+
+1. Ensure the section's GET endpoints have `@expose()` decorators with proper parameter queries.
+2. Verify the section is **not** in `STATIC_HIDDEN_SECTIONS` or `STATIC_HIDDEN_HREFS`.
+3. If it's a media section, ensure it's in the `_MEDIA_CONFIG_FILES` map in `server.py` and has a config file with folders or API keys set.
+4. Components must use `recipeAPI.request()` for data fetching (works in static mode for GET).
+5. Gate write actions (POST/PUT/DELETE) behind `!isStaticMode()` checks in the UI.
+
 ---
 
 ## Key files to touch by task
