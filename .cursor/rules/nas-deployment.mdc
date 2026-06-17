@@ -1,0 +1,43 @@
+---
+description: NAS deployment details — systemd services, nginx, auto-reload behavior
+alwaysApply: true
+---
+
+# NAS Deployment
+
+The development machine is a NAS at `192.168.2.157`. The site is accessible at `http://192.168.2.157:8081/recipes#/...` (HashRouter).
+
+## Architecture
+
+Two **systemd** services behind **nginx** on port **8081**:
+
+| Service | Unit | Runs | Port |
+|---------|------|------|------|
+| API | `okasan-flask.service` | `uvicorn okaasan.server.run:entry --reload` | 5001 |
+| UI | `okasan-vite.service` | `npm run dev` (Vite dev server with HMR) | 3000 |
+
+Nginx proxies `/api` → `:5001`, everything else → `:3000`.
+
+## Auto-reload behavior
+
+- **Python** changes are picked up automatically by uvicorn's `--reload` flag.
+- **Frontend** changes are picked up immediately via Vite HMR — the UI is **not** a static production build.
+- No manual restart needed after editing source files.
+
+## Management commands
+
+```bash
+make update-services          # reinstall + restart both
+sudo systemctl restart okasan.target  # restart both services
+make flask-logs               # tail API logs
+make vite-logs                # tail UI logs
+```
+
+## Key paths
+
+- Workspace: `/home/setepenre/work/website`
+- `FLASK_STATIC` / `OKAASAN_DATA`: `/home/setepenre/work/website`
+- Database: `database.db` at workspace root
+- UI source: `recipes/okaasan/ui/`
+- Server source: `recipes/okaasan/server/`
+- The `recipes/` folder is a separate git submodule (repo: `Delaunay/okaasan`).
