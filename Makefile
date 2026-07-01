@@ -38,8 +38,8 @@ test-deploy:
 
 commit:
 	@if [ -z "$(msg)" ]; then echo "Usage: make commit msg=\"your commit message\""; exit 1; fi
-	cd recipes && git add -A && git commit -m "$(msg)" || true
-	git add -A && git commit -m "$(msg)"
+	cd recipes && git add -A && git commit -m "$(msg)" && git push || true
+	git add -A && git commit -m "$(msg)" && git push
 
 deploy-dev:
 	(. .venv/bin/activate && uv pip install -e /home/setepenre/work/website/recipes)
