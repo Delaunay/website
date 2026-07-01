@@ -36,6 +36,11 @@ test-deploy:
 	(. .venv/bin/activate && FLASK_STATIC=$(pwd) python recipes/scripts/static_generator.py)
 
 
+commit:
+	@if [ -z "$(msg)" ]; then echo "Usage: make commit msg=\"your commit message\""; exit 1; fi
+	cd recipes && git add -A && git commit -m "$(msg)" || true
+	git add -A && git commit -m "$(msg)"
+
 deploy-dev:
 	(. .venv/bin/activate && uv pip install -e /home/setepenre/work/website/recipes)
 	sudo cp deploy/okasan-flask.service /etc/systemd/system/okasan-flask.service
