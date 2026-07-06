@@ -1,0 +1,37 @@
+---
+description: Navigation state must be in the URL so every view is shareable via direct link
+globs: "**/*.tsx"
+alwaysApply: false
+---
+
+# URL-Driven Navigation
+
+All user-visible navigation state **must** be reflected in the URL so that any view can be shared as a direct link.
+
+## Rules
+
+- When a component shows a detail/sub-view (e.g. selecting a playlist, opening a collection), use **route params** (`/music/playlists/:id`) or **query params** (`?tab=summary`) instead of local `useState`.
+- Use `useParams` and `useNavigate` from `react-router-dom` to read and update the URL.
+- Register parameterized routes in `App.tsx` (e.g. `<Route path="/music/playlists/:playlistId" ... />`).
+- "Back" buttons should `navigate()` to the parent route, not just clear local state.
+
+## Pattern
+
+```tsx
+// ❌ BAD — state-driven, not shareable
+const [selected, setSelected] = useState(null);
+const open = (id) => { fetchDetail(id).then(setSelected); };
+<Button onClick={() => setSelected(null)}>Back</Button>
+
+// ✅ GOOD — URL-driven, shareable
+const { itemId } = useParams();
+const navigate = useNavigate();
+useEffect(() => { if (itemId) fetchDetail(itemId); }, [itemId]);
+<Button onClick={() => navigate('/parent')}>Back</Button>
+```
+
+## Applies to
+
+- Detail views (playlist, collection, article, album, recipe, etc.)
+- Tab selection (use `?tab=` query param)
+- Filters that meaningfully change the view
