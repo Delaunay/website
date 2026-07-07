@@ -34,7 +34,7 @@ echo "$(date) Mounted. Contents:"
 ls -la "$MOUNT"/ 2>&1 | head -20
 
 echo "$(date) Triggering server import..."
-curl -sf -X POST http://localhost:5001/health-data/import/usb-garmin \
+curl -sf -X POST http://localhost:5001/health/data/import/usb-garmin \
      -H 'Content-Type: application/json' \
      -d '{"mount_path": "'"$MOUNT"'"}'
 echo ""

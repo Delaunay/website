@@ -106,4 +106,4 @@ check-garmin-udev:
 	@sudo journalctl -u okasan-flask.service --since "1 hour ago" --no-pager 2>/dev/null | grep -i "usb.import\|usb_import\|USB import" | tail -10 || true
 	@echo ""
 	@echo "=== Server reachable ==="
-	@curl -sf -o /dev/null http://localhost:5001/health-data/usb-garmin/status && echo "OK: server responds" || echo "FAIL: server not reachable at localhost:5001"
+	@curl -sf -o /dev/null http://localhost:5001/health/data/usb-garmin/status && echo "OK: server responds" || echo "FAIL: server not reachable at localhost:5001"
