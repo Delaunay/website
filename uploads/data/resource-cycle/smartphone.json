@@ -1,54 +1,333 @@
 {
   "name": "Smartphone",
-  "description": "A modern phone’s materials loop — mining through e-waste — and where reuse/refurbish beats shredding.",
-  "stages": [
+  "description": "Resource cycle for a modern smartphone.\n\nGraph nodes show rolled-up CO\u2082e (emissions only). Click a node for the step breakdown. The statement table compares Manufacture / Recycle / Reuse / Landfill pathways. Transformation is where ready modules become the finished device for the end user.",
+  "functional_unit": "1 smartphone (~150\u2013200 g)",
+  "co2e_basis": "Absolute process emissions only (no avoided-burden credits). Illustrative order-of-magnitude from electronics LCAs \u2014 not a certified EPD. Virgin path \u2248 mining + fabs/assembly; recycle \u2248 collect + shred/smelt recovery; reuse \u2248 refurbish/repair. All routes emit CO\u2082e; reuse < recycle < virgin manufacture. Use-phase electricity is noted separately and is small vs manufacture for many grids.",
+  "nodes": [
     {
       "id": "harvest",
-      "summary": "Mine metals and process minerals",
-      "details": "Copper, gold, lithium, cobalt, rare earths and silica are extracted worldwide. Ore processing and refining are energy- and water-intensive, often with toxic tailings.",
-      "inputs": ["ore", "energy", "water", "chemicals"],
-      "outputs": ["refined metals", "battery chemicals", "tailings"],
-      "impacts": ["habitat loss", "toxicity", "conflict minerals"]
+      "label": "Raw Material",
+      "summary": "Mine and refine metals, minerals, and battery chemicals",
+      "details": "Copper, gold, lithium, cobalt, rare earths, and silica are extracted worldwide.\n\n1. Mine ore and process concentrates.\n2. Refine metals and battery precursors.\n3. Ship refined inputs to component fabs.\n\nOre grade and region dominate upstream GHG and toxicity.",
+      "inputs": [
+        "ore",
+        "energy",
+        "water",
+        "chemicals"
+      ],
+      "outputs": [
+        "refined metals",
+        "battery chemicals",
+        "tailings"
+      ],
+      "impacts": [
+        "habitat loss",
+        "toxicity",
+        "conflict minerals"
+      ],
+      "co2e_kg": 12.0,
+      "co2e_note": "~12 kg CO\u2082e/phone illustrative for mining + refining of metals and battery materials attributed to one device.",
+      "x": 36,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "h-mine",
+          "label": "Mining & concentration",
+          "co2e_kg": 5.0
+        },
+        {
+          "id": "h-refine",
+          "label": "Metal / battery refining",
+          "co2e_kg": 6.0
+        },
+        {
+          "id": "h-haul",
+          "label": "Inbound material logistics",
+          "co2e_kg": 1.0
+        }
+      ]
     },
     {
       "id": "manufacture",
-      "summary": "Fabricate chips, batteries, and assemble",
-      "details": "Semiconductor fabs, display plants, and battery factories feed contract assembly. Design for thinness and sealed batteries makes later repair harder.",
-      "inputs": ["metals", "silicon wafers", "polymers", "cleanrooms"],
-      "outputs": ["finished phone", "process scrap", "hazardous waste"],
-      "impacts": ["high embodied carbon", "water for fabs"]
-    },
-    {
-      "id": "deliver",
-      "summary": "Global logistics to retail and users",
-      "details": "Air and sea freight move devices to carriers and stores. Frequent model launches drive return flows of barely-used stock.",
-      "inputs": ["devices", "packaging", "air/sea freight"],
-      "outputs": ["sold units", "packaging waste"],
-      "impacts": ["transport emissions", "planned obsolescence pressure"]
-    },
-    {
-      "id": "throw",
-      "summary": "E-waste when phones are abandoned",
-      "details": "Phones in drawers or informal dumps leak metals and plastics. Formal take-back is incomplete; informal recycling can expose workers to toxins.",
-      "inputs": ["end-of-life device"],
-      "outputs": ["e-waste stockpiles", "leached toxins"],
-      "impacts": ["heavy metals", "data risk", "fire hazard in piles"]
-    },
-    {
-      "id": "reuse",
-      "summary": "Refurbish, resell, or repair",
-      "details": "Trade-in, certified refurbished, battery/screen repair, and software support keep devices useful. Modular design and spare parts amplify this loop.",
-      "inputs": ["used phone", "parts", "diagnostics"],
-      "outputs": ["refurbished unit", "harvested parts"],
-      "impacts": ["displaced new production"]
+      "label": "Manufacture",
+      "summary": "Fabs, battery, display, and module build",
+      "details": "1. Semiconductor, display, and battery factories produce modules.\n2. Contract manufacturers assemble boards and subassemblies.\n3. Test and stage modules for final device Transformation.\n\nRecovered metals/parts from Recycle rejoin component supply (folded into Recycle \u2192 Transformation as recovered feedstock ready to finish).",
+      "inputs": [
+        "metals",
+        "silicon wafers",
+        "polymers",
+        "cleanroom energy"
+      ],
+      "outputs": [
+        "modules / subassemblies",
+        "process scrap",
+        "hazardous waste"
+      ],
+      "impacts": [
+        "fab energy",
+        "water for fabs",
+        "high embodied carbon"
+      ],
+      "co2e_kg": 45.0,
+      "co2e_note": "~45 kg CO\u2082e/phone for chips, display, battery, and module manufacture \u2014 usually the largest share of lifetime GHG.",
+      "x": 284,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "m-ic",
+          "label": "Semiconductors & PCB",
+          "co2e_kg": 22.0
+        },
+        {
+          "id": "m-disp",
+          "label": "Display & housing",
+          "co2e_kg": 12.0
+        },
+        {
+          "id": "m-batt",
+          "label": "Battery cell manufacture",
+          "co2e_kg": 11.0
+        }
+      ]
     },
     {
       "id": "recycle",
-      "summary": "Recover metals from shredded devices",
-      "details": "Specialized recyclers shred and separate fractions; smelting recovers precious metals. Plastics and mixed fractions are harder; battery chemistries need dedicated lines.",
-      "inputs": ["collected e-waste", "smelting energy"],
-      "outputs": ["recovered Au/Cu/etc.", "slag", "plastic fraction"],
-      "impacts": ["energy for smelting", "incomplete recovery"]
+      "label": "Recycle",
+      "summary": "Collect, shred, smelt / separate \u2192 rejoin Transformation",
+      "details": "Take-back \u2192 shred and separate fractions \u2192 smelt precious/base metals \u2192 recovered feedstock back toward component/Transformation supply.\n\nFigures are recovery-process emissions \u2014 not a credit for avoiding mining. Plastics and mixed fractions recover poorly; batteries need dedicated lines.",
+      "inputs": [
+        "collected e-waste",
+        "smelting energy"
+      ],
+      "outputs": [
+        "recovered metals / fractions to Transformation"
+      ],
+      "impacts": [
+        "smelting energy",
+        "incomplete recovery",
+        "worker exposure risk if informal"
+      ],
+      "co2e_kg": 8.0,
+      "co2e_note": "~8 kg CO\u2082e/phone for collect/sort plus shredding and smelting recovery. Lower than virgin manufacture, still positive.",
+      "x": 284,
+      "y": 158,
+      "co2e_lines": [
+        {
+          "id": "r-ops",
+          "label": "Collect & sort e-waste",
+          "co2e_kg": 1.0
+        },
+        {
+          "id": "r-shred",
+          "label": "Shred & separate",
+          "co2e_kg": 2.0
+        },
+        {
+          "id": "r-smelt",
+          "label": "Smelt / refine recovery",
+          "co2e_kg": 5.0
+        }
+      ]
+    },
+    {
+      "id": "reuse",
+      "label": "Reuse",
+      "summary": "Repair, refurbish, resell \u2014 then back into Transformation",
+      "details": "Trade-in / certified refurbished: diagnostics \u2192 battery/screen repair \u2192 wipe & reflash \u2192 rejoin retail Transformation.\n\nEach reuse path still emits (logistics + parts + labour energy), but far less than recycling or new manufacture. Spare parts and software support amplify this loop.",
+      "inputs": [
+        "used phone",
+        "spare parts",
+        "diagnostics"
+      ],
+      "outputs": [
+        "refurbished unit",
+        "harvested parts",
+        "rejects \u2192 recycle"
+      ],
+      "impacts": [
+        "return logistics",
+        "repair energy",
+        "parts manufacture"
+      ],
+      "co2e_kg": 2.5,
+      "co2e_note": "~2.5 kg CO\u2082e/phone per refurbish cycle (logistics + typical battery/screen parts + test). Still emits, but less than recycle smelting.",
+      "x": 284,
+      "y": 262,
+      "co2e_lines": [
+        {
+          "id": "u-haul",
+          "label": "Take-back logistics",
+          "co2e_kg": 0.5
+        },
+        {
+          "id": "u-fix",
+          "label": "Repair parts & labour energy",
+          "co2e_kg": 1.7
+        },
+        {
+          "id": "u-test",
+          "label": "Wipe, test & reflash",
+          "co2e_kg": 0.3
+        }
+      ]
+    },
+    {
+      "id": "fill",
+      "label": "Transformation",
+      "summary": "Turn ready material into its final form for the end user",
+      "details": "Modules from Manufacture, recovered feedstock routes from Recycle, or refurbished units from Reuse are finally assembled/flashed/packed into the device the user receives.\n\nInbound modules and outbound retail freight are Deliver edges.",
+      "inputs": [
+        "modules / refurbished unit",
+        "final assembly energy",
+        "packaging"
+      ],
+      "outputs": [
+        "finished smartphone",
+        "packaging waste"
+      ],
+      "impacts": [
+        "final assembly energy",
+        "packaging"
+      ],
+      "co2e_kg": 1.5,
+      "co2e_note": "~1.5 kg CO\u2082e/phone for final assembly, flash, QC, and pack.",
+      "x": 140,
+      "y": 330,
+      "co2e_lines": [
+        {
+          "id": "f-line",
+          "label": "Final assembly, flash & pack",
+          "co2e_kg": 1.5
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "label": "Use",
+      "summary": "Owner uses the phone; then choose landfill, recycle, or reuse",
+      "details": "Charging electricity is real but often smaller than manufacture over a few years on many grids. The important material choice is the next edge:\n\n\u2022 Landfill \u2014 e-waste stockpile\n\u2022 Recycle \u2014 shred/smelt / rejoin Transformation\n\u2022 Reuse \u2014 repair/refurbish and rejoin Transformation",
+      "inputs": [
+        "finished phone",
+        "grid electricity"
+      ],
+      "outputs": [
+        "end-of-first-life device"
+      ],
+      "impacts": [
+        "use electricity",
+        "end-of-life pathway choice"
+      ],
+      "co2e_kg": 4.0,
+      "co2e_note": "~4 kg CO\u2082e/phone illustrative charging over a few years (grid-dependent). Manufacture still usually dominates.",
+      "x": 284,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "use-chg",
+          "label": "Charging over first life",
+          "co2e_kg": 4.0,
+          "note": "Strongly grid-dependent"
+        }
+      ]
+    },
+    {
+      "id": "throw",
+      "label": "Landfill",
+      "summary": "E-waste disposal (no recovery)",
+      "details": "Drawer storage, residual waste, or informal dumps. Metals and plastics are lost to the product loop; leaching and fire risk rise in unmanaged piles.",
+      "inputs": [
+        "end-of-life device",
+        "collection diesel"
+      ],
+      "outputs": [
+        "e-waste stockpiles"
+      ],
+      "impacts": [
+        "heavy metals",
+        "lost materials",
+        "fire hazard"
+      ],
+      "co2e_kg": 0.4,
+      "co2e_note": "~0.4 kg CO\u2082e/phone collection + disposal ops. Climate cost of this route is that the next phone needs virgin manufacture.",
+      "x": 36,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "t-ops",
+          "label": "Collection & disposal ops",
+          "co2e_kg": 0.4
+        }
+      ]
     }
-  ]
+  ],
+  "edges": [
+    {
+      "id": "e-harvest-man",
+      "from": "harvest",
+      "to": "manufacture",
+      "path": "entry",
+      "flow": 1.0
+    },
+    {
+      "id": "e-man-fill",
+      "from": "manufacture",
+      "to": "fill",
+      "path": "manufacture",
+      "flow": 1.0,
+      "co2e_kg": 0.8,
+      "co2e_note": "~0.8 kg CO\u2082e/phone module logistics into final assembly."
+    },
+    {
+      "id": "e-rec-fill",
+      "from": "recycle",
+      "to": "fill",
+      "path": "recycle",
+      "flow": 0.85
+    },
+    {
+      "id": "e-reu-fill",
+      "from": "reuse",
+      "to": "fill",
+      "path": "reuse",
+      "flow": 0.7
+    },
+    {
+      "id": "e-fill-use",
+      "from": "fill",
+      "to": "use",
+      "path": "primary",
+      "flow": 1.0,
+      "co2e_kg": 1.2,
+      "co2e_note": "~1.2 kg CO\u2082e/phone outbound air/sea + last-mile to user (illustrative)."
+    },
+    {
+      "id": "e-use-landfill",
+      "from": "use",
+      "to": "throw",
+      "path": "exit",
+      "flow": 0.25
+    },
+    {
+      "id": "e-use-rec",
+      "from": "use",
+      "to": "recycle",
+      "path": "recycle",
+      "flow": 0.7
+    },
+    {
+      "id": "e-use-reu",
+      "from": "use",
+      "to": "reuse",
+      "path": "reuse",
+      "flow": 0.55
+    }
+  ],
+  "layout": {
+    "type": "sketch",
+    "manufacture_r": 275,
+    "recycle_r": 180,
+    "reuse_r": 125,
+    "left_r_scale": 1.05,
+    "right_r_scale": 0.85
+  }
 }

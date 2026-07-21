@@ -1,54 +1,333 @@
 {
   "name": "Cotton T-Shirt",
-  "description": "A conventional cotton tee — from field to landfill (and the loops that can interrupt that path).",
-  "stages": [
+  "description": "Resource cycle for a conventional cotton T-shirt.\n\nGraph nodes show rolled-up CO\u2082e (emissions only). Click a node for the step breakdown. The statement table compares Manufacture / Recycle / Reuse / Landfill pathways. Transformation is where ready fabric becomes the finished garment for the wearer.",
+  "functional_unit": "1 conventional cotton T-shirt (~180 g)",
+  "co2e_basis": "Absolute process emissions only (no avoided-burden credits). Illustrative order-of-magnitude from apparel LCAs \u2014 not a certified EPD. Virgin path \u2248 fibre farming + mill/dye/sew; recycle \u2248 collect + fibre recovery; reuse \u2248 sort + second-hand logistics. All routes emit CO\u2082e; reuse < recycle < virgin manufacture.",
+  "nodes": [
     {
       "id": "harvest",
-      "summary": "Grow and pick cotton fibre",
-      "details": "Cotton is grown on large monocultures, often irrigated heavily. Fibre is harvested mechanically, ginned to separate seed from lint, then baled for spinning mills.",
-      "inputs": ["land", "freshwater", "fertilizer", "pesticides", "diesel"],
-      "outputs": ["raw cotton lint", "cottonseed", "biomass waste"],
-      "impacts": ["water stress", "soil depletion", "chemical runoff"]
+      "label": "Raw Material",
+      "summary": "Grow, pick, gin, and bale cotton fibre",
+      "details": "Cotton monocultures often need irrigation, fertilizer, and pesticides.\n\n1. Grow and mechanically harvest seed cotton.\n2. Gin to separate lint from seed; bale lint for spinning mills.\n3. Truck fibre to yarn mills.\n\nFertilizer N\u2082O and irrigation energy usually dominate field GHG.",
+      "inputs": [
+        "land",
+        "freshwater",
+        "fertilizer",
+        "pesticides",
+        "diesel"
+      ],
+      "outputs": [
+        "cotton lint",
+        "cottonseed",
+        "biomass residue"
+      ],
+      "impacts": [
+        "water stress",
+        "soil depletion",
+        "N\u2082O from fertilizer"
+      ],
+      "co2e_kg": 2.4,
+      "co2e_note": "~2.4 kg CO\u2082e/shirt for field + ginning + fibre haul (illustrative; irrigated conventional cotton).",
+      "x": 36,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "h-farm",
+          "label": "Field ops & fertilizer",
+          "co2e_kg": 1.6,
+          "note": "N\u2082O + diesel + irrigation energy"
+        },
+        {
+          "id": "h-gin",
+          "label": "Ginning & baling",
+          "co2e_kg": 0.5
+        },
+        {
+          "id": "h-haul",
+          "label": "Fibre short-haul transport",
+          "co2e_kg": 0.3
+        }
+      ]
     },
     {
       "id": "manufacture",
-      "summary": "Spin, weave, dye, and sew the garment",
-      "details": "Lint is spun into yarn, knitted or woven into fabric, dyed (often with wet chemistry), cut, and sewn. Finishing may include softening, printing, or packaging.",
-      "inputs": ["cotton lint", "dyes", "electricity", "labour", "polyester thread"],
-      "outputs": ["finished T-shirt", "fabric scraps", "wastewater"],
-      "impacts": ["energy use", "chemical pollution", "microfibre shedding"]
-    },
-    {
-      "id": "deliver",
-      "summary": "Ship from factory to wardrobe",
-      "details": "Garments move through ports, distribution centres, and retail (or e-commerce last-mile). Packaging and returns amplify the footprint of a low-cost item.",
-      "inputs": ["finished goods", "packaging", "freight fuel"],
-      "outputs": ["stocked product", "cardboard/plastic waste"],
-      "impacts": ["transport emissions", "overproduction inventory"]
-    },
-    {
-      "id": "throw",
-      "summary": "Discard after short wear life",
-      "details": "Fast-fashion tees are often worn few times then discarded. Landfill and incineration dominate when collection systems are weak or fibre blends make recovery hard.",
-      "inputs": ["worn garment", "collection logistics"],
-      "outputs": ["landfill mass", "incineration ash/CO2"],
-      "impacts": ["methane", "lost materials", "visual waste"]
-    },
-    {
-      "id": "reuse",
-      "summary": "Extend life via second-hand and repair",
-      "details": "Donation, thrift, clothing swaps, and simple repairs (seams, holes) keep the shirt in use. Reuse usually beats recycling on energy and water.",
-      "inputs": ["used garment", "repair materials"],
-      "outputs": ["second life wear", "diverted waste"],
-      "impacts": ["reduced new demand"]
+      "label": "Manufacture",
+      "summary": "Spin, knit/weave, dye, cut, and sew",
+      "details": "1. Spin lint into yarn; knit or weave fabric.\n2. Wet processing / dyeing (often the largest mill GHG).\n3. Cut and sew the garment; finish and pack empty (unlabelled) blanks or finished blanks for transformation.\n\nRecycled fibre rejoins spinning (folded into Recycle \u2192 Transformation as recovered fabric ready to finish).",
+      "inputs": [
+        "cotton lint",
+        "dyes",
+        "electricity",
+        "labour",
+        "sewing thread"
+      ],
+      "outputs": [
+        "fabric / sewn blanks",
+        "scraps",
+        "wastewater"
+      ],
+      "impacts": [
+        "mill energy",
+        "dye chemistry",
+        "wastewater"
+      ],
+      "co2e_kg": 4.2,
+      "co2e_note": "~4.2 kg CO\u2082e/shirt for spinning, knitting, dyeing, and sew. Dyeing/finishing often dominates.",
+      "x": 284,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "m-spin",
+          "label": "Spinning & knitting",
+          "co2e_kg": 1.2
+        },
+        {
+          "id": "m-dye",
+          "label": "Dyeing & wet finishing",
+          "co2e_kg": 2.4,
+          "note": "Heat + chemicals"
+        },
+        {
+          "id": "m-sew",
+          "label": "Cut & sew",
+          "co2e_kg": 0.6
+        }
+      ]
     },
     {
       "id": "recycle",
-      "summary": "Recover fibre into new textiles",
-      "details": "Mechanical recycling shreds cotton into lower-grade fibre (often blended). Chemical recycling can dissolve cellulose into new pulp but remains limited at scale for post-consumer cotton.",
-      "inputs": ["sorted textiles", "energy", "process chemicals"],
-      "outputs": ["recycled fibre", "downcycled rags", "rejects"],
-      "impacts": ["quality loss", "sorting labour", "residual landfill"]
+      "label": "Recycle",
+      "summary": "Collect, sort, shred / pulp \u2192 rejoin Transformation",
+      "details": "Post-consumer collection \u2192 sort by fibre \u2192 mechanical shredding (or limited chemical pulp) \u2192 re-spin / re-knit into fabric back into Transformation.\n\nFigures are remanufacture emissions \u2014 not a credit for avoiding virgin cotton. Mechanical recycle usually downcycles; blends and elastane limit quality.",
+      "inputs": [
+        "sorted textiles",
+        "energy",
+        "process chemicals"
+      ],
+      "outputs": [
+        "recycled fabric / yarn to Transformation"
+      ],
+      "impacts": [
+        "sorting labour",
+        "quality loss",
+        "process energy"
+      ],
+      "co2e_kg": 1.6,
+      "co2e_note": "~1.6 kg CO\u2082e/shirt for collect/sort plus mechanical fibre recovery and re-knitting. Lower than virgin mill path, still a positive emission.",
+      "x": 284,
+      "y": 158,
+      "co2e_lines": [
+        {
+          "id": "r-ops",
+          "label": "Collect & sort textiles",
+          "co2e_kg": 0.25
+        },
+        {
+          "id": "r-shred",
+          "label": "Shred / fibre recovery",
+          "co2e_kg": 0.85
+        },
+        {
+          "id": "r-knit",
+          "label": "Re-spin / re-knit",
+          "co2e_kg": 0.5
+        }
+      ]
+    },
+    {
+      "id": "reuse",
+      "label": "Reuse",
+      "summary": "Donate, thrift, repair \u2014 then back into Transformation / wear",
+      "details": "Second-hand: reverse logistics \u2192 sort/grade \u2192 repair if needed \u2192 rejoin retail Transformation or direct re-wear.\n\nEach reuse trip still emits (haul + sorting), but far less than fibre recovery or new farming + milling.",
+      "inputs": [
+        "used garments",
+        "repair materials",
+        "sorting labour"
+      ],
+      "outputs": [
+        "second-life garment",
+        "rejects \u2192 recycle"
+      ],
+      "impacts": [
+        "return logistics",
+        "grading energy"
+      ],
+      "co2e_kg": 0.25,
+      "co2e_note": "~0.25 kg CO\u2082e/shirt per reuse trip (collection + thrift logistics + light repair). Still emits, but less than recycle.",
+      "x": 284,
+      "y": 262,
+      "co2e_lines": [
+        {
+          "id": "u-haul",
+          "label": "Collection & thrift logistics",
+          "co2e_kg": 0.15
+        },
+        {
+          "id": "u-sort",
+          "label": "Sort / light repair",
+          "co2e_kg": 0.1
+        }
+      ]
+    },
+    {
+      "id": "fill",
+      "label": "Transformation",
+      "summary": "Turn ready material into its final form for the end user",
+      "details": "Material arriving from Manufacture, Recycle, or Reuse is transformed into the finished garment the wearer receives (label, pack, retail finish).\n\nInbound blanks and outbound retail freight are Deliver edges, not this node.",
+      "inputs": [
+        "ready fabric / blank",
+        "labels / tags",
+        "packaging",
+        "process energy"
+      ],
+      "outputs": [
+        "finished T-shirt",
+        "packaging waste"
+      ],
+      "impacts": [
+        "retail pack energy",
+        "packaging mass"
+      ],
+      "co2e_kg": 0.2,
+      "co2e_note": "~0.2 kg CO\u2082e/shirt for final finish, label, and pack attributed to the garment.",
+      "x": 140,
+      "y": 330,
+      "co2e_lines": [
+        {
+          "id": "f-line",
+          "label": "Finish, label & pack",
+          "co2e_kg": 0.2
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "label": "Use",
+      "summary": "Wear; then choose landfill, recycle, or reuse",
+      "details": "Washing dominates use-phase GHG for cotton, but pathway choice at end of life still decides whether the next shirt needs virgin fibre.\n\n\u2022 Landfill \u2014 material lost\n\u2022 Recycle \u2014 fibre recovery / rejoin Transformation\n\u2022 Reuse \u2014 thrift/repair and rejoin Transformation",
+      "inputs": [
+        "finished T-shirt",
+        "laundry energy / water"
+      ],
+      "outputs": [
+        "worn garment",
+        "laundry wastewater"
+      ],
+      "impacts": [
+        "end-of-life pathway choice",
+        "laundry energy"
+      ],
+      "co2e_kg": 0.8,
+      "co2e_note": "~0.8 kg CO\u2082e/shirt illustrative laundry over a short wear life (wash/dry mix). Pathway choice still dominates long-run material demand.",
+      "x": 284,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "use-wash",
+          "label": "Laundry over wear life",
+          "co2e_kg": 0.8,
+          "note": "Varies with wash temp and dryer use"
+        }
+      ]
+    },
+    {
+      "id": "throw",
+      "label": "Landfill",
+      "summary": "Final landfill (no recovery)",
+      "details": "Residual-waste collection and burial/incineration. Cotton can generate methane in landfill; embodied carbon and fibre are lost permanently.",
+      "inputs": [
+        "discarded garment",
+        "collection diesel"
+      ],
+      "outputs": [
+        "landfilled textiles"
+      ],
+      "impacts": [
+        "methane risk",
+        "lost fibre",
+        "collection fuel"
+      ],
+      "co2e_kg": 0.15,
+      "co2e_note": "~0.15 kg CO\u2082e/shirt collection + landfill/incineration ops. Climate cost of this route is also that the next shirt needs virgin manufacture.",
+      "x": 36,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "t-ops",
+          "label": "Collection & disposal ops",
+          "co2e_kg": 0.15
+        }
+      ]
     }
-  ]
+  ],
+  "edges": [
+    {
+      "id": "e-harvest-man",
+      "from": "harvest",
+      "to": "manufacture",
+      "path": "entry",
+      "flow": 1.0
+    },
+    {
+      "id": "e-man-fill",
+      "from": "manufacture",
+      "to": "fill",
+      "path": "manufacture",
+      "flow": 1.0,
+      "co2e_kg": 0.15,
+      "co2e_note": "~0.15 kg CO\u2082e/shirt regional blank / garment haul to finish/pack."
+    },
+    {
+      "id": "e-rec-fill",
+      "from": "recycle",
+      "to": "fill",
+      "path": "recycle",
+      "flow": 0.85
+    },
+    {
+      "id": "e-reu-fill",
+      "from": "reuse",
+      "to": "fill",
+      "path": "reuse",
+      "flow": 0.7
+    },
+    {
+      "id": "e-fill-use",
+      "from": "fill",
+      "to": "use",
+      "path": "primary",
+      "flow": 1.0,
+      "co2e_kg": 0.25,
+      "co2e_note": "~0.25 kg CO\u2082e/shirt outbound retail / e-commerce chain."
+    },
+    {
+      "id": "e-use-landfill",
+      "from": "use",
+      "to": "throw",
+      "path": "exit",
+      "flow": 0.25
+    },
+    {
+      "id": "e-use-rec",
+      "from": "use",
+      "to": "recycle",
+      "path": "recycle",
+      "flow": 0.7
+    },
+    {
+      "id": "e-use-reu",
+      "from": "use",
+      "to": "reuse",
+      "path": "reuse",
+      "flow": 0.55
+    }
+  ],
+  "layout": {
+    "type": "sketch",
+    "manufacture_r": 275,
+    "recycle_r": 180,
+    "reuse_r": 125,
+    "left_r_scale": 1.05,
+    "right_r_scale": 0.85
+  }
 }

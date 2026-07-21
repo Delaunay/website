@@ -1,54 +1,322 @@
 {
   "name": "PET Bottle",
-  "description": "Single-use beverage packaging — oil/biomass feedstock to bottle, then landfill, reuse as refill, or bottle-to-bottle recycling.",
-  "stages": [
+  "description": "Resource cycle for PET beverage bottle packaging.\n\nGraph nodes show rolled-up CO\u2082e (emissions only). Click a node for the step breakdown. The statement table compares Manufacture / Recycle / Reuse / Landfill pathways. Transformation is where ready bottle material becomes the filled article for the consumer.",
+  "functional_unit": "1 kg PET bottle packaging (formed & finished)",
+  "co2e_basis": "Absolute process emissions only (no avoided-burden credits). Illustrative order-of-magnitude from PET packaging LCAs \u2014 not a certified EPD. Virgin path \u2248 feedstock + resin/blow-mold; recycle \u2248 collect + rPET remelt; reuse \u2248 return + wash. All routes emit CO\u2082e; reuse < recycle < virgin manufacture. Beverage contents are out of scope.",
+  "nodes": [
     {
       "id": "harvest",
-      "summary": "Source petrochemicals (or bio feedstock)",
-      "details": "Most PET starts as naphtha/natural-gas liquids refined into PTA and MEG. Bio-based MEG exists but is a small share of global bottle resin.",
-      "inputs": ["crude oil / gas", "energy", "catalysts"],
-      "outputs": ["PET resin pellets", "process emissions"],
-      "impacts": ["fossil extraction", "GHG from refining"]
+      "label": "Raw Material",
+      "summary": "Source petrochemicals \u2192 PTA / MEG feedstock",
+      "details": "Most PET starts as naphtha or natural-gas liquids.\n\n1. Extract and refine hydrocarbons.\n2. Produce PTA and MEG monomers.\n3. Polymerize to PET resin pellets; ship to converters.\n\nBio-based MEG exists but is a small share of bottle resin.",
+      "inputs": [
+        "crude oil / gas",
+        "energy",
+        "catalysts"
+      ],
+      "outputs": [
+        "PET resin pellets",
+        "process emissions"
+      ],
+      "impacts": [
+        "fossil extraction",
+        "refining GHG"
+      ],
+      "co2e_kg": 1.1,
+      "co2e_note": "~1.1 kg CO\u2082e/kg for upstream feedstock + monomer route to bottle-grade resin pellets (illustrative).",
+      "x": 36,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "h-feed",
+          "label": "Feedstock extraction & refining",
+          "co2e_kg": 0.45
+        },
+        {
+          "id": "h-mono",
+          "label": "PTA / MEG & polymerization",
+          "co2e_kg": 0.55
+        },
+        {
+          "id": "h-haul",
+          "label": "Resin transport",
+          "co2e_kg": 0.1
+        }
+      ]
     },
     {
       "id": "manufacture",
-      "summary": "Blow-mold bottles and fill",
-      "details": "Resin is injection-molded into preforms, stretch-blow molded into bottles, labeled, filled, and capped. Lightweighting reduces resin per bottle but can hinder reuse.",
-      "inputs": ["PET resin", "labels", "caps", "electricity"],
-      "outputs": ["filled bottles", "trim scrap"],
-      "impacts": ["process energy", "microplastics from abrasion"]
-    },
-    {
-      "id": "deliver",
-      "summary": "Distribute chilled drinks to consumers",
-      "details": "Bottles move on pallets through cold chains and stores. Single-serve formats maximize packaging per liter delivered.",
-      "inputs": ["filled bottles", "trucking", "refrigeration"],
-      "outputs": ["retail inventory"],
-      "impacts": ["diesel miles", "retail plastic litter risk"]
-    },
-    {
-      "id": "throw",
-      "summary": "Litter or landfill after one use",
-      "details": "Without collection, bottles persist for decades, fragment into microplastics, or clog waterways. Landfill sequesters carbon poorly compared with closed loops.",
-      "inputs": ["empty bottle"],
-      "outputs": ["litter", "landfill plastic"],
-      "impacts": ["ocean plastics", "wildlife harm"]
-    },
-    {
-      "id": "reuse",
-      "summary": "Refill systems and durable bottles",
-      "details": "Deposit-return refillable glass/PET schemes and personal reusable bottles cut virgin resin demand when logistics are local and wash cycles are efficient.",
-      "inputs": ["returnable bottle", "wash water/energy"],
-      "outputs": ["refilled product"],
-      "impacts": ["lower packaging mass over time"]
+      "label": "Manufacture",
+      "summary": "Preform, stretch-blow, trim empty bottles",
+      "details": "1. Injection-mold resin into preforms.\n2. Stretch-blow mold into bottles; trim and inspect.\n3. Pack empty ware for filling lines.\n\nrPET flake/pellets rejoin preform molding (folded into Recycle \u2192 Transformation as remolded ware ready to fill).",
+      "inputs": [
+        "PET resin",
+        "electricity",
+        "process heat"
+      ],
+      "outputs": [
+        "empty bottles",
+        "trim scrap"
+      ],
+      "impacts": [
+        "process energy",
+        "scrap generation"
+      ],
+      "co2e_kg": 0.9,
+      "co2e_note": "~0.9 kg CO\u2082e/kg for preform + stretch-blow + trim of virgin resin bottles.",
+      "x": 284,
+      "y": 28,
+      "co2e_lines": [
+        {
+          "id": "m-pre",
+          "label": "Preform injection",
+          "co2e_kg": 0.4
+        },
+        {
+          "id": "m-blow",
+          "label": "Stretch-blow molding",
+          "co2e_kg": 0.4
+        },
+        {
+          "id": "m-trim",
+          "label": "Trim, inspect & pack empty",
+          "co2e_kg": 0.1
+        }
+      ]
     },
     {
       "id": "recycle",
-      "summary": "Bottle-to-bottle rPET",
-      "details": "Sorted clear PET is washed, flaked, and re-polymerized or solid-stated into food-grade rPET. Colored/contaminated streams often downcycle to fiber or strapping.",
-      "inputs": ["sorted PET", "wash chemicals", "heat"],
-      "outputs": ["rPET resin", "fiber grade flake", "rejects"],
-      "impacts": ["collection rates matter", "quality cascade"]
+      "label": "Recycle",
+      "summary": "Collect, wash, flake \u2192 rPET remold \u2192 rejoin Transformation",
+      "details": "Kerbside / deposit \u2192 sort clear PET \u2192 wash & flake \u2192 solid-state / remelt \u2192 preform/blow \u2192 empty ware back into Transformation.\n\nFigures are the remanufacture path emissions \u2014 not a credit for avoiding virgin resin. Food-grade bottle-to-bottle needs clean clear streams.",
+      "inputs": [
+        "sorted PET",
+        "wash chemicals",
+        "heat"
+      ],
+      "outputs": [
+        "remolded empty bottles to Transformation"
+      ],
+      "impacts": [
+        "collection logistics",
+        "wash energy",
+        "reprocess heat"
+      ],
+      "co2e_kg": 0.55,
+      "co2e_note": "~0.55 kg CO\u2082e/kg for collect/sort/wash/flake plus remold into bottle ware. Lower than virgin, still positive.",
+      "x": 284,
+      "y": 158,
+      "co2e_lines": [
+        {
+          "id": "r-ops",
+          "label": "Collect, sort & wash",
+          "co2e_kg": 0.15
+        },
+        {
+          "id": "r-flake",
+          "label": "Flake / rPET reprocess",
+          "co2e_kg": 0.25
+        },
+        {
+          "id": "r-mold",
+          "label": "Remold preform & blow",
+          "co2e_kg": 0.15
+        }
+      ]
+    },
+    {
+      "id": "reuse",
+      "label": "Reuse",
+      "summary": "Return, wash, inspect \u2014 then back into Transformation",
+      "details": "Deposit\u2013return refillable PET (or durable bottle schemes): reverse logistics \u2192 industrial wash \u2192 inspect \u2192 rejoin Transformation.\n\nEach trip still emits (haul + wash), but far less than remolding or virgin resin.",
+      "inputs": [
+        "returned bottles",
+        "hot water",
+        "detergents",
+        "wash energy"
+      ],
+      "outputs": [
+        "clean refillable bottles",
+        "rejects \u2192 rPET"
+      ],
+      "impacts": [
+        "return logistics",
+        "wash energy"
+      ],
+      "co2e_kg": 0.1,
+      "co2e_note": "~0.10 kg CO\u2082e/kg per reuse trip (return haul + industrial wash). Still emits, but less than recycle remold.",
+      "x": 284,
+      "y": 262,
+      "co2e_lines": [
+        {
+          "id": "u-haul",
+          "label": "Return logistics",
+          "co2e_kg": 0.03
+        },
+        {
+          "id": "u-wash",
+          "label": "Industrial wash cycle",
+          "co2e_kg": 0.07
+        }
+      ]
+    },
+    {
+      "id": "fill",
+      "label": "Transformation",
+      "summary": "Turn ready material into its final form for the end user",
+      "details": "Empty bottles from Manufacture, Recycle, or Reuse are filled, capped, labelled, and packed for the consumer.\n\nBeverage contents\u2019 footprint is out of scope for the packaging functional unit. Inbound empties and outbound freight are Deliver edges.",
+      "inputs": [
+        "empty bottles",
+        "beverage",
+        "caps / labels",
+        "line energy"
+      ],
+      "outputs": [
+        "filled bottles",
+        "process waste"
+      ],
+      "impacts": [
+        "line utilities",
+        "cap/label mass"
+      ],
+      "co2e_kg": 0.08,
+      "co2e_note": "~0.08 kg CO\u2082e/kg packaging for fill/cap/label utilities attributed to the bottle (not the drink).",
+      "x": 140,
+      "y": 330,
+      "co2e_lines": [
+        {
+          "id": "f-line",
+          "label": "Fill, cap & label utilities",
+          "co2e_kg": 0.08
+        }
+      ]
+    },
+    {
+      "id": "use",
+      "label": "Use",
+      "summary": "Consumer drinks; bottle becomes empty again",
+      "details": "Use-phase GHG for the PET object is negligible. The important choice is the next edge:\n\n\u2022 Landfill \u2014 material lost\n\u2022 Recycle \u2014 rPET remold / rejoin Transformation\n\u2022 Reuse \u2014 wash and rejoin Transformation",
+      "inputs": [
+        "filled bottle"
+      ],
+      "outputs": [
+        "empty post-consumer PET",
+        "consumed beverage"
+      ],
+      "impacts": [
+        "end-of-life pathway choice"
+      ],
+      "co2e_kg": 0.0,
+      "co2e_note": "~0 kg CO\u2082e for the bottle during use. Climate impact is decided by which outgoing branch is taken.",
+      "x": 284,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "use-0",
+          "label": "Bottle during use",
+          "co2e_kg": 0.0,
+          "note": "Negligible; pathway choice dominates"
+        }
+      ]
+    },
+    {
+      "id": "throw",
+      "label": "Landfill",
+      "summary": "Final landfill / litter (no recovery)",
+      "details": "Residual-waste collection and burial, or leakage to litter. PET persists for decades; embodied carbon and material are lost to the packaging loop.",
+      "inputs": [
+        "discarded bottles",
+        "collection diesel"
+      ],
+      "outputs": [
+        "landfilled / littered PET"
+      ],
+      "impacts": [
+        "persistence / microplastics",
+        "lost recyclable",
+        "collection fuel"
+      ],
+      "co2e_kg": 0.03,
+      "co2e_note": "~0.03 kg CO\u2082e/kg collection + disposal ops. Climate cost of this route is that the next bottle needs virgin manufacture.",
+      "x": 36,
+      "y": 438,
+      "co2e_lines": [
+        {
+          "id": "t-ops",
+          "label": "Collection & disposal ops",
+          "co2e_kg": 0.03
+        }
+      ]
     }
-  ]
+  ],
+  "edges": [
+    {
+      "id": "e-harvest-man",
+      "from": "harvest",
+      "to": "manufacture",
+      "path": "entry",
+      "flow": 1.0
+    },
+    {
+      "id": "e-man-fill",
+      "from": "manufacture",
+      "to": "fill",
+      "path": "manufacture",
+      "flow": 1.0,
+      "co2e_kg": 0.04,
+      "co2e_note": "~0.04 kg CO\u2082e/kg regional empty-bottle haul to the filler."
+    },
+    {
+      "id": "e-rec-fill",
+      "from": "recycle",
+      "to": "fill",
+      "path": "recycle",
+      "flow": 0.85
+    },
+    {
+      "id": "e-reu-fill",
+      "from": "reuse",
+      "to": "fill",
+      "path": "reuse",
+      "flow": 0.7
+    },
+    {
+      "id": "e-fill-use",
+      "from": "fill",
+      "to": "use",
+      "path": "primary",
+      "flow": 1.0,
+      "co2e_kg": 0.06,
+      "co2e_note": "~0.06 kg CO\u2082e/kg filled outbound distribution (excl. beverage cold-chain where out of scope)."
+    },
+    {
+      "id": "e-use-landfill",
+      "from": "use",
+      "to": "throw",
+      "path": "exit",
+      "flow": 0.25
+    },
+    {
+      "id": "e-use-rec",
+      "from": "use",
+      "to": "recycle",
+      "path": "recycle",
+      "flow": 0.7
+    },
+    {
+      "id": "e-use-reu",
+      "from": "use",
+      "to": "reuse",
+      "path": "reuse",
+      "flow": 0.55
+    }
+  ],
+  "layout": {
+    "type": "sketch",
+    "manufacture_r": 275,
+    "recycle_r": 180,
+    "reuse_r": 125,
+    "left_r_scale": 1.05,
+    "right_r_scale": 0.85
+  }
 }
