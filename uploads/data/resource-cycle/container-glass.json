@@ -1,6 +1,6 @@
 {
   "name": "Container Glass",
-  "description": "Resource cycle for soda-lime container glass.\n\nGraph nodes show rolled-up CO\u2082e; click a node for the step breakdown. The statement table compares Manufacture / Recycle / Reuse / Landfill pathways.",
+  "description": "Resource cycle for soda-lime container glass.\n\nGraph nodes show rolled-up CO\u2082e; click a node for the step breakdown. The statement table compares Manufacture / Recycle / Reuse / Landfill pathways. Transformation is where ready material becomes the finished article for use.",
   "functional_unit": "1 kg formed & finished container glass",
   "co2e_basis": "Order-of-magnitude allocations from container-glass LCAs (cradle-to-gate often ~1.0\u20131.3 kg CO\u2082e/kg low-cullet; FEVE ~0.67 t CO\u2082 saved per t remelted cullet). Not a certified EPD. Node totals are illustrative \u2014 do not double-count overlapping paths when comparing scenarios.",
   "nodes": [
@@ -54,7 +54,7 @@
       "id": "manufacture",
       "label": "Manufacture",
       "summary": "Melt (~1500 \u00b0C), form bottles/jars, anneal",
-      "details": "1. Melt batch in a regenerative or oxy-fuel furnace (~1400\u20131600 \u00b0C).\n2. Form on IS machines (blow/press).\n3. Anneal in a lehr; inspect and pack empty ware.\n\nCullet from the Recycle loop rejoins the melt (folded into Recycle \u2192 Fill as remelted ware ready to fill). High cullet cuts fuel and process CO\u2082 (~3% energy / ~5% CO\u2082 per 10% cullet).",
+      "details": "1. Melt batch in a regenerative or oxy-fuel furnace (~1400\u20131600 \u00b0C).\n2. Form on IS machines (blow/press).\n3. Anneal in a lehr; inspect and pack empty ware.\n\nCullet from the Recycle loop rejoins the melt (folded into Recycle \u2192 Transformation as remelted ware ready to fill). High cullet cuts fuel and process CO\u2082 (~3% energy / ~5% CO\u2082 per 10% cullet).",
       "inputs": [
         "glass batch",
         "cullet",
@@ -100,8 +100,8 @@
     {
       "id": "recycle",
       "label": "Recycle",
-      "summary": "Collect, sort, treat cullet \u2192 remelt \u2192 rejoin Fill",
-      "details": "Bottle banks / kerbside \u2192 colour sort \u2192 cullet plant \u2192 furnace remelt \u2192 empty ware back into Fill.\n\nCredit assumes cullet actually displaces virgin batch melt.",
+      "summary": "Collect, sort, treat cullet \u2192 remelt \u2192 rejoin Transformation",
+      "details": "Bottle banks / kerbside \u2192 colour sort \u2192 cullet plant \u2192 furnace remelt \u2192 empty ware back into Transformation.\n\nCredit assumes cullet actually displaces virgin batch melt.",
       "inputs": [
         "post-consumer glass",
         "sorting energy",
@@ -109,7 +109,7 @@
         "furnace energy (remelt)"
       ],
       "outputs": [
-        "remelted empty ware to Fill"
+        "remelted empty ware to Transformation"
       ],
       "impacts": [
         "collection logistics",
@@ -136,8 +136,8 @@
     {
       "id": "reuse",
       "label": "Reuse",
-      "summary": "Return, wash, inspect \u2014 then back into Fill",
-      "details": "Deposit\u2013return reuse: reverse logistics \u2192 industrial wash (hot water, caustic) \u2192 inspection \u2192 rejoin Fill.\n\nEach wash costs energy but avoids remelting. Trip rate and regional loops dominate the climate outcome.",
+      "summary": "Return, wash, inspect \u2014 then back into Transformation",
+      "details": "Deposit\u2013return reuse: reverse logistics \u2192 industrial wash (hot water, caustic) \u2192 inspection \u2192 rejoin Transformation.\n\nEach wash costs energy but avoids remelting. Trip rate and regional loops dominate the climate outcome.",
       "inputs": [
         "returned bottles",
         "hot water",
@@ -168,24 +168,24 @@
     },
     {
       "id": "fill",
-      "label": "Fill",
-      "summary": "Rinse, fill, cap, and label at the bottling plant",
-      "details": "Empty glass (virgin from Manufacture via Deliver, remelted from Recycle, or washed from Reuse) is rinsed/sterilised, filled, capped, labelled, and packed.\n\nInbound empty ware and outbound filled freight are Deliver edges, not a node.\n\nProduct contents\u2019 footprint is out of scope for the glass functional unit.",
+      "label": "Transformation",
+      "summary": "Turn ready material into its final form for the end user",
+      "details": "Material arriving from Manufacture, Recycle, or Reuse is transformed into the finished article the end user receives (for glass: rinse/sterilise, fill, cap, label, pack).\n\nInbound empty ware and outbound finished freight are Deliver edges, not this node.\n\nProduct contents\u2019 footprint is out of scope for the glass functional unit.",
       "inputs": [
-        "empty glass",
-        "product to fill",
-        "caps / labels",
-        "wash water",
-        "electricity"
+        "ready material",
+        "product / contents",
+        "closures / labels",
+        "process energy",
+        "water"
       ],
       "outputs": [
-        "filled containers",
-        "wastewater",
-        "label scrap"
+        "finished product",
+        "process waste"
       ],
       "impacts": [
-        "plant electricity",
-        "water use"
+        "plant energy",
+        "water use",
+        "packaging auxiliaries"
       ],
       "co2e_kg": 0.04,
       "co2e_note": "~0.04 kg CO\u2082e/kg glass for rinse/fill/cap line utilities attributed to the container (not the beverage). Varies widely with pasteurisation and line speed.",
@@ -194,9 +194,9 @@
       "co2e_lines": [
         {
           "id": "f-line",
-          "label": "Rinse / fill / cap utilities",
+          "label": "Line utilities (transform / finish)",
           "co2e_kg": 0.04,
-          "note": "Attributed to the container, not the beverage"
+          "note": "Attributed to the finished article, not the contents"
         }
       ]
     },
@@ -204,7 +204,7 @@
       "id": "use",
       "label": "Use",
       "summary": "Consumer or venue uses the product; bottle becomes empty again",
-      "details": "Use-phase GHG for the glass itself is negligible. The important choice is the next edge:\n\n\u2022 Landfill \u2014 material lost\n\u2022 Recycle \u2014 remelt / rejoin at Fill\n\u2022 Reuse \u2014 wash and rejoin at Fill",
+      "details": "Use-phase GHG for the glass itself is negligible. The important choice is the next edge:\n\n\u2022 Landfill \u2014 material lost\n\u2022 Recycle \u2014 remelt / rejoin Transformation\n\u2022 Reuse \u2014 wash and rejoin Transformation",
       "inputs": [
         "filled product"
       ],
