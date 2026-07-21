@@ -1,101 +1,16 @@
 {
   "name": "IPCC Overview",
-  "description": "A finished cause-and-effect mural of global warming: human activities \u2192 emissions \u2192 concentrations and sinks \u2192 energy imbalance \u2192 climate responses \u2192 impacts \u2192 responses.\n\nClick any card for an explanation and sources. This is a browseable explainer, not a workshop.",
-  "credit": "Pedagogical layout inspired by La Fresque du Climat / Climate Fresk (C\u00e9dric Ringenbach). Card text and links are original and based on public IPCC AR6 findings\u2014not a copy of the official deck.",
-  "disclaimer": "Not an official Climate Fresk / Fresque du Climat product. Official Fresk materials are CC BY-NC-ND and must not be copied. For a facilitated workshop, see climatefresk.org. Figures here are order-of-magnitude educational summaries\u2014consult the cited IPCC chapters for authoritative wording.",
+  "description": "A straight cause-and-effect story of global warming.\n\nThe main culprits \u2014 power & heat, transport, buildings, heavy industry, oil & gas operations, and land-use change \u2014 drive CO\u2082 (and some methane). Rising CO\u2082 strengthens the greenhouse effect and acidifies the ocean \u2192 warming, extremes, marine stress \u2192 food and people.\n\nFeedback: warming thaws permafrost \u2192 more methane \u2192 stronger greenhouse effect.\n\nClick any card for detail and IPCC sources.",
+  "credit": "Pedagogical idea inspired by La Fresque du Climat / Climate Fresk (C\u00e9dric Ringenbach). This simplified spine and wording are original, based on IPCC AR6 \u2014 not a copy of the official deck.",
+  "disclaimer": "Not an official Climate Fresk product. Official materials are CC BY-NC-ND. Educational summary only \u2014 see cited IPCC chapters for authoritative text.",
   "cards": [
     {
-      "id": "fossil-energy",
-      "label": "Fossil energy",
+      "id": "land-use",
+      "label": "Land-use change",
       "wave": "activities",
-      "summary": "Coal, oil and gas burned for electricity, heat and fuel",
-      "details": "Most anthropogenic CO\u2082 comes from burning fossil carbon that was stored underground. Electricity & heat, industry fuel use, and transport dominate global fossil CO\u2082.",
-      "key_figures": "Fossil CO\u2082 is the largest share of anthropogenic GHG emissions (IPCC AR6).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/",
-          "note": "Sectoral emission shares"
-        },
-        {
-          "label": "IPCC AR6 Synthesis Report",
-          "url": "https://www.ipcc.ch/report/ar6/syr/",
-          "note": "Sectoral emission shares"
-        }
-      ],
-      "tags": [
-        "energy",
-        "CO2"
-      ],
-      "x": -95.45865442912583,
-      "y": -877.4295218318003
-    },
-    {
-      "id": "industry",
-      "label": "Industry",
-      "wave": "activities",
-      "summary": "Process emissions and energy use in materials and manufacturing",
-      "details": "Cement, steel, chemicals and other industry emit both from fuel combustion and from chemical processes (e.g. calcination of limestone for cement).",
-      "key_figures": "Industry is among the largest emitting sectors globally alongside energy supply and AFOLU.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/",
-          "note": "Industry mitigation chapter context in WG3"
-        }
-      ],
-      "tags": [
-        "industry",
-        "process"
-      ],
-      "x": 83.69871899846852,
-      "y": -1419.6184320171117
-    },
-    {
-      "id": "transport",
-      "label": "Transport",
-      "wave": "activities",
-      "summary": "Road, aviation, shipping and rail fossil fuel use",
-      "details": "Transport emissions are dominated by oil products. Road vehicles are the largest slice; aviation and shipping grow with trade and travel.",
-      "key_figures": "Transport relies heavily on liquid fossil fuels; electrification and efficiency are key levers (WG3).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
-        }
-      ],
-      "tags": [
-        "transport"
-      ],
-      "x": -2.7524537268961002,
-      "y": -1218.6340992853388
-    },
-    {
-      "id": "buildings",
-      "label": "Buildings",
-      "wave": "activities",
-      "summary": "Heating, cooling, cooking and electricity in homes and workplaces",
-      "details": "Buildings use energy directly (gas, oil, biomass) and indirectly via electricity. Envelope efficiency and heat pumps cut demand and emissions.",
-      "key_figures": "Building energy demand depends strongly on climate, insulation, and fuel mix.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
-        }
-      ],
-      "tags": [
-        "buildings"
-      ],
-      "x": -117.70070242060675,
-      "y": -764.1844150529864
-    },
-    {
-      "id": "deforestation",
-      "label": "Deforestation & land use",
-      "wave": "activities",
-      "summary": "Clearing forests and converting ecosystems releases stored carbon",
-      "details": "When forests or peatlands are cleared or degraded, carbon stored in biomass and soils enters the atmosphere as CO\u2082 (and sometimes CH\u2084/N\u2082O from fires and soils).",
-      "key_figures": "AFOLU (agriculture, forestry and other land use) is a major emissions category and also hosts sinks.",
+      "summary": "Deforestation and land conversion \u2014 the non-fossil CO\u2082 culprit",
+      "details": "Alongside the fossil system, clearing forests and draining peat releases carbon stored in ecosystems. It is not \u201cfossil fuel\u201d, but it is a major human CO\u2082 source and weakens natural sinks.",
+      "key_figures": "AFOLU (agriculture, forestry and land use) is a major emissions category and also a potential sink.",
       "sources": [
         {
           "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
@@ -107,44 +22,20 @@
         }
       ],
       "tags": [
-        "land",
-        "CO2"
+        "land"
       ],
-      "x": 1559.6292581338055,
-      "y": -534.8789746779734
+      "col": 0,
+      "row": 5,
+      "x": 40,
+      "y": 550
     },
     {
-      "id": "agriculture",
-      "label": "Agriculture & livestock",
-      "wave": "activities",
-      "summary": "Methane from ruminants and rice; nitrous oxide from fertilizers",
-      "details": "Enteric fermentation, manure, flooded rice, and nitrogen fertilizers drive non-CO\u2082 GHGs. Food systems also link to land-use change.",
-      "key_figures": "CH\u2084 and N\u2082O from AFOLU are a large share of non-CO\u2082 anthropogenic forcing.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
-        },
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
-        }
-      ],
-      "tags": [
-        "agriculture",
-        "CH4",
-        "N2O"
-      ],
-      "x": -35.24823008915254,
-      "y": -1091.523192385083
-    },
-    {
-      "id": "co2",
+      "id": "co2-emissions",
       "label": "CO\u2082 emissions",
       "wave": "emissions",
-      "summary": "Carbon dioxide from fossil fuels and land-use change",
-      "details": "CO\u2082 is long-lived in the Earth system. Cumulative CO\u2082 emissions tightly constrain long-term warming. About half of emitted CO\u2082 stays in the atmosphere on multi-decadal timescales; the rest is taken up by land and ocean sinks.",
-      "key_figures": "Each 1000 GtCO\u2082 of cumulative emissions is associated with ~0.45\u00b0C (best estimate range in AR6) of warming (TCRE).",
+      "summary": "Extra carbon dioxide poured into the air each year",
+      "details": "These activities add CO\u2082 faster than natural sinks can remove it. What matters for long-term warming is the cumulative total.",
+      "key_figures": "Cumulative CO\u2082 largely sets long-term warming (Transient Climate Response to Emissions).",
       "sources": [
         {
           "label": "IPCC AR6 WG1 Summary for Policymakers",
@@ -156,89 +47,20 @@
         }
       ],
       "tags": [
-        "CO2",
-        "cumulative"
+        "CO2"
       ],
-      "x": 1047.7634897940977,
-      "y": -1085.7691302419503
+      "col": 1,
+      "row": 1,
+      "x": 240,
+      "y": 150
     },
     {
-      "id": "ch4",
-      "label": "CH\u2084 emissions",
-      "wave": "emissions",
-      "summary": "Methane from fossil fuels, livestock, waste and wetlands disturbance",
-      "details": "Methane is a potent but shorter-lived GHG. Cutting CH\u2084 reduces near-term warming quickly compared with CO\u2082 alone.",
-      "key_figures": "CH\u2084 has a high Global Warming Potential over 20\u2013100 years but a much shorter atmospheric lifetime than CO\u2082.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
-        },
-        {
-          "label": "IPCC AR6 WG1 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/"
-        }
-      ],
-      "tags": [
-        "CH4"
-      ],
-      "x": 564.7577780497004,
-      "y": -739.00497715081
-    },
-    {
-      "id": "n2o",
-      "label": "N\u2082O emissions",
-      "wave": "emissions",
-      "summary": "Nitrous oxide mainly from agriculture and some industry",
-      "details": "N\u2082O is long-lived and also depletes stratospheric ozone. Agricultural soils are the dominant anthropogenic source.",
-      "key_figures": "N\u2082O is the third major long-lived GHG after CO\u2082 and CH\u2084.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
-        },
-        {
-          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
-        }
-      ],
-      "tags": [
-        "N2O"
-      ],
-      "x": 781.1751777131713,
-      "y": -897.4235835481677
-    },
-    {
-      "id": "aerosols",
-      "label": "Aerosols & air pollution",
-      "wave": "emissions",
-      "summary": "Particles that cool (and some that warm) and harm health",
-      "details": "Sulfate and other aerosols from burning fossil fuels and biomass reflect sunlight and modify clouds, masking some greenhouse warming. Cleaning air pollution reduces that mask while improving health.",
-      "key_figures": "Aerosol cooling is a major uncertainty in the historical energy budget (WG1 Ch7).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
-        },
-        {
-          "label": "IPCC AR6 WG1 Chapter 7 \u2014 Energy budget & radiative forcing",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/"
-        }
-      ],
-      "tags": [
-        "aerosols",
-        "SLCF"
-      ],
-      "x": 256.8071481490668,
-      "y": -66.76294014388918
-    },
-    {
-      "id": "concentrations",
-      "label": "GHG concentrations",
+      "id": "atmospheric-co2",
+      "label": "More CO\u2082 in the air",
       "wave": "atmosphere",
-      "summary": "Rising atmospheric CO\u2082, CH\u2084 and N\u2082O",
-      "details": "Emissions accumulate in the atmosphere when they exceed natural sinks. CO\u2082 is now higher than at any time in at least 2 million years (AR6).",
-      "key_figures": "CO\u2082 \u2248 410+ ppm in recent observations cited in AR6 (levels continue to rise).",
+      "summary": "Atmospheric concentration keeps rising",
+      "details": "About half of emitted CO\u2082 stays in the atmosphere for decades to centuries; the rest is taken up by land and ocean \u2014 for now.",
+      "key_figures": "CO\u2082 is higher than at any time in at least 2 million years (AR6).",
       "sources": [
         {
           "label": "IPCC AR6 WG1 Summary for Policymakers",
@@ -252,63 +74,21 @@
       "tags": [
         "atmosphere"
       ],
-      "x": 946.6476625667946,
-      "y": -375.0847965784715
-    },
-    {
-      "id": "land-sink",
-      "label": "Land carbon sink",
-      "wave": "atmosphere",
-      "summary": "Forests and soils absorb part of emitted CO\u2082",
-      "details": "Photosynthesis and soil processes remove a substantial fraction of anthropogenic CO\u2082 each year. The sink is climate- and land-use-sensitive and is not unlimited.",
-      "key_figures": "Land and ocean together have taken up roughly half of anthropogenic CO\u2082 emissions historically (order of magnitude; WG1 Ch5).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
-        }
-      ],
-      "tags": [
-        "sink",
-        "CO2"
-      ],
-      "x": 1544.3533805466755,
-      "y": -886.8766582920948
-    },
-    {
-      "id": "ocean-uptake",
-      "label": "Ocean CO\u2082 uptake",
-      "wave": "atmosphere",
-      "summary": "Oceans dissolve CO\u2082 and store heat and carbon",
-      "details": "Ocean uptake slows atmospheric CO\u2082 rise but causes ocean acidification and is rate-limited by circulation and chemistry.",
-      "key_figures": "The ocean has absorbed a large share of excess heat and a substantial fraction of anthropogenic CO\u2082 (WG1 Ch5, Ch9).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
-        },
-        {
-          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean, cryosphere, sea level",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
-        }
-      ],
-      "tags": [
-        "ocean",
-        "sink"
-      ],
-      "x": 494.8160536902661,
-      "y": -366.0128709769178
+      "col": 2,
+      "row": 1,
+      "x": 440,
+      "y": 150
     },
     {
       "id": "greenhouse-effect",
-      "label": "Greenhouse effect",
+      "label": "Stronger greenhouse effect",
       "wave": "energy",
-      "summary": "GHGs trap outgoing infrared radiation",
-      "details": "The natural greenhouse effect keeps Earth habitable. Extra GHGs from human activities strengthen the effect, reducing the efficiency of outgoing longwave radiation to space until the planet warms enough to restore energy balance.",
-      "key_figures": "Without the natural greenhouse effect, global mean surface temperature would be far below freezing.",
+      "summary": "Extra CO\u2082 traps more outgoing heat",
+      "details": "The natural greenhouse effect makes Earth habitable. Human-added CO\u2082 strengthens it, so the planet must warm until energy balance is restored.",
+      "key_figures": "Well-mixed GHGs provide the largest positive radiative forcing since 1750 (WG1 Ch7).",
       "sources": [
         {
-          "label": "IPCC AR6 WG1 Chapter 7 \u2014 Energy budget & radiative forcing",
+          "label": "IPCC AR6 WG1 Chapter 7 \u2014 Energy budget",
           "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/"
         },
         {
@@ -319,62 +99,43 @@
       "tags": [
         "physics"
       ],
-      "x": 1144.4201295644193,
-      "y": -197.81877885840805
+      "col": 3,
+      "row": 0,
+      "x": 640,
+      "y": 50
     },
     {
-      "id": "radiative-forcing",
-      "label": "Radiative forcing",
-      "wave": "energy",
-      "summary": "Net change in Earth\u2019s energy balance from drivers",
-      "details": "Positive forcing (GHGs) warms; negative forcing (many aerosols) cools. Effective radiative forcing (ERF) is the AR6 metric linking drivers to the energy imbalance.",
-      "key_figures": "Well-mixed GHGs provide the largest positive ERF since 1750; aerosols provide a substantial negative ERF (WG1 Ch7).",
+      "id": "ocean-uptake",
+      "label": "Ocean takes up CO\u2082",
+      "wave": "atmosphere",
+      "summary": "Seawater dissolves a large share of our CO\u2082",
+      "details": "The ocean slows the rise of atmospheric CO\u2082 \u2014 but the dissolved CO\u2082 changes seawater chemistry.",
+      "key_figures": "The ocean has absorbed a substantial fraction of anthropogenic CO\u2082 (WG1 Ch5).",
       "sources": [
         {
-          "label": "IPCC AR6 WG1 Chapter 7 \u2014 Energy budget & radiative forcing",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/"
+          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
         },
         {
-          "label": "IPCC AR6 WG1 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/"
-        }
-      ],
-      "tags": [
-        "forcing"
-      ],
-      "x": 699.0531514114239,
-      "y": -125.73455500216309
-    },
-    {
-      "id": "energy-imbalance",
-      "label": "Earth energy imbalance",
-      "wave": "energy",
-      "summary": "More energy in than out \u2014 the planet is heating",
-      "details": "When incoming absorbed solar exceeds outgoing longwave, heat accumulates\u2014mostly in the ocean. The imbalance is the most direct measure that warming is ongoing.",
-      "key_figures": "Most excess heat (~90%) goes into the ocean (WG1).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 7 \u2014 Energy budget & radiative forcing",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-7/"
-        },
-        {
-          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean, cryosphere, sea level",
+          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean & cryosphere",
           "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
         }
       ],
       "tags": [
-        "energy"
+        "ocean"
       ],
-      "x": 744.233347747932,
-      "y": 99.89018856970151
+      "col": 3,
+      "row": 2,
+      "x": 640,
+      "y": 250
     },
     {
       "id": "warming",
       "label": "Global warming",
       "wave": "climate",
-      "summary": "Rising global mean surface temperature",
-      "details": "Observed warming since the late 19th century is unequivocal and human-caused. Near-term and long-term warming depend on cumulative emissions and climate sensitivity.",
-      "key_figures": "AR6: human influence has warmed the climate at a rate unprecedented in at least 2000 years; ~1.1\u00b0C warmer in 2011\u20132020 vs 1850\u20131900 (SPM).",
+      "summary": "The planet\u2019s surface and oceans heat up",
+      "details": "Most excess heat goes into the ocean. Air temperatures rise, ice melts, and weather patterns shift.",
+      "key_figures": "~1.1\u00b0C warmer in 2011\u20132020 vs 1850\u20131900; warming is unequivocally human-driven (AR6 SPM).",
       "sources": [
         {
           "label": "IPCC AR6 WG1 Summary for Policymakers",
@@ -388,99 +149,47 @@
       "tags": [
         "temperature"
       ],
-      "x": 1222.7157061138748,
-      "y": 242.47051682411637
+      "col": 4,
+      "row": 0,
+      "x": 840,
+      "y": 50
     },
     {
-      "id": "ocean-heat",
-      "label": "Ocean heat content",
+      "id": "ocean-acidification",
+      "label": "Ocean acidification",
       "wave": "climate",
-      "summary": "Oceans store most of the excess heat",
-      "details": "Ocean warming drives thermal expansion (sea level), intensifies marine heatwaves, and affects circulation and ecosystems.",
-      "key_figures": "Ocean heat content has increased through the observational record (WG1 Ch9).",
+      "summary": "More CO\u2082 makes seawater more acidic",
+      "details": "Dissolved CO\u2082 forms carbonic acid. pH falls and carbonate ions drop \u2014 harder for shells and reefs to build.",
+      "key_figures": "Ocean acidification is a direct chemical consequence of CO\u2082 uptake (WG1 Ch5 / Ch9).",
       "sources": [
         {
-          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean, cryosphere, sea level",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
-        }
-      ],
-      "tags": [
-        "ocean"
-      ],
-      "x": 177.6860831788883,
-      "y": 550.0179335811956
-    },
-    {
-      "id": "ice-melt",
-      "label": "Ice melt",
-      "wave": "climate",
-      "summary": "Glaciers, ice sheets and sea ice lose mass",
-      "details": "Mountain glaciers and the Greenland and Antarctic ice sheets contribute to sea-level rise. Sea-ice loss does not raise sea level directly but amplifies warming via albedo feedback.",
-      "key_figures": "Ice sheet and glacier mass loss has accelerated (WG1 Ch9).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean, cryosphere, sea level",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
-        }
-      ],
-      "tags": [
-        "cryosphere"
-      ],
-      "x": 368.7645302243897,
-      "y": 812.8465983294918
-    },
-    {
-      "id": "sea-level",
-      "label": "Sea-level rise",
-      "wave": "climate",
-      "summary": "Thermal expansion + land ice melt raise coasts\u2019 risk",
-      "details": "Global mean sea level is rising and will continue for centuries even if warming stabilizes, because ice sheets and deep ocean heat adjust slowly.",
-      "key_figures": "Global mean sea level rose ~0.20 m over 1901\u20132018 (WG1 SPM order of magnitude).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean, cryosphere, sea level",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
+          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
         },
         {
-          "label": "IPCC AR6 WG1 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/"
+          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean & cryosphere",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
         }
       ],
       "tags": [
-        "sea-level"
+        "ocean",
+        "chemistry"
       ],
-      "x": -89.35670695764304,
-      "y": 969.5960584965718
-    },
-    {
-      "id": "water-cycle",
-      "label": "Water cycle changes",
-      "wave": "climate",
-      "summary": "A warmer atmosphere holds more moisture; rainfall patterns shift",
-      "details": "Intensification of the water cycle means heavier extremes in many regions, altered drought risk, and monsoon changes\u2014regionally complex.",
-      "key_figures": "AR6 finds the water cycle has intensified with warming (Ch8).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG1 Chapter 8 \u2014 Water cycle",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-8/"
-        }
-      ],
-      "tags": [
-        "water"
-      ],
-      "x": 908.6412103138637,
-      "y": 964.4206137617145
+      "col": 4,
+      "row": 2,
+      "x": 840,
+      "y": 250
     },
     {
       "id": "extremes",
-      "label": "Climate extremes",
+      "label": "Worse extremes",
       "wave": "climate",
-      "summary": "Heatwaves, heavy rain, droughts and fire weather intensify",
-      "details": "Attribution science links many observed changes in extremes to human-caused warming. Risks compound when extremes hit vulnerable systems.",
-      "key_figures": "Hot extremes have become more frequent and intense; heavy precipitation has increased in many regions (WG1 Ch11).",
+      "summary": "Heatwaves, heavy rain, droughts intensify",
+      "details": "A warmer atmosphere holds more moisture and loads more energy into extremes. Attribution links many changes to human warming.",
+      "key_figures": "Hot extremes have become more frequent and intense (WG1 Ch11).",
       "sources": [
         {
-          "label": "IPCC AR6 WG1 Chapter 11 \u2014 Weather and climate extremes",
+          "label": "IPCC AR6 WG1 Chapter 11 \u2014 Extremes",
           "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/"
         },
         {
@@ -491,38 +200,42 @@
       "tags": [
         "extremes"
       ],
-      "x": 661.5367448029752,
-      "y": 1165.4321220719094
+      "col": 5,
+      "row": 0,
+      "x": 1040,
+      "y": 50
     },
     {
-      "id": "ecosystems",
-      "label": "Ecosystem stress",
+      "id": "marine-life",
+      "label": "Marine life under stress",
       "wave": "impacts",
-      "summary": "Biodiversity loss, coral bleaching, shifting biomes",
-      "details": "Warming, extremes, acidification and land-use change stress ecosystems. Some systems approach thresholds (e.g. warm-water corals).",
-      "key_figures": "WG2 assesses widespread adverse impacts already underway across ecosystems.",
+      "summary": "Coral reefs, shellfish and food webs suffer",
+      "details": "Acidification plus warming (marine heatwaves) bleach corals, stress calcifying organisms, and rearrange ocean ecosystems.",
+      "key_figures": "Warm-water corals are among the systems at highest risk (WG2).",
       "sources": [
         {
           "label": "IPCC AR6 WG2 Summary for Policymakers",
           "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/"
         },
         {
-          "label": "IPCC AR6 Synthesis Report",
-          "url": "https://www.ipcc.ch/report/ar6/syr/"
+          "label": "IPCC AR6 WG1 Chapter 9 \u2014 Ocean & cryosphere",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-9/"
         }
       ],
       "tags": [
         "ecosystems"
       ],
-      "x": 1469.8244338611637,
-      "y": 1055.076715076409
+      "col": 5,
+      "row": 2,
+      "x": 1040,
+      "y": 250
     },
     {
       "id": "food",
-      "label": "Food & water security",
+      "label": "Food & fisheries",
       "wave": "impacts",
-      "summary": "Yields, fisheries and freshwater under pressure",
-      "details": "Climate hazards interact with soil degradation, overuse and inequality. Impacts are uneven\u2014often worst where adaptive capacity is lowest.",
+      "summary": "Crops and seafood become less reliable",
+      "details": "Heat, drought, floods and collapsing reefs/fisheries hit harvests and protein from the sea \u2014 hardest on the most exposed communities.",
       "key_figures": "Climate change has already affected food security in several regions (WG2 SPM).",
       "sources": [
         {
@@ -531,19 +244,20 @@
         }
       ],
       "tags": [
-        "food",
-        "water"
+        "food"
       ],
-      "x": 61.199441839587394,
-      "y": 244.662211706652
+      "col": 6,
+      "row": 1,
+      "x": 1240,
+      "y": 150
     },
     {
-      "id": "health",
-      "label": "Human health",
+      "id": "people",
+      "label": "People & health",
       "wave": "impacts",
-      "summary": "Heat stress, disease vectors, air quality and mental health",
-      "details": "Heat extremes raise mortality and morbidity; climate shifts alter infectious disease risk; wildfire smoke and ozone worsen air quality.",
-      "key_figures": "Health risks rise with every increment of warming, with strong equity dimensions (WG2).",
+      "summary": "Heat, disease, displacement and livelihoods",
+      "details": "Extremes and food stress cascade into health risks, unsafe work, migration pressure and economic loss \u2014 shaped by inequality and governance.",
+      "key_figures": "Health and livelihood risks rise with every increment of warming (WG2 / SYR).",
       "sources": [
         {
           "label": "IPCC AR6 WG2 Summary for Policymakers",
@@ -555,41 +269,21 @@
         }
       ],
       "tags": [
-        "health"
-      ],
-      "x": 833.164137927,
-      "y": 322.9688136557626
-    },
-    {
-      "id": "livelihoods",
-      "label": "Livelihoods & displacement",
-      "wave": "impacts",
-      "summary": "Economic losses, migration pressures and conflict risks",
-      "details": "Climate impacts cascade through infrastructure, labor productivity and coasts. Outcomes depend heavily on governance and vulnerability\u2014not climate alone.",
-      "key_figures": "WG2 emphasizes cascading and compounding risks across societies.",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG2 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/"
-        },
-        {
-          "label": "IPCC AR6 Synthesis Report",
-          "url": "https://www.ipcc.ch/report/ar6/syr/"
-        }
-      ],
-      "tags": [
+        "health",
         "society"
       ],
-      "x": 292.9364495077537,
-      "y": 1180.2309100400323
+      "col": 6,
+      "row": 0,
+      "x": 1240,
+      "y": 50
     },
     {
-      "id": "mitigation",
-      "label": "Mitigation",
+      "id": "cut-emissions",
+      "label": "Cut emissions",
       "wave": "responses",
-      "summary": "Cut emissions: clean energy, efficiency, land, demand",
-      "details": "Deep, rapid GHG reductions are required to limit warming. Pathways combine electrification, renewables, efficiency, methane cuts, and protecting/enhancing sinks\u2014while managing equity.",
-      "key_figures": "Limiting warming to 1.5\u00b0C with limited overshoot requires global GHG emissions to peak ASAP and fall sharply this decade (SYR / WG3).",
+      "summary": "Stop adding CO\u2082 at the source",
+      "details": "Clean power, efficiency, protecting forests and cutting methane are how we slow the whole chain. Sinks help but cannot replace deep fossil CO\u2082 cuts.",
+      "key_figures": "Limiting warming requires global GHG emissions to peak ASAP and fall sharply this decade (SYR / WG3).",
       "sources": [
         {
           "label": "IPCC AR6 WG3 Summary for Policymakers",
@@ -603,350 +297,331 @@
       "tags": [
         "solutions"
       ],
-      "x": 1201.4876380018293,
-      "y": -735.4869872827014
+      "col": 1,
+      "row": 4,
+      "x": 240,
+      "y": 450
     },
     {
-      "id": "adaptation",
-      "label": "Adaptation",
-      "wave": "responses",
-      "summary": "Reduce harm: early warning, resilient infrastructure, social protection",
-      "details": "Adaptation lowers risks but cannot prevent all losses\u2014especially at higher warming. Effective adaptation is place-specific and needs finance and institutions.",
-      "key_figures": "Adaptation progress is underway but gaps remain; limits to adaptation exist (WG2).",
+      "id": "permafrost-thaw",
+      "label": "Permafrost thaw",
+      "wave": "climate",
+      "summary": "Frozen ground thaws as the Arctic warms",
+      "details": "Permafrost stores vast amounts of organic carbon locked in frozen soils. As air and ground temperatures rise, previously frozen ground thaws, exposing that carbon to microbes.",
+      "key_figures": "Large permafrost carbon stocks are vulnerable to thaw under continued warming (IPCC AR6 WG1).",
       "sources": [
-        {
-          "label": "IPCC AR6 WG2 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/"
-        },
-        {
-          "label": "IPCC AR6 Synthesis Report",
-          "url": "https://www.ipcc.ch/report/ar6/syr/"
-        }
-      ],
-      "tags": [
-        "solutions"
-      ],
-      "x": 440.06405906814314,
-      "y": 298.62898445838323
-    },
-    {
-      "id": "enhance-sinks",
-      "label": "Protect & enhance sinks",
-      "wave": "responses",
-      "summary": "Ecosystems and land management that store carbon",
-      "details": "Halting deforestation, restoring ecosystems, and improving soils can increase removals\u2014but sinks cannot substitute for fossil CO\u2082 cuts at the needed scale.",
-      "key_figures": "Land-based mitigation has cobenefits and constraints (food, biodiversity) (WG3).",
-      "sources": [
-        {
-          "label": "IPCC AR6 WG3 Summary for Policymakers",
-          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
-        },
         {
           "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
-          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/"
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+          "note": "Permafrost carbon and thaw feedbacks"
+        },
+        {
+          "label": "IPCC AR6 WG1 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/summary-for-policymakers/"
         }
       ],
       "tags": [
-        "sink",
-        "solutions"
+        "feedback",
+        "cryosphere"
       ],
-      "x": 1168.2850530419198,
-      "y": -626.2185712201016
+      "col": 5,
+      "row": 1,
+      "x": 875.2941176470588,
+      "y": -151.1764705882353
+    },
+    {
+      "id": "methane-release",
+      "label": "Methane release",
+      "wave": "emissions",
+      "summary": "Thawing soils release CH\u2084 (and CO\u2082) \u2014 a climate feedback",
+      "details": "Microbes break down thawed organic matter and can produce methane (CH\u2084), a potent greenhouse gas. That extra warming agent is not from burning fossil fuels \u2014 it is the Earth system amplifying human-caused warming. This closes a vicious cycle: more warming \u2192 more thaw \u2192 more methane \u2192 stronger greenhouse effect \u2192 more warming.",
+      "key_figures": "Methane is shorter-lived than CO\u2082 but much stronger per molecule over decades; permafrost carbon feedbacks increase projected warming (AR6).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG1 Chapter 5 \u2014 Global Carbon Cycle",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-5/",
+          "note": "Permafrost / wetland CH\u2084 feedbacks"
+        },
+        {
+          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
+        }
+      ],
+      "tags": [
+        "CH4",
+        "feedback"
+      ],
+      "col": 3,
+      "row": 1,
+      "x": 378.8235294117647,
+      "y": -199.41176470588235
+    },
+    {
+      "id": "power",
+      "label": "Power & heat",
+      "wave": "activities",
+      "summary": "Coal and gas plants for electricity and district heat",
+      "details": "Electricity and heat generation is the single largest fossil CO\u2082 slice in many inventories: coal and gas burned in power stations and heat plants. Decarbonizing the grid cuts emissions across buildings, industry and transport as they electrify.",
+      "key_figures": "Energy supply (electricity & heat) is typically the largest sectoral CO\u2082 source globally (IPCC AR6 WG3).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG3 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/",
+          "note": "Sectoral emissions"
+        },
+        {
+          "label": "IPCC AR6 Synthesis Report",
+          "url": "https://www.ipcc.ch/report/ar6/syr/"
+        }
+      ],
+      "tags": [
+        "energy",
+        "coal",
+        "gas"
+      ],
+      "col": 0,
+      "row": 0,
+      "x": -201.1764705882353,
+      "y": 6.470588235294116
+    },
+    {
+      "id": "transport",
+      "label": "Transport",
+      "wave": "activities",
+      "summary": "Cars, trucks, ships and planes \u2014 mostly oil",
+      "details": "Road vehicles dominate transport CO\u2082; aviation and shipping add fast-growing oil demand. Almost all of this still comes from liquid fossil fuels.",
+      "key_figures": "Transport is among the largest end-use CO\u2082 sectors and is highly oil-dependent (WG3).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG3 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
+        }
+      ],
+      "tags": [
+        "oil",
+        "transport"
+      ],
+      "col": 0,
+      "row": 1,
+      "x": -308.2352941176471,
+      "y": 75.88235294117646
+    },
+    {
+      "id": "buildings",
+      "label": "Buildings",
+      "wave": "activities",
+      "summary": "Heating, cooling and cooking in homes and workplaces",
+      "details": "Buildings burn gas and oil on-site and pull fossil electricity from the grid. Insulation, heat pumps and a clean grid cut both direct and indirect emissions.",
+      "key_figures": "Buildings account for a large share of final energy use; emissions depend on the fuel mix (WG3).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG3 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
+        }
+      ],
+      "tags": [
+        "buildings",
+        "gas"
+      ],
+      "col": 0,
+      "row": 2,
+      "x": -381.1764705882353,
+      "y": 184.11764705882354
+    },
+    {
+      "id": "heavy-industry",
+      "label": "Heavy industry",
+      "wave": "activities",
+      "summary": "Steel, cement, chemicals \u2014 fuel + process CO\u2082",
+      "details": "Blast furnaces, cement kilns and chemical plants burn fossil fuels and also release process CO\u2082 (e.g. limestone \u2192 lime in cement). Harder to electrify than cars or home heat.",
+      "key_figures": "Industry is one of the largest emitting sectors; cement and steel are standout process emitters (WG3).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG3 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
+        }
+      ],
+      "tags": [
+        "industry",
+        "cement",
+        "steel"
+      ],
+      "col": 0,
+      "row": 3,
+      "x": -397.6470588235294,
+      "y": 282.94117647058823
+    },
+    {
+      "id": "oil-gas-ops",
+      "label": "Oil & gas ops",
+      "wave": "activities",
+      "summary": "Extraction, flaring, vents and methane leaks",
+      "details": "Before fuel is burned by end users, the oil and gas system itself emits: flaring, venting, and methane leaks along wells, pipes and processing. That is both CO\u2082 and CH\u2084 from the supply chain.",
+      "key_figures": "Fossil fuel production and distribution are major CH\u2084 sources as well as CO\u2082 (WG1 Ch6 / WG3).",
+      "sources": [
+        {
+          "label": "IPCC AR6 WG1 Chapter 6 \u2014 Short-lived climate forcers",
+          "url": "https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-6/"
+        },
+        {
+          "label": "IPCC AR6 WG3 Summary for Policymakers",
+          "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/summary-for-policymakers/"
+        }
+      ],
+      "tags": [
+        "oil",
+        "gas",
+        "CH4"
+      ],
+      "col": 0,
+      "row": 4,
+      "x": -22.35294117647061,
+      "y": -93.52941176470591
     }
   ],
   "links": [
     {
-      "id": "e-fossil-energy-co2",
-      "from": "fossil-energy",
-      "to": "co2",
-      "label": "burns to"
+      "id": "e-land-use-co2-emissions",
+      "from": "land-use",
+      "to": "co2-emissions",
+      "label": "drive"
     },
     {
-      "id": "e-industry-co2",
-      "from": "industry",
-      "to": "co2",
-      "label": "emits"
+      "id": "e-co2-emissions-atmospheric-co2",
+      "from": "co2-emissions",
+      "to": "atmospheric-co2",
+      "label": "raise"
     },
     {
-      "id": "e-industry-n2o",
-      "from": "industry",
-      "to": "n2o",
-      "label": "process & energy"
-    },
-    {
-      "id": "e-transport-co2",
-      "from": "transport",
-      "to": "co2",
-      "label": "burns fuel"
-    },
-    {
-      "id": "e-buildings-co2",
-      "from": "buildings",
-      "to": "co2",
-      "label": "energy use"
-    },
-    {
-      "id": "e-deforestation-co2",
-      "from": "deforestation",
-      "to": "co2",
-      "label": "releases carbon"
-    },
-    {
-      "id": "e-deforestation-land-sink",
-      "from": "deforestation",
-      "to": "land-sink",
-      "label": "weakens"
-    },
-    {
-      "id": "e-agriculture-ch4",
-      "from": "agriculture",
-      "to": "ch4",
-      "label": "emits"
-    },
-    {
-      "id": "e-agriculture-n2o",
-      "from": "agriculture",
-      "to": "n2o",
-      "label": "emits"
-    },
-    {
-      "id": "e-fossil-energy-ch4",
-      "from": "fossil-energy",
-      "to": "ch4",
-      "label": "leaks & incomplete burn"
-    },
-    {
-      "id": "e-fossil-energy-aerosols",
-      "from": "fossil-energy",
-      "to": "aerosols",
-      "label": "co-emits"
-    },
-    {
-      "id": "e-co2-concentrations",
-      "from": "co2",
-      "to": "concentrations",
-      "label": "accumulates as"
-    },
-    {
-      "id": "e-ch4-concentrations",
-      "from": "ch4",
-      "to": "concentrations",
-      "label": "raises"
-    },
-    {
-      "id": "e-n2o-concentrations",
-      "from": "n2o",
-      "to": "concentrations",
-      "label": "raises"
-    },
-    {
-      "id": "e-co2-land-sink",
-      "from": "co2",
-      "to": "land-sink",
-      "label": "partly absorbed by"
-    },
-    {
-      "id": "e-co2-ocean-uptake",
-      "from": "co2",
-      "to": "ocean-uptake",
-      "label": "partly absorbed by"
-    },
-    {
-      "id": "e-land-sink-concentrations",
-      "from": "land-sink",
-      "to": "concentrations",
-      "label": "reduces growth of"
-    },
-    {
-      "id": "e-ocean-uptake-concentrations",
-      "from": "ocean-uptake",
-      "to": "concentrations",
-      "label": "reduces growth of"
-    },
-    {
-      "id": "e-concentrations-greenhouse-effect",
-      "from": "concentrations",
+      "id": "e-atmospheric-co2-greenhouse-effect",
+      "from": "atmospheric-co2",
       "to": "greenhouse-effect",
       "label": "strengthen"
     },
     {
-      "id": "e-aerosols-radiative-forcing",
-      "from": "aerosols",
-      "to": "radiative-forcing",
-      "label": "mostly cool"
+      "id": "e-atmospheric-co2-ocean-uptake",
+      "from": "atmospheric-co2",
+      "to": "ocean-uptake",
+      "label": "partly dissolves in"
     },
     {
-      "id": "e-greenhouse-effect-radiative-forcing",
+      "id": "e-greenhouse-effect-warming",
       "from": "greenhouse-effect",
-      "to": "radiative-forcing",
-      "label": "drives"
-    },
-    {
-      "id": "e-radiative-forcing-energy-imbalance",
-      "from": "radiative-forcing",
-      "to": "energy-imbalance",
-      "label": "creates"
-    },
-    {
-      "id": "e-energy-imbalance-warming",
-      "from": "energy-imbalance",
       "to": "warming",
-      "label": "heats planet"
-    },
-    {
-      "id": "e-energy-imbalance-ocean-heat",
-      "from": "energy-imbalance",
-      "to": "ocean-heat",
-      "label": "mostly stored as"
-    },
-    {
-      "id": "e-warming-ice-melt",
-      "from": "warming",
-      "to": "ice-melt",
-      "label": "drives"
-    },
-    {
-      "id": "e-warming-water-cycle",
-      "from": "warming",
-      "to": "water-cycle",
-      "label": "intensifies"
+      "label": "cause"
     },
     {
       "id": "e-warming-extremes",
       "from": "warming",
       "to": "extremes",
-      "label": "increases"
+      "label": "intensify"
     },
     {
-      "id": "e-ocean-heat-sea-level",
-      "from": "ocean-heat",
-      "to": "sea-level",
-      "label": "expands water"
+      "id": "e-ocean-uptake-ocean-acidification",
+      "from": "ocean-uptake",
+      "to": "ocean-acidification",
+      "label": "cause"
     },
     {
-      "id": "e-ice-melt-sea-level",
-      "from": "ice-melt",
-      "to": "sea-level",
-      "label": "adds water"
+      "id": "e-ocean-acidification-marine-life",
+      "from": "ocean-acidification",
+      "to": "marine-life",
+      "label": "stress"
     },
     {
-      "id": "e-ice-melt-warming",
-      "from": "ice-melt",
-      "to": "warming",
-      "label": "albedo feedback"
-    },
-    {
-      "id": "e-warming-ecosystems",
+      "id": "e-warming-marine-life",
       "from": "warming",
-      "to": "ecosystems",
-      "label": "stresses"
+      "to": "marine-life",
+      "label": "heat stress"
     },
     {
-      "id": "e-extremes-ecosystems",
-      "from": "extremes",
-      "to": "ecosystems",
-      "label": "damages"
-    },
-    {
-      "id": "e-sea-level-livelihoods",
-      "from": "sea-level",
-      "to": "livelihoods",
-      "label": "threatens coasts"
-    },
-    {
-      "id": "e-water-cycle-food",
-      "from": "water-cycle",
+      "id": "e-marine-life-food",
+      "from": "marine-life",
       "to": "food",
-      "label": "disrupts"
+      "label": "hurt fisheries"
     },
     {
       "id": "e-extremes-food",
       "from": "extremes",
       "to": "food",
-      "label": "damages"
+      "label": "damage harvests"
     },
     {
-      "id": "e-extremes-health",
+      "id": "e-extremes-people",
       "from": "extremes",
-      "to": "health",
-      "label": "harms"
+      "to": "people",
+      "label": "harm"
     },
     {
-      "id": "e-warming-health",
-      "from": "warming",
-      "to": "health",
-      "label": "heat & disease"
-    },
-    {
-      "id": "e-ecosystems-food",
-      "from": "ecosystems",
-      "to": "food",
-      "label": "undermines"
-    },
-    {
-      "id": "e-food-livelihoods",
+      "id": "e-food-people",
       "from": "food",
-      "to": "livelihoods",
-      "label": "affects"
+      "to": "people",
+      "label": "affect"
     },
     {
-      "id": "e-health-livelihoods",
-      "from": "health",
-      "to": "livelihoods",
-      "label": "affects"
+      "id": "e-cut-emissions-co2-emissions",
+      "from": "cut-emissions",
+      "to": "co2-emissions",
+      "label": "reduce"
     },
     {
-      "id": "e-mitigation-co2",
-      "from": "mitigation",
-      "to": "co2",
-      "label": "reduces"
+      "id": "e-warming-permafrost-thaw",
+      "from": "warming",
+      "to": "permafrost-thaw",
+      "label": "thaws"
     },
     {
-      "id": "e-mitigation-ch4",
-      "from": "mitigation",
-      "to": "ch4",
-      "label": "reduces"
+      "id": "e-permafrost-thaw-methane-release",
+      "from": "permafrost-thaw",
+      "to": "methane-release",
+      "label": "releases"
     },
     {
-      "id": "e-mitigation-n2o",
-      "from": "mitigation",
-      "to": "n2o",
-      "label": "reduces"
+      "id": "e-methane-release-greenhouse-effect",
+      "from": "methane-release",
+      "to": "greenhouse-effect",
+      "label": "amplifies"
     },
     {
-      "id": "e-enhance-sinks-land-sink",
-      "from": "enhance-sinks",
-      "to": "land-sink",
-      "label": "strengthens"
+      "id": "e-power-co2-emissions",
+      "from": "power",
+      "to": "co2-emissions",
+      "label": "drive"
     },
     {
-      "id": "e-enhance-sinks-concentrations",
-      "from": "enhance-sinks",
-      "to": "concentrations",
-      "label": "helps lower"
+      "id": "e-transport-co2-emissions",
+      "from": "transport",
+      "to": "co2-emissions",
+      "label": "drive"
     },
     {
-      "id": "e-adaptation-food",
-      "from": "adaptation",
-      "to": "food",
-      "label": "reduces harm to"
+      "id": "e-buildings-co2-emissions",
+      "from": "buildings",
+      "to": "co2-emissions",
+      "label": "drive"
     },
     {
-      "id": "e-adaptation-health",
-      "from": "adaptation",
-      "to": "health",
-      "label": "reduces harm to"
+      "id": "e-heavy-industry-co2-emissions",
+      "from": "heavy-industry",
+      "to": "co2-emissions",
+      "label": "drive"
     },
     {
-      "id": "e-adaptation-livelihoods",
-      "from": "adaptation",
-      "to": "livelihoods",
-      "label": "reduces harm to"
+      "id": "e-oil-gas-ops-co2-emissions",
+      "from": "oil-gas-ops",
+      "to": "co2-emissions",
+      "label": "drive"
+    },
+    {
+      "id": "e-oil-gas-ops-methane-release",
+      "from": "oil-gas-ops",
+      "to": "methane-release",
+      "label": "leaks & vents"
     }
   ],
   "layout": {
-    "type": "force",
-    "col_gap": 220,
-    "row_gap": 86
+    "type": "spine",
+    "col_gap": 200,
+    "row_gap": 100
   }
 }
