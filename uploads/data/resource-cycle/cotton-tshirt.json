@@ -1,0 +1,54 @@
+{
+  "name": "Cotton T-Shirt",
+  "description": "A conventional cotton tee — from field to landfill (and the loops that can interrupt that path).",
+  "stages": [
+    {
+      "id": "harvest",
+      "summary": "Grow and pick cotton fibre",
+      "details": "Cotton is grown on large monocultures, often irrigated heavily. Fibre is harvested mechanically, ginned to separate seed from lint, then baled for spinning mills.",
+      "inputs": ["land", "freshwater", "fertilizer", "pesticides", "diesel"],
+      "outputs": ["raw cotton lint", "cottonseed", "biomass waste"],
+      "impacts": ["water stress", "soil depletion", "chemical runoff"]
+    },
+    {
+      "id": "manufacture",
+      "summary": "Spin, weave, dye, and sew the garment",
+      "details": "Lint is spun into yarn, knitted or woven into fabric, dyed (often with wet chemistry), cut, and sewn. Finishing may include softening, printing, or packaging.",
+      "inputs": ["cotton lint", "dyes", "electricity", "labour", "polyester thread"],
+      "outputs": ["finished T-shirt", "fabric scraps", "wastewater"],
+      "impacts": ["energy use", "chemical pollution", "microfibre shedding"]
+    },
+    {
+      "id": "deliver",
+      "summary": "Ship from factory to wardrobe",
+      "details": "Garments move through ports, distribution centres, and retail (or e-commerce last-mile). Packaging and returns amplify the footprint of a low-cost item.",
+      "inputs": ["finished goods", "packaging", "freight fuel"],
+      "outputs": ["stocked product", "cardboard/plastic waste"],
+      "impacts": ["transport emissions", "overproduction inventory"]
+    },
+    {
+      "id": "throw",
+      "summary": "Discard after short wear life",
+      "details": "Fast-fashion tees are often worn few times then discarded. Landfill and incineration dominate when collection systems are weak or fibre blends make recovery hard.",
+      "inputs": ["worn garment", "collection logistics"],
+      "outputs": ["landfill mass", "incineration ash/CO2"],
+      "impacts": ["methane", "lost materials", "visual waste"]
+    },
+    {
+      "id": "reuse",
+      "summary": "Extend life via second-hand and repair",
+      "details": "Donation, thrift, clothing swaps, and simple repairs (seams, holes) keep the shirt in use. Reuse usually beats recycling on energy and water.",
+      "inputs": ["used garment", "repair materials"],
+      "outputs": ["second life wear", "diverted waste"],
+      "impacts": ["reduced new demand"]
+    },
+    {
+      "id": "recycle",
+      "summary": "Recover fibre into new textiles",
+      "details": "Mechanical recycling shreds cotton into lower-grade fibre (often blended). Chemical recycling can dissolve cellulose into new pulp but remains limited at scale for post-consumer cotton.",
+      "inputs": ["sorted textiles", "energy", "process chemicals"],
+      "outputs": ["recycled fibre", "downcycled rags", "rejects"],
+      "impacts": ["quality loss", "sorting labour", "residual landfill"]
+    }
+  ]
+}

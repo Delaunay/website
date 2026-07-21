@@ -1,0 +1,282 @@
+{
+  "name": "Container Glass",
+  "description": "Resource cycle for soda-lime container glass.\n\nLayout: sketch (hand SVG). Switch to ai_drawn in the UI to restore the earlier circle layout.\nPer-edge `flow` sets arrow thickness (relative material amount).",
+  "functional_unit": "1 kg formed & finished container glass",
+  "co2e_basis": "Order-of-magnitude allocations from container-glass LCAs (cradle-to-gate often ~1.0\u20131.3 kg CO\u2082e/kg low-cullet; FEVE ~0.67 t CO\u2082 saved per t remelted cullet). Not a certified EPD. Node totals are illustrative \u2014 do not double-count overlapping paths when comparing scenarios.",
+  "nodes": [
+    {
+      "id": "harvest",
+      "label": "Harvest",
+      "summary": "Quarry sand, limestone & dolomite; produce soda ash; blend batch",
+      "details": "Batch is typically ~70% silica sand, ~15% soda ash, plus limestone/dolomite.\n\n1. Mine and wash silica sand; crush limestone and dolomite.\n2. Produce or buy synthetic soda ash (largest upstream GHG in the batch).\n3. Dry, weigh, blend; truck batch to the glass plant.\n\nFurnace process CO\u2082 from carbonates is counted under Manufacture.",
+      "inputs": [
+        "silica sand",
+        "limestone",
+        "dolomite",
+        "soda ash",
+        "diesel",
+        "electricity"
+      ],
+      "outputs": [
+        "glass batch",
+        "quarry overburden"
+      ],
+      "impacts": [
+        "habitat disturbance",
+        "soda-ash GHG",
+        "dust"
+      ],
+      "co2e_kg": 0.2,
+      "co2e_note": "~0.20 kg CO\u2082e/kg. Mostly synthetic soda ash (~0.10\u20130.15) plus mining, drying, short-haul transport.",
+      "x": 36,
+      "y": 28
+    },
+    {
+      "id": "manufacture",
+      "label": "Manufacture",
+      "summary": "Melt (~1500 \u00b0C), form bottles/jars, anneal",
+      "details": "1. Melt batch in a regenerative or oxy-fuel furnace (~1400\u20131600 \u00b0C).\n2. Form on IS machines (blow/press).\n3. Anneal in a lehr; inspect and pack empty ware.\n\nCullet from the Recycle loop rejoins the melt (folded into Recycle \u2192 Fill as remelted ware ready to fill). High cullet cuts fuel and process CO\u2082 (~3% energy / ~5% CO\u2082 per 10% cullet).",
+      "inputs": [
+        "glass batch",
+        "cullet",
+        "natural gas",
+        "electricity",
+        "oxygen / air"
+      ],
+      "outputs": [
+        "empty containers",
+        "flue gas CO\u2082",
+        "in-plant scrap cullet"
+      ],
+      "impacts": [
+        "combustion CO\u2082",
+        "process CO\u2082 from carbonates",
+        "NOx"
+      ],
+      "co2e_kg": 0.85,
+      "co2e_note": "~0.85 kg CO\u2082e/kg low-cullet: ~0.55\u20130.65 fuel + ~0.15\u20130.25 process CO\u2082 + ~0.05\u20130.10 forming/annealing. High cullet can cut this toward ~0.4\u20130.5.",
+      "x": 284,
+      "y": 28
+    },
+    {
+      "id": "recycle",
+      "label": "Recycle",
+      "summary": "Collect, sort, treat cullet \u2192 remelt \u2192 rejoin Fill",
+      "details": "Bottle banks / kerbside \u2192 colour sort \u2192 cullet plant \u2192 furnace remelt \u2192 empty ware back into Fill.\n\nCredit assumes cullet actually displaces virgin batch melt.",
+      "inputs": [
+        "post-consumer glass",
+        "sorting energy",
+        "cullet treatment",
+        "furnace energy (remelt)"
+      ],
+      "outputs": [
+        "remelted empty ware to Fill"
+      ],
+      "impacts": [
+        "collection logistics",
+        "avoids virgin melt & soda ash"
+      ],
+      "co2e_kg": -0.63,
+      "co2e_note": "Net \u2248 \u22120.63 kg CO\u2082e/kg: ~+0.04 collect/sort/treat minus ~\u22120.67 avoided virgin production (FEVE-scale) when cullet actually remelts.",
+      "x": 284,
+      "y": 158
+    },
+    {
+      "id": "reuse",
+      "label": "Reuse",
+      "summary": "Return, wash, inspect \u2014 then back into Fill",
+      "details": "Deposit\u2013return reuse: reverse logistics \u2192 industrial wash (hot water, caustic) \u2192 inspection \u2192 rejoin Fill.\n\nEach wash costs energy but avoids remelting. Trip rate and regional loops dominate the climate outcome.",
+      "inputs": [
+        "returned bottles",
+        "hot water",
+        "detergents",
+        "wash energy"
+      ],
+      "outputs": [
+        "clean refillable bottles",
+        "wastewater",
+        "broken rejects \u2192 cullet"
+      ],
+      "impacts": [
+        "wash energy",
+        "displaces new melt"
+      ],
+      "co2e_kg": 0.06,
+      "co2e_note": "~0.06 kg CO\u2082e/kg per industrial wash cycle. One successful reuse avoids ~1+ kg virgin remanufacture when it displaces a new bottle.",
+      "x": 284,
+      "y": 262
+    },
+    {
+      "id": "fill",
+      "label": "Fill",
+      "summary": "Rinse, fill, cap, and label at the bottling plant",
+      "details": "Empty glass (virgin from Manufacture via Deliver, remelted from Recycle, or washed from Reuse) is rinsed/sterilised, filled, capped, labelled, and packed.\n\nInbound empty ware and outbound filled freight are Deliver edges, not a node.\n\nProduct contents\u2019 footprint is out of scope for the glass functional unit.",
+      "inputs": [
+        "empty glass",
+        "product to fill",
+        "caps / labels",
+        "wash water",
+        "electricity"
+      ],
+      "outputs": [
+        "filled containers",
+        "wastewater",
+        "label scrap"
+      ],
+      "impacts": [
+        "plant electricity",
+        "water use"
+      ],
+      "co2e_kg": 0.04,
+      "co2e_note": "~0.04 kg CO\u2082e/kg glass for rinse/fill/cap line utilities attributed to the container (not the beverage). Varies widely with pasteurisation and line speed.",
+      "x": 140,
+      "y": 330
+    },
+    {
+      "id": "use",
+      "label": "Use",
+      "summary": "Consumer or venue uses the product; bottle becomes empty again",
+      "details": "Use-phase GHG for the glass itself is negligible. The important choice is the next edge:\n\n\u2022 Landfill \u2014 material lost\n\u2022 Recycle \u2014 remelt / rejoin at Fill\n\u2022 Reuse \u2014 wash and rejoin at Fill",
+      "inputs": [
+        "filled product"
+      ],
+      "outputs": [
+        "empty post-consumer glass",
+        "consumed product"
+      ],
+      "impacts": [
+        "end-of-life pathway choice"
+      ],
+      "co2e_kg": 0,
+      "co2e_note": "~0 kg CO\u2082e for the glass object during use. Climate impact is decided by which outgoing branch is taken.",
+      "x": 284,
+      "y": 438
+    },
+    {
+      "id": "throw",
+      "label": "Landfill",
+      "summary": "Final landfill (no recovery)",
+      "details": "Residual-waste collection and burial. Glass is inert in landfill (little methane), but embodied carbon and material are lost permanently.",
+      "inputs": [
+        "discarded glass",
+        "collection diesel"
+      ],
+      "outputs": [
+        "landfilled glass"
+      ],
+      "impacts": [
+        "lost recyclable",
+        "collection fuel"
+      ],
+      "co2e_kg": 0.02,
+      "co2e_note": "~0.02 kg CO\u2082e/kg collection + landfill ops. The large climate cost is forgoing Recycle/Reuse credits, not landfill gas.",
+      "x": 36,
+      "y": 438
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-harvest-man",
+      "from": "harvest",
+      "to": "manufacture",
+      "path": "entry",
+      "flow": 1,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-man-fill",
+      "from": "manufacture",
+      "to": "fill",
+      "path": "manufacture",
+      "flow": 1,
+      "co2e_kg": 0.03,
+      "co2e_note": "~0.03 kg CO\u2082e/kg for a typical regional empty-ware haul (~150\u2013300 km)."
+    },
+    {
+      "id": "e-rec-fill",
+      "from": "recycle",
+      "to": "fill",
+      "path": "recycle",
+      "flow": 0.85,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-reu-fill",
+      "from": "reuse",
+      "to": "fill",
+      "path": "reuse",
+      "flow": 0.7,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-fill-use-man",
+      "from": "fill",
+      "to": "use",
+      "path": "manufacture",
+      "flow": 1,
+      "co2e_kg": 0.05,
+      "co2e_note": "~0.05 kg CO\u2082e/kg for a representative filled outbound chain (~200\u2013400 km total)."
+    },
+    {
+      "id": "e-fill-use-rec",
+      "from": "fill",
+      "to": "use",
+      "path": "recycle",
+      "flow": 0.85,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-fill-use-reu",
+      "from": "fill",
+      "to": "use",
+      "path": "reuse",
+      "flow": 0.7,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-use-landfill",
+      "from": "use",
+      "to": "throw",
+      "path": "exit",
+      "flow": 0.25,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-use-rec",
+      "from": "use",
+      "to": "recycle",
+      "path": "recycle",
+      "flow": 0.7,
+      "co2e_kg": null,
+      "co2e_note": ""
+    },
+    {
+      "id": "e-use-reu",
+      "from": "use",
+      "to": "reuse",
+      "path": "reuse",
+      "flow": 0.55,
+      "co2e_kg": null,
+      "co2e_note": ""
+    }
+  ],
+  "layout": {
+    "type": "sketch",
+    "manufacture_r": 275,
+    "recycle_r": 180,
+    "reuse_r": 125,
+    "left_r_scale": 1.05,
+    "right_r_scale": 0.75,
+    "left_bulge": 0.9,
+    "right_bulge": 0.55,
+    "nest": 0.7,
+    "cx": 360,
+    "use_y": 560
+  }
+}

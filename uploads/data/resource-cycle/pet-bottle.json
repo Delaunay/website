@@ -1,0 +1,54 @@
+{
+  "name": "PET Bottle",
+  "description": "Single-use beverage packaging — oil/biomass feedstock to bottle, then landfill, reuse as refill, or bottle-to-bottle recycling.",
+  "stages": [
+    {
+      "id": "harvest",
+      "summary": "Source petrochemicals (or bio feedstock)",
+      "details": "Most PET starts as naphtha/natural-gas liquids refined into PTA and MEG. Bio-based MEG exists but is a small share of global bottle resin.",
+      "inputs": ["crude oil / gas", "energy", "catalysts"],
+      "outputs": ["PET resin pellets", "process emissions"],
+      "impacts": ["fossil extraction", "GHG from refining"]
+    },
+    {
+      "id": "manufacture",
+      "summary": "Blow-mold bottles and fill",
+      "details": "Resin is injection-molded into preforms, stretch-blow molded into bottles, labeled, filled, and capped. Lightweighting reduces resin per bottle but can hinder reuse.",
+      "inputs": ["PET resin", "labels", "caps", "electricity"],
+      "outputs": ["filled bottles", "trim scrap"],
+      "impacts": ["process energy", "microplastics from abrasion"]
+    },
+    {
+      "id": "deliver",
+      "summary": "Distribute chilled drinks to consumers",
+      "details": "Bottles move on pallets through cold chains and stores. Single-serve formats maximize packaging per liter delivered.",
+      "inputs": ["filled bottles", "trucking", "refrigeration"],
+      "outputs": ["retail inventory"],
+      "impacts": ["diesel miles", "retail plastic litter risk"]
+    },
+    {
+      "id": "throw",
+      "summary": "Litter or landfill after one use",
+      "details": "Without collection, bottles persist for decades, fragment into microplastics, or clog waterways. Landfill sequesters carbon poorly compared with closed loops.",
+      "inputs": ["empty bottle"],
+      "outputs": ["litter", "landfill plastic"],
+      "impacts": ["ocean plastics", "wildlife harm"]
+    },
+    {
+      "id": "reuse",
+      "summary": "Refill systems and durable bottles",
+      "details": "Deposit-return refillable glass/PET schemes and personal reusable bottles cut virgin resin demand when logistics are local and wash cycles are efficient.",
+      "inputs": ["returnable bottle", "wash water/energy"],
+      "outputs": ["refilled product"],
+      "impacts": ["lower packaging mass over time"]
+    },
+    {
+      "id": "recycle",
+      "summary": "Bottle-to-bottle rPET",
+      "details": "Sorted clear PET is washed, flaked, and re-polymerized or solid-stated into food-grade rPET. Colored/contaminated streams often downcycle to fiber or strapping.",
+      "inputs": ["sorted PET", "wash chemicals", "heat"],
+      "outputs": ["rPET resin", "fiber grade flake", "rejects"],
+      "impacts": ["collection rates matter", "quality cascade"]
+    }
+  ]
+}

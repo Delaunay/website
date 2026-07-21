@@ -1,0 +1,54 @@
+{
+  "name": "Smartphone",
+  "description": "A modern phone’s materials loop — mining through e-waste — and where reuse/refurbish beats shredding.",
+  "stages": [
+    {
+      "id": "harvest",
+      "summary": "Mine metals and process minerals",
+      "details": "Copper, gold, lithium, cobalt, rare earths and silica are extracted worldwide. Ore processing and refining are energy- and water-intensive, often with toxic tailings.",
+      "inputs": ["ore", "energy", "water", "chemicals"],
+      "outputs": ["refined metals", "battery chemicals", "tailings"],
+      "impacts": ["habitat loss", "toxicity", "conflict minerals"]
+    },
+    {
+      "id": "manufacture",
+      "summary": "Fabricate chips, batteries, and assemble",
+      "details": "Semiconductor fabs, display plants, and battery factories feed contract assembly. Design for thinness and sealed batteries makes later repair harder.",
+      "inputs": ["metals", "silicon wafers", "polymers", "cleanrooms"],
+      "outputs": ["finished phone", "process scrap", "hazardous waste"],
+      "impacts": ["high embodied carbon", "water for fabs"]
+    },
+    {
+      "id": "deliver",
+      "summary": "Global logistics to retail and users",
+      "details": "Air and sea freight move devices to carriers and stores. Frequent model launches drive return flows of barely-used stock.",
+      "inputs": ["devices", "packaging", "air/sea freight"],
+      "outputs": ["sold units", "packaging waste"],
+      "impacts": ["transport emissions", "planned obsolescence pressure"]
+    },
+    {
+      "id": "throw",
+      "summary": "E-waste when phones are abandoned",
+      "details": "Phones in drawers or informal dumps leak metals and plastics. Formal take-back is incomplete; informal recycling can expose workers to toxins.",
+      "inputs": ["end-of-life device"],
+      "outputs": ["e-waste stockpiles", "leached toxins"],
+      "impacts": ["heavy metals", "data risk", "fire hazard in piles"]
+    },
+    {
+      "id": "reuse",
+      "summary": "Refurbish, resell, or repair",
+      "details": "Trade-in, certified refurbished, battery/screen repair, and software support keep devices useful. Modular design and spare parts amplify this loop.",
+      "inputs": ["used phone", "parts", "diagnostics"],
+      "outputs": ["refurbished unit", "harvested parts"],
+      "impacts": ["displaced new production"]
+    },
+    {
+      "id": "recycle",
+      "summary": "Recover metals from shredded devices",
+      "details": "Specialized recyclers shred and separate fractions; smelting recovers precious metals. Plastics and mixed fractions are harder; battery chemistries need dedicated lines.",
+      "inputs": ["collected e-waste", "smelting energy"],
+      "outputs": ["recovered Au/Cu/etc.", "slag", "plastic fraction"],
+      "impacts": ["energy for smelting", "incomplete recovery"]
+    }
+  ]
+}
