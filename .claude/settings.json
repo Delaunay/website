@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s --max-time 20 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/search?tag=spicy&sort=-date&take=30&skip=0&products=classic-box|veggie-box|meal-plan|pronto-box&country=CA&locale=en-CA' -o /tmp/hf_take30.json)",
+      "Bash(curl -s --max-time 20 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/search?sort=-date&take=1&skip=0&products=classic-box|veggie-box|meal-plan|pronto-box&country=CA&locale=en-CA' -o /tmp/hf_all_count.json)",
+      "Bash(curl -s --max-time 20 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/search?sort=-date&take=1&skip=0&country=CA&locale=en-CA' -o /tmp/hf_all_count2.json)",
+      "Bash(curl -s --max-time 20 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/search?sort=date&take=2&skip=0&products=classic-box|veggie-box|meal-plan|pronto-box&country=CA&locale=en-CA' -o /tmp/hf_oldest.json)",
+      "Bash(curl -s -o /tmp/hf_sitemap.xml -w \"%{http_code}\\\\n\" --max-time 15 -A \"Mozilla/5.0\" \"https://www.hellofresh.ca/sitemap.xml\")",
+      "Bash(curl -s -o /tmp/hf_sitemap_recipes.xml -w \"%{http_code}\\\\n\" --max-time 15 -A \"Mozilla/5.0\" \"https://www.hellofresh.ca/sitemap-recipes.xml\")",
+      "Bash(curl -s --max-time 15 -A \"Mozilla/5.0\" \"https://www.hellofresh.ca/sitemap_index.xml\" -o /tmp/hf_sitemap_index.xml)",
+      "Bash(curl -s --max-time 30 -A \"Mozilla/5.0\" \"https://www.hellofresh.ca/sitemap_recipe_pages.xml\" -o /tmp/hf_sitemap_recipes.xml)",
+      "Bash(curl -s -w '\\\\nhttp=%{http_code}\\\\n' --max-time 15 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/__TRACKED_VAR__?country=CA&locale=en-CA' -o /tmp/hf_by_id.json)",
+      "Bash(curl -s -w '\\\\nhttp=%{http_code}\\\\n' --max-time 15 -A Mozilla/5.0 -H 'Accept: application/json' -H 'Authorization: Bearer __CMDSUB_OUTPUT__' 'https://www.hellofresh.ca/gw/recipes/recipes/search?id=__TRACKED_VAR__&country=CA&locale=en-CA' -o /tmp/hf_by_id_search.json)",
+      "Bash(xargs -I{} sh -c 'echo ---{}---; head -40 {}')",
+      "Bash(xargs cat)",
+      "Bash(python3 -c \"import argklass, inspect; print\\(argklass.__file__\\)\")",
+      "Bash(find / -path /proc -prune -o -name \"argklass\" -type d -print)"
+    ]
+  }
+}
