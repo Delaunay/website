@@ -1,0 +1,96 @@
+{
+ "id": "korean",
+ "name": "Korean",
+ "nativeName": "한국어",
+ "font": "'Noto Sans KR', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif",
+ "lang": "ko",
+ "audio": {
+  "dir": "audio/",
+  "preview": "가"
+ },
+ "storage": {
+  "collection": "korean-alphabet",
+  "key": "progress",
+  "local": "scratch.korean-alphabet"
+ },
+ "keyboard": "data/keyboard.json",
+ "data": {
+  "alphabet": "data/alphabet.json",
+  "strokes": "data/strokes.json",
+  "vocab": "data/vocab.json",
+  "grammar": "data/grammar.json",
+  "dialogues": "data/dialogues.json",
+  "numbers": "data/numbers.json",
+  "frequency": "data/frequency.json"
+ },
+ "levels": [
+  {
+   "id": "1",
+   "title": "Alphabet",
+   "module": "alphabet"
+  },
+  {
+   "id": "2",
+   "title": "Words",
+   "module": "vocab"
+  },
+  {
+   "id": "3",
+   "title": "Grammar",
+   "module": "grammar"
+  },
+  {
+   "id": "4",
+   "title": "Conversations",
+   "type": "dialogue",
+   "data": "dialogues"
+  },
+  {
+   "id": "5",
+   "title": "Numbers",
+   "type": "items",
+   "data": "numbers"
+  },
+  {
+   "id": "6",
+   "title": "Frequent words",
+   "type": "items",
+   "data": "frequency"
+  }
+ ],
+ "audioFields": [
+  "say",
+  "ko",
+  "a",
+  "alt",
+  "polite",
+  "past",
+  "future",
+  "prog",
+  "neg",
+  "negji"
+ ],
+ "tts": [
+  {
+   "id": "sunhi",
+   "label": "SunHi (female)",
+   "voice": "ko-KR-SunHiNeural",
+   "rate": "-15%"
+  },
+  {
+   "id": "injoon",
+   "label": "InJoon (male)",
+   "voice": "ko-KR-InJoonNeural",
+   "rate": "-15%"
+  },
+  {
+   "id": "sunhi-slow",
+   "label": "SunHi, slow",
+   "voice": "ko-KR-SunHiNeural",
+   "rate": "-45%"
+  }
+ ],
+ "downloads": [
+  "90daykorean"
+ ]
+}

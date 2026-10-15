@@ -1,0 +1,975 @@
+{
+ "units": [
+  {
+   "id": "n-sino",
+   "title": "Sino-Korean numbers",
+   "rule": "Two number systems. Sino-Korean (일, 이, 삼…) is for money, minutes, dates, phone numbers and anything measured. Bigger numbers are built from the digits: 11 = 십일 (10 + 1), 20 = 이십 (2 × 10). No 일 before 십, 백, 천 or 만: 10 = 십, 100 = 백, 1,000 = 천, 10,000 = 만. Zero is 영, or 공 in phone numbers.",
+   "items": [
+    {
+     "id": "n:sino:0",
+     "q": "0",
+     "a": "영",
+     "rom": "yeong",
+     "alt": [
+      "공"
+     ]
+    },
+    {
+     "id": "n:sino:1",
+     "q": "1",
+     "a": "일",
+     "rom": "il"
+    },
+    {
+     "id": "n:sino:2",
+     "q": "2",
+     "a": "이",
+     "rom": "i"
+    },
+    {
+     "id": "n:sino:3",
+     "q": "3",
+     "a": "삼",
+     "rom": "sam"
+    },
+    {
+     "id": "n:sino:4",
+     "q": "4",
+     "a": "사",
+     "rom": "sa"
+    },
+    {
+     "id": "n:sino:5",
+     "q": "5",
+     "a": "오",
+     "rom": "o"
+    },
+    {
+     "id": "n:sino:6",
+     "q": "6",
+     "a": "육",
+     "rom": "yuk"
+    },
+    {
+     "id": "n:sino:7",
+     "q": "7",
+     "a": "칠",
+     "rom": "chil"
+    },
+    {
+     "id": "n:sino:8",
+     "q": "8",
+     "a": "팔",
+     "rom": "pal"
+    },
+    {
+     "id": "n:sino:9",
+     "q": "9",
+     "a": "구",
+     "rom": "gu"
+    },
+    {
+     "id": "n:sino:10",
+     "q": "10",
+     "a": "십",
+     "rom": "sip"
+    },
+    {
+     "id": "n:sino:100",
+     "q": "100",
+     "a": "백",
+     "rom": "baek"
+    },
+    {
+     "id": "n:sino:1000",
+     "q": "1,000",
+     "a": "천",
+     "rom": "cheon"
+    },
+    {
+     "id": "n:sino:10000",
+     "q": "10,000",
+     "a": "만",
+     "rom": "man"
+    }
+   ]
+  },
+  {
+   "id": "n-native",
+   "title": "Native Korean numbers",
+   "rule": "Native Korean (하나, 둘, 셋…) is for counting things and people, hours and age, and only goes up to 99. Tens have their own words: 열 (10), 스물 (20), 서른 (30), 마흔 (40), 쉰 (50), 예순 (60), 일흔 (70), 여든 (80), 아흔 (90). 25 is 스물다섯.",
+   "items": [
+    {
+     "id": "n:native:1",
+     "q": "1",
+     "a": "하나",
+     "rom": "hana",
+     "confuse": [
+      "일"
+     ]
+    },
+    {
+     "id": "n:native:2",
+     "q": "2",
+     "a": "둘",
+     "rom": "dul",
+     "confuse": [
+      "이"
+     ]
+    },
+    {
+     "id": "n:native:3",
+     "q": "3",
+     "a": "셋",
+     "rom": "set",
+     "confuse": [
+      "삼"
+     ]
+    },
+    {
+     "id": "n:native:4",
+     "q": "4",
+     "a": "넷",
+     "rom": "net",
+     "confuse": [
+      "사"
+     ]
+    },
+    {
+     "id": "n:native:5",
+     "q": "5",
+     "a": "다섯",
+     "rom": "daseot",
+     "confuse": [
+      "오"
+     ]
+    },
+    {
+     "id": "n:native:6",
+     "q": "6",
+     "a": "여섯",
+     "rom": "yeoseot",
+     "confuse": [
+      "육"
+     ]
+    },
+    {
+     "id": "n:native:7",
+     "q": "7",
+     "a": "일곱",
+     "rom": "ilgop",
+     "confuse": [
+      "칠"
+     ]
+    },
+    {
+     "id": "n:native:8",
+     "q": "8",
+     "a": "여덟",
+     "rom": "yeodeol",
+     "confuse": [
+      "팔"
+     ]
+    },
+    {
+     "id": "n:native:9",
+     "q": "9",
+     "a": "아홉",
+     "rom": "ahop",
+     "confuse": [
+      "구"
+     ]
+    },
+    {
+     "id": "n:native:10",
+     "q": "10",
+     "a": "열",
+     "rom": "yeol",
+     "confuse": [
+      "십"
+     ]
+    },
+    {
+     "id": "n:native:20",
+     "q": "20",
+     "a": "스물",
+     "rom": "seumul",
+     "confuse": [
+      "이십"
+     ]
+    },
+    {
+     "id": "n:native:30",
+     "q": "30",
+     "a": "서른",
+     "rom": "seoreun",
+     "confuse": [
+      "삼십"
+     ]
+    },
+    {
+     "id": "n:native:40",
+     "q": "40",
+     "a": "마흔",
+     "rom": "maheun",
+     "confuse": [
+      "사십"
+     ]
+    },
+    {
+     "id": "n:native:50",
+     "q": "50",
+     "a": "쉰",
+     "rom": "swin",
+     "confuse": [
+      "오십"
+     ]
+    },
+    {
+     "id": "n:native:60",
+     "q": "60",
+     "a": "예순",
+     "rom": "yesun",
+     "confuse": [
+      "육십"
+     ]
+    },
+    {
+     "id": "n:native:70",
+     "q": "70",
+     "a": "일흔",
+     "rom": "ilheun",
+     "confuse": [
+      "칠십"
+     ]
+    },
+    {
+     "id": "n:native:80",
+     "q": "80",
+     "a": "여든",
+     "rom": "yeodeun",
+     "confuse": [
+      "팔십"
+     ]
+    },
+    {
+     "id": "n:native:90",
+     "q": "90",
+     "a": "아흔",
+     "rom": "aheun",
+     "confuse": [
+      "구십"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-big",
+   "title": "Big numbers: 만 and 억",
+   "rule": "Korean groups big numbers by four digits, not three: 10,000 is 만, 100,000,000 is 억. To read 25,000, split off four zeros (2 | 5000): 이만 오천. 1,000,000 is 백만 (a hundred 만), 10,000,000 is 천만. Unlike 만, 억 keeps its 일: 일억.",
+   "items": [
+    {
+     "id": "n:big:11",
+     "q": "11",
+     "a": "십일",
+     "confuse": [
+      "백십"
+     ]
+    },
+    {
+     "id": "n:big:15",
+     "q": "15",
+     "a": "십오",
+     "confuse": [
+      "백오십"
+     ]
+    },
+    {
+     "id": "n:big:20",
+     "q": "20",
+     "a": "이십",
+     "confuse": [
+      "이백",
+      "이"
+     ]
+    },
+    {
+     "id": "n:big:25",
+     "q": "25",
+     "a": "이십오",
+     "confuse": [
+      "이백오십"
+     ]
+    },
+    {
+     "id": "n:big:36",
+     "q": "36",
+     "a": "삼십육",
+     "confuse": [
+      "삼백육십"
+     ]
+    },
+    {
+     "id": "n:big:48",
+     "q": "48",
+     "a": "사십팔",
+     "confuse": [
+      "사백팔십"
+     ]
+    },
+    {
+     "id": "n:big:99",
+     "q": "99",
+     "a": "구십구",
+     "confuse": [
+      "구백구십"
+     ]
+    },
+    {
+     "id": "n:big:250",
+     "q": "250",
+     "a": "이백오십",
+     "confuse": [
+      "이천오백",
+      "이십오"
+     ]
+    },
+    {
+     "id": "n:big:1500",
+     "q": "1,500",
+     "a": "천오백",
+     "confuse": [
+      "만 오천",
+      "백오십"
+     ]
+    },
+    {
+     "id": "n:big:3000",
+     "q": "3,000",
+     "a": "삼천",
+     "confuse": [
+      "삼만",
+      "삼백"
+     ]
+    },
+    {
+     "id": "n:big:25000",
+     "q": "25,000",
+     "a": "이만 오천",
+     "confuse": [
+      "이십오만",
+      "이천오백"
+     ]
+    },
+    {
+     "id": "n:big:50000",
+     "q": "50,000",
+     "a": "오만",
+     "confuse": [
+      "오십만",
+      "오천"
+     ]
+    },
+    {
+     "id": "n:big:100000",
+     "q": "100,000",
+     "a": "십만",
+     "confuse": [
+      "백만",
+      "만"
+     ]
+    },
+    {
+     "id": "n:big:1000000",
+     "q": "1,000,000",
+     "a": "백만",
+     "confuse": [
+      "천만",
+      "십만"
+     ]
+    },
+    {
+     "id": "n:big:10000000",
+     "q": "10,000,000",
+     "a": "천만",
+     "confuse": [
+      "일억",
+      "백만"
+     ]
+    },
+    {
+     "id": "n:big:100000000",
+     "q": "100,000,000",
+     "a": "일억",
+     "confuse": [
+      "십억",
+      "천만"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-money",
+   "title": "Money: 원",
+   "rule": "Prices use Sino-Korean numbers + 원 (won): ₩8,500 = 팔천오백 원, ₩25,000 = 이만 오천 원. Common bills are 천 원, 오천 원, 만 원 and 오만 원. To ask a price: 얼마예요?",
+   "items": [
+    {
+     "id": "n:money:500",
+     "q": "₩500",
+     "a": "오백 원",
+     "confuse": [
+      "오천 원",
+      "오십 원"
+     ]
+    },
+    {
+     "id": "n:money:1000",
+     "q": "₩1,000",
+     "a": "천 원",
+     "confuse": [
+      "만 원",
+      "백 원"
+     ]
+    },
+    {
+     "id": "n:money:1500",
+     "q": "₩1,500",
+     "a": "천오백 원",
+     "confuse": [
+      "만 오천 원",
+      "백오십 원"
+     ]
+    },
+    {
+     "id": "n:money:3000",
+     "q": "₩3,000",
+     "a": "삼천 원",
+     "confuse": [
+      "삼만 원",
+      "삼백 원"
+     ]
+    },
+    {
+     "id": "n:money:3500",
+     "q": "₩3,500",
+     "a": "삼천오백 원",
+     "confuse": [
+      "삼만 오천 원",
+      "삼백오십 원"
+     ]
+    },
+    {
+     "id": "n:money:4500",
+     "q": "₩4,500",
+     "a": "사천오백 원",
+     "confuse": [
+      "사만 오천 원",
+      "사백오십 원"
+     ]
+    },
+    {
+     "id": "n:money:5000",
+     "q": "₩5,000",
+     "a": "오천 원",
+     "confuse": [
+      "오만 원",
+      "오백 원"
+     ]
+    },
+    {
+     "id": "n:money:8500",
+     "q": "₩8,500",
+     "a": "팔천오백 원",
+     "confuse": [
+      "팔만 오천 원",
+      "팔백오십 원"
+     ]
+    },
+    {
+     "id": "n:money:10000",
+     "q": "₩10,000",
+     "a": "만 원",
+     "confuse": [
+      "십만 원",
+      "천 원"
+     ]
+    },
+    {
+     "id": "n:money:12000",
+     "q": "₩12,000",
+     "a": "만 이천 원",
+     "confuse": [
+      "십이만 원",
+      "천이백 원"
+     ]
+    },
+    {
+     "id": "n:money:15000",
+     "q": "₩15,000",
+     "a": "만 오천 원",
+     "confuse": [
+      "십오만 원",
+      "천오백 원"
+     ]
+    },
+    {
+     "id": "n:money:25000",
+     "q": "₩25,000",
+     "a": "이만 오천 원",
+     "confuse": [
+      "이십오만 원",
+      "이천오백 원"
+     ]
+    },
+    {
+     "id": "n:money:30000",
+     "q": "₩30,000",
+     "a": "삼만 원",
+     "confuse": [
+      "삼십만 원",
+      "삼천 원"
+     ]
+    },
+    {
+     "id": "n:money:50000",
+     "q": "₩50,000",
+     "a": "오만 원",
+     "confuse": [
+      "오십만 원",
+      "오천 원"
+     ]
+    },
+    {
+     "id": "n:money:65000",
+     "q": "₩65,000",
+     "a": "육만 오천 원",
+     "confuse": [
+      "육십오만 원",
+      "육천오백 원"
+     ]
+    },
+    {
+     "id": "n:money:120000",
+     "q": "₩120,000",
+     "a": "십이만 원",
+     "confuse": [
+      "백이십만 원",
+      "만 이천 원"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-hours",
+   "title": "Time: hours",
+   "rule": "Hours use native Korean numbers in their counter form + 시: 한 시 (1:00), 두 시, 세 시, 네 시, 다섯 시 … 열두 시. Not 삼 시, and not 셋 시. To ask the time: 몇 시예요?",
+   "items": [
+    {
+     "id": "n:hour:1",
+     "q": "1:00",
+     "a": "한 시",
+     "confuse": [
+      "일 시",
+      "하나 시"
+     ]
+    },
+    {
+     "id": "n:hour:2",
+     "q": "2:00",
+     "a": "두 시",
+     "confuse": [
+      "이 시",
+      "둘 시"
+     ]
+    },
+    {
+     "id": "n:hour:3",
+     "q": "3:00",
+     "a": "세 시",
+     "confuse": [
+      "삼 시",
+      "셋 시"
+     ]
+    },
+    {
+     "id": "n:hour:4",
+     "q": "4:00",
+     "a": "네 시",
+     "confuse": [
+      "사 시",
+      "넷 시"
+     ]
+    },
+    {
+     "id": "n:hour:5",
+     "q": "5:00",
+     "a": "다섯 시",
+     "confuse": [
+      "오 시"
+     ]
+    },
+    {
+     "id": "n:hour:6",
+     "q": "6:00",
+     "a": "여섯 시",
+     "confuse": [
+      "육 시"
+     ]
+    },
+    {
+     "id": "n:hour:7",
+     "q": "7:00",
+     "a": "일곱 시",
+     "confuse": [
+      "칠 시"
+     ]
+    },
+    {
+     "id": "n:hour:8",
+     "q": "8:00",
+     "a": "여덟 시",
+     "confuse": [
+      "팔 시"
+     ]
+    },
+    {
+     "id": "n:hour:9",
+     "q": "9:00",
+     "a": "아홉 시",
+     "confuse": [
+      "구 시"
+     ]
+    },
+    {
+     "id": "n:hour:10",
+     "q": "10:00",
+     "a": "열 시",
+     "confuse": [
+      "십 시"
+     ]
+    },
+    {
+     "id": "n:hour:11",
+     "q": "11:00",
+     "a": "열한 시",
+     "confuse": [
+      "십일 시",
+      "열하나 시"
+     ]
+    },
+    {
+     "id": "n:hour:12",
+     "q": "12:00",
+     "a": "열두 시",
+     "confuse": [
+      "십이 시",
+      "열둘 시"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-time",
+   "title": "Time: hours and minutes",
+   "rule": "Time mixes both systems: native Korean hours, Sino-Korean minutes. 3:30 = 세 시 삼십 분, or 세 시 반 (반 = half). 오전 is a.m., 오후 is p.m.: 오후 두 시 = 2 p.m.",
+   "items": [
+    {
+     "id": "n:time:1:10",
+     "q": "1:10",
+     "a": "한 시 십 분",
+     "confuse": [
+      "일 시 십 분",
+      "한 시 열 분"
+     ]
+    },
+    {
+     "id": "n:time:2:15",
+     "q": "2:15",
+     "a": "두 시 십오 분",
+     "confuse": [
+      "이 시 십오 분",
+      "두 시 열다섯 분"
+     ]
+    },
+    {
+     "id": "n:time:3:30",
+     "q": "3:30",
+     "a": "세 시 삼십 분",
+     "alt": [
+      "세 시 반"
+     ],
+     "confuse": [
+      "삼 시 삼십 분",
+      "세 시 서른 분"
+     ]
+    },
+    {
+     "id": "n:time:4:45",
+     "q": "4:45",
+     "a": "네 시 사십오 분",
+     "confuse": [
+      "사 시 사십오 분",
+      "네 시 마흔다섯 분"
+     ]
+    },
+    {
+     "id": "n:time:5:20",
+     "q": "5:20",
+     "a": "다섯 시 이십 분",
+     "confuse": [
+      "오 시 이십 분",
+      "다섯 시 스물 분"
+     ]
+    },
+    {
+     "id": "n:time:6:05",
+     "q": "6:05",
+     "a": "여섯 시 오 분",
+     "confuse": [
+      "육 시 오 분",
+      "여섯 시 다섯 분"
+     ]
+    },
+    {
+     "id": "n:time:7:30",
+     "q": "7:30",
+     "a": "일곱 시 삼십 분",
+     "alt": [
+      "일곱 시 반"
+     ],
+     "confuse": [
+      "칠 시 삼십 분",
+      "일곱 시 서른 분"
+     ]
+    },
+    {
+     "id": "n:time:8:40",
+     "q": "8:40",
+     "a": "여덟 시 사십 분",
+     "confuse": [
+      "팔 시 사십 분",
+      "여덟 시 마흔 분"
+     ]
+    },
+    {
+     "id": "n:time:9:50",
+     "q": "9:50",
+     "a": "아홉 시 오십 분",
+     "confuse": [
+      "구 시 오십 분",
+      "아홉 시 쉰 분"
+     ]
+    },
+    {
+     "id": "n:time:10:25",
+     "q": "10:25",
+     "a": "열 시 이십오 분",
+     "confuse": [
+      "십 시 이십오 분",
+      "열 시 스물다섯 분"
+     ]
+    },
+    {
+     "id": "n:time:11:30",
+     "q": "11:30",
+     "a": "열한 시 삼십 분",
+     "alt": [
+      "열한 시 반"
+     ],
+     "confuse": [
+      "십일 시 삼십 분",
+      "열한 시 서른 분"
+     ]
+    },
+    {
+     "id": "n:time:12:15",
+     "q": "12:15",
+     "a": "열두 시 십오 분",
+     "confuse": [
+      "십이 시 십오 분",
+      "열두 시 열다섯 분"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-count",
+   "title": "Counting things",
+   "rule": "Counting uses native numbers + a counter after the noun: 사과 세 개 (3 apples). Counters: 개 things, 명 people, 마리 animals, 잔 cups, 병 bottles, 조각 slices, 살 years of age. Before a counter 하나, 둘, 셋, 넷 and 스물 shorten to 한, 두, 세, 네 and 스무 (열한 명, 스무 살).",
+   "items": [
+    {
+     "id": "n:count:사과:1:개",
+     "q": "1 apple",
+     "a": "사과 한 개",
+     "confuse": [
+      "사과 일 개",
+      "사과 하나 개"
+     ]
+    },
+    {
+     "id": "n:count:커피:2:잔",
+     "q": "2 cups of coffee",
+     "a": "커피 두 잔",
+     "confuse": [
+      "커피 이 잔",
+      "커피 둘 잔"
+     ]
+    },
+    {
+     "id": "n:count:학생:3:명",
+     "q": "3 students",
+     "a": "학생 세 명",
+     "confuse": [
+      "학생 삼 명",
+      "학생 셋 명"
+     ]
+    },
+    {
+     "id": "n:count:강아지:4:마리",
+     "q": "4 dogs",
+     "a": "강아지 네 마리",
+     "confuse": [
+      "강아지 사 마리",
+      "강아지 넷 마리"
+     ]
+    },
+    {
+     "id": "n:count:맥주:5:병",
+     "q": "5 bottles of beer",
+     "a": "맥주 다섯 병",
+     "confuse": [
+      "맥주 오 병"
+     ]
+    },
+    {
+     "id": "n:count:친구:6:명",
+     "q": "6 friends",
+     "a": "친구 여섯 명",
+     "confuse": [
+      "친구 육 명"
+     ]
+    },
+    {
+     "id": "n:count:고양이:2:마리",
+     "q": "2 cats",
+     "a": "고양이 두 마리",
+     "confuse": [
+      "고양이 이 마리",
+      "고양이 둘 마리"
+     ]
+    },
+    {
+     "id": "n:count:물:1:병",
+     "q": "1 bottle of water",
+     "a": "물 한 병",
+     "confuse": [
+      "물 일 병",
+      "물 하나 병"
+     ]
+    },
+    {
+     "id": "n:count:빵:3:개",
+     "q": "3 pieces of bread",
+     "a": "빵 세 개",
+     "confuse": [
+      "빵 삼 개",
+      "빵 셋 개"
+     ]
+    },
+    {
+     "id": "n:count:사람:10:명",
+     "q": "10 people",
+     "a": "사람 열 명",
+     "confuse": [
+      "사람 십 명"
+     ]
+    },
+    {
+     "id": "n:count:피자:1:조각",
+     "q": "1 slice of pizza",
+     "a": "피자 한 조각",
+     "confuse": [
+      "피자 일 조각",
+      "피자 하나 조각"
+     ]
+    },
+    {
+     "id": "n:count:사람:11:명",
+     "q": "11 people",
+     "a": "사람 열한 명",
+     "confuse": [
+      "사람 십일 명",
+      "사람 열하나 명"
+     ]
+    },
+    {
+     "id": "n:age:5",
+     "q": "5 years old",
+     "a": "다섯 살",
+     "confuse": [
+      "오 살"
+     ]
+    },
+    {
+     "id": "n:age:20",
+     "q": "20 years old",
+     "a": "스무 살",
+     "confuse": [
+      "이십 살",
+      "스물 살"
+     ]
+    },
+    {
+     "id": "n:age:21",
+     "q": "21 years old",
+     "a": "스물한 살",
+     "confuse": [
+      "이십일 살",
+      "스물하나 살"
+     ]
+    },
+    {
+     "id": "n:age:34",
+     "q": "34 years old",
+     "a": "서른네 살",
+     "confuse": [
+      "삼십사 살",
+      "서른넷 살"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "n-phone",
+   "title": "Phone numbers",
+   "rule": "Phone numbers are read digit by digit in Sino-Korean, with 공 for zero: 010-1234-5678 = 공일공 일이삼사 오육칠팔.",
+   "items": [
+    {
+     "id": "n:phone:010-1234-5678",
+     "q": "010-1234-5678",
+     "a": "공일공 일이삼사 오육칠팔",
+     "confuse": [
+      "영일영 일이삼사 오육칠팔"
+     ]
+    },
+    {
+     "id": "n:phone:010-6157-1700",
+     "q": "010-6157-1700",
+     "a": "공일공 육일오칠 일칠공공",
+     "confuse": [
+      "영일영 육일오칠 일칠영영"
+     ]
+    },
+    {
+     "id": "n:phone:02-345-6789",
+     "q": "02-345-6789",
+     "a": "공이 삼사오 육칠팔구",
+     "confuse": [
+      "영이 삼사오 육칠팔구"
+     ]
+    }
+   ]
+  }
+ ],
+ "source": "https://www.90daykorean.com/korean-numbers/"
+}

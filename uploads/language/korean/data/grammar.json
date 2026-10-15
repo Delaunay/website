@@ -1,0 +1,1629 @@
+{
+ "sentences": [
+  {
+   "ko": "나는 오렌지를 먹었어요.",
+   "rom": "naneun orenjireul meogeosseoyo.",
+   "en": "I ate an orange."
+  },
+  {
+   "ko": "나는 친구를 만나요.",
+   "rom": "naneun chingureul mannayo.",
+   "en": "I meet my friend."
+  },
+  {
+   "ko": "혜림이 사과를 먹고 있어요.",
+   "rom": "hyerimi sagwareul meokgo isseoyo.",
+   "en": "Hyerim is eating an apple."
+  },
+  {
+   "ko": "학생들이 과학 책을 읽어요.",
+   "rom": "haksaengdeuri gwahak chaegeul ilgeoyo.",
+   "en": "The students read a science book."
+  },
+  {
+   "ko": "오늘은 날씨가 더워요.",
+   "rom": "oneureun nalssiga deowoyo.",
+   "en": "Today's weather is hot."
+  },
+  {
+   "ko": "나는 글씨를 잘 써요.",
+   "rom": "naneun geulssireul jal sseoyo.",
+   "en": "I write well."
+  },
+  {
+   "ko": "그녀는 매우 아름다워요.",
+   "rom": "geunyeoneun maeu areumdawoyo.",
+   "en": "She is very beautiful."
+  },
+  {
+   "ko": "나는 학교에서 바로 집에 왔어요.",
+   "rom": "naneun hakgyoeseo baro jibe wasseoyo.",
+   "en": "I came home straight from school."
+  },
+  {
+   "ko": "저는 자주 책을 읽어요.",
+   "rom": "jeoneun jaju chaegeul ilgeoyo.",
+   "en": "I often read books."
+  },
+  {
+   "ko": "학생들은 밖에서 놀았어요.",
+   "rom": "haksaengdeureun bakkeseo norasseoyo.",
+   "en": "The students played outside."
+  },
+  {
+   "ko": "저는 지금 피곤해요.",
+   "rom": "jeoneun jigeum pigonhaeyo.",
+   "en": "I'm tired now."
+  },
+  {
+   "ko": "오늘 운동 안 해요.",
+   "rom": "oneul undong an haeyo.",
+   "en": "I don't exercise today."
+  },
+  {
+   "ko": "나는 미국에 안 가요.",
+   "rom": "naneun miguge an gayo.",
+   "en": "I'm not going to the US."
+  },
+  {
+   "ko": "저는 중국 사람이에요.",
+   "rom": "jeoneun jungguk saramieyo.",
+   "en": "I'm Chinese."
+  },
+  {
+   "ko": "석민 씨는 가수예요.",
+   "rom": "seongmin ssineun gasuyeyo.",
+   "en": "Seokmin is a singer."
+  },
+  {
+   "ko": "신용 카드 있어요.",
+   "rom": "sinyong kadeu isseoyo.",
+   "en": "I have a credit card."
+  },
+  {
+   "ko": "핸드폰 있어요?",
+   "rom": "haendeupon isseoyo?",
+   "en": "Do you have a cell phone?"
+  },
+  {
+   "ko": "책상 위에 책이 있어요.",
+   "rom": "chaeksang wie chaegi isseoyo.",
+   "en": "There is a book on the desk."
+  },
+  {
+   "ko": "저는 언니가 없어요.",
+   "rom": "jeoneun eonniga eopseoyo.",
+   "en": "I don't have an older sister."
+  },
+  {
+   "ko": "수연 씨는 고양이 없어요.",
+   "rom": "suyeon ssineun goyangi eopseoyo.",
+   "en": "Suyeon doesn't have a cat."
+  }
+ ],
+ "particles": {
+  "은": {
+   "group": "topic",
+   "use": "topic marker: what the sentence is about",
+   "pair": [
+    "은",
+    "는"
+   ],
+   "confuse": [
+    "는",
+    "이",
+    "을"
+   ]
+  },
+  "는": {
+   "group": "topic",
+   "use": "topic marker: what the sentence is about",
+   "pair": [
+    "은",
+    "는"
+   ],
+   "confuse": [
+    "은",
+    "가",
+    "를"
+   ]
+  },
+  "이": {
+   "group": "topic",
+   "use": "subject marker: who or what does it, or is described",
+   "pair": [
+    "이",
+    "가"
+   ],
+   "confuse": [
+    "가",
+    "은",
+    "을"
+   ]
+  },
+  "가": {
+   "group": "topic",
+   "use": "subject marker: who or what does it, or is described",
+   "pair": [
+    "이",
+    "가"
+   ],
+   "confuse": [
+    "이",
+    "는",
+    "를"
+   ]
+  },
+  "을": {
+   "group": "object",
+   "use": "object marker: what the action is done to",
+   "pair": [
+    "을",
+    "를"
+   ],
+   "confuse": [
+    "를",
+    "이",
+    "은"
+   ]
+  },
+  "를": {
+   "group": "object",
+   "use": "object marker: what the action is done to",
+   "pair": [
+    "을",
+    "를"
+   ],
+   "confuse": [
+    "을",
+    "가",
+    "는"
+   ]
+  },
+  "에": {
+   "group": "place",
+   "use": "at / to a place, at a time",
+   "confuse": [
+    "에서",
+    "로",
+    "를"
+   ]
+  },
+  "에서": {
+   "group": "place",
+   "use": "where an action happens, or \"from\" a place",
+   "confuse": [
+    "에",
+    "로",
+    "부터"
+   ]
+  },
+  "으로": {
+   "group": "place",
+   "use": "toward, or by means of; 으로 after a consonant (except ㄹ)",
+   "confuse": [
+    "로",
+    "에",
+    "에서"
+   ]
+  },
+  "로": {
+   "group": "place",
+   "use": "toward, or by means of; 로 after a vowel or ㄹ",
+   "confuse": [
+    "으로",
+    "에",
+    "에서"
+   ]
+  },
+  "부터": {
+   "group": "place",
+   "use": "starting from (a time)",
+   "confuse": [
+    "에서",
+    "보다",
+    "에"
+   ]
+  },
+  "에게": {
+   "group": "place",
+   "use": "to a person",
+   "confuse": [
+    "에",
+    "에서",
+    "를"
+   ]
+  },
+  "와": {
+   "group": "link",
+   "use": "and / with",
+   "pair": [
+    "과",
+    "와"
+   ],
+   "confuse": [
+    "과",
+    "랑",
+    "에"
+   ]
+  },
+  "과": {
+   "group": "link",
+   "use": "and / with",
+   "pair": [
+    "과",
+    "와"
+   ],
+   "confuse": [
+    "와",
+    "이랑",
+    "의"
+   ]
+  },
+  "하고": {
+   "group": "link",
+   "use": "and / with, after a vowel or a consonant",
+   "confuse": [
+    "와",
+    "에",
+    "를"
+   ]
+  },
+  "랑": {
+   "group": "link",
+   "use": "and / with, casual",
+   "pair": [
+    "이랑",
+    "랑"
+   ],
+   "confuse": [
+    "이랑",
+    "와",
+    "에"
+   ]
+  },
+  "이랑": {
+   "group": "link",
+   "use": "and / with, casual",
+   "pair": [
+    "이랑",
+    "랑"
+   ],
+   "confuse": [
+    "랑",
+    "과",
+    "에"
+   ]
+  },
+  "의": {
+   "group": "link",
+   "use": "possessive, like 's",
+   "confuse": [
+    "에",
+    "를",
+    "가"
+   ]
+  },
+  "보다": {
+   "group": "link",
+   "use": "than",
+   "confuse": [
+    "부터",
+    "에서",
+    "도"
+   ]
+  },
+  "도": {
+   "group": "link",
+   "use": "also / even",
+   "confuse": [
+    "는",
+    "를",
+    "가"
+   ]
+  },
+  "이에요": {
+   "group": "be",
+   "use": "\"to be\" (이다): A is B",
+   "pair": [
+    "이에요",
+    "예요"
+   ],
+   "confuse": [
+    "예요",
+    "있어요",
+    "없어요"
+   ]
+  },
+  "예요": {
+   "group": "be",
+   "use": "\"to be\" (이다): A is B",
+   "pair": [
+    "이에요",
+    "예요"
+   ],
+   "confuse": [
+    "이에요",
+    "있어요",
+    "없어요"
+   ]
+  },
+  "있어요": {
+   "group": "be",
+   "use": "to have, or there is (있다)",
+   "confuse": [
+    "없어요",
+    "이에요",
+    "예요"
+   ]
+  },
+  "없어요": {
+   "group": "be",
+   "use": "to not have, or there is no (없다)",
+   "confuse": [
+    "있어요",
+    "예요",
+    "이에요"
+   ]
+  }
+ },
+ "cloze": [
+  "집[에] 도착했어요.",
+  "화장실 앞[에서] 20분이나 기다렸어요.",
+  "나[는] 따뜻한 나라[가] 너무 좋아!",
+  "직업[이] 뭐예요?",
+  "그림[을] 왼쪽[으로] 옮겨주세요.",
+  "내리실 문[은] 오른쪽입니다.",
+  "하루[에] 물 세 잔 마셔요.",
+  "시장[에서] 야채[를] 샀어요.",
+  "어제 저녁[에] 고기[를] 구워 먹었어요.",
+  "빵 먹을때 버터[랑] 잼[이랑] 같이 먹어요.",
+  "생선[을] 열 마리나 잡았어요!",
+  "저[는] 아침[에] 커피[를] 마시는 것을 좋아해요.",
+  "내 남자친구[는] 맥주 한 병[도] 못 마셔요.",
+  "나랑 친구[는] 소주[를] 좋아해요.",
+  "오늘 친구[하고] 만나기로 했어요.",
+  "가족들[과] 함께 여행[을] 가요",
+  "아직도 남자 친구[가] 없어요?",
+  "여자 친구[와] 커피 마시러 카페[에] 갑니다.",
+  "다음 달[에] 결혼할 거예요.",
+  "내 첫사랑[은] 지금[의] 남편입니다.",
+  "아내[를] 만나러 왔습니다.",
+  "저[는] 1시간 동안 운동했어요",
+  "학원[에] 갑니다.",
+  "언니[가] 집[에서] 호텔[로] 옵니다.",
+  "나 커다란 인형[을] 가지고 있어!",
+  "아빠[가] 한국 사람이다.",
+  "고양이[가] 생선[을] 먹었다.",
+  "달리기하고 나서 물[을] 마십니다.",
+  "아빠[가] 생일선물[을] 주셨다.",
+  "갈매기[를] 처음 봤어요!",
+  "어젯밤[에] 늦게 잤습니다.",
+  "오늘 오전 7시[에] 일어났어요.",
+  "오이[를] 샀습니다.",
+  "여기[에] 이름[을] 쓰세요.",
+  "그녀[가] 나[를] 보고 웃었어요.",
+  "오늘[부터] 여름 옷[을] 입을 거에요.",
+  "남자 친구[와] 손[을] 잡고 걸었어요.",
+  "제일 좋아하는 책[을] 읽었습니다.",
+  "오늘[부터] 운전[을] 배워요.",
+  "부모님[을] 만났습니다.",
+  "강아지[보다] 고양이[가] 좋아요.",
+  "파프리카[를] 싫어합니다.",
+  "이번 여름[은] 아주 더워요.",
+  "한국[의] 겨울[은] 추워요.",
+  "언제[부터] 배[가] 아팠어요?",
+  "이 책[은] 정말 재밌는 것 같아요.",
+  "집[에]만 있으면 재미없어요!",
+  "수학 문제[가] 가장 어렵습니다.",
+  "공항[이] 깨끗해요.",
+  "앞치마[가] 금방 더러워졌어요.",
+  "거북이[는] 토끼[보다] 느려요.",
+  "나[는] 북한[과] 남한[의] 역사[에] 매우 관심[이] 있어요.",
+  "바닥[이] 아주 미끄러워요. 조심하세요.",
+  "이 가방[은] 꽤 무거워요.",
+  "가격[은] 상당히 비싼 편이에요.",
+  "공항[에] 거의 다 왔어요.",
+  "존[은] 한국어[를] 빨리 배우고 있어요.",
+  "내 친구[가] 한국어[를] 천천히 배우고 있어요.",
+  "이 문제[를] 신중하게 고려해 주세요.",
+  "그[는] 항상 바빠요.",
+  "우리[는] 늘 함께 점심[을] 먹어요.",
+  "봄[에]는 벚꽃[을] 흔히 볼 수 있어요.",
+  "내 사촌[은] 보통 한국 음악[을] 듣고 한국 드라마[를] 봐요.",
+  "순영이[는] 가끔 친구들[에게] 영어[로] 말해요.",
+  "누구나 때로는 실수[를] 해요.",
+  "나[는] 직장[에] 좀처럼 지각하지 않아요.",
+  "조슈아[는] 드물게 한국어[를] 해요.",
+  "그 날[을] 결코 잊지 않을 거예요.",
+  "절대 거짓말[을] 하지 않았어요.",
+  "나[는] 오렌지[를] 먹었어요.",
+  "나[는] 친구[를] 만나요.",
+  "혜림[이] 사과[를] 먹고 있어요.",
+  "학생들[이] 과학 책[을] 읽어요.",
+  "오늘[은] 날씨[가] 더워요.",
+  "나[는] 글씨[를] 잘 써요.",
+  "그녀[는] 매우 아름다워요.",
+  "나[는] 학교[에서] 바로 집[에] 왔어요.",
+  "저[는] 자주 책[을] 읽어요.",
+  "학생들[은] 밖[에서] 놀았어요.",
+  "나[는] 미국[에] 안 가요.",
+  "오빠[가] 축구[를] 해요.",
+  "이 시계[는] 비싸요.",
+  "저[는] 중국 사람[이에요].",
+  "석민 씨[는] 가수[예요].",
+  "신용 카드 [있어요].",
+  "핸드폰 [있어요]?",
+  "책상 위[에] 책[이] [있어요].",
+  "저[는] 언니[가] [없어요].",
+  "수연 씨[는] 고양이 [없어요].",
+  "냉장고[에] 우유[가] [없어요]."
+ ],
+ "conjRules": {
+  "merge": "Stem ends in ㅏ: add 아요 and the two ㅏ merge (가 + 아요 → 가요).",
+  "a": "Last stem vowel is ㅏ or ㅗ: add 아요 (좋 + 아요 → 좋아요).",
+  "eo": "Last stem vowel is not ㅏ or ㅗ: add 어요 (먹 + 어요 → 먹어요).",
+  "wa": "Stem ends in ㅗ: ㅗ + 아요 contracts to ㅘ요 (보 + 아요 → 봐요).",
+  "wo": "Stem ends in ㅜ: ㅜ + 어요 contracts to ㅝ요 (주 + 어요 → 줘요).",
+  "yeo": "Stem ends in ㅣ: ㅣ + 어요 contracts to ㅕ요 (마시 + 어요 → 마셔요).",
+  "ha": "하다 verbs: 하 becomes 해요 (공부하다 → 공부해요).",
+  "eu": "Stem ends in ㅡ: the ㅡ drops; 아요 if the syllable before has ㅏ or ㅗ, otherwise 어요 (쓰다 → 써요, 아프다 → 아파요).",
+  "b": "ㅂ irregular: the final ㅂ becomes 우, and 우 + 어요 → 워요 (덥다 → 더워요).",
+  "d": "ㄷ irregular: the final ㄷ becomes ㄹ before a vowel (걷다 → 걸어요).",
+  "reu": "르 irregular: 르 becomes ㄹ + ㄹ, then 아요 or 어요 (빠르다 → 빨라요).",
+  "ida": "이다 (to be): 이에요 after a consonant, 예요 after a vowel (사람이에요, 의사예요)."
+ },
+ "forms": [
+  {
+   "dict": "가다",
+   "type": "v",
+   "past": "갔어요",
+   "future": "갈 거예요",
+   "prog": "가고 있어요",
+   "neg": "안 가요",
+   "negji": "가지 않아요"
+  },
+  {
+   "dict": "자다",
+   "type": "v",
+   "past": "잤어요",
+   "future": "잘 거예요",
+   "prog": "자고 있어요",
+   "neg": "안 자요",
+   "negji": "자지 않아요"
+  },
+  {
+   "dict": "사다",
+   "type": "v",
+   "past": "샀어요",
+   "future": "살 거예요",
+   "prog": "사고 있어요",
+   "neg": "안 사요",
+   "negji": "사지 않아요"
+  },
+  {
+   "dict": "만나다",
+   "type": "v",
+   "past": "만났어요",
+   "future": "만날 거예요",
+   "prog": "만나고 있어요",
+   "neg": "안 만나요",
+   "negji": "만나지 않아요"
+  },
+  {
+   "dict": "일어나다",
+   "type": "v",
+   "past": "일어났어요",
+   "future": "일어날 거예요",
+   "prog": "일어나고 있어요",
+   "neg": "안 일어나요",
+   "negji": "일어나지 않아요"
+  },
+  {
+   "dict": "좋다",
+   "type": "a",
+   "past": "좋았어요",
+   "future": "좋을 거예요",
+   "neg": "안 좋아요",
+   "negji": "좋지 않아요"
+  },
+  {
+   "dict": "있다",
+   "type": "x",
+   "past": "있었어요",
+   "future": "있을 거예요",
+   "neg": "없어요"
+  },
+  {
+   "dict": "먹다",
+   "type": "v",
+   "past": "먹었어요",
+   "future": "먹을 거예요",
+   "prog": "먹고 있어요",
+   "neg": "안 먹어요",
+   "negji": "먹지 않아요"
+  },
+  {
+   "dict": "웃다",
+   "type": "v",
+   "past": "웃었어요",
+   "future": "웃을 거예요",
+   "prog": "웃고 있어요",
+   "neg": "안 웃어요",
+   "negji": "웃지 않아요"
+  },
+  {
+   "dict": "울다",
+   "type": "v",
+   "past": "울었어요",
+   "future": "울 거예요",
+   "prog": "울고 있어요",
+   "neg": "안 울어요",
+   "negji": "울지 않아요"
+  },
+  {
+   "dict": "입다",
+   "type": "v",
+   "past": "입었어요",
+   "future": "입을 거예요",
+   "prog": "입고 있어요",
+   "neg": "안 입어요",
+   "negji": "입지 않아요"
+  },
+  {
+   "dict": "읽다",
+   "type": "v",
+   "past": "읽었어요",
+   "future": "읽을 거예요",
+   "prog": "읽고 있어요",
+   "neg": "안 읽어요",
+   "negji": "읽지 않아요"
+  },
+  {
+   "dict": "싫다",
+   "type": "a",
+   "past": "싫었어요",
+   "future": "싫을 거예요",
+   "neg": "안 싫어요",
+   "negji": "싫지 않아요"
+  },
+  {
+   "dict": "재미있다",
+   "type": "x",
+   "past": "재미있었어요",
+   "future": "재미있을 거예요",
+   "neg": "재미없어요"
+  },
+  {
+   "dict": "재미없다",
+   "type": "x",
+   "past": "재미없었어요",
+   "future": "재미없을 거예요"
+  },
+  {
+   "dict": "공부하다",
+   "type": "v",
+   "past": "공부했어요",
+   "future": "공부할 거예요",
+   "prog": "공부하고 있어요",
+   "neg": "공부 안 해요",
+   "negji": "공부하지 않아요"
+  },
+  {
+   "dict": "피곤하다",
+   "type": "a",
+   "past": "피곤했어요",
+   "future": "피곤할 거예요",
+   "neg": "안 피곤해요",
+   "negji": "피곤하지 않아요"
+  },
+  {
+   "dict": "깨끗하다",
+   "type": "a",
+   "past": "깨끗했어요",
+   "future": "깨끗할 거예요",
+   "neg": "안 깨끗해요",
+   "negji": "깨끗하지 않아요"
+  },
+  {
+   "dict": "이다",
+   "type": "x",
+   "past": "이었어요",
+   "neg": "아니에요"
+  },
+  {
+   "dict": "오다",
+   "type": "v",
+   "past": "왔어요",
+   "future": "올 거예요",
+   "prog": "오고 있어요",
+   "neg": "안 와요",
+   "negji": "오지 않아요"
+  },
+  {
+   "dict": "보다",
+   "type": "v",
+   "past": "봤어요",
+   "future": "볼 거예요",
+   "prog": "보고 있어요",
+   "neg": "안 봐요",
+   "negji": "보지 않아요"
+  },
+  {
+   "dict": "주다",
+   "type": "v",
+   "past": "줬어요",
+   "future": "줄 거예요",
+   "prog": "주고 있어요",
+   "neg": "안 줘요",
+   "negji": "주지 않아요"
+  },
+  {
+   "dict": "배우다",
+   "type": "v",
+   "past": "배웠어요",
+   "future": "배울 거예요",
+   "prog": "배우고 있어요",
+   "neg": "안 배워요",
+   "negji": "배우지 않아요"
+  },
+  {
+   "dict": "마시다",
+   "type": "v",
+   "past": "마셨어요",
+   "future": "마실 거예요",
+   "prog": "마시고 있어요",
+   "neg": "안 마셔요",
+   "negji": "마시지 않아요"
+  },
+  {
+   "dict": "느리다",
+   "type": "a",
+   "past": "느렸어요",
+   "future": "느릴 거예요",
+   "neg": "안 느려요",
+   "negji": "느리지 않아요"
+  },
+  {
+   "dict": "쓰다",
+   "type": "v",
+   "past": "썼어요",
+   "future": "쓸 거예요",
+   "prog": "쓰고 있어요",
+   "neg": "안 써요",
+   "negji": "쓰지 않아요"
+  },
+  {
+   "dict": "슬프다",
+   "type": "a",
+   "past": "슬펐어요",
+   "future": "슬플 거예요",
+   "neg": "안 슬퍼요",
+   "negji": "슬프지 않아요"
+  },
+  {
+   "dict": "아프다",
+   "type": "a",
+   "past": "아팠어요",
+   "future": "아플 거예요",
+   "neg": "안 아파요",
+   "negji": "아프지 않아요"
+  },
+  {
+   "dict": "덥다",
+   "type": "a",
+   "past": "더웠어요",
+   "future": "더울 거예요",
+   "neg": "안 더워요",
+   "negji": "덥지 않아요"
+  },
+  {
+   "dict": "춥다",
+   "type": "a",
+   "past": "추웠어요",
+   "future": "추울 거예요",
+   "neg": "안 추워요",
+   "negji": "춥지 않아요"
+  },
+  {
+   "dict": "어렵다",
+   "type": "a",
+   "past": "어려웠어요",
+   "future": "어려울 거예요",
+   "neg": "안 어려워요",
+   "negji": "어렵지 않아요"
+  },
+  {
+   "dict": "쉽다",
+   "type": "a",
+   "past": "쉬웠어요",
+   "future": "쉬울 거예요",
+   "neg": "안 쉬워요",
+   "negji": "쉽지 않아요"
+  },
+  {
+   "dict": "더럽다",
+   "type": "a",
+   "past": "더러웠어요",
+   "future": "더러울 거예요",
+   "neg": "안 더러워요",
+   "negji": "더럽지 않아요"
+  },
+  {
+   "dict": "걷다",
+   "type": "v",
+   "past": "걸었어요",
+   "future": "걸을 거예요",
+   "prog": "걷고 있어요",
+   "neg": "안 걸어요",
+   "negji": "걷지 않아요"
+  },
+  {
+   "dict": "빠르다",
+   "type": "a",
+   "past": "빨랐어요",
+   "future": "빠를 거예요",
+   "neg": "안 빨라요",
+   "negji": "빠르지 않아요"
+  },
+  {
+   "dict": "하다",
+   "type": "v",
+   "past": "했어요",
+   "future": "할 거예요",
+   "prog": "하고 있어요",
+   "neg": "안 해요",
+   "negji": "하지 않아요"
+  },
+  {
+   "dict": "없다",
+   "type": "x",
+   "past": "없었어요",
+   "future": "없을 거예요"
+  },
+  {
+   "dict": "노래하다",
+   "type": "v",
+   "past": "노래했어요",
+   "future": "노래할 거예요",
+   "prog": "노래하고 있어요",
+   "neg": "노래 안 해요",
+   "negji": "노래하지 않아요"
+  },
+  {
+   "dict": "요리하다",
+   "type": "v",
+   "past": "요리했어요",
+   "future": "요리할 거예요",
+   "prog": "요리하고 있어요",
+   "neg": "요리 안 해요",
+   "negji": "요리하지 않아요"
+  },
+  {
+   "dict": "말하다",
+   "type": "v",
+   "past": "말했어요",
+   "future": "말할 거예요",
+   "prog": "말하고 있어요",
+   "neg": "말 안 해요",
+   "negji": "말하지 않아요"
+  },
+  {
+   "dict": "시원하다",
+   "type": "a",
+   "past": "시원했어요",
+   "future": "시원할 거예요",
+   "neg": "안 시원해요",
+   "negji": "시원하지 않아요"
+  },
+  {
+   "dict": "따뜻하다",
+   "type": "a",
+   "past": "따뜻했어요",
+   "future": "따뜻할 거예요",
+   "neg": "안 따뜻해요",
+   "negji": "따뜻하지 않아요"
+  },
+  {
+   "dict": "유명하다",
+   "type": "a",
+   "past": "유명했어요",
+   "future": "유명할 거예요",
+   "neg": "안 유명해요",
+   "negji": "유명하지 않아요"
+  },
+  {
+   "dict": "똑똑하다",
+   "type": "a",
+   "past": "똑똑했어요",
+   "future": "똑똑할 거예요",
+   "neg": "안 똑똑해요",
+   "negji": "똑똑하지 않아요"
+  },
+  {
+   "dict": "착하다",
+   "type": "a",
+   "past": "착했어요",
+   "future": "착할 거예요",
+   "neg": "안 착해요",
+   "negji": "착하지 않아요"
+  },
+  {
+   "dict": "건강하다",
+   "type": "a",
+   "past": "건강했어요",
+   "future": "건강할 거예요",
+   "neg": "안 건강해요",
+   "negji": "건강하지 않아요"
+  },
+  {
+   "dict": "많다",
+   "type": "a",
+   "past": "많았어요",
+   "future": "많을 거예요",
+   "neg": "안 많아요",
+   "negji": "많지 않아요"
+  },
+  {
+   "dict": "적다",
+   "type": "a",
+   "past": "적었어요",
+   "future": "적을 거예요",
+   "neg": "안 적어요",
+   "negji": "적지 않아요"
+  },
+  {
+   "dict": "작다",
+   "type": "a",
+   "past": "작았어요",
+   "future": "작을 거예요",
+   "neg": "안 작아요",
+   "negji": "작지 않아요"
+  },
+  {
+   "dict": "크다",
+   "type": "a",
+   "past": "컸어요",
+   "future": "클 거예요",
+   "neg": "안 커요",
+   "negji": "크지 않아요"
+  },
+  {
+   "dict": "멀다",
+   "type": "a",
+   "past": "멀었어요",
+   "future": "멀 거예요",
+   "neg": "안 멀어요",
+   "negji": "멀지 않아요"
+  },
+  {
+   "dict": "싸다",
+   "type": "a",
+   "past": "쌌어요",
+   "future": "쌀 거예요",
+   "neg": "안 싸요",
+   "negji": "싸지 않아요"
+  },
+  {
+   "dict": "비싸다",
+   "type": "a",
+   "past": "비쌌어요",
+   "future": "비쌀 거예요",
+   "neg": "안 비싸요",
+   "negji": "비싸지 않아요"
+  },
+  {
+   "dict": "가깝다",
+   "type": "a",
+   "past": "가까웠어요",
+   "future": "가까울 거예요",
+   "neg": "안 가까워요",
+   "negji": "가깝지 않아요"
+  },
+  {
+   "dict": "나쁘다",
+   "type": "a",
+   "past": "나빴어요",
+   "future": "나쁠 거예요",
+   "neg": "안 나빠요",
+   "negji": "나쁘지 않아요"
+  }
+ ],
+ "units": [
+  {
+   "id": "g-order0",
+   "title": "Word order: subject, object, verb",
+   "rule": "Korean is subject-object-verb: the verb or adjective comes last, particles follow the word they mark, and time words usually come first (어제 저녁에 고기를 먹었어요 = yesterday evening meat-OBJECT ate).",
+   "type": "order",
+   "vocabUnits": [
+    "grammar"
+   ]
+  },
+  {
+   "id": "g-be",
+   "title": "To be, to have: 이다, 있다, 없다",
+   "rule": "이다 means \"to be\" (A is B) and attaches to the noun: 이에요 after a consonant (사람이에요), 예요 after a vowel (가수예요). 있다 means \"to have\" or \"there is\" (있어요); its opposite 없다 means \"to not have\" or \"there is no\" (없어요).",
+   "type": "particles",
+   "group": "be"
+  },
+  {
+   "id": "g-topic",
+   "title": "Particles: 은/는 and 이/가",
+   "rule": "은/는 marks the topic, what the sentence is about (often in contrast). 이/가 marks the subject, often new information. 은 and 이 go after a consonant (책은, 직업이), 는 and 가 after a vowel (저는, 나라가).",
+   "type": "particles",
+   "group": "topic"
+  },
+  {
+   "id": "g-object",
+   "title": "Particles: 을/를",
+   "rule": "을/를 marks the object, what the action is done to. 을 after a consonant (책을), 를 after a vowel (커피를). Korean puts the verb last: 커피를 마셔요 = coffee-OBJECT drink.",
+   "type": "particles",
+   "group": "object"
+  },
+  {
+   "id": "g-place",
+   "title": "Particles: 에, 에서, (으)로, 부터",
+   "rule": "에: at or to a place, at a time (집에 가요, 7시에). 에서: where an action happens, or from (시장에서 샀어요). (으)로: toward or by means of (왼쪽으로, 영어로). 부터: starting from (오늘부터). 에게: to a person.",
+   "type": "particles",
+   "group": "place"
+  },
+  {
+   "id": "g-link",
+   "title": "Particles: and, of, than, also",
+   "rule": "와/과, 하고, (이)랑 all mean \"and / with\": 와 and 랑 after a vowel, 과 and 이랑 after a consonant, 하고 after either. 의 is the possessive (한국의 겨울 = Korea's winter). 보다 means \"than\". 도 means \"also\" or \"even\".",
+   "type": "particles",
+   "group": "link"
+  },
+  {
+   "id": "g-order1",
+   "title": "Word order: everyday",
+   "rule": "Korean is subject-object-verb: the verb or adjective comes last, particles follow the word they mark, and time words usually come first (어제 저녁에 고기를 먹었어요 = yesterday evening meat-OBJECT ate).",
+   "type": "order",
+   "vocabUnits": [
+    "v-greetings",
+    "v-phrases",
+    "v-basics",
+    "v-food",
+    "v-family",
+    "v-time"
+   ]
+  },
+  {
+   "id": "g-order2",
+   "title": "Word order: actions",
+   "rule": "Korean is subject-object-verb: the verb or adjective comes last, particles follow the word they mark, and time words usually come first (어제 저녁에 고기를 먹었어요 = yesterday evening meat-OBJECT ate).",
+   "type": "order",
+   "vocabUnits": [
+    "v-verbs1",
+    "v-verbs2",
+    "v-verbs3"
+   ]
+  },
+  {
+   "id": "g-order3",
+   "title": "Word order: describing",
+   "rule": "Korean is subject-object-verb: the verb or adjective comes last, particles follow the word they mark, and time words usually come first (어제 저녁에 고기를 먹었어요 = yesterday evening meat-OBJECT ate).",
+   "type": "order",
+   "vocabUnits": [
+    "v-adj1",
+    "v-adj2",
+    "v-adj3",
+    "v-adv1",
+    "v-adv2",
+    "v-nature"
+   ]
+  },
+  {
+   "id": "g-conj1",
+   "title": "Polite form: 아요 / 어요 / 해요",
+   "rule": "The polite present (해요 form) is how you talk to most people. Take the stem (dictionary form minus 다), then add 아요 or 어요 depending on its last vowel. 하다 always becomes 해요.",
+   "type": "conj",
+   "items": [
+    {
+     "dict": "가다",
+     "polite": "가요",
+     "rule": "merge",
+     "wrong": [
+      "가아요",
+      "가어요",
+      "거요"
+     ]
+    },
+    {
+     "dict": "자다",
+     "polite": "자요",
+     "rule": "merge",
+     "wrong": [
+      "자아요",
+      "자어요",
+      "저요"
+     ]
+    },
+    {
+     "dict": "사다",
+     "polite": "사요",
+     "rule": "merge",
+     "wrong": [
+      "사아요",
+      "사어요",
+      "서요"
+     ]
+    },
+    {
+     "dict": "만나다",
+     "polite": "만나요",
+     "rule": "merge",
+     "wrong": [
+      "만나아요",
+      "만나어요",
+      "만너요"
+     ]
+    },
+    {
+     "dict": "일어나다",
+     "polite": "일어나요",
+     "rule": "merge",
+     "wrong": [
+      "일어나아요",
+      "일어나어요",
+      "일어너요"
+     ]
+    },
+    {
+     "dict": "좋다",
+     "polite": "좋아요",
+     "rule": "a",
+     "wrong": [
+      "좋어요",
+      "좋요",
+      "조아요"
+     ]
+    },
+    {
+     "dict": "있다",
+     "polite": "있어요",
+     "rule": "eo",
+     "wrong": [
+      "있아요",
+      "있요",
+      "이써요"
+     ]
+    },
+    {
+     "dict": "먹다",
+     "polite": "먹어요",
+     "rule": "eo",
+     "wrong": [
+      "먹아요",
+      "먹요",
+      "머거요"
+     ]
+    },
+    {
+     "dict": "웃다",
+     "polite": "웃어요",
+     "rule": "eo",
+     "wrong": [
+      "웃아요",
+      "웃요",
+      "우서요"
+     ]
+    },
+    {
+     "dict": "울다",
+     "polite": "울어요",
+     "rule": "eo",
+     "wrong": [
+      "울아요",
+      "울요",
+      "우러요"
+     ]
+    },
+    {
+     "dict": "입다",
+     "polite": "입어요",
+     "rule": "eo",
+     "wrong": [
+      "입아요",
+      "이워요",
+      "입요"
+     ]
+    },
+    {
+     "dict": "읽다",
+     "polite": "읽어요",
+     "rule": "eo",
+     "wrong": [
+      "읽아요",
+      "읽요",
+      "일어요"
+     ]
+    },
+    {
+     "dict": "싫다",
+     "polite": "싫어요",
+     "rule": "eo",
+     "wrong": [
+      "싫아요",
+      "싫요",
+      "시러요"
+     ]
+    },
+    {
+     "dict": "재미있다",
+     "polite": "재미있어요",
+     "rule": "eo",
+     "wrong": [
+      "재미있아요",
+      "재미있요",
+      "재미이써요"
+     ]
+    },
+    {
+     "dict": "재미없다",
+     "polite": "재미없어요",
+     "rule": "eo",
+     "wrong": [
+      "재미없아요",
+      "재미없요",
+      "재미업써요"
+     ]
+    },
+    {
+     "dict": "공부하다",
+     "polite": "공부해요",
+     "rule": "ha",
+     "wrong": [
+      "공부하아요",
+      "공부하요",
+      "공부하어요"
+     ]
+    },
+    {
+     "dict": "피곤하다",
+     "polite": "피곤해요",
+     "rule": "ha",
+     "wrong": [
+      "피곤하아요",
+      "피곤하요",
+      "피곤헤요"
+     ]
+    },
+    {
+     "dict": "깨끗하다",
+     "polite": "깨끗해요",
+     "rule": "ha",
+     "wrong": [
+      "깨끗하아요",
+      "깨끗하요",
+      "깨끗헤요"
+     ]
+    },
+    {
+     "dict": "이다",
+     "polite": "이에요",
+     "rule": "ida",
+     "wrong": [
+      "이어요",
+      "이아요",
+      "이요"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-conj2",
+   "title": "Polite form: contractions & irregulars",
+   "rule": "The polite present (해요 form) is how you talk to most people. Take the stem (dictionary form minus 다), then add 아요 or 어요 depending on its last vowel. Here the vowels contract, and a few verbs change their stem first (irregulars).",
+   "type": "conj",
+   "items": [
+    {
+     "dict": "오다",
+     "polite": "와요",
+     "rule": "wa",
+     "wrong": [
+      "오아요",
+      "오요",
+      "워요"
+     ]
+    },
+    {
+     "dict": "보다",
+     "polite": "봐요",
+     "rule": "wa",
+     "wrong": [
+      "보어요",
+      "보요",
+      "붜요"
+     ]
+    },
+    {
+     "dict": "주다",
+     "polite": "줘요",
+     "rule": "wo",
+     "wrong": [
+      "주아요",
+      "주요",
+      "좌요"
+     ]
+    },
+    {
+     "dict": "배우다",
+     "polite": "배워요",
+     "rule": "wo",
+     "wrong": [
+      "배우아요",
+      "배와요",
+      "배우요"
+     ]
+    },
+    {
+     "dict": "마시다",
+     "polite": "마셔요",
+     "rule": "yeo",
+     "wrong": [
+      "마시아요",
+      "마시요",
+      "마서요"
+     ]
+    },
+    {
+     "dict": "느리다",
+     "polite": "느려요",
+     "rule": "yeo",
+     "wrong": [
+      "느리아요",
+      "느리요",
+      "늘러요"
+     ]
+    },
+    {
+     "dict": "쓰다",
+     "polite": "써요",
+     "rule": "eu",
+     "wrong": [
+      "쓰어요",
+      "싸요",
+      "쓰요"
+     ]
+    },
+    {
+     "dict": "슬프다",
+     "polite": "슬퍼요",
+     "rule": "eu",
+     "wrong": [
+      "슬프어요",
+      "슬파요",
+      "슬프요"
+     ]
+    },
+    {
+     "dict": "아프다",
+     "polite": "아파요",
+     "rule": "eu",
+     "wrong": [
+      "아프어요",
+      "아퍼요",
+      "아프요"
+     ]
+    },
+    {
+     "dict": "덥다",
+     "polite": "더워요",
+     "rule": "b",
+     "wrong": [
+      "덥어요",
+      "덥아요",
+      "더와요"
+     ]
+    },
+    {
+     "dict": "춥다",
+     "polite": "추워요",
+     "rule": "b",
+     "wrong": [
+      "춥어요",
+      "춥아요",
+      "추와요"
+     ]
+    },
+    {
+     "dict": "어렵다",
+     "polite": "어려워요",
+     "rule": "b",
+     "wrong": [
+      "어렵어요",
+      "어렵아요",
+      "어려와요"
+     ]
+    },
+    {
+     "dict": "쉽다",
+     "polite": "쉬워요",
+     "rule": "b",
+     "wrong": [
+      "쉽어요",
+      "쉽아요",
+      "쉬와요"
+     ]
+    },
+    {
+     "dict": "더럽다",
+     "polite": "더러워요",
+     "rule": "b",
+     "wrong": [
+      "더럽어요",
+      "더럽아요",
+      "더러와요"
+     ]
+    },
+    {
+     "dict": "걷다",
+     "polite": "걸어요",
+     "rule": "d",
+     "wrong": [
+      "걷어요",
+      "걷아요",
+      "걸아요"
+     ]
+    },
+    {
+     "dict": "빠르다",
+     "polite": "빨라요",
+     "rule": "reu",
+     "wrong": [
+      "빠르어요",
+      "빠라요",
+      "빨러요"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-conj3",
+   "title": "Polite form: more verbs & adjectives",
+   "rule": "The polite present (해요 form) is how you talk to most people. Take the stem (dictionary form minus 다), then add 아요 or 어요 depending on its last vowel. Most adjectives are 하다 words (따뜻하다 → 따뜻해요), but not all: 크다 → 커요, 가깝다 → 가까워요.",
+   "type": "conj",
+   "items": [
+    {
+     "dict": "하다",
+     "polite": "해요",
+     "rule": "ha",
+     "wrong": [
+      "하요",
+      "하아요",
+      "헤요"
+     ]
+    },
+    {
+     "dict": "없다",
+     "polite": "없어요",
+     "rule": "eo",
+     "wrong": [
+      "없아요",
+      "없요",
+      "업써요"
+     ]
+    },
+    {
+     "dict": "노래하다",
+     "polite": "노래해요",
+     "rule": "ha",
+     "wrong": [
+      "노래하요",
+      "노래하아요",
+      "노래헤요"
+     ]
+    },
+    {
+     "dict": "요리하다",
+     "polite": "요리해요",
+     "rule": "ha",
+     "wrong": [
+      "요리하요",
+      "요리하아요",
+      "요리헤요"
+     ]
+    },
+    {
+     "dict": "말하다",
+     "polite": "말해요",
+     "rule": "ha",
+     "wrong": [
+      "말하요",
+      "말하아요",
+      "말헤요"
+     ]
+    },
+    {
+     "dict": "시원하다",
+     "polite": "시원해요",
+     "rule": "ha",
+     "wrong": [
+      "시원하요",
+      "시원하아요",
+      "시원헤요"
+     ]
+    },
+    {
+     "dict": "따뜻하다",
+     "polite": "따뜻해요",
+     "rule": "ha",
+     "wrong": [
+      "따뜻하요",
+      "따뜻하아요",
+      "따뜻헤요"
+     ]
+    },
+    {
+     "dict": "유명하다",
+     "polite": "유명해요",
+     "rule": "ha",
+     "wrong": [
+      "유명하요",
+      "유명하아요",
+      "유명헤요"
+     ]
+    },
+    {
+     "dict": "똑똑하다",
+     "polite": "똑똑해요",
+     "rule": "ha",
+     "wrong": [
+      "똑똑하요",
+      "똑똑하아요",
+      "똑똑헤요"
+     ]
+    },
+    {
+     "dict": "착하다",
+     "polite": "착해요",
+     "rule": "ha",
+     "wrong": [
+      "착하요",
+      "착하아요",
+      "착헤요"
+     ]
+    },
+    {
+     "dict": "건강하다",
+     "polite": "건강해요",
+     "rule": "ha",
+     "wrong": [
+      "건강하요",
+      "건강하아요",
+      "건강헤요"
+     ]
+    },
+    {
+     "dict": "많다",
+     "polite": "많아요",
+     "rule": "a",
+     "wrong": [
+      "많어요",
+      "많요",
+      "마나요"
+     ]
+    },
+    {
+     "dict": "적다",
+     "polite": "적어요",
+     "rule": "eo",
+     "wrong": [
+      "적아요",
+      "적요",
+      "저거요"
+     ]
+    },
+    {
+     "dict": "작다",
+     "polite": "작아요",
+     "rule": "a",
+     "wrong": [
+      "작어요",
+      "작요",
+      "자가요"
+     ]
+    },
+    {
+     "dict": "크다",
+     "polite": "커요",
+     "rule": "eu",
+     "wrong": [
+      "크어요",
+      "카요",
+      "크요"
+     ]
+    },
+    {
+     "dict": "멀다",
+     "polite": "멀어요",
+     "rule": "eo",
+     "wrong": [
+      "멀아요",
+      "멀요",
+      "머러요"
+     ]
+    },
+    {
+     "dict": "싸다",
+     "polite": "싸요",
+     "rule": "merge",
+     "wrong": [
+      "싸아요",
+      "싸어요",
+      "써요"
+     ]
+    },
+    {
+     "dict": "비싸다",
+     "polite": "비싸요",
+     "rule": "merge",
+     "wrong": [
+      "비싸아요",
+      "비싸어요",
+      "비써요"
+     ]
+    },
+    {
+     "dict": "가깝다",
+     "polite": "가까워요",
+     "rule": "b",
+     "wrong": [
+      "가깝아요",
+      "가깝어요",
+      "가까와요"
+     ]
+    },
+    {
+     "dict": "나쁘다",
+     "polite": "나빠요",
+     "rule": "eu",
+     "wrong": [
+      "나쁘어요",
+      "나뻐요",
+      "나쁘요"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "g-past",
+   "title": "Past tense: 았어요 / 었어요",
+   "rule": "Past tense: take the polite form, drop 요, add ㅆ under the last syllable, then 어요 (가요 → 갔어요, 먹어요 → 먹었어요, 해요 → 했어요, 더워요 → 더웠어요). 이다 becomes 이었어요.",
+   "type": "forms",
+   "kinds": [
+    "past"
+   ]
+  },
+  {
+   "id": "g-future",
+   "title": "Future: ㄹ / 을 거예요",
+   "rule": "Future: stem + ㄹ 거예요 after a vowel (가다 → 갈 거예요), 을 거예요 after a consonant (먹다 → 먹을 거예요). Stems ending in ㄹ just add 거예요 (울다 → 울 거예요); ㅂ irregulars use 울 (덥다 → 더울 거예요), ㄷ irregulars ㄹ (걷다 → 걸을 거예요).",
+   "type": "forms",
+   "kinds": [
+    "future"
+   ]
+  },
+  {
+   "id": "g-prog",
+   "title": "Right now: 고 있어요",
+   "rule": "Doing it right now: action verb stem + 고 있어요 (먹다 → 먹고 있어요). Nothing changes, even for irregulars (걷다 → 걷고 있어요). Adjectives do not take it.",
+   "type": "forms",
+   "kinds": [
+    "prog"
+   ]
+  },
+  {
+   "id": "g-neg",
+   "title": "Negation: 안 / 지 않아요",
+   "rule": "Two ways to say \"not\", same meaning: 안 before the verb (안 가요), or stem + 지 않아요 (가지 않아요). For noun + 하다 verbs, 안 goes before 해요 (공부 안 해요, not 안 공부해요). 있다 becomes 없어요, 이다 becomes 아니에요. 않아요 is spelled with ㄶ; 안아요 means \"hug\".",
+   "type": "forms",
+   "kinds": [
+    "neg",
+    "negji"
+   ]
+  }
+ ],
+ "source": "https://www.90daykorean.com/korean-grammar/"
+}
