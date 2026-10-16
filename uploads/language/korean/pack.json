@@ -21,7 +21,8 @@
   "grammar": "data/grammar.json",
   "dialogues": "data/dialogues.json",
   "numbers": "data/numbers.json",
-  "frequency": "data/frequency.json"
+  "frequency": "data/frequency.json",
+  "gloss": "data/gloss.json"
  },
  "levels": [
   {
@@ -91,6 +92,7 @@
   }
  ],
  "downloads": [
-  "90daykorean"
+  "90daykorean",
+  "90daykorean-letters"
  ]
 }
